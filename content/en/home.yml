@@ -67,7 +67,7 @@ products:
   description: 'Empowering your brand with premium fabrics and targeted designs'
   learnMoreText: 'Explore'
   quoteText: 'Request a Quote'
-  learnMoreLink: '/products'
+  learnMoreLink: '/'
   quoteLink: '/contact'
   items:
     - id: 1

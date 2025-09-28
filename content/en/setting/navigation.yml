@@ -187,24 +187,24 @@ footer:
       title: 'Solutions'
       items:
         - title: 'For Startup s & Physical Stores'
-          href: '/startup'
+          href: ''
         - title: 'For Influencers'
-          href: '/influencer'
+          href: ''
         - title: 'For Individual Entrepreneurs'
-          href: '/startline'
+          href: ''
         - title: 'For Brands'
-          href: '/forbrand'
+          href: ''
     company:
       title: 'Company'
       items:
         - title: 'FAQ'
-          href: '/faq'
+          href: ''
         - title: 'Blog'
-          href: '/blog'
+          href: ''
         - title: 'Terms'
-          href: '/terms'
+          href: ''
         - title: 'About Us'
-          href: '/about'
+          href: ''
     contact:
       title: 'Contact'
       items:

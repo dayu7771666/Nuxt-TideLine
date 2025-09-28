@@ -102,24 +102,24 @@ footer:
       title: 'Solutions'
       items:
         - name: 'For Startups & Retail Stores'
-          href: '/startup'
+          href: ''
         - name: 'For Influencers'
-          href: '/influencer'
+          href: ''
         - name: 'For Individual Entrepreneurs'
-          href: '/startline'
+          href: ''
         - name: 'For Brands'
-          href: '/forbrand'
+          href: ''
     company:
       title: 'Company'
       items:
         - name: 'FAQ'
-          href: '/FAQ'
+          href: ''
         - name: 'Blog'
-          href: '/blog'
+          href: ''
         - name: 'Terms'
-          href: '/terms'
+          href: ''
         - name: 'About Us'
-          href: '/about'
+          href: ''
     contact:
       title: 'Contact'
       items:
