@@ -15,8 +15,11 @@
           <!-- 社交媒体 -->
           <div class="flex space-x-6">
             <a
-              href="#"
+              href="https://www.facebook.com/getzwa"
+              target="_blank"
+              rel="noopener noreferrer"
               class="text-gray-400 hover:text-white"
+              aria-label="Follow us on Facebook"
             >
               <span class="sr-only">Facebook</span>
               <svg
@@ -33,8 +36,11 @@
               </svg>
             </a>
             <a
-              href="#"
+              href="https://www.instagram.com/customswimwearhub/"
+              target="_blank"
+              rel="noopener noreferrer"
               class="text-gray-400 hover:text-white"
+              aria-label="Follow us on Instagram"
             >
               <span class="sr-only">Instagram</span>
               <svg
@@ -51,8 +57,11 @@
               </svg>
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/company/tideline-swimwear"
+              target="_blank"
+              rel="noopener noreferrer"
               class="text-gray-400 hover:text-white"
+              aria-label="Follow us on LinkedIn"
             >
               <span class="sr-only">LinkedIn</span>
               <svg
@@ -69,8 +78,11 @@
               </svg>
             </a>
             <a
-              href="#"
+              href="https://www.youtube.com/@tidelineswimwear"
+              target="_blank"
+              rel="noopener noreferrer"
               class="text-gray-400 hover:text-white"
+              aria-label="Follow us on YouTube"
             >
               <span class="sr-only">YouTube</span>
               <svg

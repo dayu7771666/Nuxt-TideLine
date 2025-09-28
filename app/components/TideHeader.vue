@@ -260,6 +260,7 @@
               <NuxtLink
                 class=""
                 to="/"
+                aria-label="TideLine - Go to homepage"
               >
                 <NuxtImg
                   class="h-8 w-8"
