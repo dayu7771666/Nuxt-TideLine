@@ -1,0 +1,81 @@
+downList:
+  - name: '开始'
+    data:
+      - title: '常见问题'
+        href: '/faq'
+      - title: '关于我们'
+        href: '/about'
+      - title: '博客'
+        href: '/blog'
+  - name: '产品'
+    data:
+      - title: '女性泳装'
+        href: '/catalog/women-swimwear'
+      - title: '男性泳装'
+        href: '/catalog/men-swimwear'
+      - title: '儿童泳装'
+        href: '/catalog/children-swimwear'
+      - title: '大码泳装'
+        href: '/catalog/plus-size-swimwear-manufacturer'
+      - title: '环保泳装'
+        href: '/catalog/sustainable-swimwear'
+      - title: '运动泳装'
+        href: '/catalog/sports-swimwear'
+      - title: '定制泳装'
+        href: '/catalog/custom-swimwear'
+      - title: '孕妇泳装'
+        href: '/catalog/maternity-swimwear'
+  - name: '解决方案'
+    data:
+      - title: '给初创公司&实体门店'
+        href: '/startup'
+      - title: '给网红'
+        href: '/influencer'
+      - title: '给个人创业者'
+        href: '/startline'
+      - title: '给品牌'
+        href: '/forbrand'
+
+pageList:
+  - name: '联系我们'
+    # href: '/contact'
+
+# Footer数据配置
+footer:
+  banner: '定制泳装品牌，从这里开始'
+  contact:
+    whatsapp: '+(86)18302407790'
+    emailLabel: '邮箱'
+    email: 'tidelineswim@swimsuitcustom.com'
+    addressLabel: '地址'
+    address: '中国辽宁省葫芦岛市兴城市'
+  sections:
+    solutions:
+      title: '解决方案'
+      items:
+        - title: '给初创公司&实体门店'
+          href: '/startup'
+        - title: '给网红'
+          href: '/influencer'
+        - title: '给个人创业者'
+          href: '/startline'
+        - title: '给品牌'
+          href: '/forbrand'
+    company:
+      title: '公司信息'
+      items:
+        - title: '常见问题'
+          href: '/faq'
+        - title: '博客'
+          href: '/blog'
+        - title: '条款'
+          href: '/terms'
+        - title: '关于我们'
+          href: '/about'
+    contact:
+      title: '联系我们'
+      items:
+        - title: '联系我们'
+          href: '/contact'
+  slogan: 'Make it real.'
+  copyright: '版权所有。'

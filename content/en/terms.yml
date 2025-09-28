@@ -1,0 +1,77 @@
+title: 'Terms & Conditions'
+description: 'We operate as a B2B manufacturer, and all purchases made through our shop are wholesale, not for B2C. We only accept returns or refunds for faulty products according to our terms. Samples are provided to help you evaluate quality, fit, and design before committing to bulk orders. Any changes made to samples will be considered as customization, which can be arranged through our online customization service.'
+
+sections:
+  contract_formation:
+    title: 'Contract Formation'
+    content: 'An order becomes a binding contract once confirmed. Any amendments require mutual written consent.'
+
+  payment_terms:
+    title: 'Payment Terms'
+    content: |
+      50% deposit is required for all orders, with the balance due before shipment.
+
+      For first-time clients, a 100% deposit is necessary.
+
+  shipping:
+    title: 'Shipping'
+    content: 'Delivery timelines depend on the order type (samples or bulk) and shipping method. We will provide full shipping documentation for customs clearance, which will be handled by the buyer.'
+
+  cancellations:
+    title: 'Cancellations'
+    content: 'Orders cannot be canceled after completion. A 25% fee is applied for any order cancellation or modification after the final payment.'
+
+  pricing:
+    title: 'Pricing'
+    content: 'Unit prices include fabric, labor, and standard quality checks, but exclude additional elements such as hang tags or custom packaging.'
+
+  bulk_orders:
+    title: 'Bulk Orders'
+    content: 'We require a final tech pack and sample approval before bulk production. Any amendments after payment may incur additional charges.'
+
+  claims_returns:
+    title: 'Claims and Returns'
+    content: 'For faulty bulk items, claims must be made within 14 days of receiving goods. Refunds or replacements will be based on our evaluation of the defect.'
+
+  confidentiality:
+    title: 'Confidentiality'
+    subsections:
+      definition:
+        title: 'Definition of Confidential Information'
+        content: 'Specify that "Confidential Information" encompasses all non-public information disclosed by the client, including but not limited to business plans, designs, technical data, marketing strategies, financial details, customer lists, and any other proprietary information.'
+
+      obligations:
+        title: 'Obligations of Confidentiality'
+        content: |
+          Commit to using the Confidential Information solely for the purposes outlined in the agreement and prohibit disclosure to any third party without the client's prior written consent.
+          Ensure that access to Confidential Information is restricted to employees or partners who need to know such information to fulfill the agreement and mandate that they adhere to equivalent confidentiality obligations.
+
+      protection:
+        title: 'Protection Measures'
+        content: 'Implement reasonable technical and organizational safeguards to prevent unauthorized access, use, or disclosure of Confidential Information.'
+
+      duration:
+        title: 'Duration of Confidentiality'
+        content: 'Specify that the confidentiality obligations remain in effect during the term of the agreement and for a specified period (e.g., two years) after its termination.'
+
+      exceptions:
+        title: 'Exceptions to Confidentiality'
+        content: |
+          Clarify that confidentiality obligations do not apply to information that:
+
+          Is or becomes publicly available through no breach of the agreement;
+          Was already in the possession of the receiving party without obligation of confidentiality;
+          Is disclosed to the receiving party by a third party legally entitled to make such disclosure;
+          Is independently developed by the receiving party without use of the disclosing party's Confidential Information;
+          Is required to be disclosed by law or governmental order, provided the disclosing party is promptly notified and given the opportunity to seek a protective order.
+
+      breach:
+        title: 'Breach and Remedies'
+        content: 'State that any breach of confidentiality may result in irreparable harm to the client and entitle them to seek injunctive relief in addition to any other legal remedies.'
+
+      return_destruction:
+        title: 'Return or Destruction of Information'
+        content: "Upon termination of the agreement or upon the client's request, oblige the return or certified destruction of all materials containing Confidential Information."
+
+footer:
+  consultation: 'If you are interested in our services or have any questions, we provide free Consultation.'

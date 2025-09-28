@@ -1,0 +1,58 @@
+hero:
+  title: 'Start with a Successful Sampling'
+  description: 'Before committing to a large-scale partnership, use our 2-4 week, low-cost sampling service to validate your idea and assess our capabilities with zero risk.'
+  ctaButton: 'Start Your Sampling Project'
+  ctaLink: '#cta'
+
+problemSolution:
+  title: 'Say Goodbye to Traditional Outsourcing Headaches'
+  problem:
+    title: 'Starting with a Big Project?'
+    icon: '❌'
+    items:
+      - 'High financial risk with uncertain outcomes'
+      - 'Long development cycles before seeing results'
+      - 'Uncertain team compatibility and communication'
+      - 'Difficulty adjusting scope once development begins'
+      - 'Potential for costly misunderstandings'
+  solution:
+    title: 'Start with a Small Sampling'
+    icon: '✅'
+    items:
+      - 'Minimal investment to test the partnership'
+      - 'Quick results in just 2-4 weeks'
+      - 'Prove our capabilities with actual work'
+      - 'Clear understanding of process before scaling'
+      - 'Easy to adjust or pivot based on results'
+
+process:
+  title: 'How Our Sampling Process Works'
+  description: 'Our streamlined 3-step process ensures you get maximum value from your sampling project with clear deliverables at each stage.'
+  steps:
+    - number: 1
+      title: 'Discovery & Planning'
+      description: 'We align on goals, define scope, technology stack, and deliverables for your sampling project.'
+    - number: 2
+      title: 'Rapid Development'
+      description: 'Our experts work in sprints with daily syncs to ensure transparency and alignment.'
+    - number: 3
+      title: 'Delivery & Next Steps'
+      description: 'You receive working code, documentation, and a clear plan for potential full-scale collaboration.'
+
+faq:
+  title: 'Frequently Asked Questions'
+  items:
+    - question: 'What happens after the sampling project?'
+      answer: "After the sampling, you'll have a clear understanding of our capabilities and working style. We'll provide a detailed proposal for full-scale collaboration if you choose to move forward, but there's absolutely no obligation."
+    - question: 'What kind of projects are suitable for sampling?'
+      answer: "Sampling works well for MVPs, proof-of-concepts, specific feature development, or any project that can be broken down into a 2-4 week deliverable. We'll help you identify the right scope during our initial consultation."
+    - question: 'How much does a sampling project cost?'
+      answer: 'Sampling projects typically range from $5,000 to $15,000 depending on complexity. This is significantly less than a full-scale project and gives you tangible results to evaluate before making a larger investment.'
+    - question: 'Who will work on my sampling project?'
+      answer: "You'll work with a dedicated team of 1-2 senior developers who specialize in your required technology stack. This ensures high-quality output and gives you direct insight into how our team operates."
+
+cta:
+  title: 'Ready for a Risk-Free Sampling?'
+  description: 'Contact our experts today for a free consultation to discuss your project and how our sampling service can help you validate your idea with minimal investment.'
+  button: 'Schedule Your Free Consultation'
+  link: '#'

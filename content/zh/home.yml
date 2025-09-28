@@ -1,0 +1,148 @@
+hero:
+  title: '定制泳装品牌，从这里开始'
+  description: '专业团队助你打造属于自己的泳装品牌，低门槛起步，高品质产出，让创业梦想成为现实。'
+  src: '/home/hero.webp'
+  alt: '泳装定制品牌展示'
+  ctaButton: '获取免费样品'
+  features:
+    - text: '最低起订量50件'
+    - text: '15天快速生产'
+    - text: '免费设计支持'
+
+cards:
+  title: '开启泳装品牌之路'
+  cta: '立即了解'
+  cards:
+    - name: '泳装'
+      description: '系列齐全，从比基尼到连体泳装，满足不同市场需求'
+      href: '/swimwear'
+      src: '/home/card1.webp'
+      alt: '泳装系列展示'
+    - name: '沙滩装'
+      description: '配套沙滩装，完善产品线，提升品牌价值'
+      href: '/beachwear'
+      src: '/home/card2.webp'
+      alt: '沙滩装系列展示'
+    - name: '配件'
+      description: '专业游泳配件，打造完整泳装生态'
+      href: '/accessories'
+      src: '/home/card3.webp'
+      alt: '泳装配件展示'
+
+brandServices:
+  title: '全方位品牌服务'
+  cta: '了解更多服务'
+  introduction:
+    - text: '我们不仅提供生产服务，更参与品牌打造全过程，提供设计提案、包装建议、市场对接等全方位支持。'
+  services:
+    - title: '设计开发'
+      description: '专业设计团队为您量身定制独特款式，让品牌脱颖而出'
+    - title: '品质保证'
+      description: '严格质检流程，确保每件产品符合国际标准，提升品牌声誉'
+    - title: '快速交付'
+      description: '高效生产流程，最快30天完成订单，抢占市场先机'
+    - title: '包装设计'
+      description: '个性化包装解决方案，提升产品附加值和用户体验'
+    - title: '市场支持'
+      description: '提供行业洞察和营销建议，助力品牌快速成长'
+    - title: '售后服务'
+      description: '完善的售后体系，确保合作伙伴无忧经营'
+
+howWorks:
+  title: '简单5步，创建你的泳装品牌'
+  cta: '开始创建品牌'
+  introduction:
+    - text: '从创意到成品，我们的标准化流程让品牌创建变得简单高效。'
+    - text: '我们不仅提供生产服务，更参与品牌打造全过程，提供设计提案、包装建议、市场对接等全方位支持。'
+  images:
+    - src: '/home/homeserver-1.avif'
+      alt: '设计图纸与布料样品展示'
+    - src: '/home/homeserver-2.avif'
+      alt: '样衣制作中的泳装'
+    - src: '/home/homeserver-3.avif'
+      alt: '工厂生产镜头'
+    - src: '/home/homeserver-4.avif'
+      alt: '成品泳装实拍图'
+
+whyUs:
+  title: '不是所有供应商，都懂品牌'
+  description: '与我们合作，你能获得的不止是产品'
+  cta: '了解更多关于我们的优势'
+  advantages:
+    - name: '丰富的布料和配件选择'
+      description: '多样化的面料库和配件选择，从环保尼龙到高弹力复合面料，满足不同风格与功能需求。'
+      icon: 'SwatchIcon'
+    - name: '工厂直连，省去中间环节'
+      description: '作为工厂直营服务商，我们消除了中间商加价，为您提供更具竞争力的价格和更直接的沟通。'
+      icon: 'BuildingOfficeIcon'
+    - name: '快速打样响应'
+      description: '高效的打样流程，最快3天完成样品制作，让您的创意迅速变为实物，加快决策与市场反应。'
+      icon: 'LightBulbIcon'
+    - name: '高标准质检流程'
+      description: '严格的四级质检体系，从原材料到成品每个环节都有专业检验，确保每件产品符合国际标准。'
+      icon: 'ShieldCheckIcon'
+    - name: '支持小批量试水'
+      description: '低至30件起订，让新品牌能够以较小风险测试市场，根据反馈快速调整策略。'
+      icon: 'ClockIcon'
+
+indexCta:
+  title: '你离自己的泳装品牌，只差一个决定'
+  description: '免费获取1对1定制咨询，我们的专业团队将为您提供全方位的品牌创建与生产支持，开启您的泳装品牌之路。'
+  cta: '获取免费咨询'
+  image:
+    src: '/home/indexcta.webp'
+    alt: '泳装品牌咨询'
+
+products:
+  title: '精选产品系列'
+  description: '探索我们的高品质泳装产品线'
+  learnMoreText: '了解更多'
+  quoteText: '免费报价'
+  learnMoreLink: '/products'
+  quoteLink: '/contact'
+  items:
+    - id: 1
+      name: '高端比基尼套装'
+      href: '/products/premium-bikini-set'
+      description: '采用高品质面料制作的两件式比基尼套装，适合各种体型，舒适贴身。'
+      imageSrc: '/home/homeserver-1.avif'
+      imageAlt: '高端比基尼套装多色展示'
+    - id: 2
+      name: '竞技连体泳装'
+      href: '/products/athletic-one-piece'
+      description: '专为竞技游泳和水上运动设计的专业连体泳装，提供优越的性能表现。'
+      imageSrc: '/home/homeserver-2.avif'
+      imageAlt: '黑色竞技连体泳装'
+    - id: 3
+      name: '设计师款分体泳装'
+      href: '/products/designer-tankini'
+      description: '结合时尚与功能性的优雅分体泳装，为现代女性量身定制。'
+      imageSrc: '/home/homeserver-3.avif'
+      imageAlt: '白色设计师款分体泳装'
+    - id: 4
+      name: '沙滩罩衫'
+      href: '/products/beach-cover-up'
+      description: '多功能沙滩罩衫，可轻松从泳池穿搭过渡到街头时尚。'
+      imageSrc: '/home/homeserver-4.avif'
+      imageAlt: '中性色调时尚沙滩罩衫'
+
+serviceAdvantages:
+  title: '我们的服务优势'
+  description: '为客户提供全面的泳装定制和批发解决方案'
+  advantages:
+    - id: 1
+      title: '定制设计'
+      description: '专业设计团队为您的品牌和客户需求量身打造独特的泳装款式。'
+      icon: 'CogIcon'
+    - id: 2
+      title: '快速生产'
+      description: '高效的生产流程，15天快速交付，满足您紧急的市场需求。'
+      icon: 'ClockIcon'
+    - id: 3
+      title: '品质保障'
+      description: '严格的质量控制体系，确保每一件产品都符合国际标准和客户期望。'
+      icon: 'ShieldCheckIcon'
+    - id: 4
+      title: '专业服务'
+      description: '专业的客服团队提供从设计到交付的全程支持服务。'
+      icon: 'UserGroupIcon'

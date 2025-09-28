@@ -1,0 +1,130 @@
+hero:
+  title: 'Tideline: More Than a Supplier, Your Swimwear Brand-Building Partner.'
+  description: 'We offer high-quality, end-to-end custom swimwear manufacturing from design to delivery.'
+  src: /hero_banner.webp
+  alt: 'Build Your Premium Swimwear Line-enenYML'
+  ctaButton: 'Request a Sample'
+  features:
+    - text: 'MOQ as low as 50 pieces'
+    - text: '15-day fast production'
+    - text: 'Free design support'
+
+videoShowcase:
+  title: 'Explore Our Swimwear Manufacturing Process'
+  description: 'This video shows the journey of creating your high-quality custom swimwear, backed by professional design and precision manufacturing.'
+  ctaText: 'Learn More'
+  videoSrc: 'https://www.youtube.com/watch?v=sSPf81Vexwc'
+
+howWorks:
+  title: 'From Idea to Swimwear in 5 Simple Steps'
+  description: 'Streamline your brand creation process. Focus on creativity and marketing.'
+  cta: 'Start Your Brand Journey'
+  steps:
+    - title: 'Consultation'
+      description: 'Share your brand concept and requirements via phone, email, or our online form.'
+      icon: 'ChatBubbleLeftRightIcon'
+    - title: 'Design & Sampling'
+      description: 'Tideline creates professional designs and produces samples for you.'
+      icon: 'PencilSquareIcon'
+    - title: 'Confirmation & Order'
+      description: 'Finalize details and approve the production order after sample review.'
+      icon: 'CheckCircleIcon'
+    - title: 'Production & Shipping'
+      description: 'Tideline will handle high-standard manufacturing and arrange reliable logistics.'
+      icon: 'TruckIcon'
+    - title: 'Growth Support'
+      description: 'Tideline provide ongoing technical and marketing advice for long-term brand development.'
+      icon: 'ChartBarIcon'
+
+whyUs:
+  title: 'Need a Supplier Who Understand Branding?'
+  description: 'Partner with Tideline for strategic expertise that turns products into a powerful brand.'
+  cta: 'Learn More About Our Advantages'
+  advantages:
+    - name: 'Direct Factory Pricing & Communication'
+      description: 'As a direct factory, Tideline eliminate middleman costs to offer more competitive pricing and ensure efficient, transparent communication.'
+      icon: 'SwatchIcon'
+    - name: 'Extensive Material & Component Library'
+      description: 'Tideline provide a diverse selection of fabrics and accessories—from eco-friendly nylon to high-elasticity composites—to match various style and functional needs.'
+      icon: 'BuildingOfficeIcon'
+    - name: 'Flexible Low-Volume & Sampling Support'
+      description: 'Begin with small-batch orders (MOQ 60 pieces) to test the market with minimal risk. Benefit from a rapid sampling service, with prototypes delivered in as fast as 3 days.'
+      icon: 'LightBulbIcon'
+    - name: 'Rigorous Quality Control'
+      description: 'Our strict four-stage inspection system—from raw materials to finished products—ensures every garment meets international quality standards.'
+      icon: 'ShieldCheckIcon'
+
+indexCta:
+  title: 'You are just one decision away from your own swimwear brand'
+  description: 'Get a free 1-on-1 custom consultation. Our professional team will provide full support in brand creation and production to start your swimwear journey.'
+  cta: 'Get Free Consultation'
+  image:
+    src: '/home/indexcta.webp'
+    alt: 'Swimwear brand consultation'
+
+products:
+  title: 'Product Collections'
+  description: 'Empowering your brand with premium fabrics and targeted designs'
+  learnMoreText: 'Explore'
+  quoteText: 'Request a Quote'
+  learnMoreLink: '/products'
+  quoteLink: '/contact'
+  items:
+    - id: 1
+      name: "Women's Collections"
+      href: '/products/premium-bikini-set'
+      description: 'Support complete customization of patterns, colors, LOGO and sizes to meet your brand needs'
+      imageSrc: '/home/homeserver-1.avif'
+      imageAlt: 'Premium bikini set in various colors arranged on beach setting.'
+    - id: 2
+      name: "Men's Collections"
+      href: '/products/athletic-one-piece'
+      description: 'From small batch trial orders to large-scale production, we provide flexible production solutions'
+      imageSrc: '/home/homeserver-2.avif'
+      imageAlt: 'Athletic one-piece swimsuit in sleek black design.'
+    - id: 3
+      name: "Kids' Collections"
+      href: '/products/designer-tankini'
+      description: 'Professional logistics team ensures your orders are delivered on time worldwide'
+      imageSrc: '/home/homeserver-3.avif'
+      imageAlt: 'Designer tankini set in sophisticated white design.'
+    - id: 4
+      name: 'Featured Collections'
+      href: '/products/beach-cover-up'
+      description: 'Provide comprehensive professional support from design consultation to after-sales service'
+      imageSrc: '/home/homeserver-4.avif'
+      imageAlt: 'Stylish beach cover-up in neutral tones.'
+
+serviceAdvantages:
+  title: 'Service Advantages'
+  description: 'Partner with Us to Elevate Your Collection and Simplify Your Supply Chain'
+  advantages:
+    - id: 1
+      title: 'Custom Design'
+      description: 'Professional design team creates unique swimwear styles tailored to your brand and customer needs.'
+      icon: 'CogIcon'
+    - id: 2
+      title: 'Fast Production'
+      description: 'Efficient production process with 15-day fast delivery to meet your urgent market demands.'
+      icon: 'ClockIcon'
+    - id: 3
+      title: 'Quality Assurance'
+      description: 'Strict quality control system ensures every piece meets international standards and customer expectations.'
+      icon: 'ShieldCheckIcon'
+    - id: 4
+      title: 'Professional Service'
+      description: 'Dedicated customer service team provides comprehensive support from design to delivery.'
+      icon: 'UserGroupIcon'
+
+contactForm:
+  modalTitle: 'Contact Us'
+  nameLabel: 'Full Name'
+  namePlaceholder: 'Enter your full name'
+  emailLabel: 'Email Address'
+  emailPlaceholder: 'Enter your email address'
+  messageLabel: 'Message'
+  messagePlaceholder: 'Tell us about your project requirements...'
+  consentText: 'I agree to receive updates and communications from Tideline.'
+  submitButton: 'Submit'
+  successMessage: 'Thank you! We will contact you soon.'
+  errorMessage: 'Submission failed. Please try again or contact our support team.'

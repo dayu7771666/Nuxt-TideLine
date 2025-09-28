@@ -1,0 +1,11 @@
+{
+  "hello": "helloEN",
+  "TideHeader": {
+    "加载导航时出错": "Error loading navigation",
+    "加载中": "Loading"
+  },
+  "LanguageSwitcher": {
+    "关闭语言菜单": "Close language menu",
+    "打开语言菜单": "Open language menu"
+  }
+}

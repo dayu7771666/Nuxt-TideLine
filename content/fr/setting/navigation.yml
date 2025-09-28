@@ -1,0 +1,17 @@
+downList:
+  - name: '产品'
+    data:
+      - title: '女性泳装'
+        href: '/catalog/women-swimwear'
+      - title: '男士泳装'
+        href: '/catalog/men-swimwear'
+  - name: '解决方案'
+    data:
+      - title: '给初创公司'
+        href: '/startup'
+      - title: '给网红'
+        href: '/influencer'
+
+pageList:
+  - name: '联系'
+    href: '/contact'
