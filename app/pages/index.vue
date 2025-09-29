@@ -1,7 +1,11 @@
 ﻿<template>
   <div class="min-h-screen bg-white">
     hello
-    {{ home }}
+    {{ '水合之后内容消失' }}
+    {{ '验证locale' }}--{{ locale }}
+    {{ home || 'home消失' }}
+
+    <pre>{{ content }}</pre>
   </div>
 </template>
 
@@ -26,11 +30,12 @@
       return content.body;
     },
     {
-      watch: [locale],
+      // watch: [locale],
       // server: true,
     }
   );
-
+  console.log('Content loaded:', home.value);
+  console.log('Is preview mode:', process.client && window.$preview);
   // 弹窗状态管理
   const showContactModal = ref(false);
 
