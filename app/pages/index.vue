@@ -34,7 +34,7 @@
         </div>
       </div>
     </Hero>
-
+    <div>hello home- {{ home }} home.value- {{ home.value }}</div>
     <!-- 视频展示 -->
     <HomeVideoShowcase
       layout="horizontal"
@@ -129,6 +129,7 @@
   import { CheckCircleIcon } from '@heroicons/vue/20/solid';
 
   const { locale } = useI18n();
+  console.log(locale.value, 'locale');
 
   const { data: home } = await useAsyncData(
     async () => {
@@ -137,7 +138,7 @@
       const content = await queryCollection(collection).path('/home').first();
       // Optional: fallback to default locale if content is missing
       if (!content && locale.value !== 'en') {
-        return await queryCollection('content_en').path('/').first();
+        return await queryCollection('content_en').path('/home').first();
       }
       return content.body;
     },

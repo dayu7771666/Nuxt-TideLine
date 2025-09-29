@@ -147,7 +147,7 @@
       server: true,
     }
   );
-
+  
   const content = bulk.value || {};
 
   // Meta tags
