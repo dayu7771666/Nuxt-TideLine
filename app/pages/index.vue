@@ -133,11 +133,11 @@
   const { data: home } = await useAsyncData(
     async () => {
       // Build collection name based on current locale
-      const collection = 'content_' + locale.value;
-      const content = await queryCollection(collection).path('/home').first();
+      const collection = 'home_' + locale.value;
+      const content = await queryCollection(collection).first();
       // Optional: fallback to default locale if content is missing
       if (!content && locale.value !== 'en') {
-        return await queryCollection('content_en').path('/home').first();
+        return await queryCollection('home_en').first();
       }
       return content.body;
     },

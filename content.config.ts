@@ -1,255 +1,310 @@
 import { defineContentConfig, defineCollection } from '@nuxt/content';
 import { z } from 'zod';
 
-// 基础枚举定义
-const iconEnum = z.enum([
-  'ChatBubbleLeftRightIcon',
-  'PencilSquareIcon',
-  'CheckCircleIcon',
-  'TruckIcon',
-  'ChartBarIcon',
-  'SwatchIcon',
-  'BuildingOfficeIcon',
-  'LightBulbIcon',
-  'ShieldCheckIcon',
-  'CogIcon',
-  'ClockIcon',
-  'UserGroupIcon',
-]);
-
-// 通用 schema 构建器
-const createBaseSchema = () =>
-  z.object({
-    title: z.string().min(1),
-    description: z.string().min(1),
-  });
-
-const createImageSchema = () =>
-  z.object({
-    src: z.string().min(1),
-    alt: z.string().min(1),
-  });
-
-const createFeatureItemSchema = () =>
-  z.object({
-    text: z.string().min(1),
-  });
-
-const createStepSchema = () =>
-  z.object({
-    title: z.string().min(1),
-    description: z.string().min(1),
-    icon: iconEnum,
-  });
-
-const createAdvantageSchema = () =>
-  z.object({
-    name: z.string().min(1),
-    description: z.string().min(1),
-    icon: iconEnum,
-  });
-
-const createProductItemSchema = () =>
-  z.object({
-    id: z.number(),
-    name: z.string().min(1),
-    href: z.string().min(1),
-    description: z.string().min(1),
-    imageSrc: z.string().min(1),
-    imageAlt: z.string().min(1),
-  });
-
-const createServiceAdvantageSchema = () =>
-  z.object({
-    id: z.number(),
-    title: z.string().min(1),
-    description: z.string().min(1),
-    icon: iconEnum,
-  });
-
-// Home 页面 schema
+// Home 页面的完整 schema
 const homeSchema = z.object({
   hero: z.object({
-    title: z.string().min(1),
-    description: z.string().min(1),
-    src: z.string().min(1),
-    alt: z.string().min(1),
-    ctaButton: z.string().min(1),
-    features: z.array(createFeatureItemSchema()),
+    title: z.string(),
+    description: z.string(),
+    src: z.string(),
+    alt: z.string(),
+    ctaButton: z.string(),
+    features: z.array(
+      z.object({
+        text: z.string(),
+      })
+    ),
   }),
+
   videoShowcase: z.object({
-    title: z.string().min(1),
-    description: z.string().min(1),
-    ctaText: z.string().min(1),
+    title: z.string(),
+    description: z.string(),
+    ctaText: z.string(),
     videoSrc: z.string().url(),
   }),
+
   howWorks: z.object({
-    title: z.string().min(1),
-    description: z.string().min(1),
-    cta: z.string().min(1),
-    steps: z.array(createStepSchema()),
+    title: z.string(),
+    description: z.string(),
+    cta: z.string(),
+    steps: z.array(
+      z.object({
+        title: z.string(),
+        description: z.string(),
+        icon: z.string(),
+      })
+    ),
   }),
+
   whyUs: z.object({
-    title: z.string().min(1),
-    description: z.string().min(1),
-    cta: z.string().min(1),
-    advantages: z.array(createAdvantageSchema()),
+    title: z.string(),
+    description: z.string(),
+    cta: z.string(),
+    advantages: z.array(
+      z.object({
+        name: z.string(),
+        description: z.string(),
+        icon: z.string(),
+      })
+    ),
   }),
+
   indexCta: z.object({
-    title: z.string().min(1),
-    description: z.string().min(1),
-    cta: z.string().min(1),
-    image: createImageSchema(),
+    title: z.string(),
+    description: z.string(),
+    cta: z.string(),
+    image: z.object({
+      src: z.string(),
+      alt: z.string(),
+    }),
   }),
+
   products: z.object({
-    title: z.string().min(1),
-    description: z.string().min(1),
-    learnMoreText: z.string().min(1),
-    quoteText: z.string().min(1),
-    learnMoreLink: z.string().min(1),
-    quoteLink: z.string().min(1),
-    items: z.array(createProductItemSchema()),
-  }),
-  serviceAdvantages: z.object({
-    title: z.string().min(1),
-    description: z.string().min(1),
-    advantages: z.array(createServiceAdvantageSchema()),
-  }),
-  contactForm: z.object({
-    modalTitle: z.string().min(1),
-    nameLabel: z.string().min(1),
-    namePlaceholder: z.string().min(1),
-    emailLabel: z.string().min(1),
-    emailPlaceholder: z.string().min(1),
-    messageLabel: z.string().min(1),
-    messagePlaceholder: z.string().min(1),
-    consentText: z.string().min(1),
-    submitButton: z.string().min(1),
-    successMessage: z.string().min(1),
-    errorMessage: z.string().min(1),
-  }),
-});
-
-// 营销模块 schema
-const marketingSchema = z.object({
-  title: z.string().min(1),
-  description: z.string().min(1),
-  items: z.array(
-    z.object({
-      title: z.string().min(1),
-      description: z.string().min(1),
-      image: z.string().min(1),
-    })
-  ),
-});
-
-// 集合数据 schema
-const collectionSchema = z.object({
-  title: z.string().min(1),
-  description: z.string().min(1),
-  image: z.object({
-    src: z.string().min(1),
-    alt: z.string().min(1),
-  }),
-  tags: z.array(z.string()).optional(),
-  category: z.string().min(1).optional(),
-  featured: z.boolean().optional(),
-  products: z
-    .array(
+    title: z.string(),
+    description: z.string(),
+    learnMoreText: z.string(),
+    quoteText: z.string(),
+    learnMoreLink: z.string(),
+    quoteLink: z.string(),
+    items: z.array(
       z.object({
         id: z.number(),
-        name: z.string().min(1),
-        description: z.string().min(1),
-        price: z.string().min(1),
-        originalPrice: z.string().optional(),
-        image: z.string().min(1),
-        gallery: z.array(z.string()).optional(),
-        features: z.array(z.string()).optional(),
-        specifications: z.record(z.string()).optional(),
+        name: z.string(),
+        href: z.string(),
+        description: z.string(),
+        imageSrc: z.string(),
+        imageAlt: z.string(),
       })
-    )
-    .optional(),
+    ),
+  }),
+
+  serviceAdvantages: z.object({
+    title: z.string(),
+    description: z.string(),
+    advantages: z.array(
+      z.object({
+        id: z.number(),
+        title: z.string(),
+        description: z.string(),
+        icon: z.string(),
+      })
+    ),
+  }),
+
+  contactForm: z.object({
+    modalTitle: z.string(),
+    nameLabel: z.string(),
+    namePlaceholder: z.string(),
+    emailLabel: z.string(),
+    emailPlaceholder: z.string(),
+    messageLabel: z.string(),
+    messagePlaceholder: z.string(),
+    consentText: z.string(),
+    submitButton: z.string(),
+    successMessage: z.string(),
+    errorMessage: z.string(),
+  }),
 });
 
-// 通用页面 schema 映射
-const getSchemaForPath = (path: string) => {
-  if (path === '/home') return homeSchema;
-  if (path === '/marketing') return marketingSchema;
-  if (
-    path.startsWith('/collections/') ||
-    path.includes('swimwear') ||
-    path.includes('accessories')
-  ) {
-    return collectionSchema;
-  }
-  return z.any(); // 默认允许任何内容
-};
-
-// 通用语言集合定义
-const createLanguageCollection = (langCode: string) =>
-  defineCollection({
-    type: 'page',
-    source: {
-      include: `${langCode}/**`,
-      prefix: '',
-    },
-  });
-
+// const commonSchema = ...;
 export default defineContentConfig({
   collections: {
-    // 英语内容集合
-    content_en: createLanguageCollection('en'),
-    // 阿拉伯语内容集合
-    content_ar: createLanguageCollection('ar'),
-    // 德语内容集合
-    content_de: createLanguageCollection('de'),
-    // 西班牙语内容集合
-    content_es: createLanguageCollection('es'),
-    // 法语内容集合
-    content_fr: createLanguageCollection('fr'),
-    // 印地语内容集合
-    content_hi: createLanguageCollection('hi'),
-    // 意大利语内容集合
-    content_it: createLanguageCollection('it'),
-    // 日语内容集合
-    content_ja: createLanguageCollection('ja'),
-    // 韩语内容集合
-    content_ko: createLanguageCollection('ko'),
-    // 葡萄牙语内容集合
-    content_pt: createLanguageCollection('pt'),
-    // 俄语内容集合
-    content_ru: createLanguageCollection('ru'),
-    // 中文内容集合
-    content_zh: createLanguageCollection('zh'),
-
-    // 专门的 Home 页面集合
-    home_pages: defineCollection({
+    // English content collection
+    content_en: defineCollection({
       type: 'page',
       source: {
-        include: '**/home.yml',
+        include: 'en/**',
+        prefix: '',
+      },
+      // schema: commonSchema,
+    }),
+
+    // Home page collections for each locale
+    home_en: defineCollection({
+      type: 'page',
+      source: {
+        include: 'en/home.yml',
+        prefix: '',
+      },
+      schema: homeSchema,
+    }),
+    home_zh: defineCollection({
+      type: 'page',
+      source: {
+        include: 'zh/home.yml',
+        prefix: '',
+      },
+      schema: homeSchema,
+    }),
+    home_ar: defineCollection({
+      type: 'page',
+      source: {
+        include: 'ar/home.yml',
+        prefix: '',
+      },
+      schema: homeSchema,
+    }),
+    home_de: defineCollection({
+      type: 'page',
+      source: {
+        include: 'de/home.yml',
+        prefix: '',
+      },
+      schema: homeSchema,
+    }),
+    home_es: defineCollection({
+      type: 'page',
+      source: {
+        include: 'es/home.yml',
+        prefix: '',
+      },
+      schema: homeSchema,
+    }),
+    home_fr: defineCollection({
+      type: 'page',
+      source: {
+        include: 'fr/home.yml',
+        prefix: '',
+      },
+      schema: homeSchema,
+    }),
+    home_hi: defineCollection({
+      type: 'page',
+      source: {
+        include: 'hi/home.yml',
+        prefix: '',
+      },
+      schema: homeSchema,
+    }),
+    home_it: defineCollection({
+      type: 'page',
+      source: {
+        include: 'it/home.yml',
+        prefix: '',
+      },
+      schema: homeSchema,
+    }),
+    home_ja: defineCollection({
+      type: 'page',
+      source: {
+        include: 'ja/home.yml',
+        prefix: '',
+      },
+      schema: homeSchema,
+    }),
+    home_ko: defineCollection({
+      type: 'page',
+      source: {
+        include: 'ko/home.yml',
+        prefix: '',
+      },
+      schema: homeSchema,
+    }),
+    home_pt: defineCollection({
+      type: 'page',
+      source: {
+        include: 'pt/home.yml',
+        prefix: '',
+      },
+      schema: homeSchema,
+    }),
+    home_ru: defineCollection({
+      type: 'page',
+      source: {
+        include: 'ru/home.yml',
         prefix: '',
       },
       schema: homeSchema,
     }),
 
-    // 专门的营销模块集合
-    marketing_pages: defineCollection({
+    // Other language content collections
+    content_ar: defineCollection({
       type: 'page',
       source: {
-        include: '**/marketing.yml',
+        include: 'ar/**',
         prefix: '',
       },
-      schema: marketingSchema,
+      // schema: commonSchema,
     }),
-
-    // 专门的集合页面集合
-    collection_pages: defineCollection({
+    content_de: defineCollection({
       type: 'page',
       source: {
-        include: '**/collections/**',
+        include: 'de/**',
         prefix: '',
       },
-      schema: collectionSchema,
+      // schema: commonSchema,
+    }),
+    content_es: defineCollection({
+      type: 'page',
+      source: {
+        include: 'es/**',
+        prefix: '',
+      },
+      // schema: commonSchema,
+    }),
+    content_fr: defineCollection({
+      type: 'page',
+      source: {
+        include: 'fr/**',
+        prefix: '',
+      },
+      // schema: commonSchema,
+    }),
+    content_hi: defineCollection({
+      type: 'page',
+      source: {
+        include: 'hi/**',
+        prefix: '',
+      },
+      // schema: commonSchema,
+    }),
+    content_it: defineCollection({
+      type: 'page',
+      source: {
+        include: 'it/**',
+        prefix: '',
+      },
+      // schema: commonSchema,
+    }),
+    content_ja: defineCollection({
+      type: 'page',
+      source: {
+        include: 'ja/**',
+        prefix: '',
+      },
+      // schema: commonSchema,
+    }),
+    content_ko: defineCollection({
+      type: 'page',
+      source: {
+        include: 'ko/**',
+        prefix: '',
+      },
+      // schema: commonSchema,
+    }),
+    content_pt: defineCollection({
+      type: 'page',
+      source: {
+        include: 'pt/**',
+        prefix: '',
+      },
+      // schema: commonSchema,
+    }),
+    content_ru: defineCollection({
+      type: 'page',
+      source: {
+        include: 'ru/**',
+        prefix: '',
+      },
+      // schema: commonSchema,
+    }),
+    content_zh: defineCollection({
+      type: 'page',
+      source: {
+        include: 'zh/**',
+        prefix: '',
+      },
+      // schema: commonSchema,
     }),
   },
 });
