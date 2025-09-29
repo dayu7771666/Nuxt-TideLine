@@ -16,7 +16,7 @@
         <NuxtLinkLocal
           v-if="sampling?.hero?.ctaButton"
           :to="sampling?.hero?.ctaLink"
-          class="inline-flex items-center mt-10 gap-x-2 rounded-md bg-blue-600 px-6 py-3 font-medium text-white shadow-lg hover:bg-blue-700 hover:shadow-xl transition-all duration-300 hover:-translate-y-0.5 border border-blue-700"
+          class="inline-flex cursor-pointer items-center mt-10 gap-x-2 rounded-md bg-blue-600 px-6 py-3 font-medium text-white shadow-lg hover:bg-blue-700 hover:shadow-xl transition-all duration-300 hover:-translate-y-0.5 border border-blue-700"
         >
           <CheckCircleIcon class="w-6 h-6 text-white" />
           {{ sampling?.hero?.ctaButton }}
@@ -24,8 +24,8 @@
       </Hero>
     </div>
 
-    <!-- Problem/Solution Section -->
-    <SamplingProblemSolution :problem-solution="sampling?.problemSolution" />
+    <!-- Comparison Table Section -->
+    <SamplingComparisonTable :comparison="sampling?.comparison" />
 
     <!-- Process Section -->
     <HomeServiceAdvantages
@@ -34,8 +34,7 @@
       :advantages="transformProcessSteps(sampling?.process?.steps || [])"
       :show-numbers="true"
       :grid-cols="3"
-      :decorations="false"
-      bg-class="bg-gray-50"
+      :decorations="true"
     />
 
     <!-- FAQ Section -->

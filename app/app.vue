@@ -14,16 +14,16 @@
     <NuxtLayout>
       <TopNav />
       <div class="sticky top-0 z-30">
-        <!-- <TideHeader :navigation="navigation" /> -->
+        <TideHeader :navigation="navigation" />
       </div>
       <NuxtPage />
       <Footer :navigation="navigation" />
       <!-- 悬浮底部栏 -->
-      <!-- <FloatingBottomBar
+      <FloatingBottomBar
         email="tidelineswim@swimsuitcustom.com"
         phone="+(86)18302407790"
         whatsapp-message="您好，我想了解更多关于您的服务信息。"
-      /> -->
+      />
     </NuxtLayout>
   </div>
 </template>
@@ -43,7 +43,6 @@
       return await queryCollection(collectionName).path(contentPath).first();
     }
   );
-  console.log(navigation, 'navigation');
 
   useHead(() => {
     const links = (i18nHead.value.link || []).filter(

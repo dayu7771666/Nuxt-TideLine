@@ -519,7 +519,7 @@
               </div>
               <button
                 type="button"
-                class="rounded-md ml-3 bg-blue-500 px-4 py-2.5 text-sm text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 dark:bg-blue-500 dark:shadow-none dark:hover:bg-blue-400 dark:focus-visible:outline-blue-500"
+                class="rounded-md ml-3 bg-blue-600 px-4 py-2.5 text-sm text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 dark:bg-blue-500 dark:shadow-none dark:hover:bg-blue-400 dark:focus-visible:outline-blue-500"
               >
                 {{ $t('Contact') }}
               </button>

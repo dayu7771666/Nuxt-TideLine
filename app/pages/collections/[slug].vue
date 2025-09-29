@@ -295,6 +295,15 @@
 
             <!-- Category Content -->
             <div class="lg:col-span-3 space-y-12">
+              <!-- Marketing Module -->
+              <MarketingModule
+                v-if="marketingData"
+                :title="marketingData.title"
+                :description="marketingData.description"
+                :items="marketingData.items"
+                @item-click="handleMarketingItemClick"
+              />
+
               <div
                 v-for="category in subCategories"
                 :key="category.name"
@@ -339,6 +348,7 @@
     Squares2X2Icon,
   } from '@heroicons/vue/20/solid';
   import CategoryContent from '~/components/CategoryContent.vue';
+  import MarketingModule from '~/components/MarketingModule.vue';
 
   const mobileFiltersOpen = ref(false);
   const activeCategory = ref('');
@@ -375,6 +385,32 @@
   const subCategories = computed(() => {
     return collectionData.value?.body.subcategories || [];
   });
+
+  // 获取营销模块数据
+  const { data: marketingData } = await useAsyncData(
+    `marketing-${locale.value}`,
+    async () => {
+      try {
+        // 根据当前语言构建营销数据路径
+        const marketingCollection = 'content_' + locale.value;
+        const content = await queryCollection(marketingCollection)
+          .path('/marketing')
+          .first();
+
+        // 如果内容缺失，回退到默认语言
+        if (!content && locale.value !== 'en') {
+          return await queryCollection('content_en').path('/marketing').first();
+        }
+
+        return content?.body || content;
+      } catch (error) {
+        console.error('Error loading marketing data:', error);
+      }
+    },
+    {
+      watch: [locale],
+    }
+  );
 
   // 节流函数
   const throttle = (func, delay) => {
@@ -473,5 +509,11 @@
   const handleDetails = item => {
     console.log('Show details for:', item);
     // 这里可以跳转到产品详情页面
+  };
+
+  // 处理营销模块项目点击事件
+  const handleMarketingItemClick = item => {
+    console.log('Marketing item clicked:', item);
+    // 这里可以添加营销项目的点击逻辑，比如跳转到特定的商品分类或打开详情页面
   };
 </script>

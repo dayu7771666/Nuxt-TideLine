@@ -1,19 +1,131 @@
 ﻿<template>
   <div class="min-h-screen bg-white">
-    hello
-    {{ '水合之后内容消失' }}
-    {{ '验证locale' }}--{{ locale }}
-    {{ home || 'home消失' }}
+    <!-- position="top-third" -->
+    <Hero
+      :title="home.hero.title"
+      :description="home.hero.description"
+      :image="home.hero.src"
+      :alt="home.hero.alt"
+      width="1200"
+      sizes="100vw sm:90vw md:1200px lg:1500px"
+    >
+      <div>
+        <button
+          type="button"
+          @click="showContactModal = true"
+          class="inline-flex items-center mt-10 gap-x-2 rounded-md bg-blue-600 px-6 py-3 font-medium text-white shadow-lg hover:bg-blue-700 hover:shadow-xl transition-all duration-300 hover:-translate-y-0.5 border border-blue-700"
+        >
+          <CheckCircleIcon class="w-6 h-6 text-white" />
+          {{ home.hero.ctaButton }}
+        </button>
+        <div
+          class="grid grid-cols-1 sm:grid-cols-3 items-center gap-x-10 mt-12 gap-y-3"
+        >
+          <div
+            v-for="(feature, index) in home.hero.features"
+            :key="index"
+            class="bg-white/80 backdrop-blur-sm px-6 py-3 rounded-lg flex items-center sm:justify-center gap-x-2 border border-gray-200 shadow-sm"
+          >
+            <CheckCircleIcon class="w-5 h-5 text-green-600" />
+            <h3 class="text-sm font-medium text-gray-900">
+              {{ feature.text }}
+            </h3>
+          </div>
+        </div>
+      </div>
+    </Hero>
+    <!-- 视频展示 -->
+    <HomeVideoShowcase
+      layout="horizontal"
+      :title="home.videoShowcase.title"
+      :description="home.videoShowcase.description"
+      :ctaText="home.videoShowcase.ctaText"
+      :video-src="home.videoShowcase.videoSrc"
+      @cta-click="handleVideoCtaClick"
+    />
 
-    <pre>{{ content }}</pre>
+    <!-- 产品展示 -->
+    <HomeProductShowcase
+      :title="home.products.title"
+      :description="home.products.description"
+      :products="home.products.items"
+      :learn-more-text="home.products.learnMoreText"
+      :quote-text="home.products.quoteText"
+      :learn-more-link="home.products.learnMoreLink"
+      :quote-link="home.products.quoteLink"
+    />
+
+    <!-- 服务优势 -->
+    <HomeServiceAdvantages
+      :title="home.serviceAdvantages.title"
+      :description="home.serviceAdvantages.description"
+      :advantages="home.serviceAdvantages.advantages"
+      :decorations="true"
+    />
+
+    <!-- 工作流程 -->
+    <HomeHowWorks :howWorks="home.howWorks" />
+
+    <!-- 选择我们的理由 -->
+    <HomeWhyUs :whyUs="home.whyUs" />
+
+    <!-- 联系表单弹窗 -->
+    <Transition
+      name="modal"
+      appear
+    >
+      <div
+        v-if="showContactModal"
+        class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black bg-opacity-50"
+        @click="closeModal"
+      >
+        <div
+          class="bg-white rounded-2xl shadow-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto"
+          @click.stop
+        >
+          <div
+            class="sticky top-0 bg-white border-b border-gray-200 px-8 py-6 rounded-t-2xl"
+          >
+            <div class="flex items-center justify-between">
+              <h2 class="text-2xl font-bold text-gray-900">
+                {{ home.contactForm?.modalTitle || 'Contact Us' }}
+              </h2>
+              <button
+                @click="showContactModal = false"
+                class="text-gray-400 hover:text-gray-600 transition-colors duration-200"
+              >
+                <svg
+                  class="w-6 h-6"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M6 18L18 6M6 6l12 12"
+                  />
+                </svg>
+              </button>
+            </div>
+          </div>
+
+          <div class="px-8 py-6">
+            <ContactForm
+              :form-labels="contactFormLabels"
+              @submit-success="handleContactSuccess"
+              @submit-error="handleContactError"
+            />
+          </div>
+        </div>
+      </div>
+    </Transition>
   </div>
 </template>
 
 <script setup>
   import { CheckCircleIcon } from '@heroicons/vue/20/solid';
-  definePageMeta({
-    layout: false,
-  });
 
   const { locale } = useI18n();
   console.log(locale.value, 'locale');
@@ -30,12 +142,11 @@
       return content.body;
     },
     {
-      // watch: [locale],
+      watch: [locale],
       // server: true,
     }
   );
-  console.log('Content loaded:', home.value);
-  console.log('Is preview mode:', process.client && window.$preview);
+
   // 弹窗状态管理
   const showContactModal = ref(false);
 

@@ -1,6 +1,6 @@
 ﻿export default defineNuxtConfig({
   devServer: {
-    host: '127.0.0.1',
+    host: '192.168.2.5',
     port: 3000,
   },
 
@@ -121,7 +121,7 @@
       },
     ],
     strategy: 'no_prefix',
-    differentDomains: process.env.NODE_ENV === 'production',
+    differentDomains: true,
     detectBrowserLanguage: false,
     defaultLocale: 'en',
   },

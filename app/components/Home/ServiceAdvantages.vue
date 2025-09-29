@@ -1,7 +1,7 @@
 <template>
   <div
     :class="[
-      'relative py-24 sm:py-32 overflow-hidden',
+      'relative py-20 overflow-hidden',
       bgClass || 'bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50',
     ]"
   >

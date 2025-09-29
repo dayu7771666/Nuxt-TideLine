@@ -45,10 +45,7 @@
           <span>+86 13147918301</span>
         </div>
         <div class="flex items-center gap-2 ml-5">
-          <EnvelopeIcon
-            class="size-5 shrink-0 text-white group-hover:text-gray-500"
-            aria-hidden="true"
-          ></EnvelopeIcon>
+          <span>Email:</span>
           <span>info@swimsuitcustom.com</span>
         </div>
         <LanguageSwitcher class="ml-3" />

@@ -1,6 +1,21 @@
 title: 'SWIMWEAR'
 slug: 'swimwear'
 description: 'Dive into our comprehensive swimwear collection featuring everything from classic bikinis to modern one-pieces. Find your perfect fit for any water adventure.'
+
+# 营销模块配置
+marketing:
+  title: 'Creator Must-Haves: Viral-Ready Swimwear'
+  description: 'Trend-setting designs perfect for social media content creation and influencer marketing campaigns.'
+  items:
+    - title: 'Instagram Ready'
+      description: 'Instagram-Ready Bikini - Designed for maximum visual impact on social media platforms.'
+      image: '/api/placeholder/300/200'
+    - title: 'TikTok Trend'
+      description: 'TikTok Trend Set - Viral designs that capture attention in short-form videos.'
+      image: '/api/placeholder/300/200'
+    - title: 'YouTube Collection'
+      description: 'YouTube Content Collection - Perfect for haul videos and fashion content creation.'
+      image: '/api/placeholder/300/200'
 subcategories:
   - name: 'Tankinis'
     href: ''
