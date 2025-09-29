@@ -14,7 +14,7 @@
     <NuxtLayout>
       <TopNav />
       <div class="sticky top-0 z-30">
-        <TideHeader :navigation="navigation" />
+        <!-- <TideHeader :navigation="navigation" /> -->
       </div>
       <NuxtPage />
       <Footer :navigation="navigation" />
