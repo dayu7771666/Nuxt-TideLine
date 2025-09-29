@@ -121,7 +121,7 @@
       },
     ],
     strategy: 'no_prefix',
-    differentDomains: true,
+    differentDomains: process.env.NODE_ENV === 'production',
     detectBrowserLanguage: false,
     defaultLocale: 'en',
   },
