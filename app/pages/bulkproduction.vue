@@ -134,11 +134,11 @@
     'bulk',
     async () => {
       // 根据当前语言构建集合名称
-      const collection = 'content_' + locale.value;
-      const content = await queryCollection(collection).path('/bulk').first();
+      const collection = 'bulk_' + locale.value;
+      const content = await queryCollection(collection).first();
       // 可选：如果内容缺失，回退到默认语言
       if (!content && locale.value !== 'en') {
-        return await queryCollection('content_en').path('/bulk').first();
+        return await queryCollection('bulk_en').first();
       }
       return content?.body;
     },
@@ -147,7 +147,7 @@
       server: true,
     }
   );
-  
+
   const content = bulk.value || {};
 
   // Meta tags

@@ -158,11 +158,11 @@
   const { data: about } = await useAsyncData(
     async () => {
       // 根据当前语言构建集合名称
-      const collection = 'content_' + locale.value;
-      const content = await queryCollection(collection).path('/about').first();
+      const collection = 'about' + locale.value;
+      const content = await queryCollection(collection).first();
       // 可选：如果内容缺失，回退到默认语言
       if (!content && locale.value !== 'en') {
-        return await queryCollection('content_en').path('/about').first();
+        return await queryCollection('about_en').first();
       }
       return content?.body;
     },

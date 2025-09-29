@@ -38,9 +38,8 @@
   const { data: navigation } = await useAsyncData(
     `navigation-${locale.value}`,
     async () => {
-      const collectionName = `content_${locale.value}`;
-      const contentPath = '/setting/navigation';
-      return await queryCollection(collectionName).path(contentPath).first();
+      const collectionName = `layout_${locale.value}`;
+      return await queryCollection(collectionName).first();
     }
   );
 

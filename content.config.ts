@@ -1,230 +1,168 @@
-import { defineContentConfig, defineCollection } from '@nuxt/content';
-import { z } from 'zod';
+import { defineContentConfig, defineCollection, z } from '@nuxt/content';
 
-// Home 页面的完整 schema
-const homeSchema = z.object({
-  hero: z.object({
-    title: z.string(),
-    description: z.string(),
-    src: z.string(),
-    alt: z.string(),
-    ctaButton: z.string(),
-    features: z.array(
-      z.object({
-        text: z.string(),
-      })
-    ),
-  }),
-
-  videoShowcase: z.object({
-    title: z.string(),
-    description: z.string(),
-    ctaText: z.string(),
-    videoSrc: z.string().url(),
-  }),
-
-  howWorks: z.object({
-    title: z.string(),
-    description: z.string(),
-    cta: z.string(),
-    steps: z.array(
-      z.object({
-        title: z.string(),
-        description: z.string(),
-        icon: z.string(),
-      })
-    ),
-  }),
-
-  whyUs: z.object({
-    title: z.string(),
-    description: z.string(),
-    cta: z.string(),
-    advantages: z.array(
-      z.object({
-        name: z.string(),
-        description: z.string(),
-        icon: z.string(),
-      })
-    ),
-  }),
-
-  indexCta: z.object({
-    title: z.string(),
-    description: z.string(),
-    cta: z.string(),
-    image: z.object({
-      src: z.string(),
-      alt: z.string(),
-    }),
-  }),
-
-  products: z.object({
-    title: z.string(),
-    description: z.string(),
-    learnMoreText: z.string(),
-    quoteText: z.string(),
-    learnMoreLink: z.string(),
-    quoteLink: z.string(),
-    items: z.array(
-      z.object({
-        id: z.number(),
-        name: z.string(),
-        href: z.string(),
-        description: z.string(),
-        imageSrc: z.string(),
-        imageAlt: z.string(),
-      })
-    ),
-  }),
-
-  serviceAdvantages: z.object({
-    title: z.string(),
-    description: z.string(),
-    advantages: z.array(
-      z.object({
-        id: z.number(),
-        title: z.string(),
-        description: z.string(),
-        icon: z.string(),
-      })
-    ),
-  }),
-
-  contactForm: z.object({
-    modalTitle: z.string(),
-    nameLabel: z.string(),
-    namePlaceholder: z.string(),
-    emailLabel: z.string(),
-    emailPlaceholder: z.string(),
-    messageLabel: z.string(),
-    messagePlaceholder: z.string(),
-    consentText: z.string(),
-    submitButton: z.string(),
-    successMessage: z.string(),
-    errorMessage: z.string(),
-  }),
-});
-
-// const commonSchema = ...;
 export default defineContentConfig({
   collections: {
-    // English content collection
-    content_en: defineCollection({
-      type: 'page',
-      source: {
-        include: 'en/**',
-        prefix: '',
-      },
-      // schema: commonSchema,
-    }),
-
-    // Home page collections for each locale
+    // English content - separate collections for each page
     home_en: defineCollection({
       type: 'page',
       source: {
         include: 'en/home.yml',
         prefix: '',
       },
-      schema: homeSchema,
+      schema: z.object({
+        hero: z.object({
+          title: z.string(),
+          description: z.string(),
+          src: z.string(),
+          alt: z.string(),
+          ctaButton: z.string(),
+          features: z.array(
+            z.object({
+              text: z.string(),
+            })
+          ),
+        }),
+        videoShowcase: z.object({
+          title: z.string(),
+          description: z.string(),
+          ctaText: z.string(),
+          videoSrc: z.string(),
+        }),
+        howWorks: z.object({
+          title: z.string(),
+          description: z.string(),
+          cta: z.string(),
+          steps: z.array(
+            z.object({
+              title: z.string(),
+              description: z.string(),
+              icon: z.string(),
+            })
+          ),
+        }),
+        whyUs: z.object({
+          title: z.string(),
+          description: z.string(),
+          cta: z.string(),
+          advantages: z.array(
+            z.object({
+              name: z.string(),
+              description: z.string(),
+              icon: z.string(),
+            })
+          ),
+        }),
+        indexCta: z.object({
+          title: z.string(),
+          description: z.string(),
+          cta: z.string(),
+          image: z.object({
+            src: z.string(),
+            alt: z.string(),
+          }),
+        }),
+        products: z.object({
+          title: z.string(),
+          description: z.string(),
+          learnMoreText: z.string(),
+          quoteText: z.string(),
+          learnMoreLink: z.string(),
+          quoteLink: z.string(),
+          items: z.array(
+            z.object({
+              id: z.number(),
+              name: z.string(),
+              href: z.string(),
+              description: z.string(),
+              imageSrc: z.string(),
+              imageAlt: z.string(),
+            })
+          ),
+        }),
+        serviceAdvantages: z.object({
+          title: z.string(),
+          description: z.string(),
+          advantages: z.array(
+            z.object({
+              id: z.number(),
+              title: z.string(),
+              description: z.string(),
+              icon: z.string(),
+            })
+          ),
+        }),
+        contactForm: z.object({
+          modalTitle: z.string(),
+          nameLabel: z.string(),
+          namePlaceholder: z.string(),
+          emailLabel: z.string(),
+          emailPlaceholder: z.string(),
+          messageLabel: z.string(),
+          messagePlaceholder: z.string(),
+          consentText: z.string(),
+          submitButton: z.string(),
+          successMessage: z.string(),
+          errorMessage: z.string(),
+        }),
+      }),
     }),
-    home_zh: defineCollection({
+    about_en: defineCollection({
       type: 'page',
       source: {
-        include: 'zh/home.yml',
+        include: 'en/about.yml',
         prefix: '',
       },
-      schema: homeSchema,
     }),
-    home_ar: defineCollection({
+    sampling_en: defineCollection({
       type: 'page',
       source: {
-        include: 'ar/home.yml',
+        include: 'en/sampling.yml',
         prefix: '',
       },
-      schema: homeSchema,
     }),
-    home_de: defineCollection({
+    bulk_en: defineCollection({
       type: 'page',
       source: {
-        include: 'de/home.yml',
+        include: 'en/bulk.yml',
         prefix: '',
       },
-      schema: homeSchema,
     }),
-    home_es: defineCollection({
+    terms_en: defineCollection({
       type: 'page',
       source: {
-        include: 'es/home.yml',
+        include: 'en/terms.yml',
         prefix: '',
       },
-      schema: homeSchema,
     }),
-    home_fr: defineCollection({
+    layout_en: defineCollection({
       type: 'page',
       source: {
-        include: 'fr/home.yml',
+        include: 'en/setting/navigation.yml',
         prefix: '',
       },
-      schema: homeSchema,
     }),
-    home_hi: defineCollection({
+    marketing_en: defineCollection({
       type: 'page',
       source: {
-        include: 'hi/home.yml',
+        include: 'en/marketing.yml',
         prefix: '',
       },
-      schema: homeSchema,
     }),
-    home_it: defineCollection({
+    collections_en: defineCollection({
       type: 'page',
       source: {
-        include: 'it/home.yml',
+        include: 'en/collections/**',
         prefix: '',
       },
-      schema: homeSchema,
-    }),
-    home_ja: defineCollection({
-      type: 'page',
-      source: {
-        include: 'ja/home.yml',
-        prefix: '',
-      },
-      schema: homeSchema,
-    }),
-    home_ko: defineCollection({
-      type: 'page',
-      source: {
-        include: 'ko/home.yml',
-        prefix: '',
-      },
-      schema: homeSchema,
-    }),
-    home_pt: defineCollection({
-      type: 'page',
-      source: {
-        include: 'pt/home.yml',
-        prefix: '',
-      },
-      schema: homeSchema,
-    }),
-    home_ru: defineCollection({
-      type: 'page',
-      source: {
-        include: 'ru/home.yml',
-        prefix: '',
-      },
-      schema: homeSchema,
     }),
 
-    // Other language content collections
+    // Other languages - general collections
     content_ar: defineCollection({
       type: 'page',
       source: {
         include: 'ar/**',
         prefix: '',
       },
-      // schema: commonSchema,
     }),
     content_de: defineCollection({
       type: 'page',
@@ -232,7 +170,6 @@ export default defineContentConfig({
         include: 'de/**',
         prefix: '',
       },
-      // schema: commonSchema,
     }),
     content_es: defineCollection({
       type: 'page',
@@ -240,7 +177,6 @@ export default defineContentConfig({
         include: 'es/**',
         prefix: '',
       },
-      // schema: commonSchema,
     }),
     content_fr: defineCollection({
       type: 'page',
@@ -248,7 +184,6 @@ export default defineContentConfig({
         include: 'fr/**',
         prefix: '',
       },
-      // schema: commonSchema,
     }),
     content_hi: defineCollection({
       type: 'page',
@@ -256,7 +191,6 @@ export default defineContentConfig({
         include: 'hi/**',
         prefix: '',
       },
-      // schema: commonSchema,
     }),
     content_it: defineCollection({
       type: 'page',
@@ -264,7 +198,6 @@ export default defineContentConfig({
         include: 'it/**',
         prefix: '',
       },
-      // schema: commonSchema,
     }),
     content_ja: defineCollection({
       type: 'page',
@@ -272,7 +205,6 @@ export default defineContentConfig({
         include: 'ja/**',
         prefix: '',
       },
-      // schema: commonSchema,
     }),
     content_ko: defineCollection({
       type: 'page',
@@ -280,7 +212,6 @@ export default defineContentConfig({
         include: 'ko/**',
         prefix: '',
       },
-      // schema: commonSchema,
     }),
     content_pt: defineCollection({
       type: 'page',
@@ -288,7 +219,6 @@ export default defineContentConfig({
         include: 'pt/**',
         prefix: '',
       },
-      // schema: commonSchema,
     }),
     content_ru: defineCollection({
       type: 'page',
@@ -296,7 +226,6 @@ export default defineContentConfig({
         include: 'ru/**',
         prefix: '',
       },
-      // schema: commonSchema,
     }),
     content_zh: defineCollection({
       type: 'page',
@@ -304,7 +233,6 @@ export default defineContentConfig({
         include: 'zh/**',
         prefix: '',
       },
-      // schema: commonSchema,
     }),
   },
 });

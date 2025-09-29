@@ -566,7 +566,10 @@
   });
 
   // 备用导航数据（当没有从YAML获取到数据时使用）
-  const fallbackNavigation = {};
+  const fallbackNavigation = {
+    categories: [],
+    pages: [],
+  };
 
   const open = ref(false);
   const activeCategory = ref(null);

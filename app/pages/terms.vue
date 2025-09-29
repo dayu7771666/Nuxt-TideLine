@@ -282,11 +282,11 @@
   const { data: terms } = await useAsyncData(
     async () => {
       // 根据当前语言构建集合名称
-      const collection = 'content_' + locale.value;
-      const content = await queryCollection(collection).path('/terms').first();
+      const collection = 'terms_' + locale.value;
+      const content = await queryCollection(collection).first();
       // 可选：如果内容缺失，回退到默认语言
       if (!content && locale.value !== 'en') {
-        return await queryCollection('content_en').path('/terms').first();
+        return await queryCollection('terms_en').first();
       }
       return content?.body;
     },

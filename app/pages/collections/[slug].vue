@@ -356,20 +356,23 @@
   // 获取国际化
   const { locale } = useI18n();
   const route = useRoute();
-
+  console.log(route.path, 'route.path');
+  const normalizedPath = route.path.replace(/^\/[^\/]+/, '');
   // 获取当前集合的数据
   const { data: collectionData } = await useAsyncData(
     `collection-${route.path}`,
     async () => {
       // 根据当前语言构建集合名称
-      const collection = 'content_' + locale.value;
+      const collection = 'collections_' + locale.value;
       const content = await queryCollection(collection)
-        .path(route.path)
+        .path(normalizedPath)
         .first();
 
       // 可选：如果内容缺失，回退到默认语言
       if (!content && locale.value !== 'en') {
-        return await queryCollection('content_en').path(route.path).first();
+        return await queryCollection('collections_en')
+          .path(normalizedPath)
+          .first();
       }
 
       return content;
@@ -392,14 +395,12 @@
     async () => {
       try {
         // 根据当前语言构建营销数据路径
-        const marketingCollection = 'content_' + locale.value;
-        const content = await queryCollection(marketingCollection)
-          .path('/marketing')
-          .first();
+        const marketingCollection = 'marketing_' + locale.value;
+        const content = await queryCollection(marketingCollection).first();
 
         // 如果内容缺失，回退到默认语言
         if (!content && locale.value !== 'en') {
-          return await queryCollection('content_en').path('/marketing').first();
+          return await queryCollection('marketing_en').first();
         }
 
         return content?.body || content;
