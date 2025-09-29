@@ -1,0 +1,1 @@
+const t={hello:{t:0,b:{t:2,i:[{t:3}],s:"helloEN"}},TideHeader:{加载导航时出错:{t:0,b:{t:2,i:[{t:3}],s:"Error loading navigation"}},加载中:{t:0,b:{t:2,i:[{t:3}],s:"Loading"}}},LanguageSwitcher:{关闭语言菜单:{t:0,b:{t:2,i:[{t:3}],s:"Close language menu"}},打开语言菜单:{t:0,b:{t:2,i:[{t:3}],s:"Open language menu"}}}};export{t as default};
