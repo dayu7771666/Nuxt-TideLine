@@ -14,6 +14,24 @@
         <xhtml:link rel="alternate" hreflang="pt" href="https://ptpt.swimsuitcustom.com/" />
         <xhtml:link rel="alternate" hreflang="ru" href="https://ruru.swimsuitcustom.com/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://enen.swimsuitcustom.com/" />
+        <image:image>
+            <image:loc>http://localhost:3000/_ipx/_/tidelinelogo.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://localhost:3000/_ipx/s_3000x2000/hero_banner.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://localhost:3000/home/homeserver-1.avif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://localhost:3000/home/homeserver-2.avif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://localhost:3000/home/homeserver-3.avif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://localhost:3000/home/homeserver-4.avif</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>http://localhost:3000/about</loc>
@@ -29,6 +47,9 @@
         <xhtml:link rel="alternate" hreflang="pt" href="https://ptpt.swimsuitcustom.com/about" />
         <xhtml:link rel="alternate" hreflang="ru" href="https://ruru.swimsuitcustom.com/about" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://enen.swimsuitcustom.com/about" />
+        <image:image>
+            <image:loc>http://localhost:3000/_ipx/_/tidelinelogo.png</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&amp;amp;auto=format&amp;amp;fit=facearea&amp;amp;facepad=2&amp;amp;w=256&amp;amp;h=256&amp;amp;q=80</image:loc>
         </image:image>
@@ -47,6 +68,9 @@
         <xhtml:link rel="alternate" hreflang="pt" href="https://ptpt.swimsuitcustom.com/blog" />
         <xhtml:link rel="alternate" hreflang="ru" href="https://ruru.swimsuitcustom.com/blog" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://enen.swimsuitcustom.com/blog" />
+        <image:image>
+            <image:loc>http://localhost:3000/_ipx/_/tidelinelogo.png</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://image.swimsuitcustom.com/upload/factory_0/20250905/5479cf75bf7c708ebaddd29c674b1a75.webp</image:loc>
         </image:image>
@@ -98,6 +122,9 @@
         <xhtml:link rel="alternate" hreflang="pt" href="https://ptpt.swimsuitcustom.com/bulkproduction" />
         <xhtml:link rel="alternate" hreflang="ru" href="https://ruru.swimsuitcustom.com/bulkproduction" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://enen.swimsuitcustom.com/bulkproduction" />
+        <image:image>
+            <image:loc>http://localhost:3000/_ipx/_/tidelinelogo.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>http://localhost:3000/contact</loc>
@@ -113,51 +140,9 @@
         <xhtml:link rel="alternate" hreflang="pt" href="https://ptpt.swimsuitcustom.com/contact" />
         <xhtml:link rel="alternate" hreflang="ru" href="https://ruru.swimsuitcustom.com/contact" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://enen.swimsuitcustom.com/contact" />
-    </url>
-    <url>
-        <loc>http://localhost:3000/index%20copy</loc>
         <image:image>
-            <image:loc>http://localhost:3000/_ipx/s_3000x2000/hero_banner.webp</image:loc>
+            <image:loc>http://localhost:3000/_ipx/_/tidelinelogo.png</image:loc>
         </image:image>
-        <image:image>
-            <image:loc>http://localhost:3000/home/homeserver-1.avif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://localhost:3000/home/homeserver-2.avif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://localhost:3000/home/homeserver-3.avif</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://localhost:3000/home/homeserver-4.avif</image:loc>
-        </image:image>
-        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:3000/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="ar" href="http://localhost:3000/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="de" href="http://localhost:3000/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="es" href="http://localhost:3000/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="fr" href="http://localhost:3000/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="hi" href="http://localhost:3000/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="it" href="http://localhost:3000/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="ja" href="http://localhost:3000/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="ko" href="http://localhost:3000/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="pt" href="http://localhost:3000/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/index%20copy" />
-    </url>
-    <url>
-        <loc>http://localhost:3000/index%2520copy</loc>
-        <xhtml:link rel="alternate" hreflang="ar" href="https://arar.swimsuitcustom.com/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="de" href="https://dede.swimsuitcustom.com/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://enen.swimsuitcustom.com/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="es" href="https://eses.swimsuitcustom.com/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="fr" href="https://frfr.swimsuitcustom.com/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="hi" href="https://hihi.swimsuitcustom.com/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="it" href="https://itit.swimsuitcustom.com/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="ja" href="https://jaja.swimsuitcustom.com/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="ko" href="https://koko.swimsuitcustom.com/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="pt" href="https://ptpt.swimsuitcustom.com/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="ru" href="https://ruru.swimsuitcustom.com/index%20copy" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://enen.swimsuitcustom.com/index%20copy" />
     </url>
     <url>
         <loc>http://localhost:3000/pricing</loc>
@@ -173,6 +158,9 @@
         <xhtml:link rel="alternate" hreflang="pt" href="https://ptpt.swimsuitcustom.com/pricing" />
         <xhtml:link rel="alternate" hreflang="ru" href="https://ruru.swimsuitcustom.com/pricing" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://enen.swimsuitcustom.com/pricing" />
+        <image:image>
+            <image:loc>http://localhost:3000/_ipx/_/tidelinelogo.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>http://localhost:3000/sampling</loc>
@@ -188,6 +176,9 @@
         <xhtml:link rel="alternate" hreflang="pt" href="https://ptpt.swimsuitcustom.com/sampling" />
         <xhtml:link rel="alternate" hreflang="ru" href="https://ruru.swimsuitcustom.com/sampling" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://enen.swimsuitcustom.com/sampling" />
+        <image:image>
+            <image:loc>http://localhost:3000/_ipx/_/tidelinelogo.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>http://localhost:3000/terms</loc>
@@ -203,6 +194,9 @@
         <xhtml:link rel="alternate" hreflang="pt" href="https://ptpt.swimsuitcustom.com/terms" />
         <xhtml:link rel="alternate" hreflang="ru" href="https://ruru.swimsuitcustom.com/terms" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://enen.swimsuitcustom.com/terms" />
+        <image:image>
+            <image:loc>http://localhost:3000/_ipx/_/tidelinelogo.png</image:loc>
+        </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.3 at 2025-09-29T03:14:01.337Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.3 at 2025-09-29T07:09:03.340Z -->
