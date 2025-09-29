@@ -3,18 +3,11 @@
     host: '127.0.0.1',
     port: 3000,
   },
-
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
-  site: {
-    url: process.env.NUXT_PUBLIC_SITE_URL || 'http://localhost:3000',
-    name: 'TideLine Swimwear',
-  },
   // Nitro 配置 - 临时禁用预渲染错误以快速通过构建
   nitro: {
     prerender: {
-      routes: ['/'],
-      crawlLinks: true,
       failOnError: false,
     },
   },

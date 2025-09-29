@@ -43,7 +43,7 @@
       return await queryCollection(collectionName).path(contentPath).first();
     }
   );
-  console.log(navigation.value, 'navigation');
+  console.log(navigation, 'navigation');
 
   useHead(() => {
     const links = (i18nHead.value.link || []).filter(
