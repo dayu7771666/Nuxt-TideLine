@@ -37,7 +37,7 @@
       <!-- 标题区域 -->
       <div class="mx-auto max-w-3xl text-center">
         <h2
-          class="text-3xl h-16 font-bold tracking-tight bg-gradient-to-r from-gray-900 via-blue-900 to-indigo-900 bg-clip-text text-transparent sm:text-4xl"
+          class="text-3xl py-2 font-bold tracking-tight bg-gradient-to-r from-gray-900 via-blue-900 to-indigo-900 bg-clip-text text-transparent sm:text-4xl"
         >
           {{ title }}
         </h2>

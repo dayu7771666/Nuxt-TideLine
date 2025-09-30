@@ -28,7 +28,7 @@
       :description="content.process?.description || ''"
       :advantages="content.process?.steps || []"
       :show-numbers="false"
-      :grid-cols="4"
+      :grid-cols="2"
       bg-class="bg-slate-50"
       :icon-map="processIconMap"
     />
@@ -88,7 +88,11 @@
               border: 1px solid rgba(255, 255, 255, 0.2);
             "
           >
-            <i :class="feature.icon + ' text-5xl mb-5 block'"></i>
+            <img
+              :src="getSustainabilityImage(feature.title)"
+              :alt="feature.title"
+              class="w-full h-32 object-cover rounded-lg mb-5"
+            />
             <h3 class="text-xl font-medium mb-4">{{ feature.title }}</h3>
             <p
               class="leading-relaxed"
@@ -149,6 +153,16 @@
   );
 
   const content = bulk.value || {};
+
+  // 获取可持续发展图片的方法
+  const getSustainabilityImage = title => {
+    const imageMap = {
+      'Eco-Friendly Materials': '/bulk/Eco-friendly-Materials.webp',
+      'Ethical Production': '/bulk/Ethical-Production.webp',
+      'Waste Reduction': '/bulk/Waste-Reduction.webp',
+    };
+    return imageMap[title] || '/bulk/Eco-friendly-Materials.webp';
+  };
 
   // Meta tags
   useHead({

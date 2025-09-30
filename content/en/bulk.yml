@@ -1,29 +1,29 @@
 # Bulk Production Page Content
 hero:
-  title: 'Production Process'
-  description: 'Discover how Tideline swimwear transforms from concept to finished product through meticulous craftsmanship'
+  title: 'A Systematic Approach to Swimwear Excellence'
+  description: 'From Concept to Commercial Reality'
 
 intro:
-  text: "At Tideline, we merge exceptional craftsmanship with sustainable practices to create swimwear that's beautiful both inside and out. Each piece is thoughtfully designed and carefully constructed to ensure quality, comfort, and style that lasts."
+  text: 'Once Partner with Tideline, you can wit the collaborative, detail-oriented journey your designs undertake. This transparent process, built on clear communication and precision execution at every stage(from concept to commercial reality), is designed to ensure your vision is perfectly realized in full-scale production.'
 
 process:
-  title: 'Our Production Journey'
+  title: 'The Pillars of Excellence: Core Stages in Tideline Manufacturing Process'
   steps:
     - icon: 'fas fa-pencil-alt'
       title: 'Design & Development'
-      description: 'Our creative process begins with inspiration drawn from coastal landscapes and ocean hues. Our design team sketches initial concepts, focusing on flattering silhouettes that combine fashion with functionality.'
+      description: 'Our design process merges aesthetic trends with performance data, creating styles tested for >90% customer satisfaction on fit. We leverage 3D design prototyping to accelerate development, reducing sampling cycles by 30% and ensuring styles are both commercially viable and functionally superior.'
 
     - icon: 'fas fa-ruler-combined'
-      title: 'Pattern Making & Sampling'
-      description: 'Precision pattern-making forms the foundation of our perfect fit. Using advanced techniques, we create initial patterns that are then transformed into samples.'
+      title: 'Pattern Making & Prototyping'
+      description: 'We utilize digital precision patterning to engineer flawless fit from the start. Each prototype undergoes a 5-point fit test on various body types, with adjustments made to key areas like the bust, waist, and hips. This rigorous process ensures a 98% size consistency rate across all production batches.'
 
     - icon: 'fas fa-cut'
-      title: 'Fabric Sourcing'
-      description: 'We meticulously source high-quality, sustainable fabrics that feel luxurious against the skin while standing up to saltwater and sun.'
+      title: 'Fabric Sourcing & Sustainability'
+      description: 'Over 80% of our fabrics sourced from leading eco-conscious mills. All materials offer UPF protection and are lab-tested to withstand UV and chlorine exposure without significant degradation.'
 
     - icon: 'fas fa-industry'
-      title: 'Manufacturing'
-      description: 'Our skilled artisans craft each garment with meticulous attention to detail. We maintain strict quality control throughout the production process.'
+      title: 'Manufacturing & Quality Assurance'
+      description: 'From stitch density to elastic tension, each detail is measured against stringent standards. This results in a product defect rate of less than 0.5%, ensuring that your brand receives bulk orders that are consistently high-quality and market-ready.'
 
 sustainability:
   title: 'Our Commitment to Sustainability'
