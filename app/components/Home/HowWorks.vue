@@ -24,8 +24,7 @@
             class="absolute hidden md:block top-8 left-0 h-0.5 w-full bg-gray-300"
           ></div>
           <div
-            class="absolute hidden md:block top-8 left-0 h-0.5 bg-blue-500 transition-all duration-3000 ease-out"
-            :style="{ width: `${progressWidth}%` }"
+            class="absolute hidden md:block top-8 left-0 h-0.5 bg-blue-500 w-full"
           ></div>
 
           <!-- 移动端 -->
@@ -37,26 +36,14 @@
                 class="flex flex-col items-center w-60"
               >
                 <div
-                  class="relative flex h-16 w-16 items-center justify-center rounded-full bg-gray-50 mb-4 z-10 step-icon border transition-all duration-500"
-                  :class="{
-                    'border-blue-500': visibleSteps.includes(index),
-                    'border-gray-300': !visibleSteps.includes(index),
-                  }"
+                  class="relative flex h-16 w-16 items-center justify-center rounded-full bg-gray-50 mb-4 z-10 step-icon border border-blue-500"
                 >
                   <component
                     :is="getIconComponent(step.icon)"
-                    class="h-8 w-8 transition-all duration-500"
-                    :class="{
-                      'text-blue-500': visibleSteps.includes(index),
-                      'text-gray-400': !visibleSteps.includes(index),
-                    }"
+                    class="h-8 w-8 text-blue-500"
                   />
                   <div
-                    class="absolute top-0 right-0 flex h-6 w-6 items-center justify-center rounded-full text-white text-xs font-bold transition-all duration-500"
-                    :class="{
-                      'bg-blue-500': visibleSteps.includes(index),
-                      'bg-gray-400': !visibleSteps.includes(index),
-                    }"
+                    class="absolute top-0 right-0 flex h-6 w-6 items-center justify-center rounded-full text-white text-xs font-bold bg-blue-500"
                   >
                     {{ index + 1 }}
                   </div>
@@ -81,26 +68,14 @@
               class="flex flex-col items-center service-step-container"
             >
               <div
-                class="relative flex h-16 w-16 items-center justify-center rounded-full mb-4 z-10 step-icon border transition-all duration-500"
-                :class="{
-                  'border-blue-600 bg-blue-50': visibleSteps.includes(index),
-                  'border-gray-300 bg-gray-50': !visibleSteps.includes(index),
-                }"
+                class="relative flex h-16 w-16 items-center justify-center rounded-full mb-4 z-10 step-icon border border-blue-600 bg-blue-50"
               >
                 <component
                   :is="getIconComponent(step.icon)"
-                  class="h-8 w-8 transition-all duration-500"
-                  :class="{
-                    'text-blue-600': visibleSteps.includes(index),
-                    'text-gray-400': !visibleSteps.includes(index),
-                  }"
+                  class="h-8 w-8 text-blue-600"
                 />
                 <div
-                  class="absolute top-0 right-0 flex h-6 w-6 items-center justify-center rounded-full text-white text-xs font-bold transition-all duration-500"
-                  :class="{
-                    'bg-blue-600': visibleSteps.includes(index),
-                    'bg-gray-400': !visibleSteps.includes(index),
-                  }"
+                  class="absolute top-0 right-0 flex h-6 w-6 items-center justify-center rounded-full text-white text-xs font-bold bg-blue-600"
                 >
                   {{ index + 1 }}
                 </div>
@@ -121,11 +96,7 @@
       <div class="mt-10 flex justify-center">
         <a
           href="/contact"
-          class="rounded-md bg-blue-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 transform transition-all duration-300 hover:scale-105"
-          :class="{
-            'opacity-100 translate-y-0': allStepsVisible,
-            'opacity-0 translate-y-4': !allStepsVisible,
-          }"
+          class="rounded-md bg-blue-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 transform transition-all duration-300 hover:scale-105 opacity-100 translate-y-0"
         >
           {{ howWorks.cta }} <span aria-hidden="true">→</span>
         </a>
@@ -142,8 +113,6 @@
     TruckIcon,
     ChartBarIcon,
   } from '@heroicons/vue/24/outline';
-  import { ref, onMounted, computed } from 'vue';
-
   // 定义props接收数据
   const props = defineProps({
     howWorks: {
@@ -155,20 +124,6 @@
         cta: '',
       }),
     },
-  });
-
-  // 动画状态
-  const visibleSteps = ref([]);
-  const currentActiveStep = ref(-1);
-
-  // 计算属性
-  const progressWidth = computed(() => {
-    if (visibleSteps.value.length === 0) return 0;
-    return (visibleSteps.value.length / props.howWorks.steps.length) * 100;
-  });
-
-  const allStepsVisible = computed(() => {
-    return visibleSteps.value.length === props.howWorks.steps.length;
   });
 
   // 图标映射
@@ -184,57 +139,6 @@
   const getIconComponent = iconName => {
     return iconMap[iconName] || ChatBubbleLeftRightIcon;
   };
-
-  // 动画序列
-  const startAnimation = () => {
-    const steps = props.howWorks.steps;
-    if (!steps || steps.length === 0) return;
-
-    // 逐步显示每个步骤
-    steps.forEach((_, index) => {
-      setTimeout(() => {
-        visibleSteps.value.push(index);
-        currentActiveStep.value = index;
-
-        // 当前步骤激活一段时间后取消激活状态
-        setTimeout(() => {
-          if (currentActiveStep.value === index) {
-            currentActiveStep.value = -1;
-          }
-        }, 800);
-      }, index * 500); // 每500ms显示下一个步骤
-    });
-  };
-
-  // 使用Intersection Observer来触发动画
-  onMounted(() => {
-    const observer = new IntersectionObserver(
-      entries => {
-        entries.forEach(entry => {
-          if (entry.isIntersecting && visibleSteps.value.length === 0) {
-            // 延迟一点开始动画，让用户有时间看到初始状态
-            setTimeout(() => {
-              startAnimation();
-            }, 500);
-          }
-        });
-      },
-      {
-        threshold: 0.3, // 当30%的元素可见时触发
-      }
-    );
-
-    // 观察容器元素
-    const container = document.querySelector('[data-aos="fade-up"]');
-    if (container) {
-      observer.observe(container);
-    }
-
-    // 清理
-    return () => {
-      observer.disconnect();
-    };
-  });
 </script>
 
 <style scoped>

@@ -8,7 +8,8 @@
         <label
           for="first_name"
           class="block mb-3 text-base font-medium text-slate-800"
-          >{{ formLabels.nameLabel || '姓名' }}</label
+          >{{ formLabels.nameLabel || '姓名' }}
+          <span class="text-red-500">*</span></label
         >
         <input
           type="text"
@@ -24,8 +25,10 @@
         <label
           for="email"
           class="block mb-3 text-base font-medium text-slate-800"
-          >{{ formLabels.emailLabel || '邮箱地址' }}</label
+          >{{ formLabels.emailLabel || '邮箱地址' }}
+          <span class="text-red-500">*</span></label
         >
+
         <input
           type="email"
           id="email"

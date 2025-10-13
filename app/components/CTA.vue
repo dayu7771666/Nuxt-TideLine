@@ -54,7 +54,7 @@
     }
 
     const variants = {
-      blue: 'bg-gradient-to-br from-blue-800 to-blue-600 text-white text-center py-24',
+      blue: 'bg-gradient-to-br from-cyan-200 to-blue-300 text-white text-center py-24',
       indigo:
         'bg-gradient-to-br from-indigo-800 to-indigo-600 text-white text-center py-24',
       purple:
@@ -73,7 +73,7 @@
     if (props.titleClass) {
       return props.titleClass;
     }
-    return 'text-3xl lg:text-4xl font-bold mb-6';
+    return 'text-3xl lg:text-4xl font-bold mb-6 text-black italic';
   });
 
   // 计算描述样式类
@@ -81,7 +81,7 @@
     if (props.descriptionClass) {
       return props.descriptionClass;
     }
-    return 'text-xl max-w-3xl mx-auto mb-8 opacity-90';
+    return 'text-xl max-w-3xl mx-auto mb-8 opacity-90 text-gray-900';
   });
 
   // 计算按钮样式类

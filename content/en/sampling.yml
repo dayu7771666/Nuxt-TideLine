@@ -70,3 +70,10 @@ cta:
   description: 'Contact our experts today for a free consultation to discuss your project and how our sampling service can help you validate your idea with minimal investment.'
   button: 'Schedule Your Free Consultation'
   link: '#'
+
+seo:
+  title: 'Swimwear Sampling Services | Expert Prototype Development | Tideline Swim'
+  description: 'Launch with confidence. Our streamlined sampling process lets you test and refine swimwear designs with zero risk. Expert-guided prototyping, fabric sourcing, and fit analysis for market-ready excellence.'
+  keywords: 'swimwear sampling, prototype development, swimsuit samples, swimwear design testing, fabric sourcing, fit analysis, swim garment engineering, sample manufacturing'
+  ogImage: '/sampling.webp'
+  twitterCard: 'summary_large_image'

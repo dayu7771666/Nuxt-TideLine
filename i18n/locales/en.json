@@ -1,5 +1,7 @@
 {
   "hello": "helloEN",
+  "Home": "Home",
+  "Contact": "Contact",
   "TideHeader": {
     "加载导航时出错": "Error loading navigation",
     "加载中": "Loading"
@@ -11,5 +13,196 @@
   "ContactForm": {
     "consentText": "By filling out this form, you agree to TideLine's",
     "terms": "Terms"
+  },
+  "你离自己的泳装品牌，只差一个决定": "Your own swimwear brand is just one decision away",
+  "免费获取1对1定制咨询，我们的专业团队将为您提供全方位的品牌创建与生产支持，开启您的泳装品牌之路。": "Get free one-on-one custom consultation. Our professional team will provide comprehensive brand creation and production support to start your swimwear brand journey.",
+  "获取免费咨询": "Get Free Consultation",
+  "立即咨询": "Get Consultation Now",
+  "目录": "Table of Contents",
+  "没有找到目录项": "No table of contents found",
+  "最新文章": "Latest Articles",
+  "想创建自己的泳装品牌吗？": "Want to create your own swimwear brand?",
+  "我们提供一系列的服务，提供最具性价比的泳衣，同时我们也支持定制服务，让您的想法变成现实，为您轻松开启自己的泳装品牌！": "We provide a range of services, offering the most cost-effective swimwear. We also support custom services to turn your ideas into reality and help you easily start your own swimwear brand!",
+  "了解更多": "Learn More",
+  "WhatsApp": "WhatsApp",
+  "联系我们": "Contact Us",
+  "文章未找到": "Article Not Found",
+  "successTitle": "Subscription Successful!",
+  "successMessage": "Thank you for subscribing! You can now enjoy the following exclusive benefits:",
+  "benefit1": "Receive the latest product updates and promotional information.",
+  "benefit2": "Get early notifications about limited-time offers.",
+  "benefit3": "Enjoy exclusive member discounts.",
+  "backToHome": "Back to Home",
+  "联系我们页面内容": "Whether you're looking to learn more about our customization services or have any questions about the production process, our team is always ready to assist you. We are committed to providing high-quality service and personalized support to ensure the smooth development of your brand. If you have any questions or would like to learn more about our products and services, feel free to contact us through the following channels. We look forward to working with you and helping your brand grow!",
+  "地址": "Address",
+  "Xingcheng, HuludaoCity,Liaoning Province, China": "Xingcheng, Huludao City, Liaoning Province, China",
+  "加我我们的计划引言": "\"The future of the swimwear industry is all about bold innovation and staying ahead of trends—join us in shaping the next big thing and let's create something unforgettable together!\"",
+  "First name": "First name",
+  "Email": "Email",
+  "Message": "Message",
+  "发表": "Submit",
+  "By submitting this form, I agree to the": "By submitting this form, I agree to the",
+  "条款": "Terms",
+  "请填写您的名字！": "Please enter your name!",
+  "邮箱不能为空！": "Email cannot be empty!",
+  "处理中...": "Processing...",
+  "提交失败，请稍后重试": "Submission failed, please try again later",
+  "支付成功": "Payment Successful",
+  "感谢您的购买！": "Thank you for your purchase!",
+  "返回首页": "Back to Home",
+  "描述": "Description",
+  "FirstName": "First Name",
+  "LastName": "Last Name",
+  "Phone": "Phone",
+  "Deliver to": "Deliver to",
+  "Apartment, unit, suite, or floor": "Apartment, unit, suite, or floor",
+  "City": "City",
+  "State/Province": "State/Province",
+  "Postal code": "Postal code",
+  "Country/Region": "Country/Region",
+  "确认订单信息": "Confirm Order Information",
+  "不能为空": "cannot be empty",
+  "保存地址失败，请重试": "Failed to save address, please try again",
+  "Network fluctuation, please contact the administrator.": "Network fluctuation, please contact the administrator.",
+  "请输入完整的地址信息": "Please enter complete address information",
+  "支付系统加载失败，请刷新页面重试": "Payment system failed to load, please refresh the page and try again",
+  "blog": {
+    "categories": "Categories",
+    "tags": "Tags",
+    "all": "All",
+    "showingPage": "Showing page",
+    "of": "of",
+    "totalArticles": "total articles",
+    "by": "By",
+    "blogTagsTitle": "Blog Tags",
+    "blogTags": {
+      "Bikini": "Bikini",
+      "Tankini": "Tankini",
+      "One-Piece": "One-Piece",
+      "Rash-Guard": "Rash Guard",
+      "Trunks": "Trunks",
+      "Boardshorts": "Boardshorts",
+      "OEM": "OEM",
+      "ODM": "ODM",
+      "Private Label": "Private Label",
+      "Factory": "Factory",
+      "Supplier": "Supplier",
+      "Manufacturing": "Manufacturing",
+      "Heat Transfer": "Heat Transfer",
+      "Logo Printing": "Logo Printing",
+      "Size Guide": "Size Guide",
+      "Quality Control": "Quality Control",
+      "Startup": "Startup",
+      "New Brand": "New Brand",
+      "Small Business": "Small Business",
+      "Sampling": "Sampling",
+      "MOQ": "MOQ",
+      "Bulk Production": "Bulk Production",
+      "AQL": "AQL",
+      "Incoterms": "Incoterms",
+      "Shipping": "Shipping",
+      "Sustainable Materials": "Sustainable Materials",
+      "Eco-friendly": "Eco-friendly"
+    },
+    "seoblog": {
+      "title": "Swimwear Industry Blog | Tips, Trends & Manufacturing Insights | Tideline Swim",
+      "description": "Expert insights on swimwear manufacturing, design trends, production tips, and industry best practices. Learn about OEM, ODM, sampling, quality control, and sustainable swimwear production.",
+      "keywords": "swimwear blog, swimsuit manufacturing tips, swimwear industry trends, OEM ODM insights, swimwear production guide, sustainable swimwear, quality control, sampling process",
+      "ogImage": "/blog-og-image.jpg",
+      "twitterCard": "summary_large_image"
+    }
+  },
+  "shipping": {
+    "title": "Shipping Policy",
+    "subtitle": "Reliable global shipping solutions for your swimwear business needs",
+    "orderTracking": {
+      "title": "Order Tracking",
+      "description": "We provide comprehensive tracking for all orders to ensure you stay informed about your shipment status at every step.",
+      "feature1": "Tracking numbers are emailed within 24 hours of shipment",
+      "feature2": "Real-time tracking available on our website or carrier's website",
+      "feature3": "Regular status updates via email for production orders",
+      "feature4": "Dedicated account manager for orders over $10,000",
+      "trackTitle": "Track Your Order: Enter your tracking number below to check the current status of your shipment.",
+      "trackPlaceholder": "Enter tracking number",
+      "trackButton": "Track"
+    },
+    "methods": {
+      "title": "Shipping Methods",
+      "description": "We offer different shipping options based on your order type and urgency to meet your specific business requirements.",
+      "sample": {
+        "title": "Sample Orders",
+        "description": "For sample orders, we provide expedited shipping options to help you make quick decisions:",
+        "express": "Express Courier",
+        "expressTime": "DHL, FedEx, UPS (3-7 business days)",
+        "standard": "Standard Air Mail",
+        "standardTime": "(7-14 business days)",
+        "economy": "Economy",
+        "economyTime": "(14-21 business days)"
+      },
+      "bulk": {
+        "title": "Bulk Production Orders",
+        "description": "For production quantities, we offer cost-effective solutions:",
+        "air": "Air Freight",
+        "airTime": "(7-15 business days)",
+        "sea": "Sea Freight",
+        "seaTime": "(30-45 business days)",
+        "expressAir": "Express Air",
+        "expressAirTime": "(5-10 business days)"
+      },
+      "important": "Important",
+      "importantNote": "Production lead times are additional to shipping times. Please contact us for exact production timelines based on your order quantity and complexity."
+    },
+    "coverage": {
+      "title": "Shipping Coverage",
+      "description": "We provide shipping services to over 150 countries worldwide. Our partner network offers swift delivery across the globe.",
+      "mapTitle": "TIDELINE SWIMWEAR IS WHERE YOUR CUSTOMERS ARE",
+      "mapSubtitle": "Our partner network offers swift delivery across the globe.",
+      "regions": {
+        "northAmerica": "North America",
+        "europe": "European Union",
+        "asia": "Asia",
+        "africa": "Africa",
+        "southAmerica": "South America",
+        "australia": "Australia & NZ"
+      },
+      "legend": {
+        "available": "Available for Shipping",
+        "limited": "Limited/No Service"
+      },
+      "note": "Note",
+      "noteText": "We currently have limited shipping availability to certain regions in Africa and Central Asia due to logistical constraints. We're actively working to expand our service areas. For specific country availability and any restrictions, please contact our shipping department."
+    },
+    "sidebar": {
+      "overview": {
+        "title": "Shipping Overview",
+        "description1": "At TIDELINE SWIMWEAR, we understand that timely delivery is crucial for your business. Our comprehensive shipping solutions are designed to meet the diverse needs of our B2B clients worldwide.",
+        "description2": "We partner with leading global logistics providers to ensure your swimwear orders reach you safely and on time.",
+        "keyFeatures": "Key Features",
+        "features": "Global coverage, flexible shipping options, real-time tracking, and customs assistance."
+      },
+      "contact": {
+        "title": "Need Help With Shipping?",
+        "email": "Email",
+        "hours": "Business Hours",
+        "hoursTime": "Mon-Fri: 9AM-6PM (EST)",
+        "emergency": "Emergency Line"
+      },
+      "quickLinks": {
+        "title": "Quick Links",
+        "calculator": "Shipping Cost Calculator",
+        "customs": "Customs & Taxes Guide",
+        "documentation": "Customs Documentation",
+        "processing": "Processing Time Info",
+        "packaging": "Packaging Details",
+        "returns": "Returns & Exchanges",
+        "insurance": "Shipping Insurance",
+        "faq": "Shipping FAQ",
+        "policy": "Return Policy"
+      },
+      "partners": {
+        "title": "Our Shipping Partners",
+        "description": "We work with trusted global logistics providers:"
+      }
+    }
   }
 }

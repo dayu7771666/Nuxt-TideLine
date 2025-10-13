@@ -3,6 +3,7 @@
     <!-- Hero Section -->
     <Hero
       :title="content.hero?.title"
+      image="/bulk.webp"
       :description="content.hero?.description"
       bg-gradient="bg-gradient-to-br from-slate-800 to-blue-700"
       text-color="white"
@@ -35,8 +36,7 @@
 
     <!-- Sustainability Section -->
     <section
-      class="py-24 text-white text-center relative overflow-hidden"
-      style="background: linear-gradient(135deg, #14b8a6 0%, #0d9488 100%)"
+      class="py-24 text-white text-center relative overflow-hidden bg-gradient-to-br from-teal-500 to-blue-600"
     >
       <!-- Wave Background -->
       <div

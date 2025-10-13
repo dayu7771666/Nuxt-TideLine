@@ -1,0 +1,151 @@
+seo:
+  title: 'Shipping Policy'
+  description: 'Reliable global shipping solutions for your swimwear business needs. Express & sea freight options, worldwide coverage to 150+ countries, real-time tracking.'
+  keywords: 'swimwear shipping, global shipping, express courier, sea freight, air freight, DHL, FedEx, UPS, order tracking, international shipping, swimsuit delivery'
+  ogImage: '/shipping.webp'
+
+hero:
+  title: 'Shipping Policy'
+  description: 'Reliable global shipping solutions for your swimwear business needs'
+
+orderTracking:
+  title: 'Order Tracking'
+  description: 'We provide comprehensive tracking for all orders to ensure you stay informed about your shipment status at every step.'
+  features:
+    - 'Tracking numbers are emailed within 24 hours of shipment'
+    - "Real-time tracking available on our website or carrier's website"
+    - 'Regular status updates via email for production orders'
+    - 'Dedicated account manager for orders over $10,000'
+  trackTitle: 'Track Your Order: Enter your tracking number below to check the current status of your shipment.'
+  trackPlaceholder: 'Enter tracking number'
+  trackButton: 'Track'
+
+methods:
+  title: 'Shipping Methods'
+  description: 'We offer different shipping options based on your order type and urgency to meet your specific business requirements.'
+  sample:
+    title: 'Sample Order'
+    description: 'For sample order, we provide a variety of shipping options to help you make quick decisions:'
+    options:
+      - name: 'Express Courier'
+        description: 'DHL, FedEx, UPS (3-7 business days)'
+      - name: 'Standard Air Mail'
+        description: '(7-14 business days)'
+      - name: 'Economy'
+        description: '(14-21 business days)'
+  bulk:
+    title: 'Bulk Production Orders'
+    description: 'For bulk production order, we offer cost-effective solutions:'
+    options:
+      - name: 'Air Freight'
+        description: '(7-15 business days)'
+      - name: 'Sea Freight'
+        description: '(30-45 business days)'
+      - name: 'Express Air'
+        description: '(5-10 business days)'
+  important:
+    title: 'Important'
+    note: 'Production lead times are additional to shipping times. Please contact us for exact production timelines based on your order quantity and complexity.'
+
+coverage:
+  title: 'Shipping Coverage'
+  description: 'We provide shipping services to over 150 countries worldwide. Our partner network offers swift delivery across the globe.'
+  globalOperationsTitle: 'Tideline Global Business Operations & Logistics'
+  businessRegions:
+    - title: 'China-Manufacturing Hub'
+      description: 'Modern garment factory with 10+ years of production and sales experience.'
+      icon: 'heroicons:building-office-20-solid'
+      color: 'red'
+    - title: 'USA-Fulfillment Center'
+      description: 'Overseas warehouse with stock, 3-5 days delivery to the local customers.'
+      icon: 'heroicons:building-storefront-20-solid'
+      color: 'blue'
+    - title: 'Europe & Australia'
+      description: 'Primary business regions serving diverse customer types.'
+      icon: 'heroicons:globe-europe-africa-20-solid'
+      color: 'green'
+    - title: 'Other Business Region'
+      description: 'Such as modest swimwear, which tailored to the local customers and preferences'
+      icon: 'heroicons:map-pin-20-solid'
+      color: 'purple'
+  mapTitle: 'TIDELINE SWIMWEAR IS WHERE YOUR CUSTOMERS ARE'
+  mapSubtitle: 'Our partner network offers swift delivery across the globe.'
+  regions:
+    - name: 'North America'
+      status: 'available'
+    - name: 'European Union'
+      status: 'available'
+    - name: 'Asia'
+      status: 'available'
+    - name: 'Africa'
+      status: 'limited'
+    - name: 'South America'
+      status: 'available'
+    - name: 'Australia & NZ'
+      status: 'available'
+  legend:
+    available: 'Available for Shipping'
+    limited: 'Limited/No Service'
+  note:
+    title: 'Note'
+    text: 'For specific country availability and any restrictions, please contact our shipping department: tidelineswim@swimsuitcustom.com'
+
+sidebar:
+  overview:
+    title: 'Shipping Overview'
+    description1: 'At TIDELINE SWIMWEAR, we understand that timely delivery is crucial for your business. Our comprehensive shipping solutions are designed to meet the diverse needs of our B2B clients worldwide.'
+    description2: 'We partner with leading global logistics providers to ensure your swimwear orders reach you safely and on time.'
+    keyFeatures: 'Key Features'
+    features: 'Global coverage, flexible shipping options, real-time tracking, and customs assistance.'
+  contact:
+    title: 'Need Help With Shipping?'
+    email: 'Email'
+    hours: 'Business Hours'
+    hoursTime: 'Mon-Fri: 9AM-6PM (EST)'
+    emergency: 'WhatsApp'
+  quickLinks:
+    title: 'Quick Links'
+    links:
+      - key: 'calculator'
+        text: 'Shipping Cost Calculator'
+        href: 'https://wa.me/8618302407790'
+        external: true
+      - key: 'customs'
+        text: 'Customs & Taxes Guide'
+        href: '#'
+        external: false
+      - key: 'documentation'
+        text: 'Customs Documentation'
+        href: '#'
+        external: false
+      - key: 'processing'
+        text: 'Processing Time Info'
+        href: '#'
+        external: false
+      - key: 'packaging'
+        text: 'Packaging Details'
+        href: '#'
+        external: false
+      - key: 'returns'
+        text: 'Returns & Exchanges'
+        href: '#'
+        external: false
+      - key: 'insurance'
+        text: 'Shipping Insurance'
+        href: '#'
+        external: false
+      - key: 'faq'
+        text: 'Shipping FAQ'
+        href: '#'
+        external: false
+      - key: 'policy'
+        text: 'Return Policy'
+        href: '#'
+        external: false
+  partners:
+    title: 'Our Shipping Partners'
+    description: 'We work with trusted global logistics providers:'
+    list:
+      - 'DHL Express'
+      - 'FedEx'
+      - 'UPS'

@@ -48,7 +48,7 @@
           :height="height || 800"
           :sizes="sizes || '100vw sm:50vw md:80vw lg:1600px'"
           loading="eager"
-          class="w-full h-full object-cover"
+          :class="imageClasses"
           fetchpriority="high"
           densities="x1 x2"
         />
@@ -105,6 +105,19 @@
     overlay?: string;
     // 向后兼容的 position 属性
     position?: 'center' | 'top-third';
+    // 图片显示模式控制
+    objectFit?: 'cover' | 'contain' | 'fill' | 'scale-down' | 'none';
+    // 图片位置控制
+    imagePosition?:
+      | 'center'
+      | 'top'
+      | 'bottom'
+      | 'left'
+      | 'right'
+      | 'top-left'
+      | 'top-right'
+      | 'bottom-left'
+      | 'bottom-right';
   }>();
 
   // 背景类名
@@ -123,7 +136,7 @@
 
   // 叠加层类名
   const overlayClass = computed(() => {
-    return props.overlay || 'bg-gray-900 opacity-20';
+    return props.overlay || 'bg-gray-900 opacity-50';
   });
 
   // 容器类名
@@ -165,6 +178,43 @@
       props.textColor === 'dark' ? 'text-gray-600' : 'text-white';
     return `${baseClasses} ${colorClass}`;
   });
+
+  // 图片显示类名
+  const imageClasses = computed(() => {
+    const objectFitClass = getObjectFitClass(props.objectFit || 'cover');
+    const positionClass = getObjectPositionClass(
+      props.imagePosition || 'center'
+    );
+    return `w-full h-full ${objectFitClass} ${positionClass}`;
+  });
+
+  // 获取 object-fit 类名
+  function getObjectFitClass(objectFit: string): string {
+    const fitMap: Record<string, string> = {
+      cover: 'object-cover',
+      contain: 'object-contain',
+      fill: 'object-fill',
+      'scale-down': 'object-scale-down',
+      none: 'object-none',
+    };
+    return fitMap[objectFit] || 'object-cover';
+  }
+
+  // 获取 object-position 类名
+  function getObjectPositionClass(position: string): string {
+    const positionMap: Record<string, string> = {
+      center: 'object-center',
+      top: 'object-top',
+      bottom: 'object-bottom',
+      left: 'object-left',
+      right: 'object-right',
+      'top-left': 'object-left-top',
+      'top-right': 'object-right-top',
+      'bottom-left': 'object-left-bottom',
+      'bottom-right': 'object-right-bottom',
+    };
+    return positionMap[position] || 'object-center';
+  }
 </script>
 
 <style scoped>

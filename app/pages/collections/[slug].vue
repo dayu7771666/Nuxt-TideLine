@@ -312,6 +312,7 @@
                 <CategoryContent
                   :title="category.name"
                   :items="category.products || []"
+                  :learn-more-href="category.href"
                   @inquire="handleInquire"
                   @details="handleDetails"
                 />
@@ -325,7 +326,7 @@
 </template>
 
 <script setup>
-  import { ref, computed, watch, onMounted, onUnmounted } from 'vue';
+  import { ref, computed, watch, onMounted } from 'vue';
   import {
     Dialog,
     DialogPanel,
@@ -413,82 +414,25 @@
     }
   );
 
-  // 节流函数
-  const throttle = (func, delay) => {
-    let timeoutId;
-    let lastExecTime = 0;
-    return function (...args) {
-      const currentTime = Date.now();
-
-      if (currentTime - lastExecTime > delay) {
-        func.apply(this, args);
-        lastExecTime = currentTime;
-      } else {
-        clearTimeout(timeoutId);
-        timeoutId = setTimeout(
-          () => {
-            func.apply(this, args);
-            lastExecTime = Date.now();
-          },
-          delay - (currentTime - lastExecTime)
-        );
-      }
-    };
-  };
-
-  // 监听滚动事件，更新活跃分类
-  const updateActiveCategory = () => {
-    const headerOffset = 70;
-    const scrollPosition = window.scrollY + headerOffset + 50; // 额外50px缓冲区
-
-    for (const category of subCategories.value) {
-      const element = document.getElementById(
-        `category-${category.name.replace(/\s+/g, '-').toLowerCase()}`
-      );
-      if (element) {
-        const elementTop = element.offsetTop;
-        const elementBottom = elementTop + element.offsetHeight;
-
-        if (scrollPosition >= elementTop && scrollPosition < elementBottom) {
-          activeCategory.value = category.name;
-          break;
-        }
-      }
-    }
-  };
-
-  // 节流版本的滚动处理函数
-  const throttledUpdateActiveCategory = throttle(updateActiveCategory, 100);
-
-  // 在组件挂载时添加滚动监听器
+  // 简化的初始化逻辑
   onMounted(() => {
-    // 初始化活跃分类
-    if (subCategories.value.length > 0) {
-      activeCategory.value = subCategories.value[0].name;
-    }
-
-    // 添加滚动监听器
-    window.addEventListener('scroll', throttledUpdateActiveCategory);
-
-    // 初始检查
-    updateActiveCategory();
-  });
-
-  // 在组件卸载时移除监听器
-  onUnmounted(() => {
-    window.removeEventListener('scroll', throttledUpdateActiveCategory);
+    // 不设置默认高亮，只有点击时才高亮
+    activeCategory.value = '';
   });
 
   // 选择分类的方法（用于跳转到对应分类区域）
   const selectCategory = categoryName => {
     mobileFiltersOpen.value = false;
 
+    // 设置当前活跃分类（点击时高亮）
+    activeCategory.value = categoryName;
+
     // 跳转到对应的分类区域，考虑固定头部的偏移
     const categoryElement = document.getElementById(
       `category-${categoryName.replace(/\s+/g, '-').toLowerCase()}`
     );
     if (categoryElement) {
-      const headerOffset = 70; // h-16 = 64px
+      const headerOffset = 70; // h-16= 64px
       const elementPosition = categoryElement.getBoundingClientRect().top;
       const offsetPosition =
         elementPosition + window.pageYOffset - headerOffset;

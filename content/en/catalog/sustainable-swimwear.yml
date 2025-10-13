@@ -1,0 +1,113 @@
+title: 'Sustainable Swimwear Manufacturers'
+subtitle: 'More than a supplier — your swimwear brand-building partner.'
+seo_title: 'Sustainable Swimwear Manufacturers'
+seo_description: 'Wholesale sustainable swimwear, using eco-friendly materials and low-carbon production processes, offering high-performance, comfortable, and durable swimwear, helping brands move towards a greener future.'
+
+# Hero section
+hero:
+  title: 'Sustainable Swimwear Manufacturers'
+  subtitle: 'More than a supplier — your swimwear brand-building partner.'
+  cta_text: 'Consultation'
+  cta_href: '/contact'
+  image_src: '/catalog/sustainable-swimwear-bg.webp'
+  image_alt: 'Sustainable Swimwear Manufacturing'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Our Mission'
+  paragraph1: 'At TideLine Swimwear, we are committed to creating sustainable swimwear that respects both people and the planet. Our eco-friendly collections use recycled and responsibly sourced fabrics, combined with mindful production practices, ensuring high-quality swimwear that minimizes environmental impact while providing comfort and durability.'
+  whatsapp_link_text: 'Contact Us on WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experience in the Swimwear Industry'
+    value: '10 years +'
+  - label: 'Orders Fulfilled'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Recycled Bikinis'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/recycled-bikini-1.webp'
+    imageAlt: 'Recycled Bikinis Collection'
+  - name: 'Eco One-Piece'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/eco-onepiece-1.webp'
+    imageAlt: 'Eco One-Piece Collection'
+  - name: 'Organic Swimwear'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/organic-1.webp'
+    imageAlt: 'Organic Swimwear Collection'
+  - name: 'Biodegradable Suits'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/biodegradable-1.webp'
+    imageAlt: 'Biodegradable Suits Collection'
+
+# Customization capabilities
+customization:
+  title: 'Customization Capabilities'
+  description: 'Fully customizable swimwear—TideLine accepts all custom designs, fabrics, hardware, logos, and packaging to bring your brand vision to life.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Manufacturing Facility'
+  hero_image_width: '1000'
+  features:
+    - name: 'Style Customization'
+      description: 'Bring any swimwear design to life—choose your perfect style and let us craft it for your brand.'
+      link: '/contact'
+      cta_text: 'Consultation'
+    - name: 'Fabric Customization'
+      description: 'Choose from a wide range of fabrics to create swimwear that is comfortable to wear and looks beautiful.'
+      link: '/fabric'
+      cta_text: 'Fabric'
+    - name: 'Hardware Customization'
+      description: 'Customize every detail—from buckles and rings to zippers—our hardware options elevate your design.'
+      link: '/hardware'
+      cta_text: 'Hardware'
+    - name: 'Logo Customization'
+      description: 'Make it truly yours—add your logo to each piece for a professional branded look.'
+    - name: 'Packaging Customization'
+      description: 'Complete your brand experience with packaging tailored to your style and vision.'
+    - name: 'Contact Us'
+      description: "Ready? Let's turn your swimwear ideas into reality."
+      link: '/contact'
+      cta_text: 'Contact Us'
+
+# Getting Started section
+getting_started:
+  title: 'Your swimwear journey starts here'
+  description: "Whether you're launching your first collection or scaling your brand, TideLine provides tailored swimwear solutions to meet your needs. Choose your path and get started."
+  beginner_text: 'Get Started as a Beginner'
+  beginner_href: '/startup'
+  pro_text: 'Experienced Buyer'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Manufacturing Process'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Frequently Asked Questions'
+  questions:
+    - id: 1
+      question: 'What is sustainable swimwear?'
+      answer: 'Sustainable swimwear is made from eco-friendly materials and low-carbon production processes, aiming to reduce the negative environmental impact. It typically uses recycled plastic fibers (such as RPET), organic cotton, natural fibers, and minimizes water and electricity consumption while avoiding harmful dyes to reduce the carbon footprint.'
+    - id: 2
+      question: 'What materials are used in your sustainable swimwear?'
+      answer: 'We use a variety of eco-friendly materials to produce sustainable swimwear, including recycled plastic fibers (RPET), natural seaweed fibers, biodegradable nylon, and organic cotton. These materials offer good comfort, durability, and elasticity while helping to reduce environmental pollution and resource consumption.'
+    - id: 3
+      question: 'Is sustainable swimwear more expensive than traditional swimwear?'
+      answer: 'Due to the use of eco-friendly materials and advanced production processes, sustainable swimwear tends to be more expensive than traditional swimwear. However, as sustainable trends continue to develop, the costs of sourcing eco-friendly materials and production methods are gradually decreasing. We strive to offer competitive prices while maintaining environmental standards.'
+    - id: 4
+      question: 'How do you ensure the quality of sustainable swimwear?'
+      answer: 'Although we use eco-friendly materials, each piece of sustainable swimwear undergoes strict quality control to ensure it meets high standards of comfort, durability, and functionality. The eco-friendly fabrics we select are tested to ensure their performance in water, durability, and comfort, matching or exceeding that of traditional materials.'
+    - id: 5
+      question: 'What is the production process for your sustainable swimwear?'
+      answer: 'Our sustainable swimwear production processes focus on low-carbon and resource-saving manufacturing, minimizing water and electricity consumption. We carefully select dyes to ensure they are non-toxic and environmentally friendly, avoiding harmful chemicals. Waste materials from the production process are treated and recycled to minimize waste.'
+    - id: 6
+      question: 'Do you offer customized sustainable swimwear?'
+      answer: "Yes, we offer fully customized sustainable swimwear. Whether it's fabric, design, color, or brand logo, we can customize according to your requirements to ensure each piece of swimwear aligns with your brand philosophy and environmental commitments."
+    - id: 7
+      question: 'How should sustainable swimwear be maintained and cleaned?'
+      answer: 'The maintenance of sustainable swimwear is similar to traditional swimwear. We recommend hand washing in cold water and avoiding bleach. To extend the life of the swimwear, avoid direct sunlight and tumble dryers, and lay the swimwear flat to dry. Regular cleaning and proper care will help maintain comfort and extend the lifespan of the swimwear.'

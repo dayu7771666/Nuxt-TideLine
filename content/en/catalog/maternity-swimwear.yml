@@ -1,0 +1,113 @@
+title: 'Maternity Swimwear Suppliers'
+subtitle: 'More than a supplier — your swimwear brand-building partner.'
+seo_title: 'Maternity Swimwear Suppliers'
+seo_description: 'Find high-quality, comfortable, and stylish maternity swimwear from our expert suppliers. Perfect for expectant mothers, each piece offers support and style.'
+
+# Hero section
+hero:
+  title: 'Maternity Swimwear Suppliers'
+  subtitle: 'More than a supplier — your swimwear brand-building partner.'
+  cta_text: 'Consultation'
+  cta_href: '/contact'
+  image_src: '/catalog/maternity-swimwear-bg.webp'
+  image_alt: 'Maternity Swimwear Manufacturing'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Our Mission'
+  paragraph1: 'At TideLine Swimwear, we know that maternity swimwear requires the perfect balance of comfort and support for expecting mothers. Each season, our factory team develops collections designed with soft, flexible fabrics and thoughtful fits—providing wholesalers and brand owners with market-ready options that help women feel confident and comfortable throughout every stage of pregnancy.'
+  whatsapp_link_text: 'Contact Us on WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experience in the Swimwear Industry'
+    value: '10 years +'
+  - label: 'Orders Fulfilled'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Maternity One-Piece'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/one-piece-1.webp'
+    imageAlt: 'Maternity One-Piece Swimwear Collection'
+  - name: 'Maternity Tankinis'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/tankini-1.webp'
+    imageAlt: 'Maternity Tankinis Collection'
+  - name: 'Nursing Swimwear'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/nursing-1.webp'
+    imageAlt: 'Nursing Swimwear Collection'
+  - name: 'Maternity Cover-Ups'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/cover-up-1.webp'
+    imageAlt: 'Maternity Cover-Ups Collection'
+
+# Customization capabilities
+customization:
+  title: 'Customization Capabilities'
+  description: 'Fully customizable swimwear—TideLine accepts all custom designs, fabrics, hardware, logos, and packaging to bring your brand vision to life.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Manufacturing Facility'
+  hero_image_width: '1000'
+  features:
+    - name: 'Style Customization'
+      description: 'Bring any swimwear design to life—choose your perfect style and let us craft it for your brand.'
+      link: '/contact'
+      cta_text: 'Consultation'
+    - name: 'Fabric Customization'
+      description: 'Choose from a wide range of fabrics to create swimwear that is comfortable to wear and looks beautiful.'
+      link: '/fabric'
+      cta_text: 'Fabric'
+    - name: 'Hardware Customization'
+      description: 'Customize every detail—from buckles and rings to zippers—our hardware options elevate your design.'
+      link: '/hardware'
+      cta_text: 'Hardware'
+    - name: 'Logo Customization'
+      description: 'Make it truly yours—add your logo to each piece for a professional branded look.'
+    - name: 'Packaging Customization'
+      description: 'Complete your brand experience with packaging tailored to your style and vision.'
+    - name: 'Contact Us'
+      description: "Ready? Let's turn your swimwear ideas into reality."
+      link: '/contact'
+      cta_text: 'Contact Us'
+
+# Getting Started section
+getting_started:
+  title: 'Your swimwear journey starts here'
+  description: "Whether you're launching your first collection or scaling your brand, TideLine provides tailored swimwear solutions to meet your needs. Choose your path and get started."
+  beginner_text: 'Get Started as a Beginner'
+  beginner_href: '/startup'
+  pro_text: 'Experienced Buyer'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Manufacturing Process'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Frequently Asked Questions'
+  questions:
+    - id: 1
+      question: 'What are the special design requirements for maternity swimwear?'
+      answer: "The design requirements for maternity swimwear mainly focus on comfort, support, and adaptability. They typically use highly elastic fabrics that can adjust to the changing shape of a woman's body during pregnancy. The design should also provide support for the abdomen, non-pressure shoulder straps, and comfortable crotch designs to ensure the pregnant woman's comfort while moving in the water."
+    - id: 2
+      question: 'What materials are used in maternity swimwear?'
+      answer: 'Maternity swimwear is typically made from highly elastic, breathable fabrics such as Lycra, nylon, and spandex. These fabrics have excellent stretchability, adapting to the body changes during pregnancy while ensuring comfort and support. We also ensure that the materials used are non-toxic and safe for sensitive skin.'
+    - id: 3
+      question: 'Does maternity swimwear need to provide sun protection?'
+      answer: "Yes, it is best for maternity swimwear to have UV protection (UPF), especially when used in outdoor pools or on the beach. Our maternity swimwear designs consider this by using fabrics with sun protection to shield expectant mothers' skin from harmful UV rays."
+    - id: 4
+      question: 'How is the safety and comfort of maternity swimwear ensured?'
+      answer: 'Maternity swimwear is designed with a strong focus on safety and comfort. We use non-toxic, eco-friendly fabrics and ensure that the cuts and designs of the swimwear do not apply pressure, especially around the abdomen and chest areas. The support design also takes into account the changes that occur during pregnancy, providing full support.'
+    - id: 5
+      question: 'Is maternity swimwear suitable for post-partum use?'
+      answer: 'Yes, many maternity swimwear designs are also suitable for post-partum use. Because they use highly elastic fabrics, they can adapt to the recovery period and offer a comfortable fit. For mothers who need to breastfeed, we also offer specially designed nursing styles that make breastfeeding easier.'
+    - id: 6
+      question: 'Can maternity swimwear be customized?'
+      answer: 'Yes, we offer customization services and can manufacture maternity swimwear according to your brand needs and design ideas. You can choose the style, color, fabric, and even print logos or designs on the swimwear to ensure your products are unique and meet market demand.'
+    - id: 7
+      question: 'What is the minimum order quantity for maternity swimwear?'
+      answer: 'The minimum order quantity (MOQ) for maternity swimwear varies depending on the design and materials used. In general, we offer flexible production options for customers with small order quantities or those in the startup phase. The MOQ typically ranges from 100 to 500 pieces, but the exact quantity can be adjusted according to your needs.'

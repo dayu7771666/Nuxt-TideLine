@@ -1,0 +1,242 @@
+seo:
+  title: 'Professional Swimwear Size Guide'
+  description: 'Comprehensive size guides and e-commerce optimization tools for B2B partners and online retailers. Expert measurement guides, body type identification, and platform-specific sizing strategies.'
+  keywords: 'swimwear size guide, swimsuit sizing, bikini size chart, one-piece sizing, body measurements, cup size guide, e-commerce sizing tools, TikTok shop sizing, Shopify size chart, women swimwear sizes'
+  ogImage: '/sizeguide/sizeguide-hero.webp'
+  twitterCard: 'summary_large_image'
+
+hero:
+  title: 'Professional Swimwear Sizing Solutions'
+  description: 'Comprehensive size guides and e-commerce optimization tools for B2B partners and online retailers'
+  image: '/sizeguide/sizeguide-hero.webp'
+  alt: 'Professional Swimwear Sizing Solutions'
+  ctaButton: 'Get Expert Sizing Consultation'
+  ctaLink: '#consultation'
+
+measurementGuide:
+  title: 'How to Measure Correctly'
+  description: 'Use a measuring tape and hold the tape securely around key points for accurate measurements.'
+  measurements:
+    - icon: 'fas fa-tshirt'
+      title: 'Bust'
+      description: 'Measure over the fullest area of the bust and straight around the back.'
+    - icon: 'fas fa-arrows-alt-v'
+      title: 'Underbust'
+      description: 'Measure directly under the bust and straight around the back.'
+    - icon: 'fas fa-minus'
+      title: 'Waist'
+      description: 'The waist is below the abdomen between the ribcage and hips.'
+    - icon: 'fas fa-arrows-alt-h'
+      title: 'Hip'
+      description: 'Measure the fullest part of the hip ensuring the tape is straight around the body.'
+  tip:
+    title: 'Professional Fitting Tip'
+    description: 'Swimwear fabrics typically have 15-20% stretch. We recommend selecting size based on the larger measurement between bust and hips. If between sizes, choose the larger one for comfort and better coverage.'
+
+bodyTypes:
+  title: 'Find Your Perfect Fit'
+  description: 'See how to measure different body types correctly with our interactive measurement guides.'
+  types:
+    - name: 'Hourglass Figure'
+      description: 'Balanced bust and hips with defined waist'
+      gradient: 'from-pink-200 to-pink-300'
+      borderRadius: '40% 40% 50% 50%'
+      measurements:
+        bust: '36" (91cm)'
+        underbust: '31" (79cm)'
+        waist: '28" (71cm)'
+        hips: '38" (97cm)'
+      recommendedSize: 'Medium'
+      cupSize: 'C'
+    - name: 'Pear Shape'
+      description: 'Narrow shoulders, wider hips'
+      gradient: 'from-blue-200 to-blue-300'
+      borderRadius: '35% 35% 55% 55%'
+      measurements:
+        bust: '34" (86cm)'
+        underbust: '29" (74cm)'
+        waist: '30" (76cm)'
+        hips: '40" (102cm)'
+      recommendedSize: 'Medium (top)<br>Large (bottom)'
+      cupSize: 'B'
+    - name: 'Rectangle Shape'
+      description: 'Straight silhouette with minimal waist definition'
+      gradient: 'from-green-200 to-green-300'
+      borderRadius: '40% 40% 45% 45%'
+      measurements:
+        bust: '35" (89cm)'
+        underbust: '30" (76cm)'
+        waist: '32" (81cm)'
+        hips: '36" (91cm)'
+      recommendedSize: 'Small'
+      cupSize: 'B'
+  tip:
+    title: 'Measurement Instructions'
+    description: 'Hover over the measurement points on each body type to see the correct measurement locations and typical measurements for that body shape. Use these as a reference when measuring yourself or your customers.'
+
+bodyTypeIdentification:
+  title: 'How to identify your body shape?'
+  image: '/sizeguide/sizeguide-type.webp'
+  imageAlt: 'Body Type Guide'
+  description: 'To How to identify your body shape?, take these measurements:'
+  measurements:
+    - label: 'Waist'
+      description: 'Measure at the narrowest part, just above your navel.'
+    - label: 'Hips'
+      description: 'Measure around the fullest part, below your hip bone.'
+    - label: 'Bust'
+      description: 'Measure around the fullest part of your chest.'
+    - label: 'Shoulders'
+      description: 'Measure across the top of your shoulder blades.'
+  note:
+    title: 'Note'
+    description: 'Compare the proportions of these measurements to identify your body type. For confirmation, you can also use an online body shape calculator by entering your numbers.'
+
+sizeGuides:
+  title: 'Size Guides by Category'
+  description: 'Select a category below to view detailed size charts and fitting recommendations.'
+  tabs:
+    - id: 'womens-swim'
+      name: "Women's Swim"
+      icon: 'fas fa-female'
+    - id: 'mens-swim'
+      name: "Men's Swim"
+      icon: 'fas fa-male'
+    - id: 'girls-swim'
+      name: "Girls' Swim"
+      icon: 'fas fa-child'
+    - id: 'womens-active'
+      name: "Women's Active"
+      icon: 'fas fa-running'
+  womensSwim:
+    title: "Women's Swimwear Sizing"
+    description: "Comprehensive sizing guide for our women's swimwear collection, including one-piece swimsuits, bikinis, and tankinis."
+    sizeChart:
+      headers:
+        - 'Size'
+        - 'Bust (cm/in)'
+        - 'Underbust (cm/in)'
+        - 'Cup'
+        - 'Waist (cm/in)'
+        - 'Hips (cm/in)'
+        - 'US'
+        - 'AU/UK'
+      sizes:
+        - size: 'S'
+          bust: '82-86 / 32-34'
+          underbust: '68-72 / 27-28'
+          cup: 'A-B'
+          waist: '64-68 / 25-27'
+          hips: '88-92 / 34.5-36'
+          us: '4-6'
+          ukAu: '8-10'
+        - size: 'M'
+          bust: '87-91 / 34-36'
+          underbust: '73-77 / 29-30'
+          cup: 'B-C'
+          waist: '69-73 / 27-29'
+          hips: '93-97 / 36.5-38'
+          us: '8-10'
+          ukAu: '12-14'
+        - size: 'L'
+          bust: '92-96 / 36-38'
+          underbust: '78-82 / 31-32'
+          cup: 'C-D'
+          waist: '74-78 / 29-31'
+          hips: '98-102 / 38.5-40'
+          us: '12-14'
+          ukAu: '16-18'
+        - size: 'XL'
+          bust: '97-101 / 38-40'
+          underbust: '83-87 / 33-34'
+          cup: 'D-DD'
+          waist: '79-83 / 31-33'
+          hips: '103-107 / 40.5-42'
+          us: '16-18'
+          ukAu: '20-22'
+    cupSizeGuide:
+      title: 'Cup Size Guide'
+      headers:
+        - 'Cup Size'
+        - 'Bust - Underbust Difference (cm)'
+        - 'Bust - Underbust Difference (inches)'
+      sizes:
+        - cup: 'A'
+          diffCm: '10-12 cm'
+          diffInch: '4-5 inches'
+        - cup: 'B'
+          diffCm: '13-14 cm'
+          diffInch: '5-5.5 inches'
+        - cup: 'C'
+          diffCm: '15-16 cm'
+          diffInch: '6-6.5 inches'
+        - cup: 'D'
+          diffCm: '17-18 cm'
+          diffInch: '7-7.5 inches'
+        - cup: 'DD/E'
+          diffCm: '19-20 cm'
+          diffInch: '8-8.5 inches'
+
+platformOptimization:
+  title: 'Platform Optimization Strategies & Tools'
+  description: 'Maximize your sales with our platform-specific sizing optimization tools and strategies.'
+  platforms:
+    - name: 'TikTok Shop'
+      subtitle: 'Live Sales Optimization'
+      icon: 'fab fa-tiktok'
+      description: 'Master TikTok live sales with our proven sizing strategies.'
+      features:
+        - 'Live stream sizing scripts'
+        - 'Visual size comparison templates'
+        - 'Comment response templates'
+        - 'Sizing-focused video content ideas'
+      ctaText: 'Get TikTok Tools'
+      ctaLink: '#'
+    - name: 'Shopify'
+      subtitle: 'Size Recommendation Apps'
+      icon: 'fab fa-shopify'
+      description: 'Enhance your Shopify store with interactive sizing solutions.'
+      features:
+        - 'Size recommendation app integration'
+        - 'Custom size chart widgets'
+        - 'Mobile-optimized sizing interfaces'
+        - 'Size filter optimization'
+      ctaText: 'Get Shopify Tools'
+      ctaLink: '#'
+    - name: 'Multi-Channel'
+      subtitle: 'Cross-Platform Solutions'
+      icon: 'fas fa-store'
+      description: 'Consistent sizing experience across all your sales channels.'
+      features:
+        - 'Unified size chart system'
+        - 'Bulk upload templates'
+        - 'API integration for size data'
+        - 'Multi-language size guides'
+      ctaText: 'Get Multi-Channel Tools'
+      ctaLink: '#'
+  tip:
+    title: 'Platform Optimization Tip'
+    description: "Optimize profitability and operational efficiency: Our tailored sizing solution directly tackles the swimwear industry's top challenges, minimizing costly returns and inventory write-offs due to sizing issues."
+
+consultation:
+  title: 'Need Custom Sizing Solutions?'
+  description: 'Our sizing experts can help you optimize product listings, create custom size charts, or develop tailored sizing strategies for your specific market.'
+  image: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'
+  primaryButton:
+    text: 'Get Professional Sizing Consultation'
+    link: ''
+  secondaryButton:
+    text: 'Request Custom Size Tools'
+    link: '#'
+  contact:
+    email: 'tidelineswim@swimsuitcustom.com'
+  features:
+    - icon: 'fas fa-user-tie'
+      title: 'Expert Consultation'
+      description: 'One-on-one guidance from our sizing specialists'
+    - icon: 'fas fa-edit'
+      title: 'Custom Size Charts'
+      description: 'Tailored sizing solutions for your specific audience'
+    - icon: 'fas fa-images'
+      title: 'Marketing Assets'
+      description: 'Professional sizing images and measurement guides'

@@ -1,0 +1,108 @@
+title: "Women's Swimwear Manufacturer"
+subtitle: 'More than a supplier — your swimwear brand-building partner.'
+seo_title: "Women's Swimwear Manufacturer"
+seo_description: 'Easily launch your swimwear collection.'
+
+# Hero section
+hero:
+  title: "Women's Swimwear Manufacturer"
+  subtitle: 'More than a supplier — your swimwear brand-building partner.'
+  cta_text: 'Consultation'
+  cta_href: '/contact'
+  image_src: '/catalog/women-swimwear.webp'
+  image_alt: ''
+  image_width: '900px'
+
+# Mission section
+mission:
+  title: 'Our Mission'
+  paragraph1: "At TideLine Swimwear, we know that women's swimwear is one of the most dynamic categories in fashion. Every year, our design team develops fresh, trend-driven collections that reflect the latest global styles—whether it's sleek one-piece swimsuits, chic bikinis, or versatile tankinis."
+  paragraph2_with_link: 'Ready to start your order or explore our full catalog? {0} today and our team will provide personalized recommendations, pricing, and samples—fast and hassle-free.'
+  whatsapp_link_text: 'Contact Us on WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experience in the Swimwear Industry'
+    value: '10 years +'
+  - label: 'Orders Fulfilled'
+    value: '1,000,000+'
+
+# Product categories
+product_range:
+  title: "Women's Swimwear Collections"
+  description: 'Explore Our Carefully Curated Swimwear Collection'
+  more_text: 'Browse All Products'
+  categories:
+    - name: 'Bikinis'
+      href: '/category?type=women&subtype=bikini'
+      image_src: '/women-swimwear/bikinis/bikinis-1.webp'
+    - name: 'One-Piece Swimsuit'
+      href: '/category?type=women&subtype=one-piece'
+      image_src: '/women-swimwear/one-piece/one-piece-1.webp'
+    - name: 'Tankini'
+      href: '/category?type=women&subtype=tankini'
+      image_src: '/women-swimwear/tankini/tankini-10.webp'
+    - name: 'Beach Cover-Up'
+      href: '/category?type=women&subtype=cover-up'
+      image_src: '/women-swimwear/beach/beach-2.webp'
+
+# Customization capabilities
+customization:
+  title: 'Customization Capabilities'
+  description: 'Fully customizable swimwear—TideLine accepts all custom designs, fabrics, hardware, logos, and packaging to bring your brand vision to life.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: ''
+  hero_image_width: '1000px'
+  features:
+    - name: 'Style Customization'
+      description: 'Bring any swimwear design to life—choose your perfect style and let us craft it for your brand.'
+      link: '/contact'
+      cta_text: 'Consultation'
+    - name: 'Fabric Customization'
+      description: 'Choose from a wide range of fabrics to create swimwear that is comfortable to wear and looks beautiful.'
+      link: '/fabric'
+      cta_text: 'Fabric'
+    - name: 'Hardware Customization'
+      description: 'Customize every detail—from buckles and rings to zippers—our hardware options elevate your design.'
+      link: '/hardware'
+      cta_text: 'Hardware'
+    - name: 'Logo Customization'
+      description: 'Make it truly yours—add your logo to each piece for a professional branded look.'
+    - name: 'Packaging Customization'
+      description: 'Complete your brand experience with packaging tailored to your style and vision.'
+    - name: 'Contact Us'
+      description: "Ready? Let's turn your swimwear ideas into reality."
+      link: '/contact'
+      cta_text: 'Contact Us'
+
+# Getting started section
+getting_started:
+  title: 'Your swimwear journey starts here'
+  description: "Whether you're launching your first collection or scaling your brand, TideLine provides tailored swimwear solutions to meet your needs. Choose your path and get started."
+  beginner_text: 'Get Started as a Beginner'
+  beginner_href: '/startup'
+  pro_text: 'Experienced Buyer'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: ''
+  image_width: '1000px'
+
+# FAQ section
+faq:
+  title: 'Frequently asked questions'
+  questions:
+    - id: 1
+      question: "What is the minimum order quantity for women's swimwear wholesale?"
+      answer: 'Our minimum order quantity (MOQ) starts at 30 pieces per style and size, making it flexible for small and medium swimwear brands.'
+    - id: 2
+      question: 'Can I customize the swimwear designs and fabrics?'
+      answer: 'Yes! We offer fully customizable swimwear, including designs, fabrics, logos, and packaging, to help your brand stand out in the market.'
+    - id: 3
+      question: 'How long does it take to produce bulk swimwear orders?'
+      answer: 'Typically, samples are ready within 10 days, and bulk orders are shipped within 30 days, depending on quantity and customization requirements.'
+    - id: 4
+      question: 'Do you offer eco-friendly or sustainable swimwear options?'
+      answer: 'Absolutely. We provide a range of eco-friendly fabrics and sustainable production methods for brands that prioritize environmental responsibility.'
+    - id: 5
+      question: 'How can I get a detailed quote for wholesale orders?'
+      answer: 'You can contact our team via WhatsApp or email, provide your desired styles, sizes, and fabrics, and we will send a full quotation, fabric catalog, and professional guidance.'

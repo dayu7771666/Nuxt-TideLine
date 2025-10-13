@@ -1,20 +1,40 @@
 <template>
   <div class="space-y-4">
-    <!-- 标题和下划线 -->
-    <div class="">
+    <!-- 标题和Learn More链接 -->
+    <div class="flex items-center justify-between">
       <h3 class="text-2xl font-bold text-gray-900">
         {{ title }}
       </h3>
+      <NuxtLink
+        v-if="learnMoreHref"
+        :to="learnMoreHref"
+        class="text-blue-600 hover:text-blue-800 text-sm font-medium transition-colors duration-200 flex items-center group"
+      >
+        <span>{{ $t('Learn More') }}</span>
+        <svg
+          class="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform duration-200"
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M9 5l7 7-7 7"
+          ></path>
+        </svg>
+      </NuxtLink>
     </div>
 
     <!-- 商品展示区域 -->
     <div
-      class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3"
+      class="flex gap-4 overflow-x-auto pb-4 md:grid md:grid-cols-2 lg:grid-cols-3 md:overflow-x-visible md:pb-0 scrollbar-hide"
     >
       <div
         v-for="item in items"
         :key="item.id"
-        class="group relative overflow-hidden rounded-lg border border-gray-200 bg-white shadow-sm hover:shadow-md transition-shadow duration-200 flex flex-col"
+        class="group relative overflow-hidden rounded-lg border border-gray-200 bg-white shadow-sm hover:shadow-md transition-shadow duration-200 flex flex-col flex-shrink-0 w-72 md:w-auto md:flex-shrink"
       >
         <!-- 商品图片 -->
         <div class="aspect-square w-full overflow-hidden bg-gray-200">
@@ -92,6 +112,10 @@
       type: Array,
       default: () => [],
     },
+    learnMoreHref: {
+      type: String,
+      default: null,
+    },
   });
 
   // 定义 emits
@@ -107,3 +131,15 @@
     emit('details', item);
   };
 </script>
+
+<style scoped>
+  /* 隐藏滚动条但保持滚动功能 */
+  .scrollbar-hide {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none; /* Chrome, Safari and Opera */
+  }
+</style>

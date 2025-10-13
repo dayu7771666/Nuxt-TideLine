@@ -1,0 +1,99 @@
+hero:
+  title: 'Premium Fabric Selection for Superior Swimwear'
+  description: 'Discover our curated collection of high-performance fabrics designed specifically for swimwear. From sustainable materials to UV-protective textiles, we source only the finest quality fabrics for your brand.'
+  alt: 'Premium Swimwear Fabrics'
+  ctaButton: 'Explore Our Fabric Catalog'
+  ctaLink: '#catalog'
+
+features:
+  title: 'Why Our Fabrics Stand Out'
+  description: 'We partner with leading mills worldwide to bring you innovative, high-quality fabrics that meet the demanding requirements of swimwear production.'
+  items:
+    - id: 1
+      title: 'Performance Tested'
+      description: 'Every fabric undergoes rigorous testing for chlorine resistance, UV protection, colorfastness, and stretch recovery to ensure lasting quality.'
+      icon: 'ShieldCheckIcon'
+    - id: 2
+      title: 'Sustainable Options'
+      description: 'Choose from eco-friendly materials including recycled nylon, ECONYL®, and OEKO-TEX® certified fabrics that reduce environmental impact without compromising performance.'
+      icon: 'SparklesIcon'
+    - id: 3
+      title: 'Technical Specifications'
+      description: 'Detailed technical data sheets for each fabric including composition, weight, stretch percentage, and care instructions to help you make informed decisions.'
+      icon: 'DocumentTextIcon'
+
+catalog:
+  title: 'Browse Our Fabric Collections'
+  description: 'Download our comprehensive fabric catalogs to explore detailed specifications, color ranges, and technical properties. Each catalog includes samples and performance data.'
+  viewButtonText: 'View Catalog'
+  note: 'Need physical swatches or custom fabric development? Contact our fabric specialists for personalized assistance.'
+  pdfs:
+    - title: 'Polyester Fabric Collection'
+      description: 'High-performance polyester blends perfect for active swimwear, offering excellent shape retention and quick-dry properties.'
+      file: '/pdf/TideLine Polyester Fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'Quick-dry technology'
+        - 'Excellent shape retention'
+        - 'Chlorine resistant'
+      gradient: 'bg-gradient-to-br from-blue-500/10 to-cyan-500/10'
+      iconBg: 'bg-gradient-to-br from-blue-600 to-cyan-600'
+      buttonClass: 'bg-blue-600 text-white hover:bg-blue-700'
+      accentLine: 'bg-gradient-to-r from-blue-600 to-cyan-600'
+
+    - title: 'Sustainable Fabric Collection'
+      description: 'Eco-conscious materials including recycled polyester and ECONYL® regenerated nylon, combining sustainability with performance.'
+      file: '/pdf/Tideline Sustainable Fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'Recycled materials'
+        - 'OEKO-TEX® certified'
+        - 'Reduced carbon footprint'
+      gradient: 'bg-gradient-to-br from-green-500/10 to-emerald-500/10'
+      iconBg: 'bg-gradient-to-br from-green-600 to-emerald-600'
+      buttonClass: 'bg-green-600 text-white hover:bg-green-700'
+      accentLine: 'bg-gradient-to-r from-green-600 to-emerald-600'
+
+    - title: 'UV Protection Fabric Collection'
+      description: 'Advanced UV-blocking fabrics with UPF 50+ protection, ideal for performance swimwear and sun-protective garments.'
+      file: '/pdf/TideLine UV Fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'UPF 50+ protection'
+        - 'Fade resistant'
+        - 'Moisture-wicking'
+      gradient: 'bg-gradient-to-br from-purple-500/10 to-pink-500/10'
+      iconBg: 'bg-gradient-to-br from-purple-600 to-pink-600'
+      buttonClass: 'bg-purple-600 text-white hover:bg-purple-700'
+      accentLine: 'bg-gradient-to-r from-purple-600 to-pink-600'
+
+whyChoose:
+  title: 'Why Choose Our Fabric Selection?'
+  description: 'Our fabric procurement process is designed to ensure you receive materials that meet the highest standards for swimwear production.'
+  reasons:
+    - title: 'Direct Mill Partnerships'
+      description: 'We work directly with certified mills, eliminating middlemen to offer competitive pricing without compromising on quality.'
+    - title: 'Quality Assurance'
+      description: 'Every fabric batch is inspected and tested to meet stringent quality standards for swimwear manufacturing.'
+    - title: 'Fast Lead Times'
+      description: 'With strategic inventory management and reliable supply chains, we ensure timely delivery for your production schedule.'
+    - title: 'Technical Support'
+      description: 'Our fabric specialists provide expert guidance on material selection, compatibility with your designs, and production requirements.'
+    - title: 'Minimum Order Flexibility'
+      description: 'Whether you need small quantities for sampling or large volumes for production, we accommodate various order sizes.'
+    - title: 'Color Customization'
+      description: 'Access to extensive color libraries and custom dyeing services to match your exact brand specifications.'
+
+cta:
+  title: 'Ready to Select Your Fabrics?'
+  description: 'Let our fabric experts help you choose the perfect materials for your swimwear collection. Request swatches, technical data, or schedule a consultation.'
+  button: 'Contact Fabric Specialists'
+  link: '/contact'
+
+seo:
+  title: 'Premium Swimwear Fabrics | High-Performance Materials | Tideline'
+  description: 'Browse our comprehensive collection of premium swimwear fabrics including polyester blends, sustainable materials, and UV-protective textiles. Download fabric catalogs and technical specifications.'
+  ogTitle: 'Premium Swimwear Fabrics & Materials | Tideline'
+  ogDescription: 'Discover high-performance fabrics for swimwear manufacturing. Sustainable options, UV protection, and technical specifications available.'
+  ogImage: '/fabric-hero.webp'
+  twitterCard: 'summary_large_image'

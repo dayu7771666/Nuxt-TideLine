@@ -1,0 +1,117 @@
+title: 'Custom Swimwear Manufacturer'
+subtitle: 'More than a supplier — your swimwear brand-building partner.'
+seo_title: 'Custom Swimwear Manufacturer'
+seo_description: 'Professional custom swimwear manufacturing services. From design to production, we bring your unique swimwear vision to life with premium quality and personalized service.'
+
+# Hero section
+hero:
+  title: 'Custom Swimwear Manufacturer'
+  subtitle: 'More than a supplier — your swimwear brand-building partner.'
+  cta_text: 'Start Your Custom Design'
+  cta_href: '/contact'
+  image_src: '/catalog/custom-swimwear-bg.webp'
+  image_alt: 'Custom Swimwear Manufacturing'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Our Mission'
+  paragraph1: 'At TideLine Swimwear, we specialize in bringing your unique swimwear vision to life. Our custom manufacturing services cover every aspect of production—from initial design concepts to final packaging—ensuring your brand stands out with distinctive, high-quality swimwear that perfectly reflects your style and values.'
+  whatsapp_link_text: 'Contact Us on WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experience in the Swimwear Industry'
+    value: '10 years +'
+  - label: 'Custom Orders Fulfilled'
+    value: '50,000+'
+
+# Product categories
+categories:
+  - name: 'Custom Bikinis'
+    href: '/category?type=custom&subtype=bikini'
+    imageSrc: '/custom-swimwear/custom-bikini-1.webp'
+    imageAlt: 'Custom Bikinis Collection'
+  - name: 'Custom One-Piece'
+    href: '/category?type=custom&subtype=one-piece'
+    imageSrc: '/custom-swimwear/custom-onepiece-1.webp'
+    imageAlt: 'Custom One-Piece Collection'
+  - name: 'Custom Tankinis'
+    href: '/category?type=custom&subtype=tankini'
+    imageSrc: '/custom-swimwear/custom-tankini-1.webp'
+    imageAlt: 'Custom Tankinis Collection'
+  - name: 'Custom Cover-Ups'
+    href: '/category?type=custom&subtype=cover-up'
+    imageSrc: '/custom-swimwear/custom-coverup-1.webp'
+    imageAlt: 'Custom Cover-Ups Collection'
+
+# Customization capabilities
+customization:
+  title: 'Complete Customization Services'
+  description: 'From concept to creation—TideLine offers comprehensive custom swimwear manufacturing services tailored to your exact specifications and brand requirements.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Manufacturing Facility'
+  hero_image_width: '1000'
+  features:
+    - name: 'Design Development'
+      description: 'Our design team works with you to develop unique swimwear concepts, from sketches to technical specifications.'
+      link: '/contact'
+      cta_text: 'Design Consultation'
+    - name: 'Pattern Making'
+      description: 'Professional pattern making services to ensure perfect fit and construction for your custom designs.'
+      link: '/contact'
+      cta_text: 'Pattern Services'
+    - name: 'Fabric Selection'
+      description: 'Choose from our extensive fabric library or source specific materials to match your design vision.'
+      link: '/fabric'
+      cta_text: 'Fabric Options'
+    - name: 'Sample Production'
+      description: 'High-quality samples produced to validate design, fit, and construction before bulk production.'
+      link: '/contact'
+      cta_text: 'Sample Request'
+    - name: 'Bulk Manufacturing'
+      description: 'Scalable production capabilities from small batches to large orders with consistent quality control.'
+      link: '/contact'
+      cta_text: 'Production Quote'
+    - name: 'Private Labeling'
+      description: 'Complete branding services including custom labels, tags, and packaging solutions.'
+      link: '/contact'
+      cta_text: 'Branding Services'
+
+# Getting Started section
+getting_started:
+  title: 'Start Your Custom Swimwear Journey'
+  description: 'Ready to create your unique swimwear line? Our custom manufacturing process is designed to support brands at every stage, from startup concepts to established collections.'
+  beginner_text: 'New to Custom Manufacturing'
+  beginner_href: '/startup'
+  pro_text: 'Experienced Brand Owner'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Custom Manufacturing Process'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Frequently Asked Questions'
+  questions:
+    - id: 1
+      question: 'What is the minimum order quantity for custom swimwear?'
+      answer: 'Our minimum order quantity for custom swimwear varies by complexity, typically starting at 50-100 pieces per style. We work with startups and established brands to find flexible solutions that meet your budget and timeline.'
+    - id: 2
+      question: 'How long does the custom swimwear development process take?'
+      answer: 'The timeline depends on design complexity and customization level. Generally, initial samples take 2-3 weeks, with bulk production requiring 4-6 weeks after sample approval. Rush orders can be accommodated with additional planning.'
+    - id: 3
+      question: 'Can you help with swimwear design if I only have a concept?'
+      answer: 'Absolutely! Our design team specializes in transforming concepts into production-ready designs. We provide sketching, technical design, pattern making, and fit development services to bring your vision to life.'
+    - id: 4
+      question: 'What customization options are available for fabrics and materials?'
+      answer: 'We offer extensive fabric customization including performance materials, eco-friendly options, prints, textures, and specialty finishes. You can choose from our fabric library or source specific materials to match your brand requirements.'
+    - id: 5
+      question: 'Do you provide design and technical support throughout the process?'
+      answer: 'Yes, our experienced team provides comprehensive support including design consultation, technical guidance, fit optimization, and quality assurance throughout the entire development and production process.'
+    - id: 6
+      question: 'Can you manufacture swimwear with special features or performance requirements?'
+      answer: 'Certainly! We specialize in custom features including UV protection, chlorine resistance, compression zones, removable padding, adjustable straps, and other performance or aesthetic enhancements based on your specifications.'
+    - id: 7
+      question: 'What are the costs involved in custom swimwear manufacturing?'
+      answer: 'Costs vary based on design complexity, materials, quantities, and customization level. We provide detailed quotes including development fees, sample costs, and production pricing. Contact us for a personalized estimate based on your specific requirements.'

@@ -1,0 +1,55 @@
+hero:
+  title: 'Plus Size Swimwear Collection'
+  description: 'Beautiful plus size swimwear designed for comfort, confidence, and style. Flattering cuts and supportive designs that celebrate every body type.'
+
+products:
+  - id: 1
+    name: 'Classic Bikini Bottom'
+    description: 'Timeless classic cut bikini bottom with moderate coverage and comfortable fit for all-day wear.'
+    imageSrc: '/women-swimwear/tankini/tankini-1.webp'
+    imageAlt: 'Classic bikini bottom in navy blue'
+  - id: 2
+    name: 'High-Waisted Retro Bottom'
+    description: 'Vintage-inspired high-waisted bottom with full coverage and flattering silhouette for all body types.'
+    imageSrc: '/women-swimwear/tankini/tankini-2.webp'
+    imageAlt: 'High-waisted retro bikini bottom'
+  - id: 3
+    name: 'Brazilian Cut Bottom'
+    description: 'Sexy Brazilian cut bottom with minimal coverage and cheeky design for confident beach looks.'
+    imageSrc: '/women-swimwear/tankini/tankini-3.webp'
+    imageAlt: 'Brazilian cut bikini bottom in black'
+  - id: 4
+    name: 'Boy Short Bikini Bottom'
+    description: 'Sporty boy short style bottom with full coverage and comfortable fit perfect for active beach days.'
+    imageSrc: '/women-swimwear/tankini/tankini-4.webp'
+    imageAlt: 'Boy short bikini bottom with sporty design'
+  - id: 5
+    name: 'String Tie Side Bottom'
+    description: 'Adjustable string tie side bottom with customizable fit and playful tie details at the hips.'
+    imageSrc: '/women-swimwear/tankini/tankini-5.webp'
+    imageAlt: 'String tie side bikini bottom'
+  - id: 6
+    name: 'Ruffle Trim Bottom'
+    description: 'Feminine ruffle trim bottom with delicate details and moderate coverage for a romantic look.'
+    imageSrc: '/women-swimwear/tankini/tankini-6.webp'
+    imageAlt: 'Ruffle trim bikini bottom in coral'
+  - id: 7
+    name: 'Hipster Bikini Bottom'
+    description: 'Modern hipster style bottom with mid-rise cut and comfortable elastic waistband.'
+    imageSrc: '/women-swimwear/tankini/tankini-7.webp'
+    imageAlt: 'Hipster bikini bottom with striped pattern'
+  - id: 8
+    name: 'Tropical Print Bottom'
+    description: 'Vibrant tropical print bottom featuring palm leaves and exotic flowers in sunset colors.'
+    imageSrc: '/women-swimwear/tankini/tankini-8.webp'
+    imageAlt: 'Tropical print bikini bottom'
+  - id: 9
+    name: 'Seamless Minimalist Bottom'
+    description: 'Clean and simple seamless bottom with no-show construction and ultra-comfortable fit.'
+    imageSrc: '/women-swimwear/tankini/tankini-9.webp'
+    imageAlt: 'Seamless minimalist bikini bottom'
+  - id: 10
+    name: 'Polka Dot High-Waisted Bottom'
+    description: 'Vintage-inspired polka dot high-waisted bottom with retro charm and full coverage.'
+    imageSrc: '/women-swimwear/tankini/tankini-10.webp'
+    imageAlt: 'Polka dot high-waisted bikini bottom'

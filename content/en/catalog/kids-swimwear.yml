@@ -1,0 +1,113 @@
+title: "Children's Swimwear Manufacturers"
+subtitle: 'More than a supplier — your swimwear brand-building partner.'
+seo_title: "Children's Swimwear Manufacturers"
+seo_description: "Discover trusted children's swimwear manufacturers offering high-quality, durable, and UV-protective designs, crafted for comfort, safety, and endless fun in the water."
+
+# Hero section
+hero:
+  title: "Children's Swimwear Manufacturers"
+  subtitle: 'More than a supplier — your swimwear brand-building partner.'
+  cta_text: 'Consultation'
+  cta_href: '/contact'
+  image_src: '/catalog/kids-swimwear-bg.webp'
+  image_alt: "Children's Swimwear Manufacturing"
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Our Mission'
+  paragraph1: "At TideLine Swimwear, we know that kids' swimwear is a vibrant and growing category for retailers and young families. Each season, our design team develops fun, comfortable, and durable collections—ranging from playful one-piece swimsuits to sporty swim trunks—giving wholesalers and brand owners versatile options to meet the needs of active children."
+  whatsapp_link_text: 'Contact Us on WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experience in the Swimwear Industry'
+    value: '10 years +'
+  - label: 'Orders Fulfilled'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Girls One-Piece'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-1.webp'
+    imageAlt: 'Girls One-Piece Swimwear Collection'
+  - name: 'Boys Swim Trunks'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-5.webp'
+    imageAlt: 'Boys Swim Trunks Collection'
+  - name: 'Toddler Swimwear'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-3.webp'
+    imageAlt: 'Toddler Swimwear Collection'
+  - name: 'Rash Guards'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-4.webp'
+    imageAlt: 'Kids Rash Guards Collection'
+
+# Customization capabilities
+customization:
+  title: 'Customization Capabilities'
+  description: 'Fully customizable swimwear—TideLine accepts all custom designs, fabrics, hardware, logos, and packaging to bring your brand vision to life.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Manufacturing Facility'
+  hero_image_width: '1000'
+  features:
+    - name: 'Style Customization'
+      description: 'Bring any swimwear design to life—choose your perfect style and let us craft it for your brand.'
+      link: '/contact'
+      cta_text: 'Consultation'
+    - name: 'Fabric Customization'
+      description: 'Choose from a wide range of fabrics to create swimwear that is comfortable to wear and looks beautiful.'
+      link: '/fabric'
+      cta_text: 'Fabric'
+    - name: 'Hardware Customization'
+      description: 'Customize every detail—from buckles and rings to zippers—our hardware options elevate your design.'
+      link: '/hardware'
+      cta_text: 'Hardware'
+    - name: 'Logo Customization'
+      description: 'Make it truly yours—add your logo to each piece for a professional branded look.'
+    - name: 'Packaging Customization'
+      description: 'Complete your brand experience with packaging tailored to your style and vision.'
+    - name: 'Contact Us'
+      description: "Ready? Let's turn your swimwear ideas into reality."
+      link: '/contact'
+      cta_text: 'Contact Us'
+
+# Getting Started section
+getting_started:
+  title: 'Your swimwear journey starts here'
+  description: "Whether you're launching your first collection or scaling your brand, TideLine provides tailored swimwear solutions to meet your needs. Choose your path and get started."
+  beginner_text: 'Get Started as a Beginner'
+  beginner_href: '/startup'
+  pro_text: 'Experienced Buyer'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Manufacturing Process'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Frequently Asked Questions'
+  questions:
+    - id: 1
+      question: "What is the best fabric for children's swimwear?"
+      answer: "The best fabrics for children's swimwear are those that are soft, stretchy, and durable, such as nylon or polyester blends with spandex. Look for materials that offer UPF 50+ sun protection and are chlorine-resistant for longer-lasting wear."
+    - id: 2
+      question: 'How do I choose the right size for my child?'
+      answer: "To find the right size, refer to the brand's sizing chart and measure your child's chest, waist, and hips. If your child is between sizes, opt for the larger size to ensure comfort and room for growth."
+    - id: 3
+      question: 'Are there specific swimwear designs for toddlers?'
+      answer: 'Yes, for toddlers, consider swimwear with added features like built-in swim diapers, adjustable straps, or zippers for easy changing. Rash guard sets provide extra sun protection and are popular among parents.'
+    - id: 4
+      question: "How do I care for my child's swimwear?"
+      answer: 'Rinse swimwear with fresh water immediately after use to remove chlorine or salt. Hand wash with mild detergent and let it air dry flat. Avoid wringing the fabric, machine washing, or using dryers to maintain its elasticity and color.'
+    - id: 5
+      question: "Do children's swimsuits need UV protection?"
+      answer: "Absolutely. Children's skin is more sensitive to UV rays, so swimwear with UPF 50+ protection helps block up to 98% of harmful sun rays. Pair it with sunscreen for complete coverage."
+    - id: 6
+      question: 'Can swimwear for children be used in both pools and the ocean?'
+      answer: 'Yes, but swimwear exposed to chlorine or saltwater regularly should be made from chlorine- and fade-resistant fabrics to ensure durability. Quick-drying materials are also beneficial for ocean use.'
+    - id: 7
+      question: "What's the difference between a swimsuit and a rash guard?"
+      answer: 'A swimsuit is a traditional one- or two-piece designed for swimming, while a rash guard is a top made of stretchy, UV-protective fabric. Rash guards are often paired with swim shorts or bottoms and provide extra sun protection, especially for water sports or prolonged sun exposure.'

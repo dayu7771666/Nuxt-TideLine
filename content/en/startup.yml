@@ -1,0 +1,135 @@
+seo_title: 'Swimwear Factory Services for Startups and Physical Stores'
+seo_description: 'We are a Chinese swimwear factory with a complete supply chain, dedicated to providing premium services for startups and physical stores. Our minimum order quantity is just 30 pieces.'
+seo_image: '/manufacturer.jpg'
+
+# Hero section
+hero:
+  badge: 'Introducing'
+  title: 'Swimwear Factory Services for Startups and Physical Stores'
+  description: 'We are a Chinese swimwear factory with a complete supply chain, dedicated to providing premium services for startups and physical stores. Our minimum order quantity is just 30 pieces, making us ideal for clients with small-batch purchasing needs.'
+
+# Company information
+company:
+  introduction: 'With 8 years of experience in the swimwear industry, we are long-term suppliers for renowned platforms like Alibaba, SHEIN, and TikTok, ensuring product quality and stable supply.'
+  benefits: 'By choosing us, you will benefit from professional team support, efficient production processes, and flexible small-batch customization services, helping you quickly launch or expand your swimwear business.'
+
+# Features list
+features:
+  - id: 1
+    title: 'Minimum order quantity of just 30 pieces'
+    description: 'Perfect for startups and small physical stores to test the market with low costs.'
+  - id: 2
+    title: 'Competitive Pricing'
+    description: 'Compared to international suppliers, our prices are lower while maintaining high-quality standards.'
+  - id: 3
+    title: '8 Years of Experience in the Swimwear Industry'
+    description: 'We understand market demands and can help clients create bestselling swimwear.'
+
+# Success section
+success:
+  title: 'Starting from Zero, Helping You Succeed'
+  description: 'Whether you are a startup just getting started or a physical store looking for a reliable supplier, we offer tailored solutions to meet your needs.'
+
+# Quote section
+quote:
+  text: 'We are committed to being the preferred swimwear supplier for startups and physical stores, helping clients easily enter the market and grow rapidly.'
+  company: 'TideLine'
+  role: 'Swimwear Industry Experts'
+  avatar: '/tidelinelogo-600.png'
+
+# Call to action
+cta:
+  text: 'Contact Us'
+  description: 'Learn more about our services.'
+
+# Image section
+image:
+  src: '/manufacturer.jpg'
+  alt: 'Swimwear factory support for startups'
+  caption: 'Strong Support for Startups and Physical Stores'
+
+# Services section
+services:
+  title: 'Comprehensive Services to Meet Your Needs'
+  description: 'From design to production, we have a complete supply chain, offering clients an efficient and reliable service experience.'
+  cta: 'Contact us and let us start a new chapter in your swimwear business!'
+
+# Contact form section
+contact:
+  title: 'Join Us'
+  form:
+    firstName: 'First Name'
+    email: 'Email'
+    message: 'Message'
+    submit: 'Submit'
+    terms:
+      text: 'By submitting this form, I agree to the'
+      link: 'Terms & Conditions'
+
+# Testimonial section
+testimonial:
+  quote: 'The future of the swimwear industry is all about bold innovation and staying ahead of trends—join us in shaping the next big thing and let us create something unforgettable together!'
+  name: 'ChangShun'
+  title: 'CEO of TideLine Swimwear'
+  avatar: '/img/contactus.png'
+
+# Statistics
+stats:
+  - label: 'Experience in the Swimwear Industry'
+    value: '8 years +'
+  - label: 'Orders Fulfilled'
+    value: '100,000+'
+
+# Additional sections for potential expansion
+advantages:
+  title: 'Why Choose TideLine for Your Startup'
+  items:
+    - title: 'Low Risk Entry'
+      description: 'Start with just 30 pieces minimum order quantity'
+      icon: 'shield-check'
+    - title: 'Complete Supply Chain'
+      description: 'From design to delivery, we handle everything'
+      icon: 'cog-6-tooth'
+    - title: 'Industry Experience'
+      description: '8+ years serving global brands and platforms'
+      icon: 'star'
+    - title: 'Flexible Customization'
+      description: 'Adapt designs to your brand requirements'
+      icon: 'adjustments-horizontal'
+
+# Process steps
+process:
+  title: 'How We Support Your Startup Journey'
+  steps:
+    - step: 1
+      title: 'Initial Consultation'
+      description: 'Share your vision and requirements with our team'
+    - step: 2
+      title: 'Design & Sampling'
+      description: 'We create samples based on your specifications'
+    - step: 3
+      title: 'Small Batch Production'
+      description: 'Start with minimum 30 pieces to test your market'
+    - step: 4
+      title: 'Scale & Grow'
+      description: 'Expand production as your business grows'
+
+# FAQ section
+faq:
+  title: 'Frequently Asked Questions'
+  questions:
+    - id: 1
+      question: 'What makes TideLine different from other swimwear manufacturers?'
+      answer: 'We specialize in supporting startups and small businesses with low minimum order quantities, competitive pricing, and comprehensive support from design to delivery.'
+    - id: 2
+      question: 'Can you help with design if I only have a concept?'
+      answer: 'Absolutely! Our experienced design team can help transform your concepts into production-ready designs, providing guidance throughout the development process.'
+    - id: 3
+      question: 'What is your typical production timeline?'
+      answer: 'Sample production typically takes 7-10 days, while bulk production ranges from 15-25 days depending on order size and complexity.'
+    - id: 4
+      question: 'Do you provide support for brand development?'
+      answer: 'Yes, we offer comprehensive brand support including custom labeling, packaging design, and marketing guidance to help establish your swimwear brand.'
+    - id: 5
+      question: 'What quality standards do you maintain?'
+      answer: 'We maintain strict quality control processes and work with established platforms like Alibaba, SHEIN, and TikTok, ensuring consistent high-quality production.'

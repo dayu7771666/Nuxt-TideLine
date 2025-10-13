@@ -1,5 +1,28 @@
 {
   "hello": "helloEN",
+  "Home": "Inicio",
+  "Contact": "Contacto",
+  "支付成功": "Pago exitoso",
+  "感谢您的购买！": "¡Gracias por su compra!",
+  "返回首页": "Volver al inicio",
+  "描述": "Descripción",
+  "地址": "Dirección",
+  "FirstName": "Nombre",
+  "LastName": "Apellido",
+  "Phone": "Teléfono",
+  "Deliver to": "Entregar a",
+  "Apartment, unit, suite, or floor": "Apartamento, unidad, suite o piso",
+  "City": "Ciudad",
+  "State/Province": "Estado/Provincia",
+  "Postal code": "Código postal",
+  "Country/Region": "País/Región",
+  "确认订单信息": "Confirmar información del pedido",
+  "处理中...": "Procesando...",
+  "不能为空": "no puede estar vacío",
+  "保存地址失败，请重试": "Error al guardar la dirección, inténtelo de nuevo",
+  "Network fluctuation, please contact the administrator.": "Fluctuación de red, póngase en contacto con el administrador.",
+  "请输入完整的地址信息": "Por favor ingrese información completa de la dirección",
+  "支付系统加载失败，请刷新页面重试": "Error al cargar el sistema de pago, actualice la página e inténtelo de nuevo",
   "TideHeader": {
     "加载导航时出错": "Error loading navigation",
     "加载中": "Loading"
@@ -7,5 +30,108 @@
   "LanguageSwitcher": {
     "关闭语言菜单": "Close language menu",
     "打开语言菜单": "Open language menu"
+  },
+  "blog": {
+    "categories": "Categorías",
+    "tags": "Etiquetas",
+    "all": "Todos",
+    "showingPage": "Mostrando página",
+    "of": "de",
+    "totalArticles": "artículos totales",
+    "by": "Por",
+    "blogTagsTitle": "Etiquetas del Blog"
+  },
+  "shipping": {
+    "title": "Política de Envío",
+    "subtitle": "Soluciones de envío global confiables para las necesidades de su negocio de trajes de baño",
+    "orderTracking": {
+      "title": "Seguimiento de Pedidos",
+      "description": "Proporcionamos seguimiento integral para todos los pedidos para asegurar que se mantenga informado sobre el estado de su envío en cada paso.",
+      "feature1": "Los números de seguimiento se envían por correo electrónico dentro de 24 horas del envío",
+      "feature2": "Seguimiento en tiempo real disponible en nuestro sitio web o el sitio web del transportista",
+      "feature3": "Actualizaciones regulares de estado por correo electrónico para pedidos de producción",
+      "feature4": "Gerente de cuenta dedicado para pedidos superiores a $10,000",
+      "trackTitle": "Rastree su Pedido: Ingrese su número de seguimiento a continuación para verificar el estado actual de su envío.",
+      "trackPlaceholder": "Ingrese número de seguimiento",
+      "trackButton": "Rastrear"
+    },
+    "methods": {
+      "title": "Métodos de Envío",
+      "description": "Ofrecemos diferentes opciones de envío basadas en su tipo de pedido y urgencia para satisfacer sus requisitos comerciales específicos.",
+      "sample": {
+        "title": "Pedidos de Muestras",
+        "description": "Para pedidos de muestras, proporcionamos opciones de envío acelerado para ayudarle a tomar decisiones rápidas:",
+        "express": "Mensajería Express",
+        "expressTime": "DHL, FedEx, UPS (3-7 días hábiles)",
+        "standard": "Correo Aéreo Estándar",
+        "standardTime": "(7-14 días hábiles)",
+        "economy": "Económico",
+        "economyTime": "(14-21 días hábiles)"
+      },
+      "bulk": {
+        "title": "Pedidos de Producción en Masa",
+        "description": "Para cantidades de producción, ofrecemos soluciones rentables:",
+        "air": "Flete Aéreo",
+        "airTime": "(7-15 días hábiles)",
+        "sea": "Flete Marítimo",
+        "seaTime": "(30-45 días hábiles)",
+        "expressAir": "Aéreo Express",
+        "expressAirTime": "(5-10 días hábiles)"
+      },
+      "important": "Importante",
+      "importantNote": "Los tiempos de producción son adicionales a los tiempos de envío. Por favor contáctenos para cronogramas exactos de producción basados en la cantidad y complejidad de su pedido."
+    },
+    "coverage": {
+      "title": "Cobertura de Envío",
+      "description": "Proporcionamos servicios de envío a más de 150 países en todo el mundo. Nuestra red de socios ofrece entrega rápida en todo el mundo.",
+      "mapTitle": "TIDELINE SWIMWEAR ESTÁ DONDE ESTÁN SUS CLIENTES",
+      "mapSubtitle": "Nuestra red de socios ofrece entrega rápida en todo el mundo.",
+      "regions": {
+        "northAmerica": "América del Norte",
+        "europe": "Unión Europea",
+        "asia": "Asia",
+        "africa": "África",
+        "southAmerica": "América del Sur",
+        "australia": "Australia y NZ"
+      },
+      "legend": {
+        "available": "Disponible para Envío",
+        "limited": "Servicio Limitado/No Disponible"
+      },
+      "note": "Nota",
+      "noteText": "Actualmente tenemos disponibilidad limitada de envío a ciertas regiones de África y Asia Central debido a restricciones logísticas. Estamos trabajando activamente para expandir nuestras áreas de servicio. Para disponibilidad de países específicos y cualquier restricción, por favor contacte nuestro departamento de envíos."
+    },
+    "sidebar": {
+      "overview": {
+        "title": "Resumen de Envío",
+        "description1": "En TIDELINE SWIMWEAR, entendemos que la entrega oportuna es crucial para su negocio. Nuestras soluciones integrales de envío están diseñadas para satisfacer las diversas necesidades de nuestros clientes B2B en todo el mundo.",
+        "description2": "Nos asociamos con proveedores líderes de logística global para asegurar que sus pedidos de trajes de baño lleguen a usted de manera segura y a tiempo.",
+        "keyFeatures": "Características Clave",
+        "features": "Cobertura global, opciones de envío flexibles, seguimiento en tiempo real y asistencia aduanera."
+      },
+      "contact": {
+        "title": "¿Necesita Ayuda con el Envío?",
+        "email": "Correo Electrónico",
+        "hours": "Horario Comercial",
+        "hoursTime": "Lun-Vie: 9AM-6PM (EST)",
+        "emergency": "Línea de Emergencia"
+      },
+      "quickLinks": {
+        "title": "Enlaces Rápidos",
+        "calculator": "Calculadora de Costo de Envío",
+        "customs": "Guía de Aduanas e Impuestos",
+        "documentation": "Documentación Aduanera",
+        "processing": "Información de Tiempo de Procesamiento",
+        "packaging": "Detalles de Empaque",
+        "returns": "Devoluciones e Intercambios",
+        "insurance": "Seguro de Envío",
+        "faq": "Preguntas Frecuentes de Envío",
+        "policy": "Política de Devolución"
+      },
+      "partners": {
+        "title": "Nuestros Socios de Envío",
+        "description": "Trabajamos con proveedores de logística global confiables:"
+      }
+    }
   }
 }

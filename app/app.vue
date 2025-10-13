@@ -16,6 +16,7 @@
       <div class="sticky top-0 z-30">
         <TideHeader :navigation="navigation" />
       </div>
+      <NuxtLoadingIndicator />
       <NuxtPage />
       <Footer :navigation="navigation" />
       <!-- 悬浮底部栏 -->
@@ -142,3 +143,9 @@
     gtag('config', 'G-PPB68951Z8');
   });
 </script>
+
+<style>
+  div {
+    font-family: inter, sans-serif;
+  }
+</style>

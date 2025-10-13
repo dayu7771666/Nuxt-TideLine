@@ -1,0 +1,201 @@
+hero:
+  title: 'B2B Manufacturing Pricing Guide'
+  description: 'Transparent, flexible pricing for emerging swimwear brands. Launch your collection with as few as 60 pieces.'
+  image: '/img/pricing-hero.webp'
+
+initialCosts:
+  title: 'One-Time Initial Costs'
+  description: 'Initial investment for product development and sampling'
+  cards:
+    - id: 1
+      icon: '/pricing/sampling.avif'
+      title: 'Development & Sampling'
+      items:
+        - name: 'Design Development Service'
+          cost: '$69 / style'
+        - name: 'Full Sample Set'
+          cost: '$50 - $200 / style'
+      note: '50% of sample fee credited back when bulk order meets MOQ'
+    - id: 2
+      icon: '/pricing/tooling.avif'
+      title: 'Tooling & Mold Fees'
+      items:
+        - name: 'Standard Decor Kit'
+          cost: '$50 / element'
+        - name: 'Hygiene Liner Mold'
+          cost: '$30 / style'
+        - name: 'Care Label Mold'
+          cost: '$30 - $50 / style'
+    - id: 3
+      icon: '/pricing/fabric.avif'
+      title: 'Fabric & Swatches'
+      items:
+        - name: 'Color Cards / Small Swatches'
+          cost: 'FREE'
+        - name: 'Digital Print A4 Swatch'
+          cost: 'FREE'
+        - name: '1+ Meter Fabric Sample'
+          cost: '$10 / meter'
+      note: 'Shipping not included for fabric samples'
+
+process:
+  title: 'Our Manufacturing Process'
+  description: 'Simple 5-step process from concept to delivery'
+  steps:
+    - id: 1
+      title: 'Consultation & Design'
+      description: 'We discuss your vision and provide design guidance'
+    - id: 2
+      title: 'Sample Development'
+      description: 'Create physical samples for your approval'
+    - id: 3
+      title: 'Revisions & Finalization'
+      description: 'Refine samples based on your feedback'
+    - id: 4
+      title: 'Bulk Production'
+      description: 'Manufacture your complete order'
+    - id: 5
+      title: 'Quality Check & Shipping'
+      description: 'Inspect every piece and arrange delivery'
+
+productionCosts:
+  title: 'Per-Unit Production Costs'
+  description: 'Costs applied to each piece in your bulk order'
+  cards:
+    - id: 1
+      icon: '/pricing/base.webp'
+      title: 'Base Product Cost'
+      items:
+        - name: 'Design Complexity'
+          cost: 'Varies by style'
+        - name: 'Fabric Selection'
+          cost: 'Premium vs. standard'
+        - name: 'Order Quantity'
+          cost: 'Volume discounts apply'
+        - name: 'Custom vs. Catalog'
+          cost: 'Custom design premium'
+      note: 'Contact us for detailed pricing based on your specific requirements'
+    - id: 2
+      icon: '/pricing/brand.webp'
+      title: 'Branding & Packaging'
+      items:
+        - name: 'Care Label'
+          cost: '~ $0.15 / unit'
+        - name: 'Hygiene Liner'
+          cost: '~ $0.15 / unit'
+        - name: 'Hang Tag'
+          cost: '~ $0.15 / unit'
+        - name: 'Gift Box / Packaging'
+          cost: '~ $1.00 / unit'
+        - name: 'Special Trims & Accessories'
+          cost: '~ $0.10 - $0.70 / unit'
+      note: 'Tooling costs are absorbed into per-unit pricing'
+
+flexibility:
+  title: 'Flexible Ordering Options'
+  description: 'We adapt to your business needs with multiple flexible options'
+  items:
+    - id: 1
+      icon: 'heroicons:cube'
+      title: 'Mixed Minimum Order'
+      description: 'Start with just 60 total pieces across styles, colors, and sizes. No need to order large quantities of a single item.'
+    - id: 2
+      icon: 'heroicons:currency-dollar'
+      title: 'Sample Fee Credit'
+      description: 'Get 50% of your sample costs back when you place a bulk order. We invest in your success.'
+    - id: 3
+      icon: 'heroicons:wrench-screwdriver'
+      title: 'No Hidden Tooling Fees'
+      description: 'We absorb mold costs into per-unit pricing for simplicity and transparency.'
+    - id: 4
+      icon: 'heroicons:chart-bar-square'
+      title: 'Scalable Production'
+      description: 'Easily increase quantities as your business grows. We accommodate orders from 60 to 60,000 pieces.'
+    - id: 5
+      icon: 'heroicons:swatch'
+      title: 'Custom Color Matching'
+      description: 'Precise color matching with no minimums. Create your unique brand colors without large commitments.'
+    - id: 6
+      icon: 'heroicons:truck'
+      title: 'Flexible Shipping'
+      description: 'Choose your preferred shipping method and timeline. We work with major carriers worldwide.'
+
+budgetExample:
+  title: 'Budget Example'
+  description: 'Launching a 2-style collection with 100 total pieces'
+  chartData:
+    - name: 'Initial Development'
+      amount: 388
+      percentage: 17
+      color: 'bg-gradient-to-r from-blue-600 to-blue-400'
+    - name: 'Bulk Production'
+      amount: 1800
+      percentage: 81
+      color: 'bg-gradient-to-r from-orange-500 to-orange-400'
+    - name: 'Branding'
+      amount: 30
+      percentage: 2
+      color: 'bg-gradient-to-r from-green-500 to-green-400'
+  tableData:
+    - stage: 'Initial Development'
+      item: 'Design Development ($69 × 2 styles)'
+      cost: '$138'
+      rowspan: 3
+    - item: 'Sample Sets ($125 × 2 styles)'
+      cost: '$250'
+    - item: 'Subtotal'
+      cost: '$388'
+      isSubtotal: true
+    - stage: 'Bulk Production'
+      item: 'Base Product Cost ($18 × 100 units)'
+      cost: '$1,800'
+      rowspan: 3
+    - item: 'Branding (Hangtags + Care Labels)'
+      cost: '$30'
+    - item: 'Subtotal'
+      cost: '$1,830'
+      isSubtotal: true
+    - stage: ''
+      item: 'Total Estimated Investment'
+      cost: '$2,218'
+      isSubtotal: true
+  note: 'Note: Subsequent orders will be significantly lower as development and sample fees are one-time costs.'
+
+cta:
+  title: 'Ready to Launch Your Swimwear Line?'
+  description: 'Our team is ready to help you bring your designs to life with transparent pricing and flexible options tailored to your brand.'
+  buttons:
+    - text: 'Request Custom Quote'
+      primary: true
+    - text: 'Browse Catalog Designs'
+      primary: false
+    - text: 'Download Price List'
+      primary: false
+
+contact:
+  title: 'Get Your Custom Quote'
+  subtitle: "Tell us about your project and we'll provide detailed pricing"
+  formLabels:
+    nameLabel: 'Full Name'
+    namePlaceholder: 'Enter your full name'
+    emailLabel: 'Email Address'
+    emailPlaceholder: 'Enter your email address'
+    messageLabel: 'Project Details'
+    messagePlaceholder: 'Tell us about your swimwear line project, quantities, timeline, and any specific requirements...'
+    submitButton: 'Request Quote'
+    successMessage: 'Thank you! We will send you a detailed quote within 24 hours.'
+  guideTitle: 'What to Include in Your Message:'
+  guideItems:
+    - "Number of styles you're planning"
+    - 'Estimated quantities per style'
+    - 'Your target launch timeline'
+    - 'Any specific design requirements'
+    - 'Your budget range (if comfortable sharing)'
+
+seo:
+  title: 'B2B Swimwear Manufacturing Pricing - Transparent & Flexible | Tideline'
+  description: 'Transparent B2B swimwear manufacturing pricing. Start with just 60 pieces. Get custom quotes for your swimwear brand with flexible ordering options.'
+  ogTitle: 'B2B Swimwear Manufacturing Pricing - Transparent & Flexible | Tideline'
+  ogDescription: 'Transparent B2B swimwear manufacturing pricing. Start with just 60 pieces. Get custom quotes for your swimwear brand with flexible ordering options.'
+  ogImage: '/img/pricing-hero.webp'
+  twitterCard: 'summary_large_image'

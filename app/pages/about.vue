@@ -158,7 +158,7 @@
   const { data: about } = await useAsyncData(
     async () => {
       // 根据当前语言构建集合名称
-      const collection = 'about' + locale.value;
+      const collection = 'about_' + locale.value;
       const content = await queryCollection(collection).first();
       // 可选：如果内容缺失，回退到默认语言
       if (!content && locale.value !== 'en') {
@@ -171,6 +171,91 @@
       // server: true,
     }
   );
+
+  // SEO Meta - 参考 index.vue 的实现
+  useSeoMeta({
+    title:
+      about.value?.seo?.title ||
+      'About Us - Transforming the Swimwear Industry',
+    ogTitle:
+      about.value?.seo?.title ||
+      'About Us - Transforming the Swimwear Industry',
+    description:
+      about.value?.seo?.description ||
+      'We believe that brands are no longer exclusive to enterprises. Anyone can build their own swimwear brand.',
+    ogDescription:
+      about.value?.seo?.description ||
+      'We believe that brands are no longer exclusive to enterprises. Anyone can build their own swimwear brand.',
+    keywords:
+      about.value?.seo?.keywords ||
+      'swimwear manufacturer, custom swimwear, small batch production',
+    ogImage: about.value?.seo?.ogImage || '/og-image.jpg',
+    ogType: 'website',
+    ogSiteName: 'TIDELINE SWIMWEAR',
+    twitterCard: about.value?.seo?.twitterCard || 'summary_large_image',
+    twitterTitle:
+      about.value?.seo?.title ||
+      'About Us - Transforming the Swimwear Industry',
+    twitterDescription:
+      about.value?.seo?.description ||
+      'We believe that brands are no longer exclusive to enterprises. Anyone can build their own swimwear brand.',
+    twitterImage: about.value?.seo?.ogImage || '/og-image.jpg',
+  });
+
+  // 添加结构化数据
+  useHead({
+    script: [
+      {
+        type: 'application/ld+json',
+        children: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'Organization',
+          name: 'TIDELINE SWIMWEAR',
+          description:
+            about.value?.seo?.description ||
+            'Professional swimwear manufacturer with 10 years of experience',
+          url: 'https://swimsuitcustom.com/about',
+          logo: 'https://swimsuitcustom.com/tidelinelogo-600.png',
+          foundingDate: '2015',
+          address: {
+            '@type': 'PostalAddress',
+            addressCountry: 'CN',
+            addressRegion: 'Guangdong',
+          },
+          contactPoint: {
+            '@type': 'ContactPoint',
+            contactType: 'Customer Service',
+            email: 'tidelineswim@swimsuitcustom.com',
+            availableLanguage: ['en', 'zh', 'es', 'fr', 'de', 'ja', 'ko'],
+          },
+          sameAs: [
+            'https://www.tiktok.com/@tidelineswim',
+            'https://www.instagram.com/tidelineswim',
+          ],
+          makesOffer: [
+            {
+              '@type': 'Offer',
+              itemOffered: {
+                '@type': 'Service',
+                name: 'Custom Swimwear Manufacturing',
+                description:
+                  'Small batch and custom swimwear production services',
+              },
+            },
+            {
+              '@type': 'Offer',
+              itemOffered: {
+                '@type': 'Service',
+                name: 'Brand Support Services',
+                description:
+                  'Full-process support from creative ideas to product implementation',
+              },
+            },
+          ],
+        }),
+      },
+    ],
+  });
 
   // 图标组件映射
   const iconComponents = {

@@ -4,7 +4,7 @@
     <Hero
       :title="home.hero.title"
       :description="home.hero.description"
-      :image="home.hero.src"
+      image="/sampling.webp"
       :alt="home.hero.alt"
       width="1200"
       sizes="100vw sm:90vw md:1200px lg:1500px"
@@ -27,31 +27,37 @@
             class="bg-white/80 backdrop-blur-sm px-6 py-3 rounded-lg flex items-center sm:justify-center gap-x-2 border border-gray-200 shadow-sm"
           >
             <CheckCircleIcon class="w-5 h-5 text-green-600" />
-            <h3 class="text-sm font-medium text-gray-900">
+            <NuxtLink
+              :to="feature.href"
+              class="text-sm font-medium text-gray-900"
+            >
               {{ feature.text }}
-            </h3>
+            </NuxtLink>
           </div>
         </div>
       </div>
     </Hero>
     <!-- 视频展示 -->
+
     <HomeVideoShowcase
-      layout="horizontal"
+      layout="vertical"
       :title="home.videoShowcase.title"
       :description="home.videoShowcase.description"
       :ctaText="home.videoShowcase.ctaText"
       :video-src="home.videoShowcase.videoSrc"
+      :video-duration="home.videoShowcase.videoDuration"
+      :youtube-watch-text="home.videoShowcase.youtubeWatchText"
       @cta-click="handleVideoCtaClick"
     />
 
     <!-- 产品展示 -->
+
     <HomeProductShowcase
       :title="home.products.title"
       :description="home.products.description"
       :products="home.products.items"
       :learn-more-text="home.products.learnMoreText"
       :quote-text="home.products.quoteText"
-      :learn-more-link="home.products.learnMoreLink"
       :quote-link="home.products.quoteLink"
     />
 
@@ -146,6 +152,17 @@
       // server: true,
     }
   );
+
+  // SEO Meta Tags - 从 home 数据中读取
+  useSeoMeta({
+    title: home.value?.seo?.title || 'Tideline Swim',
+    ogTitle: home.value?.seo?.title || 'Tideline Swim',
+    description: home.value?.seo?.description || '',
+    ogDescription: home.value?.seo?.description || '',
+    keywords: home.value?.seo?.keywords || '',
+    ogImage: home.value?.seo?.ogImage || '/og-image.jpg',
+    twitterCard: home.value?.seo?.twitterCard || 'summary_large_image',
+  });
 
   // 弹窗状态管理
   const showContactModal = ref(false);

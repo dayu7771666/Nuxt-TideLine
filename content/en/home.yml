@@ -5,15 +5,19 @@ hero:
   alt: 'Build Your Premium Swimwear Line-enenYML'
   ctaButton: 'Request a Sample'
   features:
-    - text: 'MOQ as low as 50 pieces'
+    - text: 'MOQ as low as 60 pieces'
+      href: '/bulkproduction'
     - text: '15-day fast production'
+      href: '/bulkproduction'
     - text: 'Free design support'
-
+      href: '/sampling'
 videoShowcase:
   title: 'Explore Our Swimwear Manufacturing Process'
   description: 'This video shows the journey of creating your high-quality custom swimwear, backed by professional design and precision manufacturing.'
   ctaText: 'Learn More'
   videoSrc: 'https://www.youtube.com/watch?v=sSPf81Vexwc'
+  videoDuration: '5:32'
+  youtubeWatchText: 'Watch on YouTube'
 
 howWorks:
   title: 'From Idea to Swimwear in 5 Simple Steps'
@@ -67,30 +71,29 @@ products:
   description: 'Empowering your brand with premium fabrics and targeted designs'
   learnMoreText: 'Explore'
   quoteText: 'Request a Quote'
-  learnMoreLink: '/'
   quoteLink: '/contact'
   items:
     - id: 1
-      name: "Women's Collections"
-      href: '/products/premium-bikini-set'
+      name: 'Swimwear Collections'
+      href: '/collections/swimwear'
       description: 'Support complete customization of patterns, colors, LOGO and sizes to meet your brand needs'
       imageSrc: '/home/homeserver-1.avif'
       imageAlt: 'Premium bikini set in various colors arranged on beach setting.'
     - id: 2
-      name: "Men's Collections"
-      href: '/products/athletic-one-piece'
+      name: 'Activewear Collections'
+      href: '/collections/activewear'
       description: 'From small batch trial orders to large-scale production, we provide flexible production solutions'
       imageSrc: '/home/homeserver-2.avif'
       imageAlt: 'Athletic one-piece swimsuit in sleek black design.'
     - id: 3
-      name: "Kids' Collections"
-      href: '/products/designer-tankini'
+      name: 'Tan Through Collections'
+      href: '/collections/tan-through'
       description: 'Professional logistics team ensures your orders are delivered on time worldwide'
       imageSrc: '/home/homeserver-3.avif'
       imageAlt: 'Designer tankini set in sophisticated white design.'
     - id: 4
-      name: 'Featured Collections'
-      href: '/products/beach-cover-up'
+      name: 'Accessories Collections'
+      href: '/collections/accessories'
       description: 'Provide comprehensive professional support from design consultation to after-sales service'
       imageSrc: '/home/homeserver-4.avif'
       imageAlt: 'Stylish beach cover-up in neutral tones.'
@@ -128,3 +131,15 @@ contactForm:
   submitButton: 'Submit'
   successMessage: 'Thank you! We will contact you soon.'
   errorMessage: 'Submission failed. Please try again or contact our support team.'
+
+seo:
+  title: 'Premium Swimwear Manufacturer: High-Quality Swimsuits & Bikinis | Tideline Swim'
+  description: 'Tideline Swim is a premium swimwear manufacturer based in China, specializing in high-quality custom swimsuits, bikinis, and private label production. We partner with discerning brands and designers worldwide, offering sustainable manufacturing, meticulous craftsmanship, and exceptional service to bring your luxury swimwear vision to life.'
+  keywords: 'premium swimwear manufacturer, luxury swimsuit factory, custom bikini manufacturer, high-quality swimwear, private label swimwear, eco-friendly swimwear production, sustainable swimwear, designer swimwear manufacturer, OEM swimwear, swimwear supplier, Tideline Swim'
+  ogImage: '/og-image.jpg'
+  twitterCard: 'summary_large_image'
+  ogType: 'website'
+  ogSiteName: 'Tideline Swim'
+  twitterSite: '@TidelineSwim'
+  robots: 'index, follow'
+  canonical: 'https://tidelineswim.com'

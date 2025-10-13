@@ -1,0 +1,103 @@
+title: "Men's Swimwear Manufacturer"
+subtitle: 'More than a supplier — your swimwear brand-building partner.'
+seo_title: "Men's Swimwear Manufacturer"
+seo_description: "Wholesale men's swimwear, offering a variety of high-performance, comfortable, and durable swim trunks suitable for competitive, recreational, and water sports."
+
+# Hero section
+hero:
+  title: "Men's Swimwear Manufacturer"
+  subtitle: 'More than a supplier — your swimwear brand-building partner.'
+  cta_text: 'Consultation'
+  cta_href: '/contact'
+  image_src: '/catalog/men-swimwear-bg.webp'
+  image_alt: "Men's Swimwear Manufacturing"
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Our Mission'
+  paragraph1: "At TideLine Swimwear, we know that men's swimwear is a key growth category for retailers and emerging brands. Every season, our factory team develops market-ready collections that combine comfort, durability, and style—whether it's classic trunks, functional boardshorts, or contemporary briefs—giving wholesalers and brand owners versatile options to meet today's consumer demand."
+  whatsapp_link_text: 'Contact Us on WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experience in the Swimwear Industry'
+    value: '10 years +'
+  - label: 'Orders Fulfilled'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Swim Shirts'
+    href: '/category?type=men&subtype=swim-shirt'
+    imageSrc: '/men-swimwear/shirt/shirt-5.webp'
+    imageAlt: "Men's Swim Shirts Collection"
+  - name: 'Briefs'
+    href: '/category?type=men&subtype=briefs'
+    imageSrc: '/men-swimwear/san/san-1.webp'
+    imageAlt: "Men's Swimming Briefs Collection"
+  - name: 'Trunks'
+    href: '/category?type=men&subtype=trunks'
+    imageSrc: '/men-swimwear/ping/ping-4.webp'
+    imageAlt: "Men's Swimming Trunks Collection"
+
+# Customization capabilities
+customization:
+  title: 'Customization Capabilities'
+  description: 'Fully customizable swimwear—TideLine accepts all custom designs, fabrics, hardware, logos, and packaging to bring your brand vision to life.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Manufacturing Facility'
+  hero_image_width: '1000'
+  features:
+    - name: 'Style Customization'
+      description: 'Bring any swimwear design to life—choose your perfect style and let us craft it for your brand.'
+      link: '/contact'
+      cta_text: 'Consultation'
+    - name: 'Fabric Customization'
+      description: 'Choose from a wide range of fabrics to create swimwear that is comfortable to wear and looks beautiful.'
+      link: '/fabric'
+      cta_text: 'Fabric'
+    - name: 'Hardware Customization'
+      description: 'Customize every detail—from buckles and rings to zippers—our hardware options elevate your design.'
+      link: '/hardware'
+      cta_text: 'Hardware'
+    - name: 'Logo Customization'
+      description: 'Make it truly yours—add your logo to each piece for a professional branded look.'
+    - name: 'Packaging Customization'
+      description: 'Complete your brand experience with packaging tailored to your style and vision.'
+    - name: 'Contact Us'
+      description: "Ready? Let's turn your swimwear ideas into reality."
+      link: '/contact'
+      cta_text: 'Contact Us'
+
+# Getting Started section
+getting_started:
+  title: 'Your swimwear journey starts here'
+  description: "Whether you're launching your first collection or scaling your brand, TideLine provides tailored swimwear solutions to meet your needs. Choose your path and get started."
+  beginner_text: 'Get Started as a Beginner'
+  beginner_href: '/startup'
+  pro_text: 'Experienced Buyer'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Manufacturing Process'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Frequently Asked Questions'
+  questions:
+    - id: 1
+      question: "What is the minimum order quantity for men's swimwear wholesale?"
+      answer: "Our MOQ starts at 30 pieces per style and size, allowing new and growing men's swimwear brands to launch collections with flexibility."
+    - id: 2
+      question: "Can I customize men's swimwear styles and materials?"
+      answer: "Yes. We offer complete customization for men's swimwear—including trunks, boardshorts, and briefs—using your preferred fabrics, colors, logos, and packaging."
+    - id: 3
+      question: "How long does production take for bulk men's swimwear orders?"
+      answer: 'Samples are usually completed within 10 days, while bulk production is finished within 30 days depending on the order size and level of customization.'
+    - id: 4
+      question: "Do you provide sustainable fabric options for men's swimwear?"
+      answer: "Absolutely. We offer eco-friendly fabrics such as recycled polyester and nylon, giving your brand a sustainable edge in the men's swimwear market."
+    - id: 5
+      question: "How can I request a quote for men's swimwear wholesale?"
+      answer: "Simply share your preferred designs, sizes, and fabric choices with our team through WhatsApp or email. We'll provide a detailed quotation, along with fabric swatches and expert recommendations."

@@ -18,7 +18,7 @@ marketing:
       image: '/api/placeholder/300/200'
 subcategories:
   - name: 'Tankinis'
-    href: ''
+    href: '/products/tankinis'
     products:
       - title: 'Classic Two-Piece Tankini'
         description: 'Comfortable and stylish tankini with adjustable straps and moderate coverage for all-day beach comfort.'
@@ -36,7 +36,7 @@ subcategories:
         imageAlt: 'Athletic Tankini Sports Set'
         href: '/products/athletic-tankini-sports-set'
   - name: 'Bikini Tops'
-    href: ''
+    href: '/products/bikini-tops'
     products:
       - title: 'Triangle Bikini Top'
         description: 'Classic triangle design with adjustable ties and removable padding for a customizable fit.'
@@ -54,7 +54,7 @@ subcategories:
         imageAlt: 'High-Neck Halter Top'
         href: '/products/high-neck-halter-top'
   - name: 'Bikini Bottoms'
-    href: ''
+    href: '/products/bikini-bottoms'
     products:
       - title: 'Classic Bikini Bottom'
         description: 'Timeless low-rise cut with moderate coverage and comfortable stretch fabric.'
@@ -72,7 +72,7 @@ subcategories:
         imageAlt: 'Brazilian Cut Bottom'
         href: '/products/brazilian-cut-bottom'
   - name: 'Cover-Ups'
-    href: ''
+    href: '/products/cover-ups'
     products:
       - title: 'Flowing Beach Kaftan'
         description: 'Lightweight, flowy kaftan with intricate embroidery, perfect for transitioning from beach to lunch.'
@@ -90,7 +90,7 @@ subcategories:
         imageAlt: 'Kimono-Style Cover'
         href: '/products/kimono-style-cover'
   - name: 'Plus Size Swimwear'
-    href: ''
+    href: '/products/plus-size-swimwear'
     products:
       - title: 'Curve-Flattering One-Piece'
         description: 'Supportive one-piece with tummy control, underwire cups, and elegant ruching for all body types.'
@@ -108,7 +108,7 @@ subcategories:
         imageAlt: 'Wrap-Style Swim Dress'
         href: '/products/wrap-style-swim-dress'
   - name: 'Swim Pants'
-    href: ''
+    href: '/products/swim-pants'
     products:
       - title: 'High-Waisted Swim Leggings'
         description: 'Full-length swim leggings with UPF 50+ protection and compression fit for active swimming.'
@@ -126,7 +126,7 @@ subcategories:
         imageAlt: 'Board Short Style Pants'
         href: '/products/board-short-style-pants'
   - name: 'Monokinis'
-    href: ''
+    href: '/products/monokinis'
     products:
       - title: 'Cut-Out One-Piece'
         description: 'Trendy monokini with strategic cut-outs and adjustable straps for a modern beach look.'
@@ -144,7 +144,7 @@ subcategories:
         imageAlt: 'High-Leg Monokini'
         href: '/products/high-leg-monokini'
   - name: 'Swim Trunks'
-    href: ''
+    href: '/products/swim-trunks'
     products:
       - title: 'Classic Swim Trunks'
         description: 'Traditional mid-length swim trunks with mesh lining and quick-dry fabric for comfort.'
@@ -162,7 +162,7 @@ subcategories:
         imageAlt: 'Performance Swim Trunks'
         href: '/products/performance-swim-trunks'
   - name: 'Swim Board Shorts'
-    href: ''
+    href: '/products/swim-board-shorts'
     products:
       - title: 'Classic Board Shorts'
         description: 'Traditional surf-style board shorts with drawstring closure and reinforced seams.'
@@ -180,7 +180,7 @@ subcategories:
         imageAlt: 'Long Board Shorts'
         href: '/products/long-board-shorts'
   - name: 'Swim Fitted Shorts'
-    href: ''
+    href: '/products/swim-fitted-shorts'
     products:
       - title: 'Compression Swim Shorts'
         description: 'Tight-fitting swim shorts with compression technology for enhanced performance and comfort.'
@@ -198,7 +198,7 @@ subcategories:
         imageAlt: 'Training Swim Shorts'
         href: '/products/training-swim-shorts'
   - name: 'Swim Briefs'
-    href: ''
+    href: '/products/swim-briefs'
     products:
       - title: 'Classic Swim Briefs'
         description: 'Traditional swim briefs with comfortable elastic waistband and chlorine-resistant fabric.'
@@ -216,7 +216,7 @@ subcategories:
         imageAlt: 'Training Swim Briefs'
         href: '/products/training-swim-briefs'
   - name: "Kids' Swimwear"
-    href: ''
+    href: '/products/kids-swimwear'
     products:
       - title: 'Boys Swim Trunks Set'
         description: 'Fun and colorful swim trunks with elastic waist and playful prints for active kids.'

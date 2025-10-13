@@ -1,0 +1,113 @@
+title: 'Wholesale Plus Size Swimwear Factory'
+subtitle: 'More than a supplier — your swimwear brand-building partner.'
+seo_title: 'Wholesale Plus Size Swimwear Factory'
+seo_description: 'Discover a wide range of premium plus size swimwear from our factory. Offering custom designs, exceptional comfort, and perfect fit for all body types. Explore our wholesale options today!'
+
+# Hero section
+hero:
+  title: 'Wholesale Plus Size Swimwear Factory'
+  subtitle: 'More than a supplier — your swimwear brand-building partner.'
+  cta_text: 'Consultation'
+  cta_href: '/contact'
+  image_src: '/catalog/plus-swimwear-bg.webp'
+  image_alt: 'Plus Size Swimwear Manufacturing'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Our Mission'
+  paragraph1: "At TideLine Swimwear, we know that plus size swimwear is an essential category for today's fashion market. Each season, our design team creates collections specifically tailored for curvier body types—featuring supportive fits, flattering silhouettes, and durable fabrics—so every customer can enjoy both comfort and confidence by the pool or at the beach."
+  whatsapp_link_text: 'Contact Us on WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experience in the Swimwear Industry'
+    value: '10 years +'
+  - label: 'Orders Fulfilled'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Bikinis'
+    href: '/category?type=plus-size&subtype=bikini'
+    imageSrc: '/plus-swimwear/bikinis/bikini-1.webp'
+    imageAlt: 'Plus Size Bikinis Collection'
+  - name: 'One-Piece Swimsuits'
+    href: '/category?type=plus-size&subtype=one-piece'
+    imageSrc: '/plus-swimwear/one-piece/one-piece-1.webp'
+    imageAlt: 'Plus Size One-Piece Collection'
+  - name: 'Tankinis'
+    href: '/category?type=plus-size&subtype=tankini'
+    imageSrc: '/plus-swimwear/tankini/tankini-1.webp'
+    imageAlt: 'Plus Size Tankinis Collection'
+  - name: 'Beach Cover-Ups'
+    href: '/category?type=plus-size&subtype=cover-up'
+    imageSrc: '/plus-swimwear/beach/beach-2.webp'
+    imageAlt: 'Plus Size Beach Cover-Ups Collection'
+
+# Customization capabilities
+customization:
+  title: 'Customization Capabilities'
+  description: 'Fully customizable swimwear—TideLine accepts all custom designs, fabrics, hardware, logos, and packaging to bring your brand vision to life.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Manufacturing Facility'
+  hero_image_width: '1000'
+  features:
+    - name: 'Style Customization'
+      description: 'Bring any swimwear design to life—choose your perfect style and let us craft it for your brand.'
+      link: '/contact'
+      cta_text: 'Consultation'
+    - name: 'Fabric Customization'
+      description: 'Choose from a wide range of fabrics to create swimwear that is comfortable to wear and looks beautiful.'
+      link: '/fabric'
+      cta_text: 'Fabric'
+    - name: 'Hardware Customization'
+      description: 'Customize every detail—from buckles and rings to zippers—our hardware options elevate your design.'
+      link: '/hardware'
+      cta_text: 'Hardware'
+    - name: 'Logo Customization'
+      description: 'Make it truly yours—add your logo to each piece for a professional branded look.'
+    - name: 'Packaging Customization'
+      description: 'Complete your brand experience with packaging tailored to your style and vision.'
+    - name: 'Contact Us'
+      description: "Ready? Let's turn your swimwear ideas into reality."
+      link: '/contact'
+      cta_text: 'Contact Us'
+
+# Getting Started section
+getting_started:
+  title: 'Your swimwear journey starts here'
+  description: "Whether you're launching your first collection or scaling your brand, TideLine provides tailored swimwear solutions to meet your needs. Choose your path and get started."
+  beginner_text: 'Get Started as a Beginner'
+  beginner_href: '/startup'
+  pro_text: 'Experienced Buyer'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Manufacturing Process'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Frequently Asked Questions'
+  questions:
+    - id: 1
+      question: 'Do you offer plus-size swimwear styles for wholesale?'
+      answer: 'Yes, we offer a wide range of plus-size swimwear options, including trendy and classic styles, available for wholesale orders at competitive prices.'
+    - id: 2
+      question: 'What is the minimum order quantity for plus-size swimwear?'
+      answer: 'Our minimum order quantity (MOQ) for plus-size swimwear is 30 pieces per style, with a minimum of 10 pieces per size. We aim to make bulk ordering easy and flexible for your business.'
+    - id: 3
+      question: 'Can I customize the designs for plus-size swimwear?'
+      answer: "Absolutely! We provide full customization options for plus-size swimwear, including logo printing, fabric choices, colors, and even packaging to match your brand's identity."
+    - id: 4
+      question: 'What sizes are available in your plus-size swimwear collection?'
+      answer: 'We offer a broad range of sizes, from XL to 6XL, ensuring that you can meet the needs of your diverse customer base. Our size charts are available for accurate measurements.'
+    - id: 5
+      question: 'What materials are used in your plus-size swimwear?'
+      answer: 'Our plus-size swimwear is made from high-quality, stretchy fabrics such as spandex and nylon, ensuring comfort, durability, and a flattering fit for all body types.'
+    - id: 6
+      question: 'How long will it take to fulfill a plus-size swimwear order?'
+      answer: 'Typically, our production time for plus-size swimwear is 7-15 days depending on order size and customization requirements. Shipping times may vary based on your location.'
+    - id: 7
+      question: 'Do you offer drop shipping services for plus-size swimwear?'
+      answer: 'Yes, we support drop shipping for plus-size swimwear. This means we can ship directly to your customers, including custom packaging with your branding, without you having to hold inventory.'

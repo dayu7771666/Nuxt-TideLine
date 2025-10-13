@@ -56,7 +56,7 @@
           <div class="flex gap-x-2 justify-between">
             <!-- 这里可以添加价格或其他信息 -->
             <NuxtLink
-              :to="learnMoreLink"
+              :to="product.href"
               class="inline-flex cursor-pointer items-center gap-x-2 rounded-md text-sm text-blue-600 shadow-xs"
             >
               {{ learnMoreText }}
@@ -103,10 +103,6 @@
     quoteText: {
       type: String,
       default: '免费报价',
-    },
-    learnMoreLink: {
-      type: String,
-      default: '/',
     },
     quoteLink: {
       type: String,

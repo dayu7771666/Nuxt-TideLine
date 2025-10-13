@@ -1,0 +1,148 @@
+hero:
+  title: 'Premium Swimwear Hardware & Trims'
+  description: 'Elevate your swimwear designs with our curated selection of high-quality hardware and trims. From chlorine-resistant elastics to durable metal accessories, every detail matters in creating swimwear that lasts.'
+  ctaButton: 'Explore Our Hardware Catalog'
+
+gallery:
+  title: 'Our Hardware Collection'
+  description: 'Browse our extensive range of swimwear-specific hardware and trims, carefully selected for durability, functionality, and aesthetic appeal.'
+  categories:
+    - name: 'Metal Hardware'
+      description: 'Rust-resistant buckles, rings, sliders, and decorative elements'
+      image: '/hardware/metal-hardware.webp'
+      items:
+        - 'D-Rings & O-Rings'
+        - 'Adjustable Sliders'
+        - 'Decorative Buckles'
+        - 'Metal Grommets'
+    - name: 'Elastic & Straps'
+      description: 'Chlorine-resistant elastics and adjustable straps'
+      image: '/hardware/elastic-straps.webp'
+      items:
+        - 'Swimwear Elastic Bands'
+        - 'Adjustable Bra Straps'
+        - 'Decorative Braided Cords'
+        - 'Power Mesh'
+    - name: 'Closures & Fasteners'
+      description: 'Secure and comfortable closure systems'
+      image: '/hardware/closures-fasteners.webp'
+      items:
+        - 'Hook & Eye Sets'
+        - 'Snap Buttons'
+        - 'Plastic Buckles'
+        - 'Magnetic Closures'
+    - name: 'Bust Support'
+      description: 'Professional bust cups and support structures'
+      image: '/hardware/bust-support.webp'
+      items:
+        - 'Molded Cups (A-DD)'
+        - 'Foam Padding'
+        - 'Underwire Channels'
+        - 'Removable Cup Pockets'
+    - name: 'Labels & Tags'
+      description: 'Custom branding and care labels'
+      image: '/hardware/labels-tags.webp'
+      items:
+        - 'Woven Labels'
+        - 'Printed Care Labels'
+        - 'Hang Tags'
+        - 'Size Labels'
+    - name: 'Decorative Trims'
+      description: 'Add unique touches to your designs'
+      image: '/hardware/decorative.webp'
+      items:
+        - 'Beaded Chains'
+        - 'Sequin Appliques'
+        - 'Embroidered Patches'
+        - 'Rhinestone Details'
+
+features:
+  title: 'Why Choose Our Hardware?'
+  description: 'We source only the highest quality swimwear-specific hardware that meets international standards for durability and safety.'
+  items:
+    - title: 'Chlorine Resistant'
+      description: 'All our hardware is tested for resistance to chlorine, saltwater, and UV exposure to ensure long-lasting performance.'
+      icon: 'ShieldCheckIcon'
+    - title: 'Nickel-Free Options'
+      description: 'We offer hypoallergenic, nickel-free metal hardware options for sensitive skin, meeting EU standards.'
+      icon: 'HeartIcon'
+    - title: 'Color Matching'
+      description: 'Extensive color range to perfectly match your fabric choices, with custom color matching available.'
+      icon: 'SwatchIcon'
+    - title: 'Quality Certified'
+      description: 'All hardware meets OEKO-TEX® and international swimwear safety standards.'
+      icon: 'CheckBadgeIcon'
+
+process:
+  title: 'How to Order Hardware'
+  description: 'Our streamlined process makes it easy to get the exact hardware you need for your swimwear production.'
+  steps:
+    - number: 1
+      title: 'Browse & Select'
+      description: 'Review our hardware catalog and select the items you need. Request physical samples if needed to ensure perfect match with your designs.'
+    - number: 2
+      title: 'Confirm Specifications'
+      description: 'Provide details on quantities, colors, and any customization requirements. Our team will confirm availability and lead times.'
+    - number: 3
+      title: 'Receive Samples'
+      description: 'For large orders, we can send sample sets for your approval before bulk production to ensure quality and fit.'
+    - number: 4
+      title: 'Place Order'
+      description: 'Once approved, place your order with clear MOQ and delivery timeline. We handle sourcing and quality inspection.'
+    - number: 5
+      title: 'Quality Check & Delivery'
+      description: 'All hardware undergoes strict quality control before shipment. We coordinate delivery with your production schedule.'
+
+specifications:
+  title: 'Technical Specifications'
+  description: 'Understanding hardware specifications ensures perfect integration with your swimwear designs.'
+  items:
+    - category: 'Metal Hardware'
+      specs:
+        - 'Material: Stainless steel, brass, or zinc alloy'
+        - 'Finish: Polished, brushed, or powder-coated'
+        - 'Corrosion resistance: Salt spray test 48+ hours'
+        - 'Available sizes: 10mm to 50mm'
+    - category: 'Elastic & Straps'
+      specs:
+        - 'Material: Nylon/Spandex blend or polyester'
+        - 'Stretch recovery: 95%+ after 100 cycles'
+        - 'Chlorine resistance: 200+ hours exposure'
+        - 'Width range: 3mm to 25mm'
+    - category: 'Closures'
+      specs:
+        - 'Hook strength: 3-5 kg pull force'
+        - 'Snap durability: 1000+ open/close cycles'
+        - 'Temperature resistance: -20°C to 60°C'
+        - 'Nickel-free options available'
+
+faq:
+  title: 'Hardware FAQs'
+  items:
+    - question: 'What is the minimum order quantity (MOQ) for hardware?'
+      answer: 'MOQs vary by item type. Standard hardware items typically have MOQs of 100-500 pieces per color/size. For custom hardware or special finishes, MOQs may be higher (1000+ pieces). Contact us for specific item MOQs.'
+    - question: 'Can I order hardware samples before bulk purchase?'
+      answer: 'Yes! We offer sample sets for most hardware items. Sample costs are typically $20-50 per set and can be credited toward your bulk order. This allows you to test quality, color matching, and fit before committing to large quantities.'
+    - question: 'Do you offer custom hardware with my brand logo?'
+      answer: 'Absolutely. We can customize metal hardware (buckles, sliders, charms) with your brand logo through engraving or embossing. Custom labels and tags are also available. MOQs for custom items typically start at 1000 pieces.'
+    - question: 'How do I ensure hardware colors match my fabric?'
+      answer: 'We recommend ordering fabric swatches and hardware samples together for physical comparison. We can also provide Pantone color references for most hardware items and offer custom color matching services for larger orders.'
+    - question: 'What is the lead time for hardware orders?'
+      answer: 'Standard in-stock hardware: 3-7 days. Custom colors or finishes: 2-3 weeks. Custom branded hardware: 4-6 weeks. We always confirm exact timelines when you place your order and can expedite for urgent projects.'
+    - question: 'Are your hardware items tested for swimwear use?'
+      answer: 'Yes, all our hardware is specifically selected for swimwear applications. We conduct chlorine resistance tests, salt spray tests, and UV exposure tests to ensure durability. Test reports are available upon request.'
+    - question: 'Can you help me choose the right hardware for my design?'
+      answer: 'Of course! Our team has extensive experience in swimwear hardware selection. Share your design sketches or tech packs, and we can recommend the most suitable hardware options based on functionality, aesthetics, and budget.'
+
+cta:
+  title: 'Ready to Source Your Hardware?'
+  description: 'Get in touch with our hardware specialists to discuss your needs. We can provide samples, technical specifications, and pricing for your next swimwear collection.'
+  button: 'Request Hardware Catalog'
+  link: '/contact'
+
+seo:
+  title: 'Swimwear Hardware & Trims | Premium Quality Accessories | Tideline Swim'
+  description: 'Elevate your swimwear designs with premium hardware and trims. Chlorine-resistant elastics, rust-proof metal accessories, bust cups, and custom branding options. Quality certified swimwear components.'
+  keywords: 'swimwear hardware, swimsuit accessories, chlorine resistant elastic, metal buckles, bust cups, swimwear trims, hook and eye, adjustable straps, swimwear labels, custom hardware'
+  ogImage: '/hardware/hardware-hero.webp'
+  twitterCard: 'summary_large_image'

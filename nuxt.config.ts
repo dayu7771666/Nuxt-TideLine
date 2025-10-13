@@ -3,7 +3,10 @@
     host: '192.168.2.5',
     port: 3000,
   },
-
+  app: {
+    layoutTransition: { name: 'layout', mode: 'out-in' },
+    pageTransition: { name: 'page', mode: 'out-in' },
+  },
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
   site: {
@@ -26,7 +29,9 @@
     '@nuxtjs/seo',
     '@nuxt/content',
     '@nuxtjs/tailwindcss',
+    '@nuxt/fonts',
   ],
+  css: ['~/assets/css/main.css'],
   image: {
     // The screen sizes predefined by @nuxt/image:
     screens: {
@@ -124,5 +129,12 @@
     differentDomains: true,
     detectBrowserLanguage: false,
     defaultLocale: 'en',
+  },
+  runtimeConfig: {
+    //只有服务器端才能访问
+    public: {
+      BaseURL: 'https://us-api.swimsuitcustom.com', //独立站接口
+      userBaseURL: 'https://user.swimsuitcustom.com',
+    },
   },
 });

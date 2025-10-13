@@ -1,0 +1,35 @@
+hero:
+  title: 'Frequently Asked Questions'
+  description: 'Find answers to common questions about our swimwear manufacturing, sampling, and production services. Get the information you need to make informed decisions.'
+
+faq:
+  title: 'Common Questions About Our Services'
+  items:
+    - question: 'What is typically included in your sampling service, and what is the cost?'
+      answer: "Our sampling service is a comprehensive package that includes pattern engineering, sourcing of approved fabrics and trims, construction of one physical prototype, and an internal fit analysis. The cost is project-specific and varies based on the design's complexity, chosen materials, and trim details. We provide a transparent quote after our initial consultation to align on the scope."
+    - question: 'What is the typical turnaround time for a sample?'
+      answer: 'The standard timeline for a first prototype is 2-3 weeks. This period includes material sourcing, pattern development, and meticulous construction. We can discuss expedited options for urgent projects, and timelines are always confirmed upfront.'
+    - question: 'Do I need to provide a complete tech pack, or can you work from my design concept?'
+      answer: 'We can work with both. A detailed tech pack allows for the most accurate and efficient process. However, if you have a design concept or inspiration, our team can help you develop it into a production-ready specification, including fit, fabric, and construction recommendations.'
+    - question: 'How do you handle fit and sizing for samples?'
+      answer: "We begin by aligning on a base fit block and specific grade rules for your target market. The first sample is constructed to these precise specifications and is evaluated internally on a standard dress form. We highly recommend you also conduct your own fit session on a live model that matches your target customer's measurements."
+    - question: 'Can you source specific or sustainable fabrics for my sample?'
+      answer: 'Absolutely. We have established relationships with mills offering a wide range of performance and sustainable fabrics (e.g., recycled nylon, OEKO-TEX® certified materials). We will curate options based on your aesthetic, performance, and sustainability goals and provide swatches for your approval.'
+    - question: 'What happens if the sample requires adjustments after delivery?'
+      answer: "Iteration is a core part of the sampling process. We include one round of detailed feedback consolidation after you receive your first sample. We'll analyze your notes on fit and construction and present a clear plan for revisions, including any associated costs and timeline for a second prototype if needed."
+    - question: 'How does the sampling process transition to bulk production?'
+      answer: "The final, approved sample serves as the 'gold standard' for production. We use the refined patterns, confirmed materials, and construction details from the sampling phase to create a seamless production roadmap, providing you with a firm quotation for your bulk order based on your required quantities."
+
+cta:
+  title: 'Still Have Questions?'
+  description: 'Our team is here to help. Contact us today for personalized answers and expert guidance on your swimwear manufacturing project.'
+  button: 'Contact Our Experts'
+  link: '/contact'
+
+seo:
+  title: 'FAQ - Frequently Asked Questions | Tideline Swimwear Manufacturing'
+  description: 'Get answers to common questions about swimwear manufacturing, sampling services, pricing, turnaround times, and production processes.'
+  ogTitle: 'FAQ - Your Questions Answered | Tideline'
+  ogDescription: 'Find detailed answers about our swimwear manufacturing services, from sampling to bulk production.'
+  ogImage: '/faq-hero.webp'
+  twitterCard: 'summary_large_image'

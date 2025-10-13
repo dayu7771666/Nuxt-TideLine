@@ -1,0 +1,113 @@
+title: 'Sports Swimwear Manufacturer'
+subtitle: 'More than a supplier — your swimwear brand-building partner.'
+seo_title: 'Sports Swimwear Manufacturer'
+seo_description: 'Wholesale high-performance sports swimwear, designed specifically for competition and training, offering exceptional comfort, support, and durability to help athletes improve their performance.'
+
+# Hero section
+hero:
+  title: 'Sports Swimwear Manufacturer'
+  subtitle: 'More than a supplier — your swimwear brand-building partner.'
+  cta_text: 'Consultation'
+  cta_href: '/contact'
+  image_src: '/catalog/sports-swimwear-bg.webp'
+  image_alt: 'Sports Swimwear Manufacturing'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Our Mission'
+  paragraph1: 'At TideLine Swimwear, we know that sports and performance swimwear is an essential category for competitive and active consumers. Each season, our design team develops collections that combine functional performance, durable fabrics, and comfortable fits—ranging from streamlined one-pieces to performance swim briefs—giving wholesalers and brand owners versatile options to meet the demands of athletes and active swimmers.'
+  whatsapp_link_text: 'Contact Us on WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experience in the Swimwear Industry'
+    value: '10 years +'
+  - label: 'Orders Fulfilled'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Racing Swimsuits'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/racing-1.webp'
+    imageAlt: 'Racing Swimsuits Collection'
+  - name: 'Training Swimwear'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/training-1.webp'
+    imageAlt: 'Training Swimwear Collection'
+  - name: 'Water Polo Suits'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/water-polo-1.webp'
+    imageAlt: 'Water Polo Suits Collection'
+  - name: 'Triathlon Suits'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/triathlon-1.webp'
+    imageAlt: 'Triathlon Suits Collection'
+
+# Customization capabilities
+customization:
+  title: 'Customization Capabilities'
+  description: 'Fully customizable swimwear—TideLine accepts all custom designs, fabrics, hardware, logos, and packaging to bring your brand vision to life.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Manufacturing Facility'
+  hero_image_width: '1000'
+  features:
+    - name: 'Style Customization'
+      description: 'Bring any swimwear design to life—choose your perfect style and let us craft it for your brand.'
+      link: '/contact'
+      cta_text: 'Consultation'
+    - name: 'Fabric Customization'
+      description: 'Choose from a wide range of fabrics to create swimwear that is comfortable to wear and looks beautiful.'
+      link: '/fabric'
+      cta_text: 'Fabric'
+    - name: 'Hardware Customization'
+      description: 'Customize every detail—from buckles and rings to zippers—our hardware options elevate your design.'
+      link: '/hardware'
+      cta_text: 'Hardware'
+    - name: 'Logo Customization'
+      description: 'Make it truly yours—add your logo to each piece for a professional branded look.'
+    - name: 'Packaging Customization'
+      description: 'Complete your brand experience with packaging tailored to your style and vision.'
+    - name: 'Contact Us'
+      description: "Ready? Let's turn your swimwear ideas into reality."
+      link: '/contact'
+      cta_text: 'Contact Us'
+
+# Getting Started section
+getting_started:
+  title: 'Your swimwear journey starts here'
+  description: "Whether you're launching your first collection or scaling your brand, TideLine provides tailored swimwear solutions to meet your needs. Choose your path and get started."
+  beginner_text: 'Get Started as a Beginner'
+  beginner_href: '/startup'
+  pro_text: 'Experienced Buyer'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Manufacturing Process'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Frequently Asked Questions'
+  questions:
+    - id: 1
+      question: 'What is the difference between sports swimwear and regular swimwear?'
+      answer: 'Sports swimwear is specially designed for high-intensity activities, offering greater elasticity, support, and durability. They typically use more compressive fabrics to reduce water resistance, helping athletes increase speed and performance. Compared to regular swimwear, sports swimwear focuses more on comfort and tightness, ensuring athletes have better freedom of movement and support during swimming.'
+    - id: 2
+      question: 'What fabric is best for competitive swimming?'
+      answer: 'Competitive swimwear is typically made from high-performance materials like polyester, spandex (elastane), nylon, and elastic fibers. These materials offer excellent elasticity, strength, and water resistance, effectively reducing friction and water resistance, thus improving swimming efficiency. Recently, eco-friendly swimwear made from recycled plastic fibers (RPET) has emerged, offering good performance and sustainability.'
+    - id: 3
+      question: 'How do you choose the right size for sports swimwear?'
+      answer: "When selecting sports swimwear, the right size is very important because the swimwear needs to fit snugly to provide adequate support and a streamlined shape. It is recommended to choose swimwear that fits well but isn't too loose, ensuring comfort without restricting movement. Many brands provide size charts that can help you select the right size based on your body type, or you can consult the brand for specific size recommendations."
+    - id: 4
+      question: 'How resistant are sports swimwear to chlorine?'
+      answer: 'Sports swimwear is often made from chlorine-resistant materials such as polyester fibers and PBT (polybutylene terephthalate), which offer better chlorine resistance than traditional Lycra fabrics. These materials help protect swimwear from the damaging effects of chlorine in pools, extending the lifespan of the suit. It is important to choose swimwear with strong chlorine resistance to ensure longevity.'
+    - id: 5
+      question: 'How is the comfort of sports swimwear ensured?'
+      answer: 'The comfort of sports swimwear is mainly ensured through scientific design and high-performance fabrics. Sports swimwear often uses seamless designs or precise cutting techniques to reduce friction between the body and the swimwear, preventing discomfort during exercise. Additionally, breathable materials are used to keep athletes dry and comfortable during intense training.'
+    - id: 6
+      question: 'How do you wash and care for sports swimwear?'
+      answer: 'To prolong the lifespan of sports swimwear, it is recommended to wash it by hand or machine in cold water and avoid detergents containing bleach. After washing, the swimwear should be laid flat to dry, avoiding direct sunlight or tumble drying. Keeping the swimwear clean and dry helps prevent fabric damage and preserves its performance and elasticity.'
+    - id: 7
+      question: 'Are there sports swimwear made from eco-friendly materials?'
+      answer: 'Yes, more and more sports swimwear brands are using eco-friendly materials like recycled plastic fibers (RPET) and natural fibers. These materials not only offer great performance but also meet sustainability and environmental protection standards. If your brand is environmentally conscious, we can provide you with custom sports swimwear that meets eco-friendly standards and enhances your brand image.'

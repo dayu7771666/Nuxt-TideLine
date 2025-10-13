@@ -1,0 +1,192 @@
+hero:
+  title: 'Custom Brand Labels & Packaging'
+  description: 'Elevate your swimwear brand with premium custom labels and eco-friendly packaging solutions. From embroidered elegance to sustainable materials, we bring your brand vision to life.'
+  image: '/sampling.webp'
+  alt: 'Custom Brand Labels and Packaging'
+
+introduction:
+  title: 'Why Custom Branding Matters'
+  description: 'Your label and packaging are the first touchpoints with your customers. Make them count with our comprehensive branding solutions that combine quality, sustainability, and style.'
+  features:
+    - title: 'Brand Identity'
+      description: 'Create a lasting impression with custom labels that reflect your unique brand personality'
+      icon: 'sparkles'
+      gradient: 'blue'
+    - title: 'Premium Quality'
+      description: 'Durable, long-lasting labels that maintain their look even after multiple washes'
+      icon: 'shield'
+      gradient: 'green'
+    - title: 'Eco-Friendly'
+      description: 'Sustainable materials and processes that align with modern environmental values'
+      icon: 'globe'
+      gradient: 'purple'
+
+labels:
+  title: '10 Premium Label Options'
+  description: 'Choose from our diverse range of labeling solutions, each designed for specific brand needs and market segments'
+  types:
+    - id: 1
+      name: 'Embroidered Labels'
+      icon: 'scissors'
+      gradient: 'purple'
+      technology: 'Machine or hand embroidery technique to stitch brand names or logos onto fabric.'
+      advantages: 'High durability, premium texture, perfect for high-end swimwear brands.'
+      bestFor: 'Luxury and premium brands that emphasize quality.'
+
+    - id: 2
+      name: 'Printed Labels'
+      icon: 'printer'
+      gradient: 'blue'
+      technology: 'Screen printing, heat transfer, or UV printing methods.'
+      advantages: 'Cost-effective, supports complex designs, ideal for bulk production.'
+      bestFor: 'Mid-range or mass-market swimwear brands.'
+
+    - id: 3
+      name: 'Heat Transfer Labels'
+      icon: 'fire'
+      gradient: 'orange'
+      technology: 'Heat press technology transfers designs onto labels, commonly on polyester or nylon.'
+      advantages: 'Fade-resistant, soft and comfortable feel.'
+      bestFor: 'Athletic and lightweight functional swimwear.'
+
+    - id: 4
+      name: 'Woven Labels'
+      icon: 'swatch'
+      gradient: 'indigo'
+      technology: 'Weaving machine integrates brand logos directly into label fibers using nylon or polyester.'
+      advantages: 'High quality, durable, premium feel.'
+      bestFor: 'High-end brands or long-term use swimwear.'
+
+    - id: 5
+      name: 'PVC Labels'
+      icon: 'cube'
+      gradient: 'cyan'
+      technology: 'Molded PVC plastic labels with spray or printed surface.'
+      advantages: 'Waterproof, moisture-resistant, modern and fashionable appearance.'
+      bestFor: 'Young, trendy brands, especially outdoor or athletic swimwear.'
+
+    - id: 6
+      name: 'Leather Labels'
+      icon: 'star'
+      gradient: 'amber'
+      technology: 'Genuine or synthetic leather with embossed or branded logos.'
+      advantages: 'Luxurious, high-end feel with strong visual impact.'
+      bestFor: 'Luxury brands seeking to elevate brand prestige.'
+
+    - id: 7
+      name: 'Paper Tags'
+      icon: 'document'
+      gradient: 'green'
+      technology: 'Eco-friendly paper or cardstock with printing techniques (foil stamping, screen printing).'
+      advantages: 'Low cost, easy mass production, environmentally friendly.'
+      bestFor: 'Budget-conscious or eco-focused swimwear brands.'
+
+    - id: 8
+      name: 'Tagless Design'
+      icon: 'heart'
+      gradient: 'pink'
+      technology: 'Heat transfer or embroidery prints brand info directly inside garment, no physical tag.'
+      advantages: 'Enhanced comfort, no skin irritation, ideal for sensitive skin.'
+      bestFor: 'Athletic brands and comfort-focused swimwear.'
+
+    - id: 9
+      name: 'Laser Cut Labels'
+      icon: 'bolt'
+      gradient: 'violet'
+      technology: 'Laser cutting creates intricate patterns on leather, fabric, or synthetic materials.'
+      advantages: 'Precise, efficient, capable of complex designs.'
+      bestFor: 'Modern brands with attention to detail, high-end swimwear.'
+
+    - id: 10
+      name: 'Reflective Labels'
+      icon: 'lightbulb'
+      gradient: 'yellow'
+      technology: 'Reflective materials enhance brand visibility and safety.'
+      advantages: 'Improves nighttime safety, adds fashionable touch.'
+      bestFor: 'Athletic and outdoor swimwear brands prioritizing functionality.'
+
+packaging:
+  badge: 'Sustainable Choice'
+  title: 'Eco-Friendly Packaging Solutions'
+  description: "Protect your products and the planet with our sustainable packaging options. Made from recycled and biodegradable materials that reflect your brand's environmental commitment."
+
+  features:
+    - title: '100% Recycled Materials'
+      description: 'Our packaging bags are made from post-consumer recycled plastics, reducing waste and environmental impact.'
+      icon: 'arrowPath'
+      gradient: 'green'
+
+    - title: 'Biodegradable Options'
+      description: 'Choose from compostable materials that naturally break down without harming the environment.'
+      icon: 'checkCircle'
+      gradient: 'emerald'
+
+    - title: 'Carbon Neutral Shipping'
+      description: 'Our packaging is designed to minimize shipping weight and volume, reducing carbon emissions.'
+      icon: 'globe'
+      gradient: 'teal'
+
+    - title: 'FSC Certified Paper'
+      description: 'All paper materials are sourced from responsibly managed forests with FSC certification.'
+      icon: 'shield'
+      gradient: 'green'
+
+    - title: 'Custom Branding'
+      description: 'Fully customizable with your logo and brand colors using eco-friendly inks and printing methods.'
+      icon: 'sparkles'
+      gradient: 'emerald'
+
+    - title: 'Premium Quality'
+      description: "Eco-friendly doesn't mean compromising quality. Our bags are durable, waterproof, and protect your products."
+      icon: 'checkBadge'
+      gradient: 'teal'
+
+  types:
+    - title: 'Recycled Poly Mailers'
+      description: 'Water-resistant, tear-proof bags made from 100% recycled plastic. Available in multiple sizes with custom printing.'
+      icon: 'archive'
+      gradient: 'green'
+
+    - title: 'Kraft Paper Bags'
+      description: 'Biodegradable paper bags with reinforced handles. Perfect for retail and in-store packaging.'
+      icon: 'document'
+      gradient: 'emerald'
+
+    - title: 'Compostable Mailers'
+      description: 'Plant-based packaging that breaks down completely in industrial composting facilities within 180 days.'
+      icon: 'sparkles'
+      gradient: 'teal'
+
+    - title: 'Reusable Fabric Bags'
+      description: 'Premium cotton or recycled fabric bags that customers can reuse, extending your brand reach.'
+      icon: 'arrowPath'
+      gradient: 'cyan'
+
+  impact:
+    title: 'Make a Positive Impact'
+    description: "By choosing our eco-friendly packaging, you're not just protecting your products—you're protecting the planet and showing your customers that sustainability matters."
+    stats:
+      - value: '100%'
+        label: 'Recyclable or Compostable'
+      - value: '-60%'
+        label: 'Carbon Emissions'
+      - value: '0'
+        label: 'Virgin Plastics Used'
+
+cta:
+  title: 'Ready to Elevate Your Brand?'
+  description: 'Contact us today to discuss your custom label and packaging needs. Our team will help you create the perfect branding solution that reflects your unique identity.'
+  button: 'Get Started'
+  link: '/contact'
+  variant: 'blue'
+
+seo:
+  title: 'Custom Brand Labels & Packaging | Tideline Swimwear'
+  description: 'Premium custom labels and eco-friendly packaging solutions for swimwear brands. Choose from embroidered, printed, woven, PVC, leather labels and more. Sustainable packaging options available.'
+  keywords: 'custom labels, swimwear branding, embroidered labels, eco-friendly packaging, sustainable packaging, brand identity, woven labels, PVC labels, leather labels'
+  ogTitle: 'Custom Brand Labels & Packaging | Tideline Swimwear'
+  ogDescription: 'Elevate your swimwear brand with premium custom labels and sustainable packaging solutions.'
+  ogType: 'website'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Custom Brand Labels & Packaging | Tideline Swimwear'
+  twitterDescription: 'Premium custom labels and eco-friendly packaging for swimwear brands.'

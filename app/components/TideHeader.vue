@@ -81,28 +81,24 @@
                     class="space-y-10 px-4 pb-8 pt-10"
                   >
                     <div class="grid grid-cols-1 gap-x-4">
-                      <div
-                        v-for="(item, index) in category.featured"
-                        v-show="index < 1"
-                        :key="item.name"
-                        class="group relative text-sm"
+                      <template
+                        v-if="category.featured && category.featured.length > 0"
                       >
-                        <img
-                          :src="item.imageSrc"
-                          :alt="item.imageAlt"
-                          class="aspect-square w-full rounded-lg bg-gray-100 object-cover group-hover:opacity-75"
-                        />
                         <a
-                          :href="item.href"
-                          class="mt-6 block font-medium text-gray-900"
+                          :href="category.featured[0].href"
+                          class="group relative text-sm cursor-pointer"
                         >
-                          <span
-                            class="absolute inset-0 z-10"
-                            aria-hidden="true"
+                          <img
+                            :src="category.featured[0].imageSrc"
+                            :alt="category.featured[0].imageAlt"
+                            class="aspect-square w-full rounded-lg bg-gray-100 object-cover group-hover:opacity-75"
+                            loading="lazy"
                           />
-                          {{ item.name }}
+                          <div class="mt-6 block font-medium text-gray-900">
+                            {{ category.featured[0].name }}
+                          </div>
                         </a>
-                      </div>
+                      </template>
                     </div>
                     <div
                       v-for="section in category.sections"
@@ -258,26 +254,26 @@
             <!--PC Logo -->
             <div class="ml-4 flex lg:ml-0">
               <NuxtLink
-                class=""
+                class="flex items-center"
                 to="/"
                 aria-label="TideLine - Go to homepage"
               >
                 <NuxtImg
-                  class="h-8 w-8"
-                  src="/tidelinelogo.png"
+                  class="h-9 w-9"
+                  src="/tidelinelogo-600.png"
                   alt="TideLine Logo"
                 />
+                <div
+                  class="flex justify-center items-center font-semibold text-xl ml-3 italic"
+                >
+                  TideLine
+                </div>
               </NuxtLink>
-              <div
-                class="flex justify-center items-center font-bold text-lg ml-3"
-              >
-                TideLine
-              </div>
             </div>
 
             <!-- 自定义导航菜单组件 -->
             <nav
-              class="hidden lg:ml-8 lg:block lg:self-stretch overflow-visible"
+              class="hidden lg:ml-[170px] lg:block lg:self-stretch overflow-visible"
             >
               <div class="flex h-full items-center space-x-8">
                 <NuxtLink
@@ -302,7 +298,7 @@
                       :class="[
                         activeCategory === category.id
                           ? 'text-blue-600'
-                          : 'text-gray-700 hover:text-blue-600',
+                          : 'text-gray-700 hover:text-blue-600 ',
                         'relative flex items-center justify-center text-sm font-medium transition-all duration-200 ease-out',
                       ]"
                       :aria-expanded="activeCategory === category.id"
@@ -385,73 +381,72 @@
                 </template>
               </div>
 
-              <!-- 自定义下拉菜单 -->
-              <transition
-                name="dropdown"
-                enter-active-class="transition ease-out duration-200"
-                enter-from-class="opacity-0 -translate-y-2"
-                enter-to-class="opacity-100 translate-y-0"
-                leave-active-class="transition ease-in duration-150"
-                leave-from-class="opacity-100 translate-y-0"
-                leave-to-class="opacity-0 -translate-y-2"
+              <!-- 自定义下拉菜单 - SSR 完全渲染版本 -->
+              <template
+                v-for="category in [
+                  ...navData.categories,
+                  ...navData.pages.filter(page => page.sections),
+                ]"
+                :key="`dropdown-${category.id}`"
               >
-                <div
-                  v-show="activeCategory !== null"
-                  class="dropdown-menu absolute left-0 right-0 top-full z-20 bg-white/95 backdrop-blur-lg text-sm text-gray-500 transform"
-                  style="
-                    margin-left: calc(-50vw + 50%);
-                    margin-right: calc(-50vw + 50%);
-                  "
-                  role="menu"
-                  :aria-labelledby="
-                    activeCategory ? `menu-${activeCategory}` : undefined
-                  "
-                  @mouseenter="handleDropdownEnter"
-                  @mouseleave="handleMouseLeave"
+                <transition
+                  name="dropdown"
+                  enter-active-class="transition ease-out duration-200"
+                  enter-from-class="opacity-0 -translate-y-2"
+                  enter-to-class="opacity-100 translate-y-0"
+                  leave-active-class="transition ease-in duration-150"
+                  leave-from-class="opacity-100 translate-y-0"
+                  leave-to-class="opacity-0 -translate-y-2"
                 >
-                  <!-- 阴影背景 -->
                   <div
-                    class="absolute inset-0 top-1/2 bg-white/95 backdrop-blur-lg shadow-lg transition-all duration-200"
-                    aria-hidden="true"
-                  />
-                  <div class="relative bg-white/95 backdrop-blur-lg">
-                    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-                      <template
-                        v-for="category in [
-                          ...navData.categories,
-                          ...navData.pages.filter(page => page.sections),
-                        ]"
-                        :key="category.id"
-                      >
+                    v-show="activeCategory === category.id"
+                    class="dropdown-menu absolute left-0 right-0 top-full z-20 bg-white/95 backdrop-blur-lg text-sm text-gray-500 transform"
+                    style="
+                      margin-left: calc(-50vw + 50%);
+                      margin-right: calc(-50vw + 50%);
+                    "
+                    role="menu"
+                    :aria-labelledby="`menu-${category.id}`"
+                    :aria-hidden="activeCategory !== category.id"
+                    @mouseenter="handleDropdownEnter"
+                    @mouseleave="handleMouseLeave"
+                  >
+                    <!-- 阴影背景 -->
+                    <div
+                      class="absolute inset-0 top-1/2 bg-white/95 backdrop-blur-lg shadow-lg transition-all duration-200"
+                      aria-hidden="true"
+                    />
+                    <div class="relative bg-white/95 backdrop-blur-lg">
+                      <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                         <div
-                          v-if="activeCategory === category.id"
                           class="grid grid-cols-4 gap-x-8 gap-y-10 py-16 animate-fade-in-up"
                         >
                           <div class="col-start-5 grid grid-cols-1 gap-x-8">
-                            <div
-                              v-for="(item, index) in category.featured"
-                              v-show="index < 1"
-                              :key="item.name"
-                              class="group relative text-base sm:text-sm"
-                              role="menuitem"
+                            <template
+                              v-if="
+                                category.featured &&
+                                category.featured.length > 0
+                              "
                             >
-                              <img
-                                :src="item.imageSrc"
-                                :alt="item.imageAlt"
-                                class="aspect-square w-full rounded-lg bg-gray-100 object-cover group-hover:opacity-75"
-                              />
                               <a
-                                :href="item.href"
-                                class="mt-4 block font-medium text-gray-900"
+                                :href="category.featured[0].href"
+                                class="group relative text-base sm:text-sm cursor-pointer"
+                                role="menuitem"
                                 tabindex="0"
                               >
-                                <span
-                                  class="absolute inset-0 z-10"
-                                  aria-hidden="true"
+                                <img
+                                  :src="category.featured[0].imageSrc"
+                                  :alt="category.featured[0].imageAlt"
+                                  class="aspect-square w-[400px] rounded-lg bg-gray-100 object-cover group-hover:opacity-75"
+                                  loading="eager"
                                 />
-                                {{ item.name }}
+                                <div
+                                  class="mt-4 block font-medium text-gray-900"
+                                >
+                                  {{ category.featured[0].name }}
+                                </div>
                               </a>
-                            </div>
+                            </template>
                           </div>
                           <div
                             class="row-start-1 col-span-4 grid grid-cols-4 gap-x-8 gap-y-10 text-sm"
@@ -479,7 +474,7 @@
                                 >
                                   <a
                                     :href="item.href"
-                                    class="hover:text-gray-800"
+                                    class="hover:text-gray-800 cursor-pointer hover:font-semibold"
                                     tabindex="0"
                                     >{{ item.name }}</a
                                   >
@@ -488,16 +483,16 @@
                             </div>
                           </div>
                         </div>
-                      </template>
+                      </div>
                     </div>
                   </div>
-                </div>
-              </transition>
+                </transition>
+              </template>
             </nav>
 
             <div class="ml-auto flex items-center">
               <!-- Search -->
-              <div class="hidden lg:grid w-full grid-cols-1 sm:max-w-xs">
+              <!-- <div class="hidden lg:grid w-full grid-cols-1 sm:max-w-xs">
                 <input
                   name="search"
                   placeholder="Search..."
@@ -516,13 +511,13 @@
                     fill-rule="evenodd"
                   />
                 </svg>
-              </div>
-              <button
-                type="button"
+              </div> -->
+              <NuxtLinkLocale
+                to="/contact"
                 class="rounded-md ml-3 bg-blue-600 px-4 py-2.5 text-sm text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 dark:bg-blue-500 dark:shadow-none dark:hover:bg-blue-400 dark:focus-visible:outline-blue-500"
               >
                 {{ $t('Contact') }}
-              </button>
+              </NuxtLinkLocale>
             </div>
           </div>
         </div>
@@ -532,7 +527,7 @@
 </template>
 
 <script setup>
-  import { ref, onMounted, onUnmounted, computed } from 'vue';
+  import { ref, computed, onMounted, onUnmounted } from 'vue';
   import {
     Dialog,
     DialogPanel,
@@ -600,34 +595,40 @@
     }
   };
 
-  // 点击外部关闭菜单
+  // 点击外部关闭菜单（仅客户端）
   const handleDocumentClick = event => {
-    const navElement = event.target.closest('nav');
-    if (!navElement || !navElement.contains(event.target)) {
-      activeCategory.value = null;
+    if (import.meta.client) {
+      const navElement = event.target.closest('nav');
+      if (!navElement || !navElement.contains(event.target)) {
+        activeCategory.value = null;
+      }
     }
   };
 
-  // 监听滚动事件
+  // 监听滚动事件（仅客户端）
   const handleScroll = () => {
-    isScrolled.value = window.scrollY > 10;
+    if (import.meta.client) {
+      isScrolled.value = window.scrollY > 10;
+    }
   };
 
-  // 挂载和卸载事件监听器
-  onMounted(() => {
-    document.addEventListener('click', handleDocumentClick);
-    window.addEventListener('scroll', handleScroll);
-    // 初始化滚动状态
-    handleScroll();
-  });
+  // 使用 Nuxt 的 onMounted（SSR 友好）
+  if (import.meta.client) {
+    onMounted(() => {
+      document.addEventListener('click', handleDocumentClick);
+      window.addEventListener('scroll', handleScroll);
+      // 初始化滚动状态
+      handleScroll();
+    });
 
-  onUnmounted(() => {
-    document.removeEventListener('click', handleDocumentClick);
-    window.removeEventListener('scroll', handleScroll);
-    if (hideTimeout) {
-      clearTimeout(hideTimeout);
-    }
-  });
+    onUnmounted(() => {
+      document.removeEventListener('click', handleDocumentClick);
+      window.removeEventListener('scroll', handleScroll);
+      if (hideTimeout) {
+        clearTimeout(hideTimeout);
+      }
+    });
+  }
 </script>
 
 <style scoped>

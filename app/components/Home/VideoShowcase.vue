@@ -1,5 +1,5 @@
 <template>
-  <section class="relative bg-white py-16 overflow-hidden">
+  <section class="relative py-16 overflow-hidden">
     <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <!-- 横向布局 -->
       <div
@@ -7,25 +7,143 @@
         class="flex flex-col lg:flex-row items-center gap-12"
       >
         <!-- 视频区域 -->
-        <div class="flex-1 max-w-2xl group">
+        <div class="flex-1 max-w-4xl group">
           <div class="relative">
             <div
               class="relative aspect-video rounded-lg overflow-hidden bg-white shadow-xl group-hover:shadow-2xl transition-all duration-500"
             >
-              <!-- YouTube 嵌入视频 -->
+              <!-- YouTube 预览图（点击加载） -->
+              <div
+                v-if="isYouTubeVideo && !youtubeLoaded"
+                class="relative w-full h-full cursor-pointer group/youtube"
+                @click="loadYouTubeVideo"
+              >
+                <!-- YouTube 缩略图 -->
+                <img
+                  :src="youtubeThumbnail"
+                  :alt="title"
+                  class="w-full h-full object-cover"
+                />
+
+                <!-- 暗色渐变遮罩 -->
+                <div
+                  class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/0 to-black/20"
+                ></div>
+
+                <!-- YouTube 播放按钮（中央大按钮） -->
+                <div class="absolute inset-0 flex items-center justify-center">
+                  <div
+                    class="relative group-hover/youtube:scale-110 transition-transform duration-200"
+                  >
+                    <!-- YouTube 红色播放按钮 -->
+                    <div class="relative">
+                      <svg
+                        class="w-16 h-16 sm:w-20 sm:h-20 drop-shadow-2xl"
+                        viewBox="0 0 68 48"
+                        fill="none"
+                      >
+                        <!-- 红色背景 -->
+                        <path
+                          d="M66.52 7.74c-.78-2.93-2.49-5.41-5.42-6.19C55.79.13 34 0 34 0S12.21.13 6.9 1.55c-2.93.78-4.63 3.26-5.42 6.19C.06 13.05 0 24 0 24s.06 10.95 1.48 16.26c.78 2.93 2.49 5.41 5.42 6.19C12.21 47.87 34 48 34 48s21.79-.13 27.1-1.55c2.93-.78 4.64-3.26 5.42-6.19C67.94 34.95 68 24 68 24s-.06-10.95-1.48-16.26z"
+                          fill="#FF0000"
+                          class="group-hover/youtube:fill-[#CC0000] transition-colors duration-200"
+                        />
+                        <!-- 白色三角形播放按钮 -->
+                        <path
+                          d="M45 24L27 14v20l18-10z"
+                          fill="white"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- 底部信息栏（模仿 YouTube） -->
+                <div class="absolute bottom-0 left-0 right-0 p-2 sm:p-3">
+                  <!-- 视频标题 -->
+                  <div
+                    class="text-white font-semibold text-xs sm:text-sm mb-1.5 line-clamp-2 drop-shadow-lg"
+                  >
+                    {{ title }}
+                  </div>
+
+                  <!-- YouTube 品牌和观看提示 -->
+                  <div class="flex items-center gap-2 text-white/90 text-xs">
+                    <!-- YouTube Logo -->
+                    <svg
+                      class="w-4 h-4 sm:w-5 sm:h-5 flex-shrink-0"
+                      viewBox="0 0 24 24"
+                      fill="currentColor"
+                    >
+                      <path
+                        d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"
+                      />
+                    </svg>
+                    <span class="drop-shadow-lg">{{ youtubeWatchText }}</span>
+                  </div>
+                </div>
+
+                <!-- 右上角时长标签（可选） -->
+                <div
+                  v-if="videoDuration"
+                  class="absolute top-2 right-2 bg-black/80 text-white text-xs font-semibold px-1.5 py-0.5 rounded"
+                >
+                  {{ videoDuration }}
+                </div>
+              </div>
+
+              <!-- 加载动画（显示在 iframe 加载期间） -->
+              <div
+                v-if="isIframeLoading"
+                class="absolute inset-0 bg-black/90 flex items-center justify-center z-10"
+              >
+                <div class="flex flex-col items-center gap-4">
+                  <!-- 旋转加载图标 -->
+                  <div class="relative">
+                    <svg
+                      class="animate-spin h-12 w-12 text-white"
+                      xmlns="http://www.w3.org/2000/svg"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                    >
+                      <circle
+                        class="opacity-25"
+                        cx="12"
+                        cy="12"
+                        r="10"
+                        stroke="currentColor"
+                        stroke-width="4"
+                      ></circle>
+                      <path
+                        class="opacity-75"
+                        fill="currentColor"
+                        d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
+                      ></path>
+                    </svg>
+                  </div>
+                  <!-- 加载文字 -->
+                  <p class="text-white text-sm font-medium">Loading video...</p>
+                </div>
+              </div>
+
+              <!-- YouTube 嵌入视频（点击后加载） -->
               <iframe
-                v-if="isYouTubeVideo"
-                :src="youtubeEmbedUrl"
-                class="w-full h-full"
+                v-if="isYouTubeVideo && youtubeLoaded"
+                :src="youtubeEmbedUrlWithAutoplay"
+                class="w-full h-full transition-opacity duration-300"
+                :class="{
+                  'opacity-0': isIframeLoading,
+                  'opacity-100': !isIframeLoading,
+                }"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen
-                @load="onVideoLoaded"
+                @load="onIframeLoad"
               ></iframe>
 
               <!-- 本地视频 -->
               <video
-                v-else
+                v-if="!isYouTubeVideo"
                 ref="videoPlayer"
                 :poster="poster"
                 class="w-full h-full object-cover"
@@ -42,7 +160,7 @@
                 </p>
               </video>
 
-              <!-- 播放按钮 -->
+              <!-- 本地视频播放按钮 -->
               <div
                 v-if="!isYouTubeVideo && showPlayButton && !isPlaying"
                 class="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-black/40 via-black/20 to-transparent cursor-pointer"
@@ -120,39 +238,154 @@
       >
         <!-- 标题区域 -->
         <div class="mb-12 flex flex-col items-center">
-          <div class="relative flex items-start gap-4 mb-6">
-            <div
-              class="w-1 h-16 bg-gradient-to-b from-blue-600 to-indigo-600 rounded-full flex-shrink-0 mt-1"
-            ></div>
-            <h2 class="text-3xl md:text-4xl font-bold text-gray-900 text-left">
+          <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
               {{ title }}
             </h2>
-          </div>
           <p class="text-lg text-gray-600 leading-relaxed max-w-3xl mx-auto">
             {{ description }}
           </p>
         </div>
 
         <!-- 视频区域 -->
-        <div class="mb-12 max-w-4xl mx-auto group">
+        <div class="mb-12 max-w-6xl mx-auto group">
           <div class="relative">
             <div
               class="relative aspect-video rounded-lg overflow-hidden bg-white shadow-xl group-hover:shadow-2xl transition-all duration-500"
             >
-              <!-- YouTube 嵌入视频 -->
+              <!-- YouTube 预览图（点击加载） -->
+              <div
+                v-if="isYouTubeVideo && !youtubeLoaded"
+                class="relative w-full h-full cursor-pointer group/youtube"
+                @click="loadYouTubeVideo"
+              >
+                <!-- YouTube 缩略图 -->
+                <img
+                  :src="youtubeThumbnail"
+                  :alt="title"
+                  class="w-full h-full object-cover"
+                />
+
+                <!-- 暗色渐变遮罩 -->
+                <div
+                  class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/0 to-black/20"
+                ></div>
+
+                <!-- YouTube 播放按钮（中央大按钮） -->
+                <div class="absolute inset-0 flex items-center justify-center">
+                  <div
+                    class="relative group-hover/youtube:scale-110 transition-transform duration-200"
+                  >
+                    <!-- YouTube 红色播放按钮 -->
+                    <div class="relative">
+                      <svg
+                        class="w-16 h-16 sm:w-16 sm:h-16 drop-shadow-2xl"
+                        viewBox="0 0 68 48"
+                        fill="none"
+                      >
+                        <!-- 红色背景 -->
+                        <path
+                          d="M66.52 7.74c-.78-2.93-2.49-5.41-5.42-6.19C55.79.13 34 0 34 0S12.21.13 6.9 1.55c-2.93.78-4.63 3.26-5.42 6.19C.06 13.05 0 24 0 24s.06 10.95 1.48 16.26c.78 2.93 2.49 5.41 5.42 6.19C12.21 47.87 34 48 34 48s21.79-.13 27.1-1.55c2.93-.78 4.64-3.26 5.42-6.19C67.94 34.95 68 24 68 24s-.06-10.95-1.48-16.26z"
+                          fill="#FF0000"
+                          class="group-hover/youtube:fill-[#CC0000] transition-colors duration-200"
+                        />
+                        <!-- 白色三角形播放按钮 -->
+                        <path
+                          d="M45 24L27 14v20l18-10z"
+                          fill="white"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- 底部信息栏（模仿 YouTube） -->
+                <div class="absolute bottom-0 left-0 right-0 p-3 sm:p-4">
+                  <!-- 视频标题 -->
+                  <div
+                    class="text-white font-semibold text-sm sm:text-base mb-2 line-clamp-2 drop-shadow-lg"
+                  >
+                    {{ title }}
+                  </div>
+
+                  <!-- YouTube 品牌和观看提示 -->
+                  <div
+                    class="flex items-center gap-2 text-white/90 text-xs sm:text-sm"
+                  >
+                    <!-- YouTube Logo -->
+                    <svg
+                      class="w-5 h-5 sm:w-6 sm:h-6 flex-shrink-0"
+                      viewBox="0 0 24 24"
+                      fill="currentColor"
+                    >
+                      <path
+                        d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"
+                      />
+                    </svg>
+                    <span class="drop-shadow-lg">{{ youtubeWatchText }}</span>
+                  </div>
+                </div>
+
+                <!-- 右上角时长标签（可选） -->
+                <div
+                  v-if="videoDuration"
+                  class="absolute top-3 right-3 bg-black/80 text-white text-xs sm:text-sm font-semibold px-2 py-1 rounded"
+                >
+                  {{ videoDuration }}
+                </div>
+              </div>
+
+              <!-- 加载动画（显示在 iframe 加载期间） -->
+              <div
+                v-if="isIframeLoading"
+                class="absolute inset-0 bg-black/90 flex items-center justify-center z-10"
+              >
+                <div class="flex flex-col items-center gap-4">
+                  <!-- 旋转加载图标 -->
+                  <div class="relative">
+                    <svg
+                      class="animate-spin h-12 w-12 text-white"
+                      xmlns="http://www.w3.org/2000/svg"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                    >
+                      <circle
+                        class="opacity-25"
+                        cx="12"
+                        cy="12"
+                        r="10"
+                        stroke="currentColor"
+                        stroke-width="4"
+                      ></circle>
+                      <path
+                        class="opacity-75"
+                        fill="currentColor"
+                        d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
+                      ></path>
+                    </svg>
+                  </div>
+                  <!-- 加载文字 -->
+                  <p class="text-white text-sm font-medium">Loading video...</p>
+                </div>
+              </div>
+
+              <!-- YouTube 嵌入视频（点击后加载） -->
               <iframe
-                v-if="isYouTubeVideo"
-                :src="youtubeEmbedUrl"
-                class="w-full h-full"
+                v-if="isYouTubeVideo && youtubeLoaded"
+                :src="youtubeEmbedUrlWithAutoplay"
+                class="w-full h-full transition-opacity duration-300"
+                :class="{
+                  'opacity-0': isIframeLoading,
+                  'opacity-100': !isIframeLoading,
+                }"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen
-                @load="onVideoLoaded"
+                @load="onIframeLoad"
               ></iframe>
 
               <!-- 本地视频 -->
               <video
-                v-else
+                v-if="!isYouTubeVideo"
                 ref="videoPlayer"
                 :poster="poster"
                 class="w-full h-full object-cover"
@@ -169,7 +402,7 @@
                 </p>
               </video>
 
-              <!-- 播放按钮 -->
+              <!-- 本地视频播放按钮 -->
               <div
                 v-if="!isYouTubeVideo && showPlayButton && !isPlaying"
                 class="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-black/40 via-black/20 to-transparent cursor-pointer"
@@ -200,7 +433,7 @@
         <div class="flex justify-center">
           <button
             type="button"
-            class="group inline-flex items-center gap-2 px-6 py-3 bg-blue-600 text-white font-semibold rounded-md shadow-lg hover:bg-blue-700 hover:shadow-xl transition-all duration-300 hover:-translate-y-0.5 border border-blue-700"
+            class="group inline-flex items-center gap-2 px-3 py-2 bg-blue-600 text-white rounded-md shadow-lg hover:bg-blue-700 hover:shadow-xl transition-all duration-300 hover:-translate-y-0.5 border border-blue-700"
             @click="handleCtaClick"
           >
             <span>{{ ctaText }}</span>
@@ -256,12 +489,23 @@
       default: 'vertical',
       validator: value => ['vertical', 'horizontal'].includes(value),
     },
+    // 视频时长（可选，格式如 "5:32"）
+    videoDuration: {
+      type: String,
+      default: '',
+    },
+    // YouTube 观看文字（可自定义）
+    youtubeWatchText: {
+      type: String,
+      default: 'Watch on YouTube',
+    },
   });
 
   const emit = defineEmits(['cta-click', 'video-play', 'video-pause']);
 
   const videoPlayer = ref(null);
   const isPlaying = ref(false);
+  const youtubeLoaded = ref(false); // YouTube 视频是否已加载
 
   // 检测是否为 YouTube 视频
   const isYouTubeVideo = computed(() => {
@@ -279,14 +523,50 @@
     return match && match[2].length === 11 ? match[2] : null;
   };
 
-  // 生成 YouTube 嵌入 URL
-  const youtubeEmbedUrl = computed(() => {
+  // 获取 YouTube 视频 ID
+  const youtubeVideoId = computed(() => {
     if (!isYouTubeVideo.value) return '';
-    const videoId = getYouTubeVideoId(props.videoSrc);
-    return videoId
-      ? `https://www.youtube.com/embed/${videoId}?rel=0&modestbranding=1`
-      : '';
+    return getYouTubeVideoId(props.videoSrc);
   });
+
+  // 生成 YouTube 缩略图 URL（使用最高质量）
+  const youtubeThumbnail = computed(() => {
+    if (!youtubeVideoId.value) return '';
+    // YouTube 提供多种缩略图质量：
+    // maxresdefault.jpg - 最高质量 (1920x1080)
+    // sddefault.jpg - 标清 (640x480)
+    // hqdefault.jpg - 高清 (480x360)
+    // mqdefault.jpg - 中等质量 (320x180)
+    // default.jpg - 默认 (120x90)
+    return `https://img.youtube.com/vi/${youtubeVideoId.value}/maxresdefault.jpg`;
+  });
+
+  // 生成 YouTube 嵌入 URL（不自动播放）
+  const youtubeEmbedUrl = computed(() => {
+    if (!youtubeVideoId.value) return '';
+    return `https://www.youtube.com/embed/${youtubeVideoId.value}?rel=0&modestbranding=1`;
+  });
+
+  // 生成 YouTube 嵌入 URL（带自动播放）
+  const youtubeEmbedUrlWithAutoplay = computed(() => {
+    if (!youtubeVideoId.value) return '';
+    return `https://www.youtube.com/embed/${youtubeVideoId.value}?rel=0&modestbranding=1&autoplay=1`;
+  });
+
+  // 控制 iframe 加载状态
+  const isIframeLoading = ref(false);
+
+  // 加载 YouTube 视频
+  const loadYouTubeVideo = () => {
+    isIframeLoading.value = true;
+    youtubeLoaded.value = true;
+    emit('video-play');
+  };
+
+  // iframe 加载完成
+  const onIframeLoad = () => {
+    isIframeLoading.value = false;
+  };
 
   const onVideoLoaded = () => {
     if (!isYouTubeVideo.value && videoPlayer.value) {
@@ -332,7 +612,7 @@
   }
 
   /* 响应式调整 */
-  @media (max-width: 640px) {
+  @media (max-width: 1200px) {
     .aspect-video {
       aspect-ratio: 16 / 9;
     }

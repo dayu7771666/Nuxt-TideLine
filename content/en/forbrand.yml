@@ -1,0 +1,78 @@
+seo_title: Premium Swimwear Manufacturer for Brands
+seo_description: Partner with TideLine Swimwear for high-quality, scalable swimwear manufacturing. Trusted by global brands. OEM & ODM, custom designs, fast lead times.
+seo_image: /manufacturer.jpg
+
+hero:
+  badge: Premium Swimwear Manufacturing
+  title: Wholesale Swimwear Solutions for Established and Emerging Brands
+  intro: At TideLine Swimwear, we specialize in providing full-service wholesale swimwear solutions tailored for independent labels, designer brands, and global swimwear companies. Whether you're expanding your collection or launching a premium line, our experience in OEM & ODM manufacturing, trend forecasting, and product development ensures your brand stays ahead.
+  description: Premium manufacturing. Tailored services. Trusted by brands worldwide.
+
+why_choose:
+  title: Why Brands Choose TideLine Swimwear
+  items:
+    - id: 1
+      title: Proven Experience with Global Swimwear Brands
+      description: We've collaborated with dozens of established and emerging swimwear brands across the US, Europe, and Australia. Our clients range from high-end fashion houses to sustainable niche labels, all seeking the same thing quality, reliability, and flexibility.
+    - id: 2
+      title: End-to-End Service from Concept to Delivery
+      description: Our team supports you at every stage Design assistance & tech pack development, Fabric sourcing including eco-friendly & luxury materials, Prototyping & sample production, Bulk manufacturing with flexible MOQs, Quality control & packaging, Logistics coordination & global shipping.
+    - id: 3
+      title: Customization Meets Scalability
+      description: From signature cuts to exclusive prints, we bring your vision to life. Whether you need 50 or 5,000 pieces, we offer scalable production without compromising quality.
+
+what_sets_apart:
+  title: What Sets Us Apart
+  features:
+    - icon: 🧵
+      name: Expert Craftsmanship
+      benefit: Over 10 years of manufacturing experience in premium swimwear
+    - icon: 🌍
+      name: Global Quality Standards
+      benefit: ISO-certified production and strict QC processes
+    - icon: ♻️
+      name: Sustainable Options
+      benefit: Recycled fabrics, biodegradable packaging, and ethical sourcing
+    - icon: 🔄
+      name: Fast Sampling
+      benefit: First samples ready in 7–10 days
+    - icon: 📦
+      name: Reliable Lead Times
+      benefit: Average production turnaround 15–25 days
+    - icon: 💬
+      name: Dedicated Support
+      benefit: English-speaking project managers with brand development experience
+
+success_stories:
+  title: Brand Success Stories
+  testimonials:
+    - id: 1
+      quote: TideLine helped us expand into the EU market with a luxury capsule line. Their attention to detail and flexible MOQ made everything easier.
+      author: Creative Director, US-based Premium Swimwear Label
+      avatar: https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80
+    - id: 2
+      quote: We worked with three other suppliers before finding TideLine. They finally got our vision—and delivered it flawlessly.
+      author: Founder, Sustainable Swimwear Brand in Australia
+      avatar: https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=facearea&w=1310&h=873&q=80&facepad=3
+
+how_we_work:
+  title: How We Work with Brands
+  steps:
+    - id: 1
+      text: Send Us Your Designs or Moodboard
+    - id: 2
+      text: Receive a Quote & Sample Timeline
+    - id: 3
+      text: Approve Sample → Begin Production
+    - id: 4
+      text: QC + Packing → Global Shipping
+
+partnership:
+  title: Start Your Wholesale Partnership Today
+  description: If you're building a brand that values quality, design, and reliable production, let's talk.
+  cta_text: Contact Us
+
+image:
+  src: /manufacturer.jpg
+  alt: Swimwear manufacturing
+  caption: Our production facility specializes in premium swimwear manufacturing

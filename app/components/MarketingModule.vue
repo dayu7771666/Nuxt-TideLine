@@ -13,11 +13,13 @@
     </div>
 
     <!-- 商品盒子网格 -->
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    <div
+      class="flex gap-2 overflow-x-auto pb-4 md:grid md:grid-cols-2 lg:grid-cols-3 md:overflow-x-visible md:pb-0 scrollbar-hide"
+    >
       <div
         v-for="(item, index) in items"
         :key="index"
-        class="bg-white rounded-xl p-6 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1 border border-gray-100 group cursor-pointer"
+        class="bg-white rounded-xl p-2 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1 border border-gray-100 group cursor-pointer flex-shrink-0 w-72 md:w-auto md:flex-shrink"
         @click="handleItemClick(item)"
       >
         <!-- 商品图片 -->
@@ -134,3 +136,15 @@
     emit('item-click', item);
   };
 </script>
+
+<style scoped>
+  /* 隐藏滚动条但保持滚动功能 */
+  .scrollbar-hide {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none; /* Chrome, Safari and Opera */
+  }
+</style>
