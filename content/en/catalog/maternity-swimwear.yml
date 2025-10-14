@@ -1,12 +1,20 @@
 title: 'Maternity Swimwear Suppliers'
-subtitle: 'More than a supplier — your swimwear brand-building partner.'
-seo_title: 'Maternity Swimwear Suppliers'
-seo_description: 'Find high-quality, comfortable, and stylish maternity swimwear from our expert suppliers. Perfect for expectant mothers, each piece offers support and style.'
+description: 'More than a supplier — your swimwear brand-building partner.'
+
+seo:
+  title: 'Maternity Swimwear Suppliers | TIDELINE SWIMWEAR'
+  description: 'High-quality maternity swimwear manufacturer offering comfortable, supportive designs for expectant mothers. Custom maternity swimsuits, wholesale prices, low MOQ.'
+  keywords: 'maternity swimwear manufacturer, pregnancy swimsuit supplier, nursing swimwear, maternity tankini, maternity swimwear wholesale, maternity swimsuit factory'
+  ogTitle: 'Maternity Swimwear Suppliers | TIDELINE SWIMWEAR'
+  ogDescription: 'Comfortable maternity swimwear manufacturer. Supportive designs for expectant mothers. Custom options, wholesale prices.'
+  ogType: 'website'
+  ogImage: '/catalog/maternity-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Maternity Swimwear Suppliers | TIDELINE SWIMWEAR'
+  twitterDescription: 'Maternity swimwear manufacturing. Comfortable, supportive designs for pregnancy. Custom options available.'
 
 # Hero section
 hero:
-  title: 'Maternity Swimwear Suppliers'
-  subtitle: 'More than a supplier — your swimwear brand-building partner.'
   cta_text: 'Consultation'
   cta_href: '/contact'
   image_src: '/catalog/maternity-swimwear-bg.webp'

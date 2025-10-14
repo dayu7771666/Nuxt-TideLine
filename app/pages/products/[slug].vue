@@ -554,6 +554,35 @@
 
   const mobileFiltersOpen = ref(false);
 
+  // SEO Meta tags
+  useSeoMeta({
+    title: productData.value?.seo?.title || productData.value?.hero?.title,
+    description:
+      productData.value?.seo?.description ||
+      productData.value?.hero?.description,
+    keywords: productData.value?.seo?.keywords,
+    ogTitle:
+      productData.value?.seo?.ogTitle ||
+      productData.value?.seo?.title ||
+      productData.value?.hero?.title,
+    ogDescription:
+      productData.value?.seo?.ogDescription ||
+      productData.value?.seo?.description ||
+      productData.value?.hero?.description,
+    ogType: productData.value?.seo?.ogType || 'website',
+    ogSiteName: 'TIDELINE SWIMWEAR',
+    ogImage: productData.value?.seo?.ogImage || '/products/default.webp',
+    twitterCard: productData.value?.seo?.twitterCard || 'summary_large_image',
+    twitterTitle:
+      productData.value?.seo?.twitterTitle ||
+      productData.value?.seo?.title ||
+      productData.value?.hero?.title,
+    twitterDescription:
+      productData.value?.seo?.twitterDescription ||
+      productData.value?.seo?.description ||
+      productData.value?.hero?.description,
+  });
+
   import { ChevronRightIcon } from '@heroicons/vue/20/solid';
 
   // 复用 app.vue 中的导航数据

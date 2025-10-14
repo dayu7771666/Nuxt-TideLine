@@ -1,12 +1,20 @@
+title: 'Shipping Policy'
+description: 'Reliable global shipping solutions for your swimwear business needs'
+
 seo:
-  title: 'Shipping Policy'
+  title: 'Shipping Policy | TIDELINE SWIMWEAR'
   description: 'Reliable global shipping solutions for your swimwear business needs. Express & sea freight options, worldwide coverage to 150+ countries, real-time tracking.'
   keywords: 'swimwear shipping, global shipping, express courier, sea freight, air freight, DHL, FedEx, UPS, order tracking, international shipping, swimsuit delivery'
+  ogTitle: 'Shipping Policy | TIDELINE SWIMWEAR'
+  ogDescription: 'Reliable global shipping solutions for your swimwear business needs. Express & sea freight options, worldwide coverage to 150+ countries.'
+  ogType: 'website'
   ogImage: '/shipping.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Shipping Policy | TIDELINE SWIMWEAR'
+  twitterDescription: 'Reliable global shipping solutions for your swimwear business needs. Express & sea freight options, worldwide coverage to 150+ countries.'
 
 hero:
-  title: 'Shipping Policy'
-  description: 'Reliable global shipping solutions for your swimwear business needs'
+  image: '/shipping-banner.webp'
 
 orderTracking:
   title: 'Order Tracking'

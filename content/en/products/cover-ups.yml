@@ -2,6 +2,18 @@ hero:
   title: 'Cover-Ups Collection'
   description: 'Stylish beach cover-ups and resort wear perfect for transitioning from beach to boardwalk. Elegant designs that complement your swimwear beautifully.'
 
+seo:
+  title: 'Beach Cover-Ups Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale beach cover-ups and resort wear - kaftans, sarongs, tunics, dresses. Custom designs, low MOQ for retailers and brands.'
+  keywords: 'beach cover-ups, swim cover-ups, kaftan, sarong, beach tunic, resort wear, wholesale cover-ups, custom beach wear'
+  ogTitle: 'Beach Cover-Ups Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale beach cover-ups. Kaftans, sarongs, tunics, dresses. Elegant resort wear.'
+  ogType: 'website'
+  ogImage: '/products/cover-ups-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Beach Cover-Ups Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Beach cover-ups wholesale. Kaftans, sarongs, resort wear. Custom designs available.'
+
 products:
   - id: 1
     name: 'Classic Bikini Bottom'

@@ -1,12 +1,21 @@
-seo_title: Premium Swimwear Manufacturer for Brands
-seo_description: Partner with TideLine Swimwear for high-quality, scalable swimwear manufacturing. Trusted by global brands. OEM & ODM, custom designs, fast lead times.
-seo_image: /manufacturer.jpg
+title: Wholesale Swimwear Solutions for Established and Emerging Brands
+description: At TideLine Swimwear, we specialize in providing full-service wholesale swimwear solutions tailored for independent labels, designer brands, and global swimwear companies. Whether you're expanding your collection or launching a premium line, our experience in OEM & ODM manufacturing, trend forecasting, and product development ensures your brand stays ahead.
+
+seo:
+  title: 'Premium Swimwear Manufacturer for Brands | Tideline'
+  description: 'Partner with TideLine Swimwear for high-quality, scalable swimwear manufacturing. Trusted by global brands. OEM & ODM, custom designs, fast lead times.'
+  keywords: 'swimwear manufacturer, wholesale swimwear, OEM swimwear, ODM swimwear, brand manufacturing, custom swimwear production, swimwear factory, private label swimwear'
+  ogTitle: 'Premium Swimwear Manufacturer for Brands | Tideline'
+  ogDescription: 'Partner with TideLine Swimwear for high-quality, scalable swimwear manufacturing. Trusted by global brands worldwide.'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Premium Swimwear Manufacturer for Brands | Tideline'
+  twitterDescription: 'High-quality, scalable swimwear manufacturing for established and emerging brands. OEM & ODM services.'
 
 hero:
   badge: Premium Swimwear Manufacturing
-  title: Wholesale Swimwear Solutions for Established and Emerging Brands
-  intro: At TideLine Swimwear, we specialize in providing full-service wholesale swimwear solutions tailored for independent labels, designer brands, and global swimwear companies. Whether you're expanding your collection or launching a premium line, our experience in OEM & ODM manufacturing, trend forecasting, and product development ensures your brand stays ahead.
-  description: Premium manufacturing. Tailored services. Trusted by brands worldwide.
+  subtitle: Premium manufacturing. Tailored services. Trusted by brands worldwide.
 
 why_choose:
   title: Why Brands Choose TideLine Swimwear

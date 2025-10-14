@@ -2,8 +2,8 @@
   <div class="bg-gray-50 min-h-screen">
     <!-- Hero Section -->
     <Hero
-      :title="sizeguide?.hero?.title"
-      :description="sizeguide?.hero?.description"
+      :title="sizeguide?.title"
+      :description="sizeguide?.description"
       :image="sizeguide?.hero?.image"
       :alt="sizeguide?.hero?.alt"
     >
@@ -99,7 +99,7 @@
             <NuxtImg
               :src="sizeguide?.bodyTypeIdentification?.image"
               :alt="sizeguide?.bodyTypeIdentification?.imageAlt"
-              class="w-full h-full object-cover rounded-none"
+              class="w-full h-full object-cover object-top rounded-none"
             />
           </div>
 
@@ -140,7 +140,7 @@
       </section>
 
       <!-- Category Size Guides -->
-      <section
+      <!-- <section
         class="bg-white rounded-xl shadow-lg p-12 mb-12 relative overflow-hidden"
       >
         <div
@@ -429,7 +429,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <!-- Platform Optimization Section -->
       <section
@@ -486,7 +486,7 @@
                 </li>
               </ul>
               <a
-                :href="platform.ctaLink"
+                href="https://wa.me/8618302407790"
                 class="inline-block bg-blue-500 hover:bg-blue-400 text-white px-5 py-2 rounded-full text-sm font-semibold transition-all duration-300 hover:-translate-y-1"
               >
                 {{ platform.ctaText }}
@@ -658,30 +658,37 @@
     }
   );
 
-  // SEO Meta - 参考 index.vue 的实现
+  // SEO Meta
   useSeoMeta({
-    title: sizeguide.value?.seo?.title || 'Professional Swimwear Size Guide',
-    ogTitle: sizeguide.value?.seo?.title || 'Professional Swimwear Size Guide',
+    title:
+      sizeguide.value?.seo?.title ||
+      'Professional Swimwear Size Guide | TIDELINE SWIMWEAR',
     description:
-      sizeguide.value?.seo?.description ||
-      'Comprehensive size guides and e-commerce optimization tools for B2B partners and online retailers',
-    ogDescription:
       sizeguide.value?.seo?.description ||
       'Comprehensive size guides and e-commerce optimization tools for B2B partners and online retailers',
     keywords:
       sizeguide.value?.seo?.keywords ||
       'swimwear size guide, swimsuit sizing, bikini size chart',
-    ogImage: sizeguide.value?.seo?.ogImage || '/sizeguide/sizeguide-hero.webp',
-    ogType: 'website',
-    ogSiteName: 'TIDELINE SWIMWEAR',
-    twitterCard: sizeguide.value?.seo?.twitterCard || 'summary_large_image',
-    twitterTitle:
-      sizeguide.value?.seo?.title || 'Professional Swimwear Size Guide',
-    twitterDescription:
+    ogTitle:
+      sizeguide.value?.seo?.ogTitle ||
+      sizeguide.value?.seo?.title ||
+      'Professional Swimwear Size Guide | TIDELINE SWIMWEAR',
+    ogDescription:
+      sizeguide.value?.seo?.ogDescription ||
       sizeguide.value?.seo?.description ||
       'Comprehensive size guides and e-commerce optimization tools for B2B partners and online retailers',
-    twitterImage:
-      sizeguide.value?.seo?.ogImage || '/sizeguide/sizeguide-hero.webp',
+    ogType: sizeguide.value?.seo?.ogType || 'website',
+    ogSiteName: 'TIDELINE SWIMWEAR',
+    ogImage: sizeguide.value?.seo?.ogImage || '/sizeguide/sizeguide-hero.webp',
+    twitterCard: sizeguide.value?.seo?.twitterCard || 'summary_large_image',
+    twitterTitle:
+      sizeguide.value?.seo?.twitterTitle ||
+      sizeguide.value?.seo?.title ||
+      'Professional Swimwear Size Guide | TIDELINE SWIMWEAR',
+    twitterDescription:
+      sizeguide.value?.seo?.twitterDescription ||
+      sizeguide.value?.seo?.description ||
+      'Comprehensive size guides and e-commerce optimization tools for B2B partners and online retailers',
   });
 
   // 添加额外的 head 配置（Font Awesome 等）

@@ -280,6 +280,7 @@
 
   // 获取terms页面数据
   const { data: terms } = await useAsyncData(
+    'terms',
     async () => {
       // 根据当前语言构建集合名称
       const collection = 'terms_' + locale.value;
@@ -292,7 +293,38 @@
     },
     {
       watch: [locale],
-      // server: true,
+      server: true,
     }
   );
+
+  // SEO Meta
+  useSeoMeta({
+    title: terms.value?.seo?.title || 'Terms & Conditions | TIDELINE SWIMWEAR',
+    description:
+      terms.value?.seo?.description ||
+      'B2B swimwear manufacturer terms and conditions.',
+    keywords:
+      terms.value?.seo?.keywords ||
+      'swimwear terms and conditions, B2B terms, wholesale swimwear terms',
+    ogTitle:
+      terms.value?.seo?.ogTitle ||
+      terms.value?.seo?.title ||
+      'Terms & Conditions | TIDELINE SWIMWEAR',
+    ogDescription:
+      terms.value?.seo?.ogDescription ||
+      terms.value?.seo?.description ||
+      'B2B swimwear manufacturer terms and conditions.',
+    ogType: terms.value?.seo?.ogType || 'website',
+    ogSiteName: 'TIDELINE SWIMWEAR',
+    ogImage: terms.value?.seo?.ogImage || '/manufacturer.jpg',
+    twitterCard: terms.value?.seo?.twitterCard || 'summary_large_image',
+    twitterTitle:
+      terms.value?.seo?.twitterTitle ||
+      terms.value?.seo?.title ||
+      'Terms & Conditions | TIDELINE SWIMWEAR',
+    twitterDescription:
+      terms.value?.seo?.twitterDescription ||
+      terms.value?.seo?.description ||
+      'B2B swimwear manufacturer terms and conditions.',
+  });
 </script>

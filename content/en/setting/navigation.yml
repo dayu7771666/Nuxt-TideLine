@@ -49,40 +49,14 @@ tideHeader:
           items:
             - name: 'View All'
               href: '/collections/activewear'
-            - name: 'Shirts'
-              href: '#'
-            - name: 'Leggings'
-              href: '#'
-            - name: 'Rompers'
-              href: '#'
-            - name: 'Rash Guard Sets'
-              href: '#'
-            - name: 'Sport Series'
-              href: '#'
-            - name: 'Swim Racing'
-              href: '#'
-            - name: 'Wetsuits'
-              href: '#'
-        - id: 'TAN TROUGH'
-          name: 'TAN TROUGH'
+        - id: 'TAN TRHOUGH'
+          name: 'TAN TRHOUGH'
           breadcrumb:
             name: 'Tan Through'
             href: '/collections/tan-through'
           items:
             - name: 'View All'
               href: '/collections/tan-through'
-            - name: "Tan Through Women's Bikinis"
-              href: '#'
-            - name: "Tan Through Women's Swimwear Suits"
-              href: '#'
-            - name: 'Tan Through Swim Trunks'
-              href: '#'
-            - name: 'Tan Through Board Shorts'
-              href: '#'
-            - name: 'Tan Through Swim Briefs'
-              href: '#'
-            - name: 'Tan Through Fitted Shorts'
-              href: '#'
         - id: 'ACCESSORIES'
           name: 'ACCESSORIES'
           breadcrumb:
@@ -91,22 +65,12 @@ tideHeader:
           items:
             - name: 'View All'
               href: '/collections/accessories'
-            - name: 'Hardware'
-              href: '#'
-            - name: 'Corsage'
-              href: '#'
-            - name: 'Beachwear'
-              href: '#'
-            - name: 'Beach Dresses'
-              href: '#'
-            - name: 'Beach Towels'
-              href: '#'
     - id: 'Services'
       name: 'Services'
       featured:
         - name: 'Expand your swimwear business—start with samples!'
-          href: '/catalog/custom-swimwear-bg.webp'
-          imageSrc: 'hardware.webp'
+          href: '/sampling'
+          imageSrc: '/hardware.webp'
           imageAlt: 'Drawstring top with elastic loop closure and textured interior padding.'
       sections:
         - id: 'Sampling'
@@ -185,7 +149,7 @@ tideHeader:
       name: 'Support'
       featured:
         - name: 'Want to get more industry insights? Feel free to consult us for free!'
-          href: 'contact'
+          href: '/contact'
           imageSrc: '/nav/support.webp'
           imageAlt: 'Want to get more industry insights? Feel free to consult us for free!'
       sections:
@@ -224,7 +188,7 @@ footer:
     Services:
       title: 'Services'
       items:
-        - title: 'sampling'
+        - title: 'Sampling'
           href: '/sampling'
         - title: 'Bulk Production'
           href: '/bulkproduction'

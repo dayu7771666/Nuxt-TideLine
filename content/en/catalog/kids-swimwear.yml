@@ -1,12 +1,20 @@
 title: "Children's Swimwear Manufacturers"
-subtitle: 'More than a supplier — your swimwear brand-building partner.'
-seo_title: "Children's Swimwear Manufacturers"
-seo_description: "Discover trusted children's swimwear manufacturers offering high-quality, durable, and UV-protective designs, crafted for comfort, safety, and endless fun in the water."
+description: 'More than a supplier — your swimwear brand-building partner.'
+
+seo:
+  title: "Children's Swimwear Manufacturers | TIDELINE SWIMWEAR"
+  description: "Trusted children's swimwear manufacturer offering UV-protective, durable kids swimwear. Custom designs for boys and girls, wholesale prices, low MOQ."
+  keywords: "children's swimwear manufacturer, kids swimwear supplier, UV protection swimwear, boys swim trunks, girls swimsuit manufacturer, kids swimwear factory"
+  ogTitle: "Children's Swimwear Manufacturers | TIDELINE SWIMWEAR"
+  ogDescription: "High-quality children's swimwear manufacturer. UV-protective, durable designs for kids. Custom options available."
+  ogType: 'website'
+  ogImage: '/catalog/kids-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: "Children's Swimwear Manufacturers | TIDELINE SWIMWEAR"
+  twitterDescription: 'Safe, comfortable kids swimwear manufacturing. UV protection, custom designs, wholesale prices.'
 
 # Hero section
 hero:
-  title: "Children's Swimwear Manufacturers"
-  subtitle: 'More than a supplier — your swimwear brand-building partner.'
   cta_text: 'Consultation'
   cta_href: '/contact'
   image_src: '/catalog/kids-swimwear-bg.webp'

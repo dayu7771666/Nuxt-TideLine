@@ -1,6 +1,19 @@
+title: 'Tideline: More Than a Supplier, Your Swimwear Brand-Building Partner.'
+description: 'We offer high-quality, end-to-end custom swimwear manufacturing from design to delivery.'
+
+seo:
+  title: 'Premium Swimwear Manufacturer: High-Quality Swimsuits & Bikinis | Tideline Swim'
+  description: 'Tideline Swim is a premium swimwear manufacturer based in China, specializing in high-quality custom swimsuits, bikinis, and private label production. We partner with discerning brands and designers worldwide, offering sustainable manufacturing, meticulous craftsmanship, and exceptional service to bring your luxury swimwear vision to life.'
+  keywords: 'premium swimwear manufacturer, luxury swimsuit factory, custom bikini manufacturer, high-quality swimwear, private label swimwear, eco-friendly swimwear production, sustainable swimwear, designer swimwear manufacturer, OEM swimwear, swimwear supplier, Tideline Swim'
+  ogImage: '/og-image.jpg'
+  twitterCard: 'summary_large_image'
+  ogType: 'website'
+  ogSiteName: 'Tideline Swim'
+  twitterSite: '@TidelineSwim'
+  robots: 'index, follow'
+  canonical: 'https://tidelineswim.com'
+
 hero:
-  title: 'Tideline: More Than a Supplier, Your Swimwear Brand-Building Partner.'
-  description: 'We offer high-quality, end-to-end custom swimwear manufacturing from design to delivery.'
   src: /hero_banner.webp
   alt: 'Build Your Premium Swimwear Line-enenYML'
   ctaButton: 'Request a Sample'
@@ -108,7 +121,7 @@ serviceAdvantages:
       icon: 'CogIcon'
     - id: 2
       title: 'Fast Production'
-      description: 'Efficient production process with 15-day fast delivery to meet your urgent market demands.'
+      description: 'Efficient production process with 15 Day fast delivery to meet your urgent market demands.'
       icon: 'ClockIcon'
     - id: 3
       title: 'Quality Assurance'
@@ -131,15 +144,3 @@ contactForm:
   submitButton: 'Submit'
   successMessage: 'Thank you! We will contact you soon.'
   errorMessage: 'Submission failed. Please try again or contact our support team.'
-
-seo:
-  title: 'Premium Swimwear Manufacturer: High-Quality Swimsuits & Bikinis | Tideline Swim'
-  description: 'Tideline Swim is a premium swimwear manufacturer based in China, specializing in high-quality custom swimsuits, bikinis, and private label production. We partner with discerning brands and designers worldwide, offering sustainable manufacturing, meticulous craftsmanship, and exceptional service to bring your luxury swimwear vision to life.'
-  keywords: 'premium swimwear manufacturer, luxury swimsuit factory, custom bikini manufacturer, high-quality swimwear, private label swimwear, eco-friendly swimwear production, sustainable swimwear, designer swimwear manufacturer, OEM swimwear, swimwear supplier, Tideline Swim'
-  ogImage: '/og-image.jpg'
-  twitterCard: 'summary_large_image'
-  ogType: 'website'
-  ogSiteName: 'Tideline Swim'
-  twitterSite: '@TidelineSwim'
-  robots: 'index, follow'
-  canonical: 'https://tidelineswim.com'

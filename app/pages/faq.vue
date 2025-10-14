@@ -2,8 +2,8 @@
   <div class="bg-gray-50">
     <!-- Hero Section -->
     <Hero
-      :title="faqData?.hero?.title"
-      :description="faqData?.hero?.description"
+      :title="faqData?.title"
+      :description="faqData?.description"
       pt="pt-36"
       pb="pb-36"
       bg-gradient="bg-gradient-to-br from-slate-900 to-blue-600"
@@ -54,6 +54,9 @@
     description:
       faqData.value?.seo?.description ||
       'Frequently Asked Questions about our swimwear manufacturing services',
+    keywords:
+      faqData.value?.seo?.keywords ||
+      'swimwear manufacturing FAQ, sampling questions',
     ogTitle:
       faqData.value?.seo?.ogTitle ||
       faqData.value?.seo?.title ||
@@ -62,7 +65,17 @@
       faqData.value?.seo?.ogDescription ||
       faqData.value?.seo?.description ||
       'Frequently Asked Questions about our swimwear manufacturing services',
+    ogType: faqData.value?.seo?.ogType || 'website',
+    ogSiteName: 'TIDELINE SWIMWEAR',
     ogImage: faqData.value?.seo?.ogImage || '/faq-hero.webp',
     twitterCard: faqData.value?.seo?.twitterCard || 'summary_large_image',
+    twitterTitle:
+      faqData.value?.seo?.twitterTitle ||
+      faqData.value?.seo?.title ||
+      'FAQ | Tideline',
+    twitterDescription:
+      faqData.value?.seo?.twitterDescription ||
+      faqData.value?.seo?.description ||
+      'Get answers to common questions about our swimwear manufacturing services',
   });
 </script>

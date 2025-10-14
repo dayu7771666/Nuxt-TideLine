@@ -2,8 +2,8 @@
   <div class="bg-gray-50">
     <!-- Hero Section -->
     <Hero
-      :title="brandingData?.hero?.title"
-      :description="brandingData?.hero?.description"
+      :title="brandingData?.title"
+      :description="brandingData?.description"
       image="/custom-brand-label-packing.webp"
       :alt="brandingData?.hero?.alt"
       pt="pt-36"

@@ -1,12 +1,20 @@
 title: 'Sustainable Swimwear Manufacturers'
-subtitle: 'More than a supplier — your swimwear brand-building partner.'
-seo_title: 'Sustainable Swimwear Manufacturers'
-seo_description: 'Wholesale sustainable swimwear, using eco-friendly materials and low-carbon production processes, offering high-performance, comfortable, and durable swimwear, helping brands move towards a greener future.'
+description: 'More than a supplier — your swimwear brand-building partner.'
+
+seo:
+  title: 'Sustainable Swimwear Manufacturers | TIDELINE SWIMWEAR'
+  description: 'Eco-friendly swimwear manufacturer using recycled materials and sustainable production. Wholesale sustainable swimwear, low-carbon processes, custom designs.'
+  keywords: 'sustainable swimwear manufacturer, eco-friendly swimwear, recycled swimwear supplier, organic swimwear factory, green swimwear manufacturing, RPET swimwear'
+  ogTitle: 'Sustainable Swimwear Manufacturers | TIDELINE SWIMWEAR'
+  ogDescription: 'Eco-friendly swimwear manufacturer. Recycled materials, sustainable production, low-carbon processes. Help your brand go green.'
+  ogType: 'website'
+  ogImage: '/catalog/sustainable-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Sustainable Swimwear Manufacturers | TIDELINE SWIMWEAR'
+  twitterDescription: 'Sustainable swimwear manufacturing. Recycled materials, eco-friendly production, custom designs.'
 
 # Hero section
 hero:
-  title: 'Sustainable Swimwear Manufacturers'
-  subtitle: 'More than a supplier — your swimwear brand-building partner.'
   cta_text: 'Consultation'
   cta_href: '/contact'
   image_src: '/catalog/sustainable-swimwear-bg.webp'

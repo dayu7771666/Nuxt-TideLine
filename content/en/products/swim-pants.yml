@@ -2,6 +2,18 @@ hero:
   title: 'Swim Pants Collection'
   description: 'Comfortable and stylish swim pants perfect for water sports, beach volleyball, or modest coverage. Designed for active lifestyles and all-day comfort.'
 
+seo:
+  title: 'Swim Pants Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale swim pants for active lifestyles - leggings, capris, board short style. Modest coverage, UPF protection. Custom designs, low MOQ for retailers.'
+  keywords: 'swim pants, swim leggings, water sports pants, beach volleyball pants, modest swimwear, UPF swim pants, wholesale swim pants'
+  ogTitle: 'Swim Pants Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale swim pants. Active styles with UPF protection. Leggings, capris, board short styles.'
+  ogType: 'website'
+  ogImage: '/products/swim-pants-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Swim Pants Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Swim pants wholesale. Active lifestyle designs. Custom options available.'
+
 products:
   - id: 1
     name: 'Classic Bikini Bottom'

@@ -2,6 +2,18 @@ hero:
   title: 'Swim Fitted Shorts Collection'
   description: 'Sleek and comfortable fitted swim shorts designed for performance and style. Perfect for swimming, water aerobics, and active beach sports.'
 
+seo:
+  title: 'Fitted Swim Shorts Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale fitted swim shorts - compression, racing, training styles. Hydrodynamic design, chlorine-resistant. Custom designs, low MOQ for brands.'
+  keywords: 'fitted swim shorts, compression swim shorts, racing shorts, training shorts, performance swimwear, wholesale swim shorts, custom swim shorts'
+  ogTitle: 'Fitted Swim Shorts Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale fitted swim shorts. Compression, racing, training styles. Performance designs.'
+  ogType: 'website'
+  ogImage: '/products/fitted-shorts-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fitted Swim Shorts Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fitted swim shorts wholesale. Performance and style. Custom options available.'
+
 products:
   - id: 1
     name: 'Classic Bikini Bottom'

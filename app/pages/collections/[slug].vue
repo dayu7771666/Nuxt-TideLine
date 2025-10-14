@@ -461,4 +461,34 @@
     console.log('Marketing item clicked:', item);
     // 这里可以添加营销项目的点击逻辑，比如跳转到特定的商品分类或打开详情页面
   };
+
+  // SEO Meta tags
+  useSeoMeta({
+    title: collectionData.value?.seo?.title || collectionData.value?.title,
+    description:
+      collectionData.value?.seo?.description ||
+      collectionData.value?.description,
+    keywords: collectionData.value?.seo?.keywords,
+    ogTitle:
+      collectionData.value?.seo?.ogTitle ||
+      collectionData.value?.seo?.title ||
+      collectionData.value?.title,
+    ogDescription:
+      collectionData.value?.seo?.ogDescription ||
+      collectionData.value?.seo?.description ||
+      collectionData.value?.description,
+    ogType: collectionData.value?.seo?.ogType || 'website',
+    ogSiteName: 'TIDELINE SWIMWEAR',
+    ogImage: collectionData.value?.seo?.ogImage || '/collections/default.webp',
+    twitterCard:
+      collectionData.value?.seo?.twitterCard || 'summary_large_image',
+    twitterTitle:
+      collectionData.value?.seo?.twitterTitle ||
+      collectionData.value?.seo?.title ||
+      collectionData.value?.title,
+    twitterDescription:
+      collectionData.value?.seo?.twitterDescription ||
+      collectionData.value?.seo?.description ||
+      collectionData.value?.description,
+  });
 </script>

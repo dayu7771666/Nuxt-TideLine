@@ -2,6 +2,18 @@ hero:
   title: 'Plus Size Swimwear Collection'
   description: 'Beautiful plus size swimwear designed for comfort, confidence, and style. Flattering cuts and supportive designs that celebrate every body type.'
 
+seo:
+  title: 'Plus Size Swimwear Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale plus size swimwear with flattering cuts and supportive designs. One-pieces, bikinis, tankinis. Custom styles, low MOQ for retailers.'
+  keywords: 'plus size swimwear, plus size bikini, plus size one-piece, curvy swimwear, flattering swimsuit, wholesale plus size swimwear'
+  ogTitle: 'Plus Size Swimwear Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale plus size swimwear. Flattering designs for all body types. Supportive and stylish.'
+  ogType: 'website'
+  ogImage: '/products/plus-size-swimwear-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Plus Size Swimwear Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Plus size swimwear wholesale. Flattering, supportive designs. Custom options available.'
+
 products:
   - id: 1
     name: 'Classic Bikini Bottom'

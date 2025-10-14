@@ -2,6 +2,18 @@ hero:
   title: 'Swim Trunks Collection'
   description: 'Classic and comfortable swim trunks for men. From traditional styles to modern cuts, find the perfect pair for your beach adventures.'
 
+seo:
+  title: "Men's Swim Trunks Collection | TIDELINE SWIMWEAR"
+  description: "Wholesale men's swim trunks - classic, retro, performance styles. Quick-dry, mesh lining. Custom designs, low MOQ for retailers and brands."
+  keywords: 'mens swim trunks, classic swim trunks, retro trunks, performance swim trunks, quick-dry trunks, wholesale swim trunks, custom swim trunks'
+  ogTitle: "Men's Swim Trunks Collection | TIDELINE SWIMWEAR"
+  ogDescription: "Wholesale men's swim trunks. Classic to modern styles. Quick-dry and comfortable."
+  ogType: 'website'
+  ogImage: '/products/swim-trunks-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: "Men's Swim Trunks Collection | TIDELINE SWIMWEAR"
+  twitterDescription: 'Swim trunks wholesale. Classic, retro, performance styles. Custom designs available.'
+
 products:
   - id: 1
     name: 'Classic Bikini Bottom'

@@ -9,13 +9,13 @@
         <h1
           class="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl"
         >
-          {{ forbrandData?.hero?.title }}
+          {{ forbrandData?.title }}
         </h1>
         <p class="mt-6 text-xl/8">
-          {{ forbrandData?.hero?.intro }}
+          {{ forbrandData?.description }}
         </p>
         <div class="mt-10 max-w-2xl">
-          <p>{{ forbrandData?.hero?.description }}</p>
+          <p>{{ forbrandData?.hero?.subtitle }}</p>
 
           <!-- Why Brands Choose Us -->
           <h2
@@ -202,15 +202,32 @@
 
   // SEO Meta
   useSeoMeta({
-    title: forbrandData.value?.seo_title || 'For Brands | TideLine Swimwear',
+    title: forbrandData.value?.seo?.title || 'For Brands | TideLine Swimwear',
     description:
-      forbrandData.value?.seo_description ||
+      forbrandData.value?.seo?.description ||
       'Premium swimwear manufacturer for brands',
-    ogTitle: forbrandData.value?.seo_title || 'For Brands | TideLine Swimwear',
+    keywords:
+      forbrandData.value?.seo?.keywords ||
+      'swimwear manufacturer, wholesale swimwear',
+    ogTitle:
+      forbrandData.value?.seo?.ogTitle ||
+      forbrandData.value?.seo?.title ||
+      'For Brands | TideLine Swimwear',
     ogDescription:
-      forbrandData.value?.seo_description ||
+      forbrandData.value?.seo?.ogDescription ||
+      forbrandData.value?.seo?.description ||
       'Premium swimwear manufacturer for brands',
-    ogImage: forbrandData.value?.seo_image || '/manufacturer.jpg',
-    twitterCard: 'summary_large_image',
+    ogType: forbrandData.value?.seo?.ogType || 'website',
+    ogSiteName: 'TIDELINE SWIMWEAR',
+    ogImage: forbrandData.value?.seo?.ogImage || '/manufacturer.jpg',
+    twitterCard: forbrandData.value?.seo?.twitterCard || 'summary_large_image',
+    twitterTitle:
+      forbrandData.value?.seo?.twitterTitle ||
+      forbrandData.value?.seo?.title ||
+      'For Brands | TideLine Swimwear',
+    twitterDescription:
+      forbrandData.value?.seo?.twitterDescription ||
+      forbrandData.value?.seo?.description ||
+      'Premium swimwear manufacturer for brands',
   });
 </script>

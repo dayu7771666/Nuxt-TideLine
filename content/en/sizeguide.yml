@@ -1,13 +1,19 @@
+title: 'Professional Swimwear Sizing Solutions'
+description: 'Comprehensive size guides and e-commerce optimization tools for B2B partners and online retailers'
+
 seo:
-  title: 'Professional Swimwear Size Guide'
+  title: 'Professional Swimwear Size Guide | TIDELINE SWIMWEAR'
   description: 'Comprehensive size guides and e-commerce optimization tools for B2B partners and online retailers. Expert measurement guides, body type identification, and platform-specific sizing strategies.'
   keywords: 'swimwear size guide, swimsuit sizing, bikini size chart, one-piece sizing, body measurements, cup size guide, e-commerce sizing tools, TikTok shop sizing, Shopify size chart, women swimwear sizes'
+  ogTitle: 'Professional Swimwear Size Guide | TIDELINE SWIMWEAR'
+  ogDescription: 'Comprehensive size guides and e-commerce optimization tools for B2B partners and online retailers. Expert measurement guides and sizing strategies.'
+  ogType: 'website'
   ogImage: '/sizeguide/sizeguide-hero.webp'
   twitterCard: 'summary_large_image'
+  twitterTitle: 'Professional Swimwear Size Guide | TIDELINE SWIMWEAR'
+  twitterDescription: 'Expert measurement guides, body type identification, and platform-specific sizing strategies for swimwear retailers.'
 
 hero:
-  title: 'Professional Swimwear Sizing Solutions'
-  description: 'Comprehensive size guides and e-commerce optimization tools for B2B partners and online retailers'
   image: '/sizeguide/sizeguide-hero.webp'
   alt: 'Professional Swimwear Sizing Solutions'
   ctaButton: 'Get Expert Sizing Consultation'

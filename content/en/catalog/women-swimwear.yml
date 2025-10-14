@@ -1,12 +1,20 @@
 title: "Women's Swimwear Manufacturer"
-subtitle: 'More than a supplier — your swimwear brand-building partner.'
-seo_title: "Women's Swimwear Manufacturer"
-seo_description: 'Easily launch your swimwear collection.'
+description: 'More than a supplier — your swimwear brand-building partner.'
+
+seo:
+  title: "Women's Swimwear Manufacturer | TIDELINE SWIMWEAR"
+  description: "Professional women's swimwear manufacturer offering custom bikinis, one-piece swimsuits, and tankinis. Low MOQ, high quality, wholesale prices for brands and retailers."
+  keywords: "women's swimwear manufacturer, bikini manufacturer, one-piece swimsuit wholesale, custom swimwear, women's swimwear supplier, swimwear factory"
+  ogTitle: "Women's Swimwear Manufacturer | TIDELINE SWIMWEAR"
+  ogDescription: "Professional women's swimwear manufacturer. Custom designs, low MOQ, wholesale prices for bikinis, one-piece swimsuits, and tankinis."
+  ogType: 'website'
+  ogImage: '/catalog/women-swimwear.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: "Women's Swimwear Manufacturer | TIDELINE SWIMWEAR"
+  twitterDescription: "Custom women's swimwear manufacturing. Bikinis, one-piece suits, tankinis. Low MOQ, wholesale prices."
 
 # Hero section
 hero:
-  title: "Women's Swimwear Manufacturer"
-  subtitle: 'More than a supplier — your swimwear brand-building partner.'
   cta_text: 'Consultation'
   cta_href: '/contact'
   image_src: '/catalog/women-swimwear.webp'

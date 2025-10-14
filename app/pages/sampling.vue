@@ -3,8 +3,8 @@
     <!-- Hero Section -->
     <div class="relative">
       <Hero
-        :title="sampling?.hero?.title"
-        :description="sampling?.hero?.description"
+        :title="sampling?.title"
+        :description="sampling?.description"
         image="/sampling.webp"
         :alt="sampling?.hero?.alt || 'Sampling Services'"
         pt="pt-36"
@@ -14,11 +14,11 @@
         :decorations="true"
       >
         <NuxtLinkLocal
-          :to="sampling.hero.ctaLink"
+          :to="sampling?.hero?.ctaLink"
           class="inline-flex cursor-pointer items-center mt-10 gap-x-2 rounded-md bg-blue-600 px-6 py-3 font-medium text-white shadow-lg hover:bg-blue-700 hover:shadow-xl transition-all duration-300 hover:-translate-y-0.5 border border-blue-700"
         >
           <CheckCircleIcon class="w-6 h-6 text-white" />
-          {{ sampling.hero.ctaButton }}
+          {{ sampling?.hero?.ctaButton }}
         </NuxtLinkLocal>
       </Hero>
     </div>
@@ -91,13 +91,27 @@
     title:
       sampling.value?.seo?.title ||
       'Swimwear Sampling Services | Tideline Swim',
+    description: sampling.value?.seo?.description || '',
+    keywords: sampling.value?.seo?.keywords || '',
     ogTitle:
+      sampling.value?.seo?.ogTitle ||
       sampling.value?.seo?.title ||
       'Swimwear Sampling Services | Tideline Swim',
-    description: sampling.value?.seo?.description || '',
-    ogDescription: sampling.value?.seo?.description || '',
-    keywords: sampling.value?.seo?.keywords || '',
+    ogDescription:
+      sampling.value?.seo?.ogDescription ||
+      sampling.value?.seo?.description ||
+      '',
+    ogType: sampling.value?.seo?.ogType || 'website',
+    ogSiteName: 'TIDELINE SWIMWEAR',
     ogImage: sampling.value?.seo?.ogImage || '/sampling.webp',
     twitterCard: sampling.value?.seo?.twitterCard || 'summary_large_image',
+    twitterTitle:
+      sampling.value?.seo?.twitterTitle ||
+      sampling.value?.seo?.title ||
+      'Swimwear Sampling Services | Tideline Swim',
+    twitterDescription:
+      sampling.value?.seo?.twitterDescription ||
+      sampling.value?.seo?.description ||
+      '',
   });
 </script>

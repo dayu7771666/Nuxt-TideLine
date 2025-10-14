@@ -1,6 +1,18 @@
+title: 'Custom Brand Labels & Packaging'
+description: 'Elevate your swimwear brand with premium custom labels and eco-friendly packaging solutions. From embroidered elegance to sustainable materials, we bring your brand vision to life.'
+
+seo:
+  title: 'Custom Brand Labels & Packaging | Tideline Swimwear'
+  description: 'Premium custom labels and eco-friendly packaging solutions for swimwear brands. Choose from embroidered, printed, woven, PVC, leather labels and more. Sustainable packaging options available.'
+  keywords: 'custom labels, swimwear branding, embroidered labels, eco-friendly packaging, sustainable packaging, brand identity, woven labels, PVC labels, leather labels'
+  ogTitle: 'Custom Brand Labels & Packaging | Tideline Swimwear'
+  ogDescription: 'Elevate your swimwear brand with premium custom labels and sustainable packaging solutions.'
+  ogType: 'website'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Custom Brand Labels & Packaging | Tideline Swimwear'
+  twitterDescription: 'Premium custom labels and eco-friendly packaging for swimwear brands.'
+
 hero:
-  title: 'Custom Brand Labels & Packaging'
-  description: 'Elevate your swimwear brand with premium custom labels and eco-friendly packaging solutions. From embroidered elegance to sustainable materials, we bring your brand vision to life.'
   image: '/sampling.webp'
   alt: 'Custom Brand Labels and Packaging'
 
@@ -179,14 +191,3 @@ cta:
   button: 'Get Started'
   link: '/contact'
   variant: 'blue'
-
-seo:
-  title: 'Custom Brand Labels & Packaging | Tideline Swimwear'
-  description: 'Premium custom labels and eco-friendly packaging solutions for swimwear brands. Choose from embroidered, printed, woven, PVC, leather labels and more. Sustainable packaging options available.'
-  keywords: 'custom labels, swimwear branding, embroidered labels, eco-friendly packaging, sustainable packaging, brand identity, woven labels, PVC labels, leather labels'
-  ogTitle: 'Custom Brand Labels & Packaging | Tideline Swimwear'
-  ogDescription: 'Elevate your swimwear brand with premium custom labels and sustainable packaging solutions.'
-  ogType: 'website'
-  twitterCard: 'summary_large_image'
-  twitterTitle: 'Custom Brand Labels & Packaging | Tideline Swimwear'
-  twitterDescription: 'Premium custom labels and eco-friendly packaging for swimwear brands.'

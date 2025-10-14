@@ -1,12 +1,20 @@
 title: 'Custom Swimwear Manufacturer'
-subtitle: 'More than a supplier — your swimwear brand-building partner.'
-seo_title: 'Custom Swimwear Manufacturer'
-seo_description: 'Professional custom swimwear manufacturing services. From design to production, we bring your unique swimwear vision to life with premium quality and personalized service.'
+description: 'More than a supplier — your swimwear brand-building partner.'
+
+seo:
+  title: 'Custom Swimwear Manufacturer | TIDELINE SWIMWEAR'
+  description: 'Professional custom swimwear manufacturing services. From design to production, we bring your unique swimwear vision to life with premium quality and personalized service.'
+  keywords: 'custom swimwear manufacturer, private label swimwear, custom bikini manufacturer, swimwear design services, OEM swimwear, custom swimsuit production'
+  ogTitle: 'Custom Swimwear Manufacturer | TIDELINE SWIMWEAR'
+  ogDescription: 'Full-service custom swimwear manufacturing. Design development, pattern making, bulk production. Bring your swimwear vision to life.'
+  ogType: 'website'
+  ogImage: '/catalog/custom-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Custom Swimwear Manufacturer | TIDELINE SWIMWEAR'
+  twitterDescription: 'Custom swimwear manufacturing from concept to creation. Design services, pattern making, bulk production.'
 
 # Hero section
 hero:
-  title: 'Custom Swimwear Manufacturer'
-  subtitle: 'More than a supplier — your swimwear brand-building partner.'
   cta_text: 'Start Your Custom Design'
   cta_href: '/contact'
   image_src: '/catalog/custom-swimwear-bg.webp'

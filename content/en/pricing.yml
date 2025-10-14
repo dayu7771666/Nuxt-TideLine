@@ -1,6 +1,19 @@
+title: 'B2B Manufacturing Pricing Guide'
+description: 'Transparent, flexible pricing for emerging swimwear brands. Launch your collection with as few as 60 pieces.'
+
+seo:
+  title: 'B2B Swimwear Manufacturing Pricing - Transparent & Flexible | Tideline'
+  description: 'Transparent B2B swimwear manufacturing pricing. Start with just 60 pieces. Get custom quotes for your swimwear brand with flexible ordering options.'
+  keywords: 'swimwear manufacturing pricing, B2B swimwear costs, swimwear MOQ, custom swimwear pricing, swimwear production costs, swimwear wholesale pricing, swimwear sampling costs'
+  ogTitle: 'B2B Swimwear Manufacturing Pricing - Transparent & Flexible | Tideline'
+  ogDescription: 'Transparent B2B swimwear manufacturing pricing. Start with just 60 pieces. Get custom quotes for your swimwear brand.'
+  ogType: 'website'
+  ogImage: '/img/pricing-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'B2B Swimwear Manufacturing Pricing | Tideline'
+  twitterDescription: 'Transparent pricing for swimwear brands. Start with just 60 pieces. Flexible ordering options available.'
+
 hero:
-  title: 'B2B Manufacturing Pricing Guide'
-  description: 'Transparent, flexible pricing for emerging swimwear brands. Launch your collection with as few as 60 pieces.'
   image: '/img/pricing-hero.webp'
 
 initialCosts:
@@ -167,10 +180,10 @@ cta:
   buttons:
     - text: 'Request Custom Quote'
       primary: true
-    - text: 'Browse Catalog Designs'
-      primary: false
-    - text: 'Download Price List'
-      primary: false
+    # - text: 'Browse Catalog Designs'
+    #   primary: false
+    # - text: 'Download Price List'
+    #   primary: false
 
 contact:
   title: 'Get Your Custom Quote'
@@ -191,11 +204,3 @@ contact:
     - 'Your target launch timeline'
     - 'Any specific design requirements'
     - 'Your budget range (if comfortable sharing)'
-
-seo:
-  title: 'B2B Swimwear Manufacturing Pricing - Transparent & Flexible | Tideline'
-  description: 'Transparent B2B swimwear manufacturing pricing. Start with just 60 pieces. Get custom quotes for your swimwear brand with flexible ordering options.'
-  ogTitle: 'B2B Swimwear Manufacturing Pricing - Transparent & Flexible | Tideline'
-  ogDescription: 'Transparent B2B swimwear manufacturing pricing. Start with just 60 pieces. Get custom quotes for your swimwear brand with flexible ordering options.'
-  ogImage: '/img/pricing-hero.webp'
-  twitterCard: 'summary_large_image'

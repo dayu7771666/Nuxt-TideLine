@@ -1,6 +1,19 @@
+title: 'Premium Fabric Selection for Superior Swimwear'
+description: 'Discover our curated collection of high-performance fabrics designed specifically for swimwear. From sustainable materials to UV-protective textiles, we source only the finest quality fabrics for your brand.'
+
+seo:
+  title: 'Premium Swimwear Fabrics | High-Performance Materials | Tideline'
+  description: 'Browse our comprehensive collection of premium swimwear fabrics including polyester blends, sustainable materials, and UV-protective textiles. Download fabric catalogs and technical specifications.'
+  keywords: 'swimwear fabrics, high-performance fabrics, sustainable swimwear materials, UV protection fabric, ECONYL fabric, recycled polyester, swimwear textiles'
+  ogTitle: 'Premium Swimwear Fabrics & Materials | Tideline'
+  ogDescription: 'Discover high-performance fabrics for swimwear manufacturing. Sustainable options, UV protection, and technical specifications available.'
+  ogType: 'website'
+  ogImage: '/fabric-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Premium Swimwear Fabrics | Tideline'
+  twitterDescription: 'Browse our comprehensive collection of premium swimwear fabrics for manufacturing.'
+
 hero:
-  title: 'Premium Fabric Selection for Superior Swimwear'
-  description: 'Discover our curated collection of high-performance fabrics designed specifically for swimwear. From sustainable materials to UV-protective textiles, we source only the finest quality fabrics for your brand.'
   alt: 'Premium Swimwear Fabrics'
   ctaButton: 'Explore Our Fabric Catalog'
   ctaLink: '#catalog'
@@ -30,7 +43,7 @@ catalog:
   pdfs:
     - title: 'Polyester Fabric Collection'
       description: 'High-performance polyester blends perfect for active swimwear, offering excellent shape retention and quick-dry properties.'
-      file: '/pdf/TideLine Polyester Fabric.pdf'
+      file: '/pdf/tideline-polyester-fabric.pdf'
       fileInfo: 'PDF • 16 MB'
       features:
         - 'Quick-dry technology'
@@ -43,7 +56,7 @@ catalog:
 
     - title: 'Sustainable Fabric Collection'
       description: 'Eco-conscious materials including recycled polyester and ECONYL® regenerated nylon, combining sustainability with performance.'
-      file: '/pdf/Tideline Sustainable Fabric.pdf'
+      file: '/pdf/tideline-sustainable-fabric.pdf'
       fileInfo: 'PDF • 16 MB'
       features:
         - 'Recycled materials'
@@ -56,7 +69,7 @@ catalog:
 
     - title: 'UV Protection Fabric Collection'
       description: 'Advanced UV-blocking fabrics with UPF 50+ protection, ideal for performance swimwear and sun-protective garments.'
-      file: '/pdf/TideLine UV Fabric.pdf'
+      file: '/pdf/tideline-uv-fabric.pdf'
       fileInfo: 'PDF • 16 MB'
       features:
         - 'UPF 50+ protection'
@@ -89,11 +102,3 @@ cta:
   description: 'Let our fabric experts help you choose the perfect materials for your swimwear collection. Request swatches, technical data, or schedule a consultation.'
   button: 'Contact Fabric Specialists'
   link: '/contact'
-
-seo:
-  title: 'Premium Swimwear Fabrics | High-Performance Materials | Tideline'
-  description: 'Browse our comprehensive collection of premium swimwear fabrics including polyester blends, sustainable materials, and UV-protective textiles. Download fabric catalogs and technical specifications.'
-  ogTitle: 'Premium Swimwear Fabrics & Materials | Tideline'
-  ogDescription: 'Discover high-performance fabrics for swimwear manufacturing. Sustainable options, UV protection, and technical specifications available.'
-  ogImage: '/fabric-hero.webp'
-  twitterCard: 'summary_large_image'

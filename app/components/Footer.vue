@@ -83,6 +83,9 @@
         </nav>
       </div>
 
+      <div class="text-white text-6xl font-semibold italic mt-10">
+        {{ $t('Make it Real') }} !
+      </div>
       <!-- 版权信息 -->
       <div class="mt-24 py-16 border-t border-white/10 pt-8 sm:mt-20 lg:mt-24">
         <p class="text-sm text-white">

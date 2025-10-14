@@ -2,15 +2,15 @@
   <div>
     <!-- Banner -->
     <CatalogHeroBanner
-      :title="pageData.hero.title"
-      :subtitle="pageData.hero.subtitle"
+      :title="pageData.title"
+      :subtitle="pageData.description"
       :cta-text="pageData.hero.cta_text"
       :cta-href="pageData.hero.cta_href"
       :image-src="pageData.hero.image_src"
       :image-alt="pageData.hero.image_alt"
       :image-width="pageData.hero.image_width"
-      :seo-title="pageData.seo_title"
-      :seo-description="pageData.seo_description"
+      :seo-title="pageData.seo?.title"
+      :seo-description="pageData.seo?.description"
     />
     <!-- Mission  -->
     <div class="py-24 bg-slate-50 bg-opacity-60">
@@ -147,7 +147,32 @@
 
   // SEO Meta tags
   useSeoMeta({
-    title: pageData.value?.seo_title || pageData.value?.title,
-    description: pageData.value?.seo_description,
+    title: pageData.value?.seo?.title || pageData.value?.title,
+    description:
+      pageData.value?.seo?.description || pageData.value?.description,
+    keywords: pageData.value?.seo?.keywords,
+    ogTitle:
+      pageData.value?.seo?.ogTitle ||
+      pageData.value?.seo?.title ||
+      pageData.value?.title,
+    ogDescription:
+      pageData.value?.seo?.ogDescription ||
+      pageData.value?.seo?.description ||
+      pageData.value?.description,
+    ogType: pageData.value?.seo?.ogType || 'website',
+    ogSiteName: 'TIDELINE SWIMWEAR',
+    ogImage:
+      pageData.value?.seo?.ogImage ||
+      pageData.value?.hero?.image_src ||
+      '/manufacturer.jpg',
+    twitterCard: pageData.value?.seo?.twitterCard || 'summary_large_image',
+    twitterTitle:
+      pageData.value?.seo?.twitterTitle ||
+      pageData.value?.seo?.title ||
+      pageData.value?.title,
+    twitterDescription:
+      pageData.value?.seo?.twitterDescription ||
+      pageData.value?.seo?.description ||
+      pageData.value?.description,
   });
 </script>

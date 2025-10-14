@@ -2,6 +2,18 @@ hero:
   title: 'Bikini Tops Collection'
   description: 'Explore our diverse range of bikini tops designed for comfort, style, and perfect fit. From classic triangles to supportive sports styles, find your ideal top.'
 
+seo:
+  title: 'Bikini Tops Collection | TIDELINE SWIMWEAR'
+  description: 'Shop wholesale bikini tops in various styles - triangle, bandeau, halter, sports. Custom designs, low MOQ. Perfect for retailers and swimwear brands.'
+  keywords: 'bikini tops, triangle bikini top, bandeau top, halter bikini, sports bikini top, wholesale bikini tops, custom swimwear tops'
+  ogTitle: 'Bikini Tops Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale bikini tops in all styles. Triangle, bandeau, halter, sports designs. Custom options available.'
+  ogType: 'website'
+  ogImage: '/products/bikini-tops-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Bikini Tops Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Bikini tops wholesale. Triangle, bandeau, halter, sports styles. Custom designs available.'
+
 products:
   - id: 1
     name: 'Classic Bikini Bottom'

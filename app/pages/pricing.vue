@@ -2,9 +2,9 @@
   <div class="bg-gray-50">
     <!-- Hero Section -->
     <Hero
-      :title="pricing?.hero?.title"
+      :title="pricing?.title"
       image="/pricing.webp"
-      :description="pricing?.hero?.description"
+      :description="pricing?.description"
       pt="pt-36"
       pb="pb-36"
       bg-gradient="bg-gradient-to-br from-slate-900 to-blue-600"
@@ -471,6 +471,9 @@
   useSeoMeta({
     title: pricing.value?.seo?.title || 'Pricing | Tideline',
     description: pricing.value?.seo?.description || '',
+    keywords:
+      pricing.value?.seo?.keywords ||
+      'swimwear manufacturing pricing, B2B swimwear costs',
     ogTitle:
       pricing.value?.seo?.ogTitle ||
       pricing.value?.seo?.title ||
@@ -479,8 +482,18 @@
       pricing.value?.seo?.ogDescription ||
       pricing.value?.seo?.description ||
       '',
+    ogType: pricing.value?.seo?.ogType || 'website',
+    ogSiteName: 'TIDELINE SWIMWEAR',
     ogImage: pricing.value?.seo?.ogImage || '/img/pricing-hero.webp',
     twitterCard: pricing.value?.seo?.twitterCard || 'summary_large_image',
+    twitterTitle:
+      pricing.value?.seo?.twitterTitle ||
+      pricing.value?.seo?.title ||
+      'Pricing | Tideline',
+    twitterDescription:
+      pricing.value?.seo?.twitterDescription ||
+      pricing.value?.seo?.description ||
+      '',
   });
 </script>
 

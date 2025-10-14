@@ -3,9 +3,9 @@
     <!-- Hero Section -->
     <div class="relative">
       <Hero
-        :title="hardware?.hero?.title"
+        :title="hardware?.title"
         image="/hardware.webp"
-        :description="hardware?.hero?.description"
+        :description="hardware?.description"
         :alt="hardware?.hero?.alt || 'Swimwear Hardware and Trims'"
         pt="pt-36"
         pb="pb-40"
@@ -257,24 +257,30 @@
   useSeoMeta({
     title:
       hardware.value?.seo?.title || 'Swimwear Hardware & Trims | Tideline Swim',
-    ogTitle:
-      hardware.value?.seo?.title || 'Swimwear Hardware & Trims | Tideline Swim',
     description:
-      hardware.value?.seo?.description ||
-      'Premium quality swimwear hardware and trims for your designs',
-    ogDescription:
       hardware.value?.seo?.description ||
       'Premium quality swimwear hardware and trims for your designs',
     keywords:
       hardware.value?.seo?.keywords ||
       'swimwear hardware, swimsuit accessories, chlorine resistant elastic',
-    ogImage: hardware.value?.seo?.ogImage || '/hardware/hardware-hero.webp',
-    ogType: 'website',
+    ogTitle:
+      hardware.value?.seo?.ogTitle ||
+      hardware.value?.seo?.title ||
+      'Swimwear Hardware & Trims | Tideline Swim',
+    ogDescription:
+      hardware.value?.seo?.ogDescription ||
+      hardware.value?.seo?.description ||
+      'Premium quality swimwear hardware and trims for your designs',
+    ogType: hardware.value?.seo?.ogType || 'website',
     ogSiteName: 'TIDELINE SWIMWEAR',
+    ogImage: hardware.value?.seo?.ogImage || '/hardware/hardware-hero.webp',
     twitterCard: hardware.value?.seo?.twitterCard || 'summary_large_image',
     twitterTitle:
-      hardware.value?.seo?.title || 'Swimwear Hardware & Trims | Tideline Swim',
+      hardware.value?.seo?.twitterTitle ||
+      hardware.value?.seo?.title ||
+      'Swimwear Hardware & Trims | Tideline Swim',
     twitterDescription:
+      hardware.value?.seo?.twitterDescription ||
       hardware.value?.seo?.description ||
       'Premium quality swimwear hardware and trims for your designs',
     twitterImage:

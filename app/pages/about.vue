@@ -34,10 +34,10 @@
       <!-- 头部介绍 -->
       <div class="mx-auto max-w-2xl lg:mx-0">
         <h1 class="text-4xl sm:text-5xl font-bold tracking-tight text-gray-900">
-          {{ about?.hero?.title }}
+          {{ about?.title }}
         </h1>
         <p class="mt-6 text-xl/8 text-gray-700">
-          {{ about?.hero?.description }}
+          {{ about?.description }}
         </p>
       </div>
 

@@ -1,6 +1,19 @@
-title: 'tan-through'
+title: 'TAN-THROUGH'
 slug: 'tan-through'
 description: 'Experience the ultimate in sun-kissed tanning with our innovative tan-through swimwear collection. Perfect for achieving an even, natural tan while enjoying your time in the water.'
+
+seo:
+  title: 'Tan-Through Swimwear Collection | TIDELINE SWIMWEAR'
+  description: 'Innovative tan-through swimwear for even tanning. Bikinis, one-pieces, trunks, board shorts with UV-permeable fabric. Wholesale prices for retailers and brands.'
+  keywords: 'tan-through swimwear, tan through bikini, tan through trunks, UV permeable swimwear, even tan swimsuit, tan through board shorts'
+  ogTitle: 'Tan-Through Swimwear Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Innovative tan-through swimwear collection. Even tanning with UV-permeable fabric. Bikinis, trunks, board shorts.'
+  ogType: 'website'
+  ogImage: '/collections/tan-through-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Tan-Through Swimwear Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Tan-through swimwear for even tanning. UV-permeable fabric, bikinis, trunks, board shorts.'
+
 subcategories:
   - name: "Tan Through Women's Bikinis"
     href: ''

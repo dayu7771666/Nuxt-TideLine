@@ -1,6 +1,17 @@
-hero:
-  title: 'Frequently Asked Questions'
-  description: 'Find answers to common questions about our swimwear manufacturing, sampling, and production services. Get the information you need to make informed decisions.'
+title: 'Frequently Asked Questions'
+description: 'Find answers to common questions about our swimwear manufacturing, sampling, and production services. Get the information you need to make informed decisions.'
+
+seo:
+  title: 'FAQ - Frequently Asked Questions | Tideline Swimwear Manufacturing'
+  description: 'Get answers to common questions about swimwear manufacturing, sampling services, pricing, turnaround times, and production processes.'
+  keywords: 'swimwear manufacturing FAQ, sampling questions, production process, turnaround time, swimwear pricing, tech pack, fabric sourcing'
+  ogTitle: 'FAQ - Your Questions Answered | Tideline'
+  ogDescription: 'Find detailed answers about our swimwear manufacturing services, from sampling to bulk production.'
+  ogType: 'website'
+  ogImage: '/faq-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'FAQ - Swimwear Manufacturing Questions | Tideline'
+  twitterDescription: 'Get answers to common questions about our swimwear manufacturing and sampling services.'
 
 faq:
   title: 'Common Questions About Our Services'
@@ -25,11 +36,3 @@ cta:
   description: 'Our team is here to help. Contact us today for personalized answers and expert guidance on your swimwear manufacturing project.'
   button: 'Contact Our Experts'
   link: '/contact'
-
-seo:
-  title: 'FAQ - Frequently Asked Questions | Tideline Swimwear Manufacturing'
-  description: 'Get answers to common questions about swimwear manufacturing, sampling services, pricing, turnaround times, and production processes.'
-  ogTitle: 'FAQ - Your Questions Answered | Tideline'
-  ogDescription: 'Find detailed answers about our swimwear manufacturing services, from sampling to bulk production.'
-  ogImage: '/faq-hero.webp'
-  twitterCard: 'summary_large_image'

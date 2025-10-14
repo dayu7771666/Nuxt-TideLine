@@ -1,6 +1,19 @@
+title: 'Premium Swimwear Hardware & Trims'
+description: 'Elevate your swimwear designs with our curated selection of high-quality hardware and trims. From chlorine-resistant elastics to durable metal accessories, every detail matters in creating swimwear that lasts.'
+
+seo:
+  title: 'Swimwear Hardware & Trims | Premium Quality Accessories | Tideline Swim'
+  description: 'Elevate your swimwear designs with premium hardware and trims. Chlorine-resistant elastics, rust-proof metal accessories, bust cups, and custom branding options. Quality certified swimwear components.'
+  keywords: 'swimwear hardware, swimsuit accessories, chlorine resistant elastic, metal buckles, bust cups, swimwear trims, hook and eye, adjustable straps, swimwear labels, custom hardware'
+  ogTitle: 'Premium Swimwear Hardware & Trims | Tideline Swim'
+  ogDescription: 'Elevate your swimwear designs with premium hardware and trims. Chlorine-resistant elastics, rust-proof metal accessories, and custom branding options.'
+  ogType: 'website'
+  ogImage: '/hardware/hardware-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Premium Swimwear Hardware & Trims | Tideline Swim'
+  twitterDescription: 'Quality certified swimwear hardware and trims. Chlorine-resistant, durable, and customizable components for your designs.'
+
 hero:
-  title: 'Premium Swimwear Hardware & Trims'
-  description: 'Elevate your swimwear designs with our curated selection of high-quality hardware and trims. From chlorine-resistant elastics to durable metal accessories, every detail matters in creating swimwear that lasts.'
   ctaButton: 'Explore Our Hardware Catalog'
 
 gallery:
@@ -139,10 +152,3 @@ cta:
   description: 'Get in touch with our hardware specialists to discuss your needs. We can provide samples, technical specifications, and pricing for your next swimwear collection.'
   button: 'Request Hardware Catalog'
   link: '/contact'
-
-seo:
-  title: 'Swimwear Hardware & Trims | Premium Quality Accessories | Tideline Swim'
-  description: 'Elevate your swimwear designs with premium hardware and trims. Chlorine-resistant elastics, rust-proof metal accessories, bust cups, and custom branding options. Quality certified swimwear components.'
-  keywords: 'swimwear hardware, swimsuit accessories, chlorine resistant elastic, metal buckles, bust cups, swimwear trims, hook and eye, adjustable straps, swimwear labels, custom hardware'
-  ogImage: '/hardware/hardware-hero.webp'
-  twitterCard: 'summary_large_image'

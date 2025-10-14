@@ -2,9 +2,9 @@
   <div class="min-h-screen bg-gray-50">
     <!-- Page Header -->
     <Hero
-      :title="shipping?.hero?.title"
+      :title="shipping?.title"
       image="/shipping-banner.webp"
-      :description="shipping?.hero?.description"
+      :description="shipping?.description"
       pt="pt-36"
       pb="pb-40"
     />
@@ -413,25 +413,56 @@
 <script setup>
   import { ref } from 'vue';
 
+  const { locale } = useI18n();
+
+  // 获取shipping页面数据
+  const { data: shipping } = await useAsyncData(
+    'shipping',
+    async () => {
+      // 根据当前语言构建集合名称
+      const collection = 'shipping_' + locale.value;
+      const content = await queryCollection(collection).first();
+      // 可选：如果内容缺失，回退到默认语言
+      if (!content && locale.value !== 'en') {
+        return await queryCollection('shipping_en').first();
+      }
+      return content?.body;
+    },
+    {
+      watch: [locale],
+      server: true,
+    }
+  );
+
   // Meta tags
   useSeoMeta({
-    title: 'Shipping Policy | TIDELINE SWIMWEAR',
+    title: shipping.value?.seo?.title || 'Shipping Policy | TIDELINE SWIMWEAR',
     description:
-      'Reliable global shipping solutions for your swimwear business needs. Express & sea freight options, worldwide coverage to 150+ countries, real-time tracking.',
+      shipping.value?.seo?.description ||
+      'Reliable global shipping solutions for your swimwear business needs.',
     keywords:
-      'swimwear shipping, global shipping, express courier, sea freight, air freight, DHL, FedEx, UPS, order tracking, international shipping, swimsuit delivery',
-    author: 'TIDELINE SWIMWEAR',
-    ogTitle: 'Shipping Policy | TIDELINE SWIMWEAR',
+      shipping.value?.seo?.keywords ||
+      'swimwear shipping, global shipping, express courier',
+    ogTitle:
+      shipping.value?.seo?.ogTitle ||
+      shipping.value?.seo?.title ||
+      'Shipping Policy | TIDELINE SWIMWEAR',
     ogDescription:
-      'Reliable global shipping solutions for your swimwear business needs. Express & sea freight options, worldwide coverage to 150+ countries, real-time tracking.',
-    ogImage: '/shipping.webp',
-    ogType: 'website',
+      shipping.value?.seo?.ogDescription ||
+      shipping.value?.seo?.description ||
+      'Reliable global shipping solutions for your swimwear business needs.',
+    ogType: shipping.value?.seo?.ogType || 'website',
     ogSiteName: 'TIDELINE SWIMWEAR',
-    twitterCard: 'summary_large_image',
-    twitterTitle: 'Shipping Policy | TIDELINE SWIMWEAR',
+    ogImage: shipping.value?.seo?.ogImage || '/shipping.webp',
+    twitterCard: shipping.value?.seo?.twitterCard || 'summary_large_image',
+    twitterTitle:
+      shipping.value?.seo?.twitterTitle ||
+      shipping.value?.seo?.title ||
+      'Shipping Policy | TIDELINE SWIMWEAR',
     twitterDescription:
-      'Reliable global shipping solutions for your swimwear business needs. Express & sea freight options, worldwide coverage to 150+ countries.',
-    twitterImage: '/shipping.webp',
+      shipping.value?.seo?.twitterDescription ||
+      shipping.value?.seo?.description ||
+      'Reliable global shipping solutions for your swimwear business needs.',
   });
 
   // 添加结构化数据
@@ -485,30 +516,6 @@
       },
     ],
   });
-
-  const { locale } = useI18n();
-
-  // 获取shipping页面数据
-  const { data: shipping } = await useAsyncData(
-    'shipping',
-    async () => {
-      // 根据当前语言构建集合名称
-      const collection = 'shipping_' + locale.value;
-      const content = await queryCollection(collection).first();
-      // 可选：如果内容缺失，回退到默认语言
-      if (!content && locale.value !== 'en') {
-        return await queryCollection('shipping_en').first();
-      }
-      return content?.body;
-    },
-    {
-      watch: [locale],
-      server: true,
-    }
-  );
-
-  // 如果 yml 文件中有 SEO 配置，可以动态更新 meta 标签
-  // 这里保留静态配置，也可以改为从 shipping.value.seo 读取
 
   // Reactive data
   const trackingNumber = ref('');

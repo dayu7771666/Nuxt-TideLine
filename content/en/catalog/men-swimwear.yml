@@ -1,12 +1,20 @@
 title: "Men's Swimwear Manufacturer"
-subtitle: 'More than a supplier — your swimwear brand-building partner.'
-seo_title: "Men's Swimwear Manufacturer"
-seo_description: "Wholesale men's swimwear, offering a variety of high-performance, comfortable, and durable swim trunks suitable for competitive, recreational, and water sports."
+description: 'More than a supplier — your swimwear brand-building partner.'
+
+seo:
+  title: "Men's Swimwear Manufacturer | TIDELINE SWIMWEAR"
+  description: "Wholesale men's swimwear manufacturer offering high-performance swim trunks, boardshorts, and briefs. Custom designs, competitive prices, low MOQ."
+  keywords: "men's swimwear manufacturer, swim trunks wholesale, boardshorts manufacturer, men's swimwear supplier, custom swim trunks, men's swimwear factory"
+  ogTitle: "Men's Swimwear Manufacturer | TIDELINE SWIMWEAR"
+  ogDescription: "Professional men's swimwear manufacturer. Swim trunks, boardshorts, briefs. Custom designs, low MOQ, wholesale prices."
+  ogType: 'website'
+  ogImage: '/catalog/men-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: "Men's Swimwear Manufacturer | TIDELINE SWIMWEAR"
+  twitterDescription: "High-performance men's swimwear manufacturing. Trunks, boardshorts, briefs. Custom designs available."
 
 # Hero section
 hero:
-  title: "Men's Swimwear Manufacturer"
-  subtitle: 'More than a supplier — your swimwear brand-building partner.'
   cta_text: 'Consultation'
   cta_href: '/contact'
   image_src: '/catalog/men-swimwear-bg.webp'

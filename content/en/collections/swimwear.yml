@@ -2,6 +2,18 @@ title: 'SWIMWEAR'
 slug: 'swimwear'
 description: 'Dive into our comprehensive swimwear collection featuring everything from classic bikinis to modern one-pieces. Find your perfect fit for any water adventure.'
 
+seo:
+  title: 'Swimwear Collection | TIDELINE SWIMWEAR'
+  description: 'Explore our comprehensive swimwear collection featuring bikinis, one-pieces, tankinis, cover-ups, and more. Wholesale prices, custom designs, low MOQ for retailers and brands.'
+  keywords: 'swimwear collection, bikini wholesale, one-piece swimsuit, tankini, swim trunks, board shorts, kids swimwear, plus size swimwear'
+  ogTitle: 'Swimwear Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Complete swimwear collection for men, women, and kids. Bikinis, one-pieces, trunks, board shorts. Wholesale prices available.'
+  ogType: 'website'
+  ogImage: '/collections/swimwear-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Swimwear Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Full range of swimwear for all. Bikinis, one-pieces, trunks, board shorts. Wholesale and custom options.'
+
 # 营销模块配置
 marketing:
   title: 'Creator Must-Haves: Viral-Ready Swimwear'

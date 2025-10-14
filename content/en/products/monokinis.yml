@@ -2,6 +2,18 @@ hero:
   title: 'Monokinis Collection'
   description: 'Stunning monokini swimsuits that combine the coverage of a one-piece with the allure of a bikini. Perfect for making a statement at the beach or pool.'
 
+seo:
+  title: 'Monokini Swimsuits Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale monokini swimsuits with trendy cut-outs and unique designs. Custom styles, low MOQ for retailers and swimwear brands.'
+  keywords: 'monokini, monokini swimsuit, cut-out swimsuit, one-piece monokini, trendy monokini, wholesale monokini, custom monokini'
+  ogTitle: 'Monokini Swimsuits Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale monokini swimsuits. Trendy cut-outs and unique designs. Stand out styles.'
+  ogType: 'website'
+  ogImage: '/products/monokini-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Monokini Swimsuits Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Monokini wholesale. Cut-out designs and trendy styles. Custom options available.'
+
 products:
   - id: 1
     name: 'Classic Bikini Bottom'

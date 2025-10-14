@@ -9,10 +9,10 @@
         <h1
           class="mt-2 text-pretty text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl"
         >
-          {{ startupData?.hero?.title }}
+          {{ startupData?.title }}
         </h1>
         <p class="mt-6 text-xl/8">
-          {{ startupData?.hero?.description }}
+          {{ startupData?.description }}
         </p>
 
         <!-- Company Introduction -->
@@ -188,15 +188,34 @@
 
   // SEO Meta
   useSeoMeta({
-    title: startupData?.seo_title || 'Swimwear Factory Services for Startups',
+    title:
+      startupData.value?.seo?.title ||
+      'Swimwear Factory Services for Startups | TIDELINE SWIMWEAR',
     description:
-      startupData?.seo_description ||
+      startupData.value?.seo?.description ||
       'We are a Chinese swimwear factory with a complete supply chain.',
-    ogTitle: startupData?.seo_title || 'Swimwear Factory Services for Startups',
+    keywords:
+      startupData.value?.seo?.keywords ||
+      'swimwear factory, swimwear manufacturer, startup swimwear',
+    ogTitle:
+      startupData.value?.seo?.ogTitle ||
+      startupData.value?.seo?.title ||
+      'Swimwear Factory Services for Startups | TIDELINE SWIMWEAR',
     ogDescription:
-      startupData?.seo_description ||
+      startupData.value?.seo?.ogDescription ||
+      startupData.value?.seo?.description ||
       'We are a Chinese swimwear factory with a complete supply chain.',
-    ogImage: startupData?.seo_image || '/manufacturer.jpg',
-    twitterCard: 'summary_large_image',
+    ogType: startupData.value?.seo?.ogType || 'website',
+    ogSiteName: 'TIDELINE SWIMWEAR',
+    ogImage: startupData.value?.seo?.ogImage || '/manufacturer.jpg',
+    twitterCard: startupData.value?.seo?.twitterCard || 'summary_large_image',
+    twitterTitle:
+      startupData.value?.seo?.twitterTitle ||
+      startupData.value?.seo?.title ||
+      'Swimwear Factory Services for Startups | TIDELINE SWIMWEAR',
+    twitterDescription:
+      startupData.value?.seo?.twitterDescription ||
+      startupData.value?.seo?.description ||
+      'We are a Chinese swimwear factory with a complete supply chain.',
   });
 </script>

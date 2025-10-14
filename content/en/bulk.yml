@@ -1,7 +1,17 @@
 # Bulk Production Page Content
+title: 'A Systematic Approach to Swimwear Excellence'
+description: 'From Concept to Commercial Reality'
+
+seo:
+  title: 'Production Process - Tideline'
+  description: 'Discover how Tideline swimwear transforms from concept to finished product through meticulous craftsmanship'
+  keywords: 'swimwear manufacturing, bulk production, sustainable swimwear, swimwear factory, production process, quality assurance'
+  ogTitle: 'Production Process - Tideline'
+  ogDescription: 'A systematic approach to swimwear excellence from concept to commercial reality'
+  ogType: 'website'
+  twitterCard: 'summary_large_image'
+
 hero:
-  title: 'A Systematic Approach to Swimwear Excellence'
-  description: 'From Concept to Commercial Reality'
   image: '/bulkproduct.webp'
 
 intro:
@@ -57,7 +67,3 @@ cta:
     successMessage: "Thank you! We've added you to our list and will send you updates on our latest collections."
     browseText: 'Prefer to browse now?'
     browseLink: 'View our current collections'
-
-meta:
-  title: 'Production Process - Tideline'
-  description: 'Discover how Tideline swimwear transforms from concept to finished product through meticulous craftsmanship'

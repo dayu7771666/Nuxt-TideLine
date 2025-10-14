@@ -1,12 +1,20 @@
 title: 'Wholesale Plus Size Swimwear Factory'
-subtitle: 'More than a supplier — your swimwear brand-building partner.'
-seo_title: 'Wholesale Plus Size Swimwear Factory'
-seo_description: 'Discover a wide range of premium plus size swimwear from our factory. Offering custom designs, exceptional comfort, and perfect fit for all body types. Explore our wholesale options today!'
+description: 'More than a supplier — your swimwear brand-building partner.'
+
+seo:
+  title: 'Wholesale Plus Size Swimwear Factory | TIDELINE SWIMWEAR'
+  description: 'Premium plus size swimwear manufacturer offering custom designs, exceptional comfort, and perfect fit for all body types. Wholesale prices, sizes XL-6XL, low MOQ.'
+  keywords: 'plus size swimwear manufacturer, plus size bikini wholesale, curvy swimwear supplier, plus size swimsuit factory, extended size swimwear, plus size swimwear wholesale'
+  ogTitle: 'Wholesale Plus Size Swimwear Factory | TIDELINE SWIMWEAR'
+  ogDescription: 'Plus size swimwear manufacturer. Custom designs, sizes XL-6XL, exceptional comfort and fit. Wholesale prices available.'
+  ogType: 'website'
+  ogImage: '/catalog/plus-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Wholesale Plus Size Swimwear Factory | TIDELINE SWIMWEAR'
+  twitterDescription: 'Plus size swimwear manufacturing. Sizes XL-6XL, custom designs, perfect fit for all body types.'
 
 # Hero section
 hero:
-  title: 'Wholesale Plus Size Swimwear Factory'
-  subtitle: 'More than a supplier — your swimwear brand-building partner.'
   cta_text: 'Consultation'
   cta_href: '/contact'
   image_src: '/catalog/plus-swimwear-bg.webp'

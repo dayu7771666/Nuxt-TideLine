@@ -1,12 +1,21 @@
-seo_title: 'Swimwear Factory Services for Startups and Physical Stores'
-seo_description: 'We are a Chinese swimwear factory with a complete supply chain, dedicated to providing premium services for startups and physical stores. Our minimum order quantity is just 30 pieces.'
-seo_image: '/manufacturer.jpg'
+title: 'Swimwear Factory Services for Startups and Physical Stores'
+description: 'We are a Chinese swimwear factory with a complete supply chain, dedicated to providing premium services for startups and physical stores. Our minimum order quantity is just 30 pieces, making us ideal for clients with small-batch purchasing needs.'
+
+seo:
+  title: 'Swimwear Factory Services for Startups and Physical Stores | TIDELINE SWIMWEAR'
+  description: 'We are a Chinese swimwear factory with a complete supply chain, dedicated to providing premium services for startups and physical stores. Our minimum order quantity is just 30 pieces.'
+  keywords: 'swimwear factory, swimwear manufacturer, startup swimwear, small batch swimwear, low MOQ swimwear, swimsuit factory, custom swimwear production, swimwear supplier'
+  ogTitle: 'Swimwear Factory Services for Startups | TIDELINE SWIMWEAR'
+  ogDescription: 'Chinese swimwear factory with complete supply chain. Low MOQ of 30 pieces, perfect for startups and physical stores. 8+ years of industry experience.'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Swimwear Factory for Startups | TIDELINE SWIMWEAR'
+  twitterDescription: 'Low MOQ swimwear manufacturing for startups. Minimum 30 pieces, complete supply chain, 8+ years experience.'
 
 # Hero section
 hero:
   badge: 'Introducing'
-  title: 'Swimwear Factory Services for Startups and Physical Stores'
-  description: 'We are a Chinese swimwear factory with a complete supply chain, dedicated to providing premium services for startups and physical stores. Our minimum order quantity is just 30 pieces, making us ideal for clients with small-batch purchasing needs.'
 
 # Company information
 company:

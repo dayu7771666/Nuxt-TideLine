@@ -2,6 +2,18 @@ hero:
   title: "Kids' Swimwear Collection"
   description: 'Fun, safe, and comfortable swimwear designed specifically for children. Featuring bright colors, playful patterns, and UPF protection for worry-free water play.'
 
+seo:
+  title: "Kids' Swimwear Collection | TIDELINE SWIMWEAR"
+  description: "Wholesale kids' swimwear - boys & girls suits, rash guards, UPF protection. Safe, fun designs. Custom styles, low MOQ for retailers and brands."
+  keywords: 'kids swimwear, childrens swimwear, boys swim trunks, girls swimsuit, kids rash guard, UPF kids swimwear, wholesale kids swimwear'
+  ogTitle: "Kids' Swimwear Collection | TIDELINE SWIMWEAR"
+  ogDescription: "Wholesale kids' swimwear. Safe, fun, UPF protection. Boys & girls styles available."
+  ogType: 'website'
+  ogImage: '/products/kids-swimwear-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: "Kids' Swimwear Collection | TIDELINE SWIMWEAR"
+  twitterDescription: "Kids' swimwear wholesale. Fun, safe, UPF protection. Custom options for retailers."
+
 products:
   - id: 1
     name: 'Classic Bikini Bottom'

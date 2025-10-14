@@ -2,9 +2,9 @@
   <div class="text-slate-800 leading-relaxed">
     <!-- Hero Section -->
     <Hero
-      :title="content.hero?.title"
+      :title="content.title"
       image="/bulk.webp"
-      :description="content.hero?.description"
+      :description="content.description"
       bg-gradient="bg-gradient-to-br from-slate-800 to-blue-700"
       text-color="white"
       pt="py-32"
@@ -164,18 +164,37 @@
     return imageMap[title] || '/bulk/Eco-friendly-Materials.webp';
   };
 
-  // Meta tags
+  // SEO Meta
+  useSeoMeta({
+    title: content.seo?.title || 'Production Process - Tideline',
+    description:
+      content.seo?.description ||
+      'Discover how Tideline swimwear transforms from concept to finished product through meticulous craftsmanship',
+    keywords:
+      content.seo?.keywords || 'swimwear manufacturing, bulk production',
+    ogTitle:
+      content.seo?.ogTitle ||
+      content.seo?.title ||
+      'Production Process - Tideline',
+    ogDescription:
+      content.seo?.ogDescription ||
+      content.seo?.description ||
+      'A systematic approach to swimwear excellence',
+    ogType: content.seo?.ogType || 'website',
+    ogSiteName: 'TIDELINE SWIMWEAR',
+    twitterCard: content.seo?.twitterCard || 'summary_large_image',
+    twitterTitle:
+      content.seo?.twitterTitle ||
+      content.seo?.title ||
+      'Production Process - Tideline',
+    twitterDescription:
+      content.seo?.twitterDescription ||
+      content.seo?.description ||
+      'Discover how Tideline swimwear transforms from concept to finished product',
+  });
+
+  // Additional head tags
   useHead({
-    title: content.meta?.title || 'Production Process - Tideline',
-    meta: [
-      {
-        name: 'description',
-        content:
-          content.meta?.description ||
-          'Discover how Tideline swimwear transforms from concept to finished product through meticulous craftsmanship',
-      },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
-    ],
     link: [
       {
         rel: 'stylesheet',

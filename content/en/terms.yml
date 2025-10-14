@@ -1,6 +1,18 @@
 title: 'Terms & Conditions'
 description: 'We operate as a B2B manufacturer, and all purchases made through our shop are wholesale, not for B2C. We only accept returns or refunds for faulty products according to our terms. Samples are provided to help you evaluate quality, fit, and design before committing to bulk orders. Any changes made to samples will be considered as customization, which can be arranged through our online customization service.'
 
+seo:
+  title: 'Terms & Conditions | TIDELINE SWIMWEAR'
+  description: 'B2B swimwear manufacturer terms and conditions. Wholesale purchases, payment terms, shipping policies, confidentiality agreements, and business terms for swimwear orders.'
+  keywords: 'swimwear terms and conditions, B2B terms, wholesale swimwear terms, manufacturer terms, swimwear business terms, confidentiality agreement, payment terms, shipping terms'
+  ogTitle: 'Terms & Conditions | TIDELINE SWIMWEAR'
+  ogDescription: 'B2B swimwear manufacturer terms and conditions. Wholesale purchases, payment terms, shipping policies, and confidentiality agreements.'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Terms & Conditions | TIDELINE SWIMWEAR'
+  twitterDescription: 'B2B swimwear manufacturer terms: wholesale purchases, payment terms, shipping policies, and confidentiality agreements.'
+
 sections:
   contract_formation:
     title: 'Contract Formation'

@@ -2,6 +2,18 @@ hero:
   title: 'Swim Briefs Collection'
   description: 'Classic and performance swim briefs for serious swimmers and water sports enthusiasts. Minimal design with maximum performance and comfort.'
 
+seo:
+  title: 'Swim Briefs Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale swim briefs - classic, competition, training styles. Chlorine-resistant, compression fit. Custom designs, low MOQ for retailers and brands.'
+  keywords: 'swim briefs, mens swim briefs, competition briefs, racing briefs, training briefs, wholesale swim briefs, custom swim briefs'
+  ogTitle: 'Swim Briefs Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale swim briefs. Classic, competition, training styles. Maximum performance.'
+  ogType: 'website'
+  ogImage: '/products/swim-briefs-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Swim Briefs Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Swim briefs wholesale. Competition and training styles. Custom options available.'
+
 products:
   - id: 1
     name: 'Classic Bikini Bottom'

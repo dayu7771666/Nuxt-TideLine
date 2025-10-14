@@ -377,7 +377,7 @@
     }
   };
 
-  await getPostsList();
+  getPostsList();
 
   const category = ref();
   const getCategoryList = async () => {
@@ -391,7 +391,7 @@
       category.value = res.data.slice(1);
     }
   };
-  await getCategoryList();
+  getCategoryList();
 
   // SEO Meta
   useSeoMeta({

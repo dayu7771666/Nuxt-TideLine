@@ -8,9 +8,10 @@
       <NuxtLink
         v-if="learnMoreHref"
         :to="learnMoreHref"
+        :aria-label="`View all ${title} products`"
         class="text-blue-600 hover:text-blue-800 text-sm font-medium transition-colors duration-200 flex items-center group"
       >
-        <span>{{ $t('Learn More') }}</span>
+        <span>{{ $t('Learn More') }} {{ $t('about') }} {{ title }}</span>
         <svg
           class="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform duration-200"
           fill="none"

@@ -2,6 +2,18 @@ hero:
   title: 'Bikini Bottoms Collection'
   description: 'Complete your perfect bikini look with our extensive collection of bikini bottoms. From classic cuts to trendy high-waisted styles, find your ideal fit.'
 
+seo:
+  title: 'Bikini Bottoms Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale bikini bottoms in all styles - classic, high-waisted, Brazilian, cheeky. Custom designs, low MOQ for retailers and swimwear brands.'
+  keywords: 'bikini bottoms, high-waisted bikini bottom, Brazilian bikini bottom, cheeky bikini, classic bikini bottom, wholesale bikini bottoms'
+  ogTitle: 'Bikini Bottoms Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale bikini bottoms. Classic, high-waisted, Brazilian, cheeky styles. Custom designs available.'
+  ogType: 'website'
+  ogImage: '/products/bikini-bottoms-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Bikini Bottoms Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Bikini bottoms wholesale. All styles and cuts. Custom options for your brand.'
+
 products:
   - id: 1
     name: 'Classic Bikini Bottom'

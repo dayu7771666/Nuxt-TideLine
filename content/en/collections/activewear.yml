@@ -1,6 +1,19 @@
 title: 'ACTIVEWEAR'
 slug: 'activewear'
 description: 'Elevate your fitness routine with our premium activewear collection. Designed for performance, comfort, and style in every workout and adventure.'
+
+seo:
+  title: 'Activewear & Performance Swimwear | TIDELINE SWIMWEAR'
+  description: 'Premium activewear collection including rash guards, wetsuits, racing suits, leggings, and performance wear. Wholesale prices for fitness and swim brands.'
+  keywords: 'activewear, performance swimwear, rash guards, wetsuits, racing suits, athletic leggings, sports bra, compression wear, triathlon suits'
+  ogTitle: 'Activewear & Performance Swimwear | TIDELINE SWIMWEAR'
+  ogDescription: 'High-performance activewear and swimwear. Rash guards, wetsuits, racing suits, leggings. Wholesale available.'
+  ogType: 'website'
+  ogImage: '/collections/activewear-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Activewear & Performance Swimwear | TIDELINE SWIMWEAR'
+  twitterDescription: 'Performance activewear collection. Rash guards, wetsuits, racing suits, athletic wear.'
+
 subcategories:
   - name: 'Shirts'
     href: ''

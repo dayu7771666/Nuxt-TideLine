@@ -1,12 +1,20 @@
 title: 'Sports Swimwear Manufacturer'
-subtitle: 'More than a supplier — your swimwear brand-building partner.'
-seo_title: 'Sports Swimwear Manufacturer'
-seo_description: 'Wholesale high-performance sports swimwear, designed specifically for competition and training, offering exceptional comfort, support, and durability to help athletes improve their performance.'
+description: 'More than a supplier — your swimwear brand-building partner.'
+
+seo:
+  title: 'Sports Swimwear Manufacturer | TIDELINE SWIMWEAR'
+  description: 'High-performance sports swimwear manufacturer for competition and training. Racing suits, training swimwear, water polo suits. Custom designs, wholesale prices.'
+  keywords: 'sports swimwear manufacturer, racing swimsuit supplier, competition swimwear, training swimwear wholesale, performance swimwear factory, athletic swimwear manufacturer'
+  ogTitle: 'Sports Swimwear Manufacturer | TIDELINE SWIMWEAR'
+  ogDescription: 'Professional sports swimwear manufacturer. Racing suits, training gear, competition swimwear. High-performance designs.'
+  ogType: 'website'
+  ogImage: '/catalog/sports-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Sports Swimwear Manufacturer | TIDELINE SWIMWEAR'
+  twitterDescription: 'High-performance sports swimwear. Competition and training gear. Custom designs for athletes.'
 
 # Hero section
 hero:
-  title: 'Sports Swimwear Manufacturer'
-  subtitle: 'More than a supplier — your swimwear brand-building partner.'
   cta_text: 'Consultation'
   cta_href: '/contact'
   image_src: '/catalog/sports-swimwear-bg.webp'

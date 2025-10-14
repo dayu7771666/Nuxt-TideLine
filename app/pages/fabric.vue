@@ -2,8 +2,8 @@
   <div class="bg-gray-50">
     <!-- Hero Section -->
     <Hero
-      :title="fabricData?.hero?.title"
-      :description="fabricData?.hero?.description"
+      :title="fabricData?.title"
+      :description="fabricData?.description"
       image="/sampling.webp"
       :alt="fabricData?.hero?.alt || 'Premium Fabric Selection'"
       pt="pt-36"
@@ -375,7 +375,7 @@
         </div>
       </div>
     </section>
-    
+
     <!-- CTA Section -->
     <CTA
       :title="fabricData?.cta?.title"

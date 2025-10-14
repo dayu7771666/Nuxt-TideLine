@@ -1,6 +1,19 @@
 title: 'ACCESSORIES'
 slug: 'accessories'
 description: 'Complete your look with our carefully curated accessories collection. From stylish bags to essential gear, find the perfect finishing touches for any occasion.'
+
+seo:
+  title: 'Beach & Swimwear Accessories | TIDELINE SWIMWEAR'
+  description: 'Complete your beach look with our accessories collection. Beach bags, towels, hats, cover-ups, hardware, and more. Wholesale prices for retailers and brands.'
+  keywords: 'beach accessories, swimwear hardware, beach bags, beach towels, cover-ups, beach dresses, corsage, beachwear accessories'
+  ogTitle: 'Beach & Swimwear Accessories | TIDELINE SWIMWEAR'
+  ogDescription: 'Premium beach and swimwear accessories. Bags, towels, hats, hardware, cover-ups. Wholesale options available.'
+  ogType: 'website'
+  ogImage: '/collections/accessories-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Beach & Swimwear Accessories | TIDELINE SWIMWEAR'
+  twitterDescription: 'Beach accessories collection. Bags, towels, hardware, cover-ups. Complete your beach look.'
+
 subcategories:
   - name: 'Hardware'
     href: '/collections/accessories/hardware'

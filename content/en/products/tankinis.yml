@@ -2,6 +2,18 @@ hero:
   title: 'Tankini Collection'
   description: 'Discover our versatile tankini collection featuring comfortable two-piece designs perfect for any water activity. Mix and match tops and bottoms for your perfect fit.'
 
+seo:
+  title: 'Tankini Swimsuits Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale tankini swimsuits - comfortable two-piece designs with mix-and-match options. Custom styles, low MOQ for retailers and brands.'
+  keywords: 'tankini, tankini swimsuit, two-piece tankini, athletic tankini, modest tankini, wholesale tankini, custom tankini'
+  ogTitle: 'Tankini Swimsuits Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale tankini swimsuits. Comfortable two-piece designs. Mix-and-match options available.'
+  ogType: 'website'
+  ogImage: '/products/tankini-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Tankini Swimsuits Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Tankini wholesale. Two-piece comfort and style. Custom designs for your brand.'
+
 products:
   - id: 1
     name: 'Classic Bikini Bottom'

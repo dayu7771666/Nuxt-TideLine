@@ -2,8 +2,8 @@
   <div class="min-h-screen bg-white">
     <!-- position="top-third" -->
     <Hero
-      :title="home.hero.title"
-      :description="home.hero.description"
+      :title="home.title"
+      :description="home.description"
       image="/sampling.webp"
       :alt="home.hero.alt"
       width="1200"

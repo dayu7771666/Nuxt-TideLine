@@ -2,6 +2,8 @@
   "hello": "helloEN",
   "Home": "Home",
   "Contact": "Contact",
+  "Make it Real": "Make it Real",
+  "Get Custom Pricing": "Get Custom Pricing",
   "TideHeader": {
     "加载导航时出错": "Error loading navigation",
     "加载中": "Loading"
@@ -24,6 +26,7 @@
   "想创建自己的泳装品牌吗？": "Want to create your own swimwear brand?",
   "我们提供一系列的服务，提供最具性价比的泳衣，同时我们也支持定制服务，让您的想法变成现实，为您轻松开启自己的泳装品牌！": "We provide a range of services, offering the most cost-effective swimwear. We also support custom services to turn your ideas into reality and help you easily start your own swimwear brand!",
   "了解更多": "Learn More",
+  "about": "about",
   "WhatsApp": "WhatsApp",
   "联系我们": "Contact Us",
   "文章未找到": "Article Not Found",
