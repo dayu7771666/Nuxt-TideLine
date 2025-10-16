@@ -1,0 +1,89 @@
+title: 'Allgemeine Geschäftsbedingungen'
+description: 'Wir sind ein B2B-Hersteller, und alle Käufe über unseren Shop sind Großhandel, nicht für B2C. Wir akzeptieren nur Rücksendungen oder Rückerstattungen für fehlerhafte Produkte gemäß unseren Bedingungen. Muster werden bereitgestellt, um Ihnen zu helfen, Qualität, Passform und Design zu bewerten, bevor Sie sich auf Großbestellungen festlegen. Alle Änderungen an Mustern werden als Anpassung betrachtet, die über unseren Online-Anpassungsservice arrangiert werden kann.'
+
+seo:
+  title: 'Allgemeine Geschäftsbedingungen | TIDELINE SWIMWEAR'
+  description: 'B2B-Bademodenhersteller Geschäftsbedingungen. Großhandelskäufe, Zahlungsbedingungen, Versandrichtlinien, Vertraulichkeitsvereinbarungen und Geschäftsbedingungen für Bademodebestellungen.'
+  keywords: 'Bademode Geschäftsbedingungen, B2B-Bedingungen, Großhandel Bademode Bedingungen, Herstellerbedingungen, Bademode Geschäftsbedingungen, Vertraulichkeitsvereinbarung, Zahlungsbedingungen, Versandbedingungen'
+  ogTitle: 'Allgemeine Geschäftsbedingungen | TIDELINE SWIMWEAR'
+  ogDescription: 'B2B-Bademodenhersteller Geschäftsbedingungen. Großhandelskäufe, Zahlungsbedingungen, Versandrichtlinien und Vertraulichkeitsvereinbarungen.'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Allgemeine Geschäftsbedingungen | TIDELINE SWIMWEAR'
+  twitterDescription: 'B2B-Bademodenhersteller Bedingungen: Großhandelskäufe, Zahlungsbedingungen, Versandrichtlinien und Vertraulichkeitsvereinbarungen.'
+
+sections:
+  contract_formation:
+    title: 'Vertragsbildung'
+    content: 'Eine Bestellung wird zu einem verbindlichen Vertrag, sobald sie bestätigt wird. Alle Änderungen erfordern gegenseitige schriftliche Zustimmung.'
+
+  payment_terms:
+    title: 'Zahlungsbedingungen'
+    content: |
+      Für alle Bestellungen ist eine Anzahlung von 50% erforderlich, wobei der Restbetrag vor dem Versand fällig ist.
+
+      Für Erstkunden ist eine 100%ige Anzahlung erforderlich.
+
+  shipping:
+    title: 'Versand'
+    content: 'Die Lieferzeiten hängen von der Bestellart (Muster oder Großbestellung) und der Versandmethode ab. Wir stellen vollständige Versanddokumente für die Zollabfertigung zur Verfügung, die vom Käufer abgewickelt wird.'
+
+  cancellations:
+    title: 'Stornierungen'
+    content: 'Bestellungen können nach Fertigstellung nicht storniert werden. Für jede Stornierung oder Änderung einer Bestellung nach der Endzahlung wird eine Gebühr von 25% erhoben.'
+
+  pricing:
+    title: 'Preisgestaltung'
+    content: 'Die Stückpreise umfassen Stoff, Arbeit und Standardqualitätsprüfungen, schließen jedoch zusätzliche Elemente wie Anhänger oder kundenspezifische Verpackungen aus.'
+
+  bulk_orders:
+    title: 'Großbestellungen'
+    content: 'Wir benötigen ein endgültiges Tech-Pack und die Genehmigung des Musters vor der Massenproduktion. Alle Änderungen nach der Zahlung können zusätzliche Gebühren nach sich ziehen.'
+
+  claims_returns:
+    title: 'Reklamationen und Rücksendungen'
+    content: 'Bei fehlerhaften Großbestellungen müssen Reklamationen innerhalb von 14 Tagen nach Erhalt der Ware eingereicht werden. Rückerstattungen oder Ersatzlieferungen basieren auf unserer Bewertung des Mangels.'
+
+  confidentiality:
+    title: 'Vertraulichkeit'
+    subsections:
+      definition:
+        title: 'Definition vertraulicher Informationen'
+        content: 'Legen Sie fest, dass "vertrauliche Informationen" alle nicht öffentlichen Informationen umfassen, die vom Kunden offengelegt werden, einschließlich, aber nicht beschränkt auf Geschäftspläne, Designs, technische Daten, Marketingstrategien, Finanzdaten, Kundenlisten und alle anderen proprietären Informationen.'
+
+      obligations:
+        title: 'Vertraulichkeitspflichten'
+        content: |
+          Verpflichten Sie sich, die vertraulichen Informationen ausschließlich für die in der Vereinbarung dargelegten Zwecke zu verwenden und die Offenlegung an Dritte ohne vorherige schriftliche Zustimmung des Kunden zu verbieten.
+          Stellen Sie sicher, dass der Zugang zu vertraulichen Informationen auf Mitarbeiter oder Partner beschränkt ist, die diese Informationen kennen müssen, um die Vereinbarung zu erfüllen, und verpflichten Sie sie, gleichwertige Vertraulichkeitspflichten einzuhalten.
+
+      protection:
+        title: 'Schutzmaßnahmen'
+        content: 'Implementieren Sie angemessene technische und organisatorische Schutzmaßnahmen, um unbefugten Zugriff, Nutzung oder Offenlegung vertraulicher Informationen zu verhindern.'
+
+      duration:
+        title: 'Dauer der Vertraulichkeit'
+        content: 'Legen Sie fest, dass die Vertraulichkeitspflichten während der Laufzeit der Vereinbarung und für einen bestimmten Zeitraum (z. B. zwei Jahre) nach deren Beendigung bestehen bleiben.'
+
+      exceptions:
+        title: 'Ausnahmen von der Vertraulichkeit'
+        content: |
+          Klären Sie, dass Vertraulichkeitspflichten nicht für Informationen gelten, die:
+
+          Öffentlich verfügbar sind oder werden, ohne dass die Vereinbarung verletzt wird;
+          Bereits im Besitz der empfangenden Partei waren, ohne Vertraulichkeitspflicht;
+          Der empfangenden Partei von einem Dritten offengelegt werden, der rechtlich berechtigt ist, eine solche Offenlegung vorzunehmen;
+          Von der empfangenden Partei unabhängig entwickelt werden, ohne Verwendung der vertraulichen Informationen der offenlegenden Partei;
+          Aufgrund von Gesetzen oder behördlichen Anordnungen offengelegt werden müssen, vorausgesetzt, die offenlegende Partei wird umgehend benachrichtigt und erhält die Möglichkeit, eine Schutzanordnung zu beantragen.
+
+      breach:
+        title: 'Verletzung und Rechtsbehelfe'
+        content: 'Geben Sie an, dass jede Verletzung der Vertraulichkeit zu einem nicht wiedergutzumachenden Schaden für den Kunden führen kann und ihn berechtigt, zusätzlich zu anderen rechtlichen Rechtsbehelfen einstweiligen Rechtsschutz zu beantragen.'
+
+      return_destruction:
+        title: 'Rückgabe oder Vernichtung von Informationen'
+        content: 'Bei Beendigung der Vereinbarung oder auf Wunsch des Kunden verpflichten Sie sich zur Rückgabe oder zertifizierten Vernichtung aller Materialien, die vertrauliche Informationen enthalten.'
+
+footer:
+  consultation: 'Wenn Sie an unseren Dienstleistungen interessiert sind oder Fragen haben, bieten wir eine kostenlose Beratung an.'

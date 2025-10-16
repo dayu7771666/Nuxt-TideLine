@@ -113,7 +113,7 @@
                   <span
                     class="inline-flex items-center text-blue-600 text-sm font-medium"
                   >
-                    {{ $t('Get Quote') }}
+                    {{ $t('Free Quote') }}
                     <svg
                       class="w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform duration-200"
                       fill="none"
@@ -491,6 +491,7 @@
       server: true,
     }
   );
+  // console.log(productData.value, 'productData');
 
   // Modal state management
   const showContactModal = ref(false);

@@ -1,0 +1,121 @@
+title: 'Fornitori di Costumi da Bagno per Maternità'
+description: 'Più di un fornitore: il tuo partner nella costruzione del marchio di costumi da bagno.'
+
+seo:
+  title: 'Fornitori di Costumi da Bagno per Maternità | TIDELINE SWIMWEAR'
+  description: "Produttore di alta qualità di costumi da bagno per maternità che offre design comodi e di supporto per future mamme. Costumi da bagno per maternità personalizzati, prezzi all'ingrosso, MOQ basso."
+  keywords: 'produttore costumi da bagno maternità, fornitore costumi da bagno gravidanza, costumi da bagno allattamento, tankini maternità, costumi da bagno maternità ingrosso, fabbrica costumi da bagno maternità'
+  ogTitle: 'Fornitori di Costumi da Bagno per Maternità | TIDELINE SWIMWEAR'
+  ogDescription: "Produttore di costumi da bagno per maternità comodi. Design di supporto per future mamme. Opzioni personalizzate, prezzi all'ingrosso."
+  ogType: 'website'
+  ogImage: '/catalog/maternity-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fornitori di Costumi da Bagno per Maternità | TIDELINE SWIMWEAR'
+  twitterDescription: 'Produzione di costumi da bagno per maternità. Design comodi e di supporto per la gravidanza. Opzioni personalizzate disponibili.'
+
+# Hero section
+hero:
+  cta_text: 'Consulenza'
+  cta_href: '/contact'
+  image_src: '/catalog/maternity-swimwear-bg.webp'
+  image_alt: 'Produzione di Costumi da Bagno per Maternità'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'La Nostra Missione'
+  paragraph1: 'In TideLine Swimwear, sappiamo che i costumi da bagno per maternità richiedono il perfetto equilibrio tra comfort e supporto per le future mamme. Ogni stagione, il nostro team di fabbrica sviluppa collezioni progettate con tessuti morbidi e flessibili e vestibilità ponderate, offrendo a grossisti e proprietari di marchi opzioni pronte per il mercato che aiutano le donne a sentirsi sicure e comode durante ogni fase della gravidanza.'
+  whatsapp_link_text: 'Contattaci su WhatsApp'
+
+# Statistics
+stats:
+  - label: "Esperienza nell'Industria dei Costumi da Bagno"
+    value: '10 anni +'
+  - label: 'Ordini Evasi'
+    value: '1.000.000+'
+
+# Product categories
+categories:
+  - name: 'Intero Maternità'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/one-piece-1.webp'
+    imageAlt: 'Collezione Costumi Interi Maternità'
+  - name: 'Tankini Maternità'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/tankini-1.webp'
+    imageAlt: 'Collezione Tankini Maternità'
+  - name: 'Costumi da Bagno Allattamento'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/nursing-1.webp'
+    imageAlt: 'Collezione Costumi da Bagno Allattamento'
+  - name: 'Copricostumi Maternità'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/cover-up-1.webp'
+    imageAlt: 'Collezione Copricostumi Maternità'
+
+# Customization capabilities
+customization:
+  title: 'Capacità di Personalizzazione'
+  description: 'Costumi da bagno completamente personalizzabili - TideLine accetta tutti i design, tessuti, accessori, loghi e imballaggi personalizzati per dare vita alla visione del tuo marchio.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Struttura di Produzione'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalizzazione dello Stile'
+      description: 'Dai vita a qualsiasi design di costume da bagno - scegli il tuo stile perfetto e lascia che lo realizziamo per il tuo marchio.'
+      link: '/contact'
+      cta_text: 'Consulenza'
+    - name: 'Personalizzazione del Tessuto'
+      description: 'Scegli tra una vasta gamma di tessuti per creare costumi da bagno comodi da indossare e belli da vedere.'
+      link: '/fabric'
+      cta_text: 'Tessuto'
+    - name: 'Personalizzazione degli Accessori'
+      description: 'Personalizza ogni dettaglio - da fibbie e anelli a cerniere - le nostre opzioni di accessori elevano il tuo design.'
+      link: '/hardware'
+      cta_text: 'Accessori'
+    - name: 'Personalizzazione del Logo'
+      description: 'Rendilo veramente tuo - aggiungi il tuo logo a ogni pezzo per un look di marca professionale.'
+    - name: "Personalizzazione dell'Imballaggio"
+      description: "Completa l'esperienza del tuo marchio con imballaggi su misura per il tuo stile e la tua visione."
+    - name: 'Contattaci'
+      description: 'Pronto? Trasformiamo le tue idee di costumi da bagno in realtà.'
+      link: '/contact'
+      cta_text: 'Contattaci'
+
+# Getting Started section
+getting_started:
+  title: 'Il tuo viaggio nei costumi da bagno inizia qui'
+  description: 'Che tu stia lanciando la tua prima collezione o scalando il tuo marchio, TideLine fornisce soluzioni di costumi da bagno su misura per soddisfare le tue esigenze. Scegli il tuo percorso e inizia.'
+  beginner_text: 'Inizia come Principiante'
+  beginner_href: '/startup'
+  pro_text: 'Acquirente Esperto'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processo di Produzione'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Domande Frequenti'
+  questions:
+    - id: 1
+      question: 'Quali sono i requisiti di design speciali per i costumi da bagno per maternità?'
+      answer: "I requisiti di design per i costumi da bagno per maternità si concentrano principalmente su comfort, supporto e adattabilità. Tipicamente utilizzano tessuti altamente elastici che possono adattarsi alla forma cambiante del corpo di una donna durante la gravidanza. Il design dovrebbe anche fornire supporto per l'addome, spalline senza pressione e design del cavallo comodi per garantire il comfort della donna incinta durante i movimenti in acqua."
+    - id: 2
+      question: 'Quali materiali vengono utilizzati nei costumi da bagno per maternità?'
+      answer: "I costumi da bagno per maternità sono tipicamente realizzati con tessuti altamente elastici e traspiranti come Lycra, nylon e spandex. Questi tessuti hanno un'eccellente elasticità, adattandosi ai cambiamenti del corpo durante la gravidanza garantendo al contempo comfort e supporto. Ci assicuriamo anche che i materiali utilizzati siano non tossici e sicuri per la pelle sensibile."
+    - id: 3
+      question: 'I costumi da bagno per maternità devono fornire protezione solare?'
+      answer: "Sì, è meglio che i costumi da bagno per maternità abbiano protezione UV (UPF), specialmente quando vengono utilizzati in piscine all'aperto o in spiaggia. I nostri design di costumi da bagno per maternità considerano questo utilizzando tessuti con protezione solare per proteggere la pelle delle future mamme dai raggi UV dannosi."
+    - id: 4
+      question: 'Come viene garantita la sicurezza e il comfort dei costumi da bagno per maternità?'
+      answer: "I costumi da bagno per maternità sono progettati con un forte focus su sicurezza e comfort. Utilizziamo tessuti non tossici ed ecologici e ci assicuriamo che i tagli e i design non applichino pressione, specialmente intorno alle aree dell'addome e del petto. Il design di supporto tiene anche conto dei cambiamenti che si verificano durante la gravidanza, fornendo supporto completo."
+    - id: 5
+      question: "I costumi da bagno per maternità sono adatti per l'uso post-partum?"
+      answer: "Sì, molti design di costumi da bagno per maternità sono adatti anche per l'uso post-partum. Poiché utilizzano tessuti altamente elastici, possono adattarsi al periodo di recupero e offrire una vestibilità comoda. Per le madri che hanno bisogno di allattare, offriamo anche stili appositamente progettati per l'allattamento che facilitano l'allattamento al seno."
+    - id: 6
+      question: 'I costumi da bagno per maternità possono essere personalizzati?'
+      answer: 'Sì, offriamo servizi di personalizzazione e possiamo produrre costumi da bagno per maternità secondo le esigenze del tuo marchio e le idee di design. Puoi scegliere lo stile, il colore, il tessuto e persino stampare loghi o design sui costumi da bagno per garantire che i tuoi prodotti siano unici e soddisfino la domanda del mercato.'
+    - id: 7
+      question: "Qual è la quantità minima d'ordine per i costumi da bagno per maternità?"
+      answer: "La quantità minima d'ordine (MOQ) per i costumi da bagno per maternità varia a seconda del design e dei materiali utilizzati. In generale, offriamo opzioni di produzione flessibili per i clienti con piccole quantità d'ordine o quelli in fase di avvio. Il MOQ varia tipicamente da 100 a 500 pezzi, ma la quantità esatta può essere adattata secondo le tue esigenze."

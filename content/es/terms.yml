@@ -1,0 +1,89 @@
+title: 'Términos y Condiciones'
+description: 'Operamos como fabricante B2B, y todas las compras realizadas a través de nuestra tienda son al por mayor, no para B2C. Solo aceptamos devoluciones o reembolsos por productos defectuosos según nuestros términos. Las muestras se proporcionan para ayudarlo a evaluar la calidad, el ajuste y el diseño antes de comprometerse con pedidos al por mayor. Cualquier cambio realizado en las muestras se considerará como personalización, que se puede organizar a través de nuestro servicio de personalización en línea.'
+
+seo:
+  title: 'Términos y Condiciones | TIDELINE SWIMWEAR'
+  description: 'Términos y condiciones del fabricante de trajes de baño B2B. Compras al por mayor, términos de pago, políticas de envío, acuerdos de confidencialidad y términos comerciales para pedidos de trajes de baño.'
+  keywords: 'términos y condiciones de trajes de baño, términos B2B, términos de trajes de baño al por mayor, términos del fabricante, términos comerciales de trajes de baño, acuerdo de confidencialidad, términos de pago, términos de envío'
+  ogTitle: 'Términos y Condiciones | TIDELINE SWIMWEAR'
+  ogDescription: 'Términos y condiciones del fabricante de trajes de baño B2B. Compras al por mayor, términos de pago, políticas de envío y acuerdos de confidencialidad.'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Términos y Condiciones | TIDELINE SWIMWEAR'
+  twitterDescription: 'Términos del fabricante de trajes de baño B2B: compras al por mayor, términos de pago, políticas de envío y acuerdos de confidencialidad.'
+
+sections:
+  contract_formation:
+    title: 'Formación del Contrato'
+    content: 'Un pedido se convierte en un contrato vinculante una vez confirmado. Cualquier enmienda requiere consentimiento mutuo por escrito.'
+
+  payment_terms:
+    title: 'Términos de Pago'
+    content: |
+      Se requiere un depósito del 50% para todos los pedidos, con el saldo adeudado antes del envío.
+
+      Para clientes primerizos, es necesario un depósito del 100%.
+
+  shipping:
+    title: 'Envío'
+    content: 'Los plazos de entrega dependen del tipo de pedido (muestras o al por mayor) y del método de envío. Proporcionaremos documentación de envío completa para el despacho de aduanas, que será manejado por el comprador.'
+
+  cancellations:
+    title: 'Cancelaciones'
+    content: 'Los pedidos no se pueden cancelar después de completarse. Se aplica una tarifa del 25% para cualquier cancelación o modificación de pedido después del pago final.'
+
+  pricing:
+    title: 'Precios'
+    content: 'Los precios unitarios incluyen tela, mano de obra y controles de calidad estándar, pero excluyen elementos adicionales como etiquetas colgantes o embalaje personalizado.'
+
+  bulk_orders:
+    title: 'Pedidos al Por Mayor'
+    content: 'Requerimos un paquete técnico final y la aprobación de la muestra antes de la producción en masa. Cualquier enmienda después del pago puede incurrir en cargos adicionales.'
+
+  claims_returns:
+    title: 'Reclamaciones y Devoluciones'
+    content: 'Para artículos defectuosos al por mayor, las reclamaciones deben realizarse dentro de los 14 días posteriores a la recepción de los productos. Los reembolsos o reemplazos se basarán en nuestra evaluación del defecto.'
+
+  confidentiality:
+    title: 'Confidencialidad'
+    subsections:
+      definition:
+        title: 'Definición de Información Confidencial'
+        content: 'Especifique que "Información Confidencial" abarca toda la información no pública divulgada por el cliente, incluyendo pero no limitado a planes de negocios, diseños, datos técnicos, estrategias de marketing, detalles financieros, listas de clientes y cualquier otra información propietaria.'
+
+      obligations:
+        title: 'Obligaciones de Confidencialidad'
+        content: |
+          Comprométase a usar la Información Confidencial únicamente para los propósitos descritos en el acuerdo y prohíba la divulgación a terceros sin el consentimiento previo por escrito del cliente.
+          Asegúrese de que el acceso a la Información Confidencial esté restringido a empleados o socios que necesiten conocer dicha información para cumplir con el acuerdo y exija que cumplan con obligaciones de confidencialidad equivalentes.
+
+      protection:
+        title: 'Medidas de Protección'
+        content: 'Implemente salvaguardas técnicas y organizativas razonables para prevenir el acceso, uso o divulgación no autorizados de la Información Confidencial.'
+
+      duration:
+        title: 'Duración de la Confidencialidad'
+        content: 'Especifique que las obligaciones de confidencialidad permanecen vigentes durante el término del acuerdo y por un período específico (por ejemplo, dos años) después de su terminación.'
+
+      exceptions:
+        title: 'Excepciones a la Confidencialidad'
+        content: |
+          Aclare que las obligaciones de confidencialidad no se aplican a la información que:
+
+          Es o se vuelve públicamente disponible sin incumplimiento del acuerdo;
+          Ya estaba en posesión de la parte receptora sin obligación de confidencialidad;
+          Es divulgada a la parte receptora por un tercero legalmente autorizado para hacer tal divulgación;
+          Es desarrollada independientemente por la parte receptora sin uso de la Información Confidencial de la parte divulgadora;
+          Se requiere divulgar por ley u orden gubernamental, siempre que se notifique de inmediato a la parte divulgadora y se le dé la oportunidad de buscar una orden de protección.
+
+      breach:
+        title: 'Incumplimiento y Remedios'
+        content: 'Declare que cualquier incumplimiento de confidencialidad puede resultar en daño irreparable para el cliente y le da derecho a buscar medidas cautelares además de cualquier otro remedio legal.'
+
+      return_destruction:
+        title: 'Devolución o Destrucción de Información'
+        content: 'Al terminar el acuerdo o a solicitud del cliente, obligue a la devolución o destrucción certificada de todos los materiales que contengan Información Confidencial.'
+
+footer:
+  consultation: 'Si está interesado en nuestros servicios o tiene alguna pregunta, ofrecemos Consulta gratuita.'

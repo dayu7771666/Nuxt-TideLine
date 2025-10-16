@@ -1,0 +1,104 @@
+title: '우수한 수영복을 위한 프리미엄 원단 선택'
+description: '수영복을 위해 특별히 설계된 고성능 원단의 큐레이션된 컬렉션을 만나보세요. 지속 가능한 소재부터 UV 보호 섬유까지, 귀하의 브랜드를 위해 최고 품질의 원단만을 공급합니다.'
+
+seo:
+  title: '프리미엄 수영복 원단 | 고성능 소재 | Tideline'
+  description: '폴리에스터 혼방, 지속 가능한 소재, UV 보호 섬유를 포함한 프리미엄 수영복 원단의 종합 컬렉션을 둘러보세요. 원단 카탈로그 및 기술 사양을 다운로드하세요.'
+  keywords: '수영복 원단, 고성능 원단, 지속 가능한 수영복 소재, UV 보호 원단, ECONYL 원단, 재활용 폴리에스터, 수영복 섬유'
+  ogTitle: '프리미엄 수영복 원단 및 소재 | Tideline'
+  ogDescription: '수영복 제조를 위한 고성능 원단을 만나보세요. 지속 가능한 옵션, UV 보호 및 기술 사양이 제공됩니다.'
+  ogType: 'website'
+  ogImage: '/fabric-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '프리미엄 수영복 원단 | Tideline'
+  twitterDescription: '제조를 위한 프리미엄 수영복 원단의 종합 컬렉션을 둘러보세요.'
+
+hero:
+  alt: '프리미엄 수영복 원단'
+  ctaButton: '원단 카탈로그 탐색'
+  ctaLink: '#catalog'
+
+features:
+  title: '우리 원단이 돋보이는 이유'
+  description: '수영복 생산의 까다로운 요구 사항을 충족하는 혁신적이고 고품질의 원단을 제공하기 위해 전 세계 선도 공장과 파트너십을 맺고 있습니다.'
+  items:
+    - id: 1
+      title: '성능 테스트 완료'
+      description: '모든 원단은 염소 저항성, UV 보호, 색상 견뢰도 및 신축성 회복에 대한 엄격한 테스트를 거쳐 지속적인 품질을 보장합니다.'
+      icon: 'ShieldCheckIcon'
+    - id: 2
+      title: '지속 가능한 옵션'
+      description: '재활용 나일론, ECONYL® 및 OEKO-TEX® 인증 원단을 포함한 친환경 소재 중에서 선택하여 성능을 저하시키지 않으면서 환경 영향을 줄입니다.'
+      icon: 'SparklesIcon'
+    - id: 3
+      title: '기술 사양'
+      description: '구성, 무게, 신축성 백분율 및 관리 지침을 포함한 각 원단에 대한 상세한 기술 데이터 시트로 정보에 입각한 결정을 내리는 데 도움을 줍니다.'
+      icon: 'DocumentTextIcon'
+
+catalog:
+  title: '원단 컬렉션 둘러보기'
+  description: '상세한 사양, 색상 범위 및 기술적 특성을 탐색하기 위해 포괄적인 원단 카탈로그를 다운로드하세요. 각 카탈로그에는 샘플 및 성능 데이터가 포함되어 있습니다.'
+  viewButtonText: '카탈로그 보기'
+  note: '실물 견본이나 맞춤 원단 개발이 필요하신가요? 맞춤형 지원을 위해 원단 전문가에게 문의하세요.'
+  pdfs:
+    - title: '폴리에스터 원단 컬렉션'
+      description: '활동적인 수영복에 완벽한 고성능 폴리에스터 혼방으로 우수한 형태 보유력과 빠른 건조 특성을 제공합니다.'
+      file: '/pdf/tideline-polyester-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - '빠른 건조 기술'
+        - '우수한 형태 보유력'
+        - '염소 저항성'
+      gradient: 'bg-gradient-to-br from-blue-500/10 to-cyan-500/10'
+      iconBg: 'bg-gradient-to-br from-blue-600 to-cyan-600'
+      buttonClass: 'bg-blue-600 text-white hover:bg-blue-700'
+      accentLine: 'bg-gradient-to-r from-blue-600 to-cyan-600'
+
+    - title: '지속 가능한 원단 컬렉션'
+      description: '재활용 폴리에스터와 ECONYL® 재생 나일론을 포함한 환경 의식적인 소재로 지속 가능성과 성능을 결합합니다.'
+      file: '/pdf/tideline-sustainable-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - '재활용 소재'
+        - 'OEKO-TEX® 인증'
+        - '탄소 배출량 감소'
+      gradient: 'bg-gradient-to-br from-green-500/10 to-emerald-500/10'
+      iconBg: 'bg-gradient-to-br from-green-600 to-emerald-600'
+      buttonClass: 'bg-green-600 text-white hover:bg-green-700'
+      accentLine: 'bg-gradient-to-r from-green-600 to-emerald-600'
+
+    - title: 'UV 보호 원단 컬렉션'
+      description: 'UPF 50+ 보호 기능을 갖춘 고급 UV 차단 원단으로 성능 수영복 및 자외선 차단 의류에 이상적입니다.'
+      file: '/pdf/tideline-uv-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'UPF 50+ 보호'
+        - '변색 방지'
+        - '수분 흡수'
+      gradient: 'bg-gradient-to-br from-purple-500/10 to-pink-500/10'
+      iconBg: 'bg-gradient-to-br from-purple-600 to-pink-600'
+      buttonClass: 'bg-purple-600 text-white hover:bg-purple-700'
+      accentLine: 'bg-gradient-to-r from-purple-600 to-pink-600'
+
+whyChoose:
+  title: '우리의 원단 선택을 선택하는 이유는?'
+  description: '우리의 원단 조달 프로세스는 수영복 생산을 위한 최고 기준을 충족하는 재료를 받을 수 있도록 설계되었습니다.'
+  reasons:
+    - title: '직접 공장 파트너십'
+      description: '인증된 공장과 직접 협력하여 중개인을 제거하고 품질을 저하시키지 않으면서 경쟁력 있는 가격을 제공합니다.'
+    - title: '품질 보증'
+      description: '모든 원단 배치는 수영복 제조를 위한 엄격한 품질 기준을 충족하도록 검사되고 테스트됩니다.'
+    - title: '빠른 리드 타임'
+      description: '전략적 재고 관리와 신뢰할 수 있는 공급망을 통해 생산 일정에 맞춘 적시 배송을 보장합니다.'
+    - title: '기술 지원'
+      description: '원단 전문가가 재료 선택, 디자인과의 호환성 및 생산 요구 사항에 대한 전문적인 지침을 제공합니다.'
+    - title: '최소 주문 유연성'
+      description: '샘플용 소량이든 생산용 대량이든 다양한 주문 크기를 수용합니다.'
+    - title: '색상 맞춤화'
+      description: '정확한 브랜드 사양에 맞는 광범위한 색상 라이브러리 및 맞춤 염색 서비스에 액세스할 수 있습니다.'
+
+cta:
+  title: '원단을 선택할 준비가 되셨나요?'
+  description: '원단 전문가가 수영복 컬렉션에 완벽한 소재를 선택하도록 도와드립니다. 견본, 기술 데이터를 요청하거나 상담을 예약하세요.'
+  button: '원단 전문가 연락하기'
+  link: '/contact'

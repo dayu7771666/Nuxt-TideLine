@@ -12,16 +12,15 @@
     >
       <!-- 网格背景 -->
       <div
-        class="absolute inset-0 bg-grid-slate-100 [mask-image:linear-gradient(0deg,white,rgba(255,255,255,0.6))]"
+        class="absolute inset-0 [background-image:url('data:image/svg+xml,%3csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 32 32\' width=\'32\' height=\'32\' fill=\'none\' stroke=\'rgb(148 163 184 / 0.05)\'%3e%3cpath d=\'m0 .5h32m-32 32v-32\'/%3e%3c/svg%3e')] [mask-image:linear-gradient(0deg,white,rgba(255,255,255,0.6))]"
       ></div>
 
       <!-- 浮动渐变光球 -->
       <div
-        class="absolute top-0 right-0 -translate-y-12 translate-x-12 w-96 h-96 bg-gradient-to-br from-blue-400/20 to-indigo-400/20 rounded-full blur-3xl animate-pulse"
+        class="absolute top-0 right-0 -translate-y-12 translate-x-12 w-96 h-96 bg-gradient-to-br from-blue-400/20 to-indigo-400/20 rounded-full blur-3xl animate-pulse [animation-duration:4s]"
       ></div>
       <div
-        class="absolute bottom-0 left-0 translate-y-12 -translate-x-12 w-96 h-96 bg-gradient-to-tr from-purple-400/20 to-pink-400/20 rounded-full blur-3xl animate-pulse"
-        style="animation-delay: 1s"
+        class="absolute bottom-0 left-0 translate-y-12 -translate-x-12 w-96 h-96 bg-gradient-to-tr from-purple-400/20 to-pink-400/20 rounded-full blur-3xl animate-pulse [animation-duration:4s] [animation-delay:1s]"
       ></div>
 
       <!-- 几何装饰 -->
@@ -49,7 +48,7 @@
       <div class="mx-auto mt-20 max-w-7xl">
         <!-- 移动端横向滑动布局 -->
         <div class="sm:hidden">
-          <div class="overflow-x-auto pb-6 scrollbar-hide">
+          <div class="overflow-x-auto pb-6 scrollbar-none">
             <div class="flex gap-6 px-4 w-max">
               <div
                 v-for="(advantage, index) in advantages"
@@ -115,7 +114,7 @@
           <div
             v-for="(advantage, index) in advantages"
             :key="advantage.id"
-            class="group animate-fade-in-up"
+            class="group animate-fade-in-up opacity-0"
             :style="{ animationDelay: `${index * 150}ms` }"
           >
             <div
@@ -258,52 +257,3 @@
     return `${baseClasses} ${lgGridClass}`;
   });
 </script>
-
-<style scoped>
-  /* 网格背景 */
-  .bg-grid-slate-100 {
-    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='32' height='32' fill='none' stroke='rgb(148 163 184 / 0.05)'%3e%3cpath d='m0 .5h32m-32 32v-32'/%3e%3c/svg%3e");
-  }
-
-  /* 隐藏滚动条 */
-  .scrollbar-hide {
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-  }
-
-  .scrollbar-hide::-webkit-scrollbar {
-    display: none;
-  }
-
-  /* 动画定义 */
-  @keyframes fade-in-up {
-    from {
-      opacity: 0;
-      transform: translateY(30px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-
-  .animate-fade-in-up {
-    animation: fade-in-up 0.8s ease-out forwards;
-    opacity: 0;
-  }
-
-  /* 脉冲动画 */
-  @keyframes pulse {
-    0%,
-    100% {
-      opacity: 1;
-    }
-    50% {
-      opacity: 0.5;
-    }
-  }
-
-  .animate-pulse {
-    animation: pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
-  }
-</style>

@@ -1,0 +1,125 @@
+title: 'Fabricante de Roupas de Banho Personalizadas'
+description: 'Mais do que um fornecedor - seu parceiro na construção de sua marca de roupas de banho.'
+
+seo:
+  title: 'Fabricante de Roupas de Banho Personalizadas | TIDELINE SWIMWEAR'
+  description: 'Serviços profissionais de fabricação de roupas de banho personalizadas. Do design à produção, damos vida à sua visão única de roupas de banho com qualidade premium e serviço personalizado.'
+  keywords: 'fabricante de roupas de banho personalizadas, roupas de banho marca própria, fabricante de biquínis personalizados, serviços de design de roupas de banho, OEM roupas de banho, produção de roupas de banho personalizadas'
+  ogTitle: 'Fabricante de Roupas de Banho Personalizadas | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricação de roupas de banho personalizadas de serviço completo. Desenvolvimento de design, criação de moldes, produção em massa. Dê vida à sua visão de roupas de banho.'
+  ogType: 'website'
+  ogImage: '/catalog/custom-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricante de Roupas de Banho Personalizadas | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabricação de roupas de banho personalizadas do conceito à criação. Serviços de design, criação de moldes, produção em massa.'
+
+# Hero section
+hero:
+  cta_text: 'Comece Seu Design Personalizado'
+  cta_href: '/contact'
+  image_src: '/catalog/custom-swimwear-bg.webp'
+  image_alt: 'Fabricação de Roupas de Banho Personalizadas'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Nossa Missão'
+  paragraph1: 'Na TideLine Swimwear, somos especializados em dar vida à sua visão única de roupas de banho. Nossos serviços de fabricação personalizada cobrem todos os aspectos da produção - desde conceitos de design iniciais até embalagem final - garantindo que sua marca se destaque com roupas de banho distintivas e de alta qualidade que refletem perfeitamente seu estilo e valores.'
+  whatsapp_link_text: 'Entre em Contato pelo WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experiência na Indústria de Roupas de Banho'
+    value: '10 anos +'
+  - label: 'Pedidos Personalizados Realizados'
+    value: '50,000+'
+
+# Product categories
+categories:
+  - name: 'Biquínis Personalizados'
+    href: '/category?type=custom&subtype=bikini'
+    imageSrc: '/custom-swimwear/custom-bikini-1.webp'
+    imageAlt: 'Coleção de Biquínis Personalizados'
+  - name: 'Maiô Personalizado'
+    href: '/category?type=custom&subtype=one-piece'
+    imageSrc: '/custom-swimwear/custom-onepiece-1.webp'
+    imageAlt: 'Coleção de Maiô Personalizado'
+  - name: 'Tankinis Personalizados'
+    href: '/category?type=custom&subtype=tankini'
+    imageSrc: '/custom-swimwear/custom-tankini-1.webp'
+    imageAlt: 'Coleção de Tankinis Personalizados'
+  - name: 'Saídas de Praia Personalizadas'
+    href: '/category?type=custom&subtype=cover-up'
+    imageSrc: '/custom-swimwear/custom-coverup-1.webp'
+    imageAlt: 'Coleção de Saídas de Praia Personalizadas'
+
+# Customization capabilities
+customization:
+  title: 'Serviços de Personalização Completos'
+  description: 'Do conceito à criação - TideLine oferece serviços abrangentes de fabricação de roupas de banho personalizadas adaptados às suas especificações exatas e requisitos de marca.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Instalação de Fabricação'
+  hero_image_width: '1000'
+  features:
+    - name: 'Desenvolvimento de Design'
+      description: 'Nossa equipe de design trabalha com você para desenvolver conceitos únicos de roupas de banho, desde esboços até especificações técnicas.'
+      link: '/contact'
+      cta_text: 'Consulta de Design'
+    - name: 'Criação de Moldes'
+      description: 'Serviços profissionais de criação de moldes para garantir ajuste e construção perfeitos para seus designs personalizados.'
+      link: '/contact'
+      cta_text: 'Serviços de Moldes'
+    - name: 'Seleção de Tecidos'
+      description: 'Escolha de nossa extensa biblioteca de tecidos ou obtenha materiais específicos para corresponder à sua visão de design.'
+      link: '/fabric'
+      cta_text: 'Opções de Tecidos'
+    - name: 'Produção de Amostras'
+      description: 'Amostras de alta qualidade produzidas para validar design, ajuste e construção antes da produção em massa.'
+      link: '/contact'
+      cta_text: 'Solicitação de Amostra'
+    - name: 'Fabricação em Massa'
+      description: 'Capacidades de produção escaláveis de pequenos lotes a grandes pedidos com controle de qualidade consistente.'
+      link: '/contact'
+      cta_text: 'Cotação de Produção'
+    - name: 'Rotulagem Privada'
+      description: 'Serviços completos de branding incluindo etiquetas personalizadas, tags e soluções de embalagem.'
+      link: '/contact'
+      cta_text: 'Serviços de Branding'
+
+# Getting Started section
+getting_started:
+  title: 'Comece Sua Jornada de Roupas de Banho Personalizadas'
+  description: 'Pronto para criar sua linha única de roupas de banho? Nosso processo de fabricação personalizada é projetado para apoiar marcas em cada estágio, desde conceitos de startup até coleções estabelecidas.'
+  beginner_text: 'Novo na Fabricação Personalizada'
+  beginner_href: '/startup'
+  pro_text: 'Proprietário de Marca Experiente'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processo de Fabricação Personalizada'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Perguntas Frequentes'
+  questions:
+    - id: 1
+      question: 'Qual é a quantidade mínima de pedido para roupas de banho personalizadas?'
+      answer: 'Nossa quantidade mínima de pedido para roupas de banho personalizadas varia de acordo com a complexidade, geralmente começando em 50-100 peças por estilo. Trabalhamos com startups e marcas estabelecidas para encontrar soluções flexíveis que atendam ao seu orçamento e cronograma.'
+    - id: 2
+      question: 'Quanto tempo leva o processo de desenvolvimento de roupas de banho personalizadas?'
+      answer: 'O cronograma depende da complexidade do design e do nível de personalização. Geralmente, as amostras iniciais levam 2-3 semanas, com a produção em massa exigindo 4-6 semanas após a aprovação da amostra. Pedidos urgentes podem ser acomodados com planejamento adicional.'
+    - id: 3
+      question: 'Vocês podem ajudar com o design de roupas de banho se eu tiver apenas um conceito?'
+      answer: 'Absolutamente! Nossa equipe de design é especializada em transformar conceitos em designs prontos para produção. Fornecemos serviços de esboço, design técnico, criação de moldes e desenvolvimento de ajuste para dar vida à sua visão.'
+    - id: 4
+      question: 'Quais opções de personalização estão disponíveis para tecidos e materiais?'
+      answer: 'Oferecemos personalização extensa de tecidos incluindo materiais de performance, opções ecológicas, estampas, texturas e acabamentos especiais. Você pode escolher de nossa biblioteca de tecidos ou obter materiais específicos para atender aos requisitos de sua marca.'
+    - id: 5
+      question: 'Vocês fornecem suporte de design e técnico durante todo o processo?'
+      answer: 'Sim, nossa equipe experiente fornece suporte abrangente incluindo consulta de design, orientação técnica, otimização de ajuste e garantia de qualidade durante todo o processo de desenvolvimento e produção.'
+    - id: 6
+      question: 'Vocês podem fabricar roupas de banho com recursos especiais ou requisitos de desempenho?'
+      answer: 'Certamente! Somos especializados em recursos personalizados incluindo proteção UV, resistência ao cloro, zonas de compressão, enchimento removível, alças ajustáveis e outros aprimoramentos de desempenho ou estéticos baseados em suas especificações.'
+    - id: 7
+      question: 'Quais são os custos envolvidos na fabricação de roupas de banho personalizadas?'
+      answer: 'Os custos variam com base na complexidade do design, materiais, quantidades e nível de personalização. Fornecemos cotações detalhadas incluindo taxas de desenvolvimento, custos de amostras e preços de produção. Entre em contato conosco para uma estimativa personalizada com base em seus requisitos específicos.'

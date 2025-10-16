@@ -66,25 +66,25 @@
         },
       ],
       script: [
-        {
-          innerHTML: `var _iub = _iub || [];
-      _iub.csConfiguration = {"siteId":4049599,"cookiePolicyId":27834388,"lang":"en","storage":{"useSiteId":true}};`,
-          type: 'text/javascript',
-        },
-        {
-          src: 'https://cs.iubenda.com/autoblocking/4049599.js',
-          type: 'text/javascript',
-        },
-        {
-          src: '//cdn.iubenda.com/cs/gpp/stub.js',
-          type: 'text/javascript',
-        },
-        {
-          src: '//cdn.iubenda.com/cs/iubenda_cs.js',
-          type: 'text/javascript',
-          charset: 'UTF-8',
-          async: true,
-        },
+        //   {
+        //     innerHTML: `var _iub = _iub || [];
+        // _iub.csConfiguration = {"siteId":4049599,"cookiePolicyId":27834388,"lang":"en","storage":{"useSiteId":true}};`,
+        //     type: 'text/javascript',
+        //   },
+        //   {
+        //     src: 'https://cs.iubenda.com/autoblocking/4049599.js',
+        //     type: 'text/javascript',
+        //   },
+        //   {
+        //     src: '//cdn.iubenda.com/cs/gpp/stub.js',
+        //     type: 'text/javascript',
+        //   },
+        //   {
+        //     src: '//cdn.iubenda.com/cs/iubenda_cs.js',
+        //     type: 'text/javascript',
+        //     charset: 'UTF-8',
+        //     async: true,
+        //   },
         //   {
         //     innerHTML: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         // new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -127,6 +127,19 @@
       fbq('track', 'PageView');`,
           type: 'text/javascript',
         },
+        //AI智能助手Tawk.to
+        {
+          innerHTML: `var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+      (function(){
+      var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+      s1.async=true;
+      s1.src='https://embed.tawk.to/68ef3eb56f06ab194d718bfa/1j7j8pu3i';
+      s1.charset='UTF-8';
+      s1.setAttribute('crossorigin','*');
+      s0.parentNode.insertBefore(s1,s0);
+      })();`,
+          type: 'text/javascript',
+        },
       ],
       __dangerouslyDisableSanitizersByTagID: {
         'nuxt-script': ['innerHTML'],
@@ -143,9 +156,3 @@
     gtag('config', 'G-PPB68951Z8');
   });
 </script>
-
-<style>
-  div {
-    font-family: inter, sans-serif;
-  }
-</style>

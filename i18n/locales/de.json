@@ -1,34 +1,213 @@
 {
-  "hello": "helloEN",
+  "hello": "helloDE",
   "Home": "Startseite",
   "Contact": "Kontakt",
-  "支付成功": "Zahlung erfolgreich",
+  "Make it Real": "Machen Sie es Wahr",
+  "Get Custom Pricing": "Individuelle Preise Erhalten",
+  "TideHeader": {
+    "加载导航时出错": "Fehler beim Laden der Navigation",
+    "加载中": "Laden"
+  },
+  "LanguageSwitcher": {
+    "关闭语言菜单": "Sprachmenü schließen",
+    "打开语言菜单": "Sprachmenü öffnen"
+  },
+  "ContactForm": {
+    "consentText": "Durch das Ausfüllen dieses Formulars stimmen Sie TideLine's",
+    "terms": "Bedingungen zu"
+  },
+  "你离自己的泳装品牌，只差一个决定": "Ihre eigene Bademodemarke ist nur eine Entscheidung entfernt",
+  "免费获取1对1定制咨询，我们的专业团队将为您提供全方位的品牌创建与生产支持，开启您的泳装品牌之路。": "Erhalten Sie kostenlose 1-zu-1 maßgeschneiderte Beratung. Unser professionelles Team bietet umfassende Unterstützung bei der Markenerstellung und Produktion, um Ihre Bademodemarken-Reise zu beginnen.",
+  "获取免费咨询": "Kostenlose Beratung Erhalten",
+  "立即咨询": "Jetzt Beraten Lassen",
+  "目录": "Inhaltsverzeichnis",
+  "没有找到目录项": "Kein Inhaltsverzeichnis gefunden",
+  "最新文章": "Neueste Artikel",
+  "想创建自己的泳装品牌吗？": "Möchten Sie Ihre eigene Bademodemarke erstellen?",
+  "我们提供一系列的服务，提供最具性价比的泳衣，同时我们也支持定制服务，让您的想法变成现实，为您轻松开启自己的泳装品牌！": "Wir bieten eine Reihe von Dienstleistungen und die kosteneffektivste Bademode. Wir unterstützen auch maßgeschneiderte Services, um Ihre Ideen Wirklichkeit werden zu lassen und Ihnen zu helfen, einfach Ihre eigene Bademodemarke zu starten!",
+  "了解更多": "Mehr Erfahren",
+  "about": "über",
+  "WhatsApp": "WhatsApp",
+  "联系我们": "Kontaktieren Sie uns",
+  "文章未找到": "Artikel Nicht Gefunden",
+  "successTitle": "Abonnement Erfolgreich!",
+  "successMessage": "Vielen Dank für Ihr Abonnement! Sie können nun die folgenden exklusiven Vorteile genießen:",
+  "benefit1": "Erhalten Sie die neuesten Produktupdates und Werbeinformationen.",
+  "benefit2": "Erhalten Sie frühzeitige Benachrichtigungen über zeitlich begrenzte Angebote.",
+  "benefit3": "Genießen Sie exklusive Mitgliederrabatte.",
+  "backToHome": "Zurück zur Startseite",
+  "联系我们页面内容": "Ob Sie mehr über unsere Anpassungsdienstleistungen erfahren möchten oder Fragen zum Produktionsprozess haben, unser Team ist immer bereit, Ihnen zu helfen. Wir sind verpflichtet, hochwertigen Service und persönliche Unterstützung zu bieten, um die reibungslose Entwicklung Ihrer Marke zu gewährleisten. Wenn Sie Fragen haben oder mehr über unsere Produkte und Dienstleistungen erfahren möchten, zögern Sie nicht, uns über die folgenden Kanäle zu kontaktieren. Wir freuen uns darauf, mit Ihnen zu arbeiten und Ihrer Marke beim Wachstum zu helfen!",
+  "地址": "Adresse",
+  "Xingcheng, HuludaoCity,Liaoning Province, China": "Xingcheng, Huludao Stadt, Provinz Liaoning, China",
+  "加我我们的计划引言": "\"Die Zukunft der Bademodeindustrie dreht sich um mutige Innovation und das Vorausbleiben bei Trends—schließen Sie sich uns an, um das nächste große Ding zu gestalten und lassen Sie uns gemeinsam etwas Unvergessliches schaffen!\"",
+  "First name": "Vorname",
+  "Email": "E-Mail",
+  "Message": "Nachricht",
+  "发表": "Absenden",
+  "By submitting this form, I agree to the": "Durch das Absenden dieses Formulars stimme ich den",
+  "条款": "Bedingungen zu",
+  "请填写您的名字！": "Bitte geben Sie Ihren Namen ein!",
+  "邮箱不能为空！": "E-Mail darf nicht leer sein!",
+  "处理中...": "Verarbeitung...",
+  "提交失败，请稍后重试": "Übermittlung fehlgeschlagen, bitte versuchen Sie es später erneut",
+  "支付成功": "Zahlung Erfolgreich",
   "感谢您的购买！": "Vielen Dank für Ihren Kauf!",
   "返回首页": "Zurück zur Startseite",
   "描述": "Beschreibung",
-  "地址": "Adresse",
   "FirstName": "Vorname",
   "LastName": "Nachname",
   "Phone": "Telefon",
   "Deliver to": "Liefern an",
-  "Apartment, unit, suite, or floor": "Wohnung, Einheit, Suite oder Etage",
+  "Apartment, unit, suite, or floor": "Wohnung, Einheit, Suite oder Stockwerk",
   "City": "Stadt",
-  "State/Province": "Bundesland/Provinz",
+  "State/Province": "Staat/Provinz",
   "Postal code": "Postleitzahl",
   "Country/Region": "Land/Region",
-  "确认订单信息": "Bestellinformationen bestätigen",
-  "处理中...": "Verarbeitung...",
+  "确认订单信息": "Bestellinformationen Bestätigen",
   "不能为空": "darf nicht leer sein",
-  "保存地址失败，请重试": "Adresse speichern fehlgeschlagen, bitte erneut versuchen",
-  "Network fluctuation, please contact the administrator.": "Netzwerkschwankungen, bitte kontaktieren Sie den Administrator.",
+  "保存地址失败，请重试": "Adresse speichern fehlgeschlagen, bitte versuchen Sie es erneut",
+  "Network fluctuation, please contact the administrator.": "Netzwerkschwankung, bitte kontaktieren Sie den Administrator.",
   "请输入完整的地址信息": "Bitte geben Sie vollständige Adressinformationen ein",
   "支付系统加载失败，请刷新页面重试": "Zahlungssystem konnte nicht geladen werden, bitte Seite aktualisieren und erneut versuchen",
-  "TideHeader": {
-    "加载导航时出错": "Error loading navigation",
-    "加载中": "Loading"
+  "blog": {
+    "categories": "Kategorien",
+    "tags": "Tags",
+    "all": "Alle",
+    "showingPage": "Zeige Seite",
+    "of": "von",
+    "totalArticles": "Artikel insgesamt",
+    "by": "Von",
+    "blogTagsTitle": "Blog Tags",
+    "blogTags": {
+      "Bikini": "Bikini",
+      "Tankini": "Tankini",
+      "One-Piece": "Einteilig",
+      "Rash-Guard": "Rashguard",
+      "Trunks": "Badehose",
+      "Boardshorts": "Boardshorts",
+      "OEM": "OEM",
+      "ODM": "ODM",
+      "Private Label": "Private Label",
+      "Factory": "Fabrik",
+      "Supplier": "Lieferant",
+      "Manufacturing": "Herstellung",
+      "Heat Transfer": "Wärmeübertragung",
+      "Logo Printing": "Logo-Druck",
+      "Size Guide": "Größenleitfaden",
+      "Quality Control": "Qualitätskontrolle",
+      "Startup": "Startup",
+      "New Brand": "Neue Marke",
+      "Small Business": "Kleinunternehmen",
+      "Sampling": "Musterung",
+      "MOQ": "MOQ",
+      "Bulk Production": "Massenproduktion",
+      "AQL": "AQL",
+      "Incoterms": "Incoterms",
+      "Shipping": "Versand",
+      "Sustainable Materials": "Nachhaltige Materialien",
+      "Eco-friendly": "Umweltfreundlich"
+    },
+    "seoblog": {
+      "title": "Bademode-Industrie Blog | Tipps, Trends & Herstellungseinblicke | Tideline Swim",
+      "description": "Experteneinblicke in Bademode-Herstellung, Design-Trends, Produktionstipps und bewährte Praktiken der Industrie. Lernen Sie über OEM, ODM, Musterung, Qualitätskontrolle und nachhaltige Bademode-Produktion.",
+      "keywords": "Bademode Blog, Badeanzug Herstellungstipps, Bademode Industrie Trends, OEM ODM Einblicke, Bademode Produktionsleitfaden, nachhaltige Bademode, Qualitätskontrolle, Musterungsprozess",
+      "ogImage": "/blog-og-image.jpg",
+      "twitterCard": "summary_large_image"
+    }
   },
-  "LanguageSwitcher": {
-    "关闭语言菜单": "Close language menu",
-    "打开语言菜单": "Open language menu"
+  "Follow Us :": "Folgen Sie uns :",
+  "Free Quote": "Kostenloses Angebot",
+  "shipping": {
+    "title": "Versandrichtlinie",
+    "subtitle": "Zuverlässige globale Versandlösungen für Ihre Bademode-Geschäftsbedürfnisse",
+    "orderTracking": {
+      "title": "Bestellverfolgung",
+      "description": "Wir bieten umfassende Verfolgung für alle Bestellungen, um sicherzustellen, dass Sie bei jedem Schritt über den Status Ihrer Sendung informiert bleiben.",
+      "feature1": "Sendungsverfolgungsnummern werden innerhalb von 24 Stunden nach Versand per E-Mail gesendet",
+      "feature2": "Echtzeitverfolgung verfügbar auf unserer Website oder der Website des Spediteurs",
+      "feature3": "Regelmäßige Statusupdates per E-Mail für Produktionsbestellungen",
+      "feature4": "Dedizierter Account-Manager für Bestellungen über 10.000 $",
+      "trackTitle": "Verfolgen Sie Ihre Bestellung: Geben Sie Ihre Sendungsverfolgungsnummer unten ein, um den aktuellen Status Ihrer Sendung zu überprüfen.",
+      "trackPlaceholder": "Sendungsverfolgungsnummer eingeben",
+      "trackButton": "Verfolgen"
+    },
+    "methods": {
+      "title": "Versandmethoden",
+      "description": "Wir bieten verschiedene Versandoptionen basierend auf Ihrem Bestelltyp und Dringlichkeit, um Ihre spezifischen Geschäftsanforderungen zu erfüllen.",
+      "sample": {
+        "title": "Musterbestellungen",
+        "description": "Für Musterbestellungen bieten wir beschleunigte Versandoptionen, um Ihnen bei schnellen Entscheidungen zu helfen:",
+        "express": "Express-Kurier",
+        "expressTime": "DHL, FedEx, UPS (3-7 Werktage)",
+        "standard": "Standard-Luftpost",
+        "standardTime": "(7-14 Werktage)",
+        "economy": "Economy",
+        "economyTime": "(14-21 Werktage)"
+      },
+      "bulk": {
+        "title": "Massenproduktionsbestellungen",
+        "description": "Für Produktionsmengen bieten wir kosteneffektive Lösungen:",
+        "air": "Luftfracht",
+        "airTime": "(7-15 Werktage)",
+        "sea": "Seefracht",
+        "seaTime": "(30-45 Werktage)",
+        "expressAir": "Express-Luft",
+        "expressAirTime": "(5-10 Werktage)"
+      },
+      "important": "Wichtig",
+      "importantNote": "Produktionsvorlaufzeiten kommen zusätzlich zu den Versandzeiten. Bitte kontaktieren Sie uns für genaue Produktionszeitpläne basierend auf Ihrer Bestellmenge und Komplexität."
+    },
+    "coverage": {
+      "title": "Versandabdeckung",
+      "description": "Wir bieten Versanddienstleistungen in über 150 Länder weltweit. Unser Partnernetzwerk bietet schnelle Lieferung rund um den Globus.",
+      "mapTitle": "TIDELINE SWIMWEAR IST DA, WO IHRE KUNDEN SIND",
+      "mapSubtitle": "Unser Partnernetzwerk bietet schnelle Lieferung rund um den Globus.",
+      "regions": {
+        "northAmerica": "Nordamerika",
+        "europe": "Europäische Union",
+        "asia": "Asien",
+        "africa": "Afrika",
+        "southAmerica": "Südamerika",
+        "australia": "Australien & NZ"
+      },
+      "legend": {
+        "available": "Verfügbar für Versand",
+        "limited": "Begrenzter/Kein Service"
+      },
+      "note": "Hinweis",
+      "noteText": "Wir haben derzeit begrenzte Versandverfügbarkeit in bestimmte Regionen Afrikas und Zentralasiens aufgrund logistischer Einschränkungen. Wir arbeiten aktiv daran, unsere Servicebereiche zu erweitern. Für spezifische Länderverfügbarkeit und Einschränkungen kontaktieren Sie bitte unsere Versandabteilung."
+    },
+    "sidebar": {
+      "overview": {
+        "title": "Versandübersicht",
+        "description1": "Bei TIDELINE SWIMWEAR verstehen wir, dass pünktliche Lieferung für Ihr Geschäft entscheidend ist. Unsere umfassenden Versandlösungen sind darauf ausgelegt, die vielfältigen Bedürfnisse unserer B2B-Kunden weltweit zu erfüllen.",
+        "description2": "Wir arbeiten mit führenden globalen Logistikanbietern zusammen, um sicherzustellen, dass Ihre Bademode-Bestellungen sicher und pünktlich bei Ihnen ankommen.",
+        "keyFeatures": "Hauptmerkmale",
+        "features": "Globale Abdeckung, flexible Versandoptionen, Echtzeitverfolgung und Zollhilfe."
+      },
+      "contact": {
+        "title": "Benötigen Sie Hilfe beim Versand?",
+        "email": "E-Mail",
+        "hours": "Geschäftszeiten",
+        "hoursTime": "Mo-Fr: 9-18 Uhr (EST)",
+        "emergency": "Notfallleitung"
+      },
+      "quickLinks": {
+        "title": "Schnelllinks",
+        "calculator": "Versandkostenrechner",
+        "customs": "Zoll- und Steuerleitfaden",
+        "documentation": "Zolldokumentation",
+        "processing": "Bearbeitungszeit-Info",
+        "packaging": "Verpackungsdetails",
+        "returns": "Rücksendungen & Umtausch",
+        "insurance": "Versandversicherung",
+        "faq": "Versand FAQ",
+        "policy": "Rückgaberichtlinie"
+      },
+      "partners": {
+        "title": "Unsere Versandpartner",
+        "description": "Wir arbeiten mit vertrauenswürdigen globalen Logistikanbietern:"
+      }
+    }
   }
 }

@@ -1,0 +1,38 @@
+title: 'Domande frequenti'
+description: 'Trova risposte alle domande comuni sulla nostra produzione di costumi da bagno, servizi di campionatura e produzione. Ottieni le informazioni necessarie per prendere decisioni informate.'
+
+seo:
+  title: 'FAQ - Domande frequenti | Tideline Produzione costumi da bagno'
+  description: 'Ottieni risposte alle domande comuni sulla produzione di costumi da bagno, servizi di campionatura, prezzi, tempi di consegna e processi di produzione.'
+  keywords: 'FAQ produzione costumi da bagno, domande sui campioni, processo di produzione, tempo di consegna, prezzi costumi da bagno, pacchetto tecnico, approvvigionamento tessuti'
+  ogTitle: 'FAQ - Le tue domande risposte | Tideline'
+  ogDescription: 'Trova risposte dettagliate sui nostri servizi di produzione costumi da bagno, dalla campionatura alla produzione di massa.'
+  ogType: 'website'
+  ogImage: '/faq-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'FAQ - Domande sulla produzione di costumi da bagno | Tideline'
+  twitterDescription: 'Ottieni risposte alle domande comuni sulla nostra produzione e servizi di campionatura di costumi da bagno.'
+
+faq:
+  title: 'Domande comuni sui nostri servizi'
+  items:
+    - question: 'Cosa è tipicamente incluso nel vostro servizio di campionatura e qual è il costo?'
+      answer: "Il nostro servizio di campionatura è un pacchetto completo che include ingegneria dei modelli, approvvigionamento di tessuti e rifiniture approvati, costruzione di un prototipo fisico e analisi interna della vestibilità. Il costo è specifico del progetto e varia in base alla complessità del design, ai materiali scelti e ai dettagli delle rifiniture. Forniamo un preventivo trasparente dopo la nostra consultazione iniziale per allinearci sull'ambito."
+    - question: 'Qual è il tempo di consegna tipico per un campione?'
+      answer: 'Il cronoprogramma standard per un primo prototipo è di 2-3 settimane. Questo periodo include approvvigionamento dei materiali, sviluppo del modello e costruzione meticolosa. Possiamo discutere opzioni accelerate per progetti urgenti e i tempi sono sempre confermati in anticipo.'
+    - question: 'Devo fornire un pacchetto tecnico completo o potete lavorare dal mio concetto di design?'
+      answer: 'Possiamo lavorare con entrambi. Un pacchetto tecnico dettagliato consente il processo più preciso ed efficiente. Tuttavia, se hai un concetto di design o ispirazione, il nostro team può aiutarti a svilupparlo in una specifica pronta per la produzione, inclusi raccomandazioni su vestibilità, tessuto e costruzione.'
+    - question: 'Come gestite vestibilità e taglie per i campioni?'
+      answer: 'Iniziamo allineandoci su un blocco di vestibilità base e regole di gradazione specifiche per il vostro mercato target. Il primo campione è costruito secondo queste specifiche precise ed è valutato internamente su un manichino standard. Raccomandiamo vivamente di condurre anche la vostra sessione di prova su un modello dal vivo che corrisponda alle misure del vostro cliente target.'
+    - question: 'Potete procurare tessuti specifici o sostenibili per il mio campione?'
+      answer: 'Assolutamente. Abbiamo relazioni consolidate con mulini che offrono una vasta gamma di tessuti performanti e sostenibili (ad esempio, nylon riciclato, materiali certificati OEKO-TEX®). Cureremo le opzioni in base ai vostri obiettivi estetici, di prestazioni e sostenibilità e forniremo campioni per la vostra approvazione.'
+    - question: 'Cosa succede se il campione richiede modifiche dopo la consegna?'
+      answer: "L'iterazione è una parte fondamentale del processo di campionatura. Includiamo un round di consolidamento dettagliato del feedback dopo che ricevete il vostro primo campione. Analizzeremo le vostre note su vestibilità e costruzione e presenteremo un piano chiaro per le revisioni, inclusi eventuali costi associati e cronoprogramma per un secondo prototipo se necessario."
+    - question: 'Come transita il processo di campionatura alla produzione di massa?'
+      answer: 'Il campione finale approvato serve come "standard aureo" per la produzione. Utilizziamo i modelli raffinati, i materiali confermati e i dettagli di costruzione dalla fase di campionatura per creare una roadmap di produzione senza soluzione di continuità, fornendovi un preventivo fermo per il vostro ordine all''ingrosso basato sulle quantità richieste.'
+
+cta:
+  title: 'Hai ancora domande?'
+  description: 'Il nostro team è qui per aiutare. Contattaci oggi per risposte personalizzate e guida esperta sul tuo progetto di produzione costumi da bagno.'
+  button: 'Contatta i nostri esperti'
+  link: '/contact'

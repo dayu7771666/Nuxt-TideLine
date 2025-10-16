@@ -1,0 +1,121 @@
+title: 'Produttori di Costumi da Bagno per Bambini'
+description: 'Più di un fornitore: il tuo partner nella costruzione del marchio di costumi da bagno.'
+
+seo:
+  title: 'Produttori di Costumi da Bagno per Bambini | TIDELINE SWIMWEAR'
+  description: "Produttore affidabile di costumi da bagno per bambini che offre costumi durevoli con protezione UV. Design personalizzati per ragazzi e ragazze, prezzi all'ingrosso, MOQ basso."
+  keywords: 'produttore costumi da bagno bambini, fornitore costumi da bagno bambini, costumi da bagno protezione UV, shorts da bagno ragazzi, produttore costumi da bagno ragazze, fabbrica costumi da bagno bambini'
+  ogTitle: 'Produttori di Costumi da Bagno per Bambini | TIDELINE SWIMWEAR'
+  ogDescription: 'Produttore di costumi da bagno per bambini di alta qualità. Design durevoli con protezione UV per bambini. Opzioni personalizzate disponibili.'
+  ogType: 'website'
+  ogImage: '/catalog/kids-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Produttori di Costumi da Bagno per Bambini | TIDELINE SWIMWEAR'
+  twitterDescription: "Produzione di costumi da bagno per bambini sicuri e confortevoli. Protezione UV, design personalizzati, prezzi all'ingrosso."
+
+# Hero section
+hero:
+  cta_text: 'Consulenza'
+  cta_href: '/contact'
+  image_src: '/catalog/kids-swimwear-bg.webp'
+  image_alt: 'Produzione di Costumi da Bagno per Bambini'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'La Nostra Missione'
+  paragraph1: 'In TideLine Swimwear, sappiamo che i costumi da bagno per bambini sono una categoria vibrante e in crescita per rivenditori e giovani famiglie. Ogni stagione, il nostro team di design sviluppa collezioni divertenti, comode e durevoli - dai costumi interi giocosi agli shorts da bagno sportivi - offrendo a grossisti e proprietari di marchi opzioni versatili per soddisfare le esigenze dei bambini attivi.'
+  whatsapp_link_text: 'Contattaci su WhatsApp'
+
+# Statistics
+stats:
+  - label: "Esperienza nell'Industria dei Costumi da Bagno"
+    value: '10 anni +'
+  - label: 'Ordini Evasi'
+    value: '1.000.000+'
+
+# Product categories
+categories:
+  - name: 'Intero Ragazze'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-1.webp'
+    imageAlt: 'Collezione Costumi Interi Ragazze'
+  - name: 'Shorts da Bagno Ragazzi'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-5.webp'
+    imageAlt: 'Collezione Shorts da Bagno Ragazzi'
+  - name: 'Costumi da Bagno Bambini Piccoli'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-3.webp'
+    imageAlt: 'Collezione Costumi da Bagno Bambini Piccoli'
+  - name: 'Rash Guard'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-4.webp'
+    imageAlt: 'Collezione Rash Guard Bambini'
+
+# Customization capabilities
+customization:
+  title: 'Capacità di Personalizzazione'
+  description: 'Costumi da bagno completamente personalizzabili - TideLine accetta tutti i design, tessuti, accessori, loghi e imballaggi personalizzati per dare vita alla visione del tuo marchio.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Struttura di Produzione'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalizzazione dello Stile'
+      description: 'Dai vita a qualsiasi design di costume da bagno - scegli il tuo stile perfetto e lascia che lo realizziamo per il tuo marchio.'
+      link: '/contact'
+      cta_text: 'Consulenza'
+    - name: 'Personalizzazione del Tessuto'
+      description: 'Scegli tra una vasta gamma di tessuti per creare costumi da bagno comodi da indossare e belli da vedere.'
+      link: '/fabric'
+      cta_text: 'Tessuto'
+    - name: 'Personalizzazione degli Accessori'
+      description: 'Personalizza ogni dettaglio - da fibbie e anelli a cerniere - le nostre opzioni di accessori elevano il tuo design.'
+      link: '/hardware'
+      cta_text: 'Accessori'
+    - name: 'Personalizzazione del Logo'
+      description: 'Rendilo veramente tuo - aggiungi il tuo logo a ogni pezzo per un look di marca professionale.'
+    - name: "Personalizzazione dell'Imballaggio"
+      description: "Completa l'esperienza del tuo marchio con imballaggi su misura per il tuo stile e la tua visione."
+    - name: 'Contattaci'
+      description: 'Pronto? Trasformiamo le tue idee di costumi da bagno in realtà.'
+      link: '/contact'
+      cta_text: 'Contattaci'
+
+# Getting Started section
+getting_started:
+  title: 'Il tuo viaggio nei costumi da bagno inizia qui'
+  description: 'Che tu stia lanciando la tua prima collezione o scalando il tuo marchio, TideLine fornisce soluzioni di costumi da bagno su misura per soddisfare le tue esigenze. Scegli il tuo percorso e inizia.'
+  beginner_text: 'Inizia come Principiante'
+  beginner_href: '/startup'
+  pro_text: 'Acquirente Esperto'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processo di Produzione'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Domande Frequenti'
+  questions:
+    - id: 1
+      question: 'Qual è il miglior tessuto per i costumi da bagno per bambini?'
+      answer: 'I migliori tessuti per i costumi da bagno per bambini sono quelli morbidi, elastici e durevoli, come le miscele di nylon o poliestere con spandex. Cerca materiali che offrano protezione solare UPF 50+ e siano resistenti al cloro per una maggiore durata.'
+    - id: 2
+      question: 'Come scelgo la taglia giusta per mio figlio?'
+      answer: 'Per trovare la taglia giusta, consulta la tabella delle taglie del marchio e misura il petto, la vita e i fianchi di tuo figlio. Se tuo figlio è tra le taglie, opta per la taglia più grande per garantire comfort e spazio per la crescita.'
+    - id: 3
+      question: 'Ci sono design specifici di costumi da bagno per i bambini piccoli?'
+      answer: 'Sì, per i bambini piccoli, considera costumi da bagno con caratteristiche aggiuntive come pannolini da nuoto incorporati, spalline regolabili o cerniere per un cambio facile. I set di rash guard forniscono protezione solare extra e sono popolari tra i genitori.'
+    - id: 4
+      question: 'Come mi prendo cura del costume da bagno di mio figlio?'
+      answer: "Risciacqua il costume da bagno con acqua dolce immediatamente dopo l'uso per rimuovere cloro o sale. Lava a mano con detergente delicato e lascia asciugare all'aria in piano. Evita di strizzare il tessuto, lavare in lavatrice o usare asciugatrici per mantenere la sua elasticità e colore."
+    - id: 5
+      question: 'I costumi da bagno per bambini hanno bisogno di protezione UV?'
+      answer: 'Assolutamente. La pelle dei bambini è più sensibile ai raggi UV, quindi i costumi da bagno con protezione UPF 50+ aiutano a bloccare fino al 98% dei raggi solari dannosi. Abbinali alla crema solare per una copertura completa.'
+    - id: 6
+      question: 'I costumi da bagno per bambini possono essere usati sia in piscina che in mare?'
+      answer: "Sì, ma i costumi da bagno esposti regolarmente a cloro o acqua salata dovrebbero essere realizzati con tessuti resistenti al cloro e allo sbiadimento per garantire durata. I materiali ad asciugatura rapida sono anche benefici per l'uso in mare."
+    - id: 7
+      question: 'Qual è la differenza tra un costume da bagno e un rash guard?'
+      answer: "Un costume da bagno è un tradizionale pezzo unico o due pezzi progettato per il nuoto, mentre un rash guard è una maglia realizzata in tessuto elastico e protettivo dai raggi UV. I rash guard sono spesso abbinati a shorts da bagno o parti inferiori e forniscono protezione solare extra, specialmente per gli sport acquatici o l'esposizione prolungata al sole."

@@ -1,0 +1,111 @@
+title: 'Produttore di Costumi da Bagno Maschili'
+description: 'Più di un fornitore — il tuo partner nella costruzione del marchio di costumi da bagno.'
+
+seo:
+  title: 'Produttore di Costumi da Bagno Maschili | TIDELINE SWIMWEAR'
+  description: "Produttore all'ingrosso di costumi da bagno maschili che offre shorts da bagno ad alte prestazioni, boardshorts e slip. Design personalizzati, prezzi competitivi, MOQ basso."
+  keywords: 'produttore costumi da bagno uomo, shorts da bagno ingrosso, produttore boardshorts, fornitore costumi da bagno uomo, shorts da bagno personalizzati, fabbrica costumi da bagno uomo'
+  ogTitle: 'Produttore di Costumi da Bagno Maschili | TIDELINE SWIMWEAR'
+  ogDescription: 'Produttore professionale di costumi da bagno maschili. Shorts da bagno, boardshorts, slip. Design personalizzati, MOQ basso, prezzi ingrosso.'
+  ogType: 'website'
+  ogImage: '/catalog/men-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Produttore di Costumi da Bagno Maschili | TIDELINE SWIMWEAR'
+  twitterDescription: 'Produzione di costumi da bagno maschili ad alte prestazioni. Shorts, boardshorts, slip. Design personalizzati disponibili.'
+
+# Hero section
+hero:
+  cta_text: 'Consultazione'
+  cta_href: '/contact'
+  image_src: '/catalog/men-swimwear-bg.webp'
+  image_alt: 'Produzione di Costumi da Bagno Maschili'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'La Nostra Missione'
+  paragraph1: 'In TideLine Swimwear, sappiamo che i costumi da bagno maschili sono una categoria di crescita chiave per rivenditori e marchi emergenti. Ogni stagione, il nostro team di fabbrica sviluppa collezioni pronte per il mercato che combinano comfort, durata e stile—che si tratti di shorts classici, boardshorts funzionali o slip contemporanei—offrendo a grossisti e proprietari di marchi opzioni versatili per soddisfare la domanda dei consumatori di oggi.'
+  whatsapp_link_text: 'Contattaci su WhatsApp'
+
+# Statistics
+stats:
+  - label: "Esperienza nell'Industria dei Costumi da Bagno"
+    value: '10 anni +'
+  - label: 'Ordini Completati'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Magliette da Nuoto'
+    href: '/category?type=men&subtype=swim-shirt'
+    imageSrc: '/men-swimwear/shirt/shirt-5.webp'
+    imageAlt: 'Collezione di Magliette da Nuoto Maschili'
+  - name: 'Slip'
+    href: '/category?type=men&subtype=briefs'
+    imageSrc: '/men-swimwear/san/san-1.webp'
+    imageAlt: 'Collezione di Slip da Nuoto Maschili'
+  - name: 'Shorts'
+    href: '/category?type=men&subtype=trunks'
+    imageSrc: '/men-swimwear/ping/ping-4.webp'
+    imageAlt: 'Collezione di Shorts da Nuoto Maschili'
+
+# Customization capabilities
+customization:
+  title: 'Capacità di Personalizzazione'
+  description: 'Costumi da bagno completamente personalizzabili—TideLine accetta tutti i design personalizzati, tessuti, accessori, loghi e imballaggi per dare vita alla tua visione del marchio.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Struttura di Produzione'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalizzazione dello Stile'
+      description: 'Dai vita a qualsiasi design di costume da bagno—scegli il tuo stile perfetto e lascia che lo realizziamo per il tuo marchio.'
+      link: '/contact'
+      cta_text: 'Consultazione'
+    - name: 'Personalizzazione del Tessuto'
+      description: 'Scegli da una vasta gamma di tessuti per creare costumi da bagno comodi da indossare e belli da vedere.'
+      link: '/fabric'
+      cta_text: 'Tessuto'
+    - name: 'Personalizzazione degli Accessori'
+      description: 'Personalizza ogni dettaglio—dalle fibbie e anelli alle cerniere—le nostre opzioni di accessori elevano il tuo design.'
+      link: '/hardware'
+      cta_text: 'Accessori'
+    - name: 'Personalizzazione del Logo'
+      description: 'Rendilo veramente tuo—aggiungi il tuo logo a ogni pezzo per un look di marca professionale.'
+    - name: "Personalizzazione dell'Imballaggio"
+      description: 'Completa la tua esperienza di marca con imballaggi su misura per il tuo stile e la tua visione.'
+    - name: 'Contattaci'
+      description: 'Pronto? Trasformiamo le tue idee di costumi da bagno in realtà.'
+      link: '/contact'
+      cta_text: 'Contattaci'
+
+# Getting Started section
+getting_started:
+  title: 'Il tuo viaggio nei costumi da bagno inizia qui'
+  description: 'Che tu stia lanciando la tua prima collezione o scalando il tuo marchio, TideLine fornisce soluzioni di costumi da bagno su misura per soddisfare le tue esigenze. Scegli il tuo percorso e inizia.'
+  beginner_text: 'Inizia come Principiante'
+  beginner_href: '/startup'
+  pro_text: 'Acquirente Esperto'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processo di Produzione'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Domande Frequenti'
+  questions:
+    - id: 1
+      question: "Qual è la quantità minima di ordine per i costumi da bagno maschili all'ingrosso?"
+      answer: 'Il nostro MOQ inizia da 30 pezzi per stile e taglia, permettendo ai nuovi marchi di costumi da bagno maschili in crescita di lanciare collezioni con flessibilità.'
+    - id: 2
+      question: 'Posso personalizzare gli stili e i materiali dei costumi da bagno maschili?'
+      answer: 'Sì. Offriamo personalizzazione completa per i costumi da bagno maschili—inclusi shorts, boardshorts e slip—utilizzando i tuoi tessuti, colori, loghi e imballaggi preferiti.'
+    - id: 3
+      question: "Quanto tempo richiede la produzione per ordini all'ingrosso di costumi da bagno maschili?"
+      answer: "I campioni sono solitamente completati entro 10 giorni, mentre la produzione all'ingrosso è finita entro 30 giorni a seconda della dimensione dell'ordine e del livello di personalizzazione."
+    - id: 4
+      question: 'Fornite opzioni di tessuti sostenibili per i costumi da bagno maschili?'
+      answer: 'Assolutamente. Offriamo tessuti ecologici come poliestere e nylon riciclati, dando al tuo marchio un vantaggio sostenibile nel mercato dei costumi da bagno maschili.'
+    - id: 5
+      question: "Come posso richiedere un preventivo per i costumi da bagno maschili all'ingrosso?"
+      answer: 'Condividi semplicemente i tuoi design, taglie e scelte di tessuti preferiti con il nostro team tramite WhatsApp o email. Forniremo un preventivo dettagliato, insieme a campioni di tessuti e raccomandazioni di esperti.'

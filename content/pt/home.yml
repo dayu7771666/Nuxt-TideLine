@@ -1,0 +1,147 @@
+title: 'Tideline: Mais do que um fornecedor, seu parceiro na construção de sua marca de roupas de banho.'
+description: 'Oferecemos fabricação de roupas de banho personalizadas de alta qualidade, de ponta a ponta, do design à entrega.'
+
+seo:
+  title: 'Fabricante Premium de Roupas de Banho: Maiôs e Biquínis de Alta Qualidade | Tideline Swim'
+  description: 'Tideline Swim é um fabricante premium de roupas de banho com sede na China, especializado em maiôs personalizados de alta qualidade, biquínis e produção de marca própria. Fazemos parceria com marcas e designers exigentes em todo o mundo, oferecendo fabricação sustentável, artesanato meticuloso e serviço excepcional para dar vida à sua visão de roupas de banho de luxo.'
+  keywords: 'fabricante premium de roupas de banho, fábrica de maiôs de luxo, fabricante de biquíni personalizado, roupas de banho de alta qualidade, roupas de banho marca própria, produção de roupas de banho ecológica, roupas de banho sustentáveis, fabricante de roupas de banho de designer, OEM roupas de banho, fornecedor de roupas de banho, Tideline Swim'
+  ogImage: '/og-image.jpg'
+  twitterCard: 'summary_large_image'
+  ogType: 'website'
+  ogSiteName: 'Tideline Swim'
+  twitterSite: '@TidelineSwim'
+  robots: 'index, follow'
+  canonical: 'https://tidelineswim.com/pt'
+
+hero:
+  src: /hero_banner.webp
+  alt: 'Construa sua linha premium de roupas de banho'
+  ctaButton: 'Solicitar amostra'
+  features:
+    - text: 'MOQ a partir de apenas 60 peças'
+      href: '/bulkproduction'
+    - text: 'Produção rápida em 15 dias'
+      href: '/bulkproduction'
+    - text: 'Suporte de design gratuito'
+      href: '/sampling'
+
+videoShowcase:
+  title: 'Explore nosso processo de fabricação de roupas de banho'
+  description: 'Este vídeo mostra a jornada de criação de suas roupas de banho personalizadas de alta qualidade, apoiadas por design profissional e fabricação de precisão.'
+  ctaText: 'Saiba mais'
+  videoSrc: 'https://www.youtube.com/watch?v=sSPf81Vexwc'
+  videoDuration: '5:32'
+  youtubeWatchText: 'Assistir no YouTube'
+
+howWorks:
+  title: 'Da ideia às roupas de banho em 5 passos simples'
+  description: 'Simplifique seu processo de criação de marca. Concentre-se na criatividade e no marketing.'
+  cta: 'Inicie sua jornada de marca'
+  steps:
+    - title: 'Consulta'
+      description: 'Compartilhe seu conceito de marca e requisitos por telefone, e-mail ou nosso formulário online.'
+      icon: 'ChatBubbleLeftRightIcon'
+    - title: 'Design e Amostragem'
+      description: 'Tideline cria designs profissionais e produz amostras para você.'
+      icon: 'PencilSquareIcon'
+    - title: 'Confirmação e Pedido'
+      description: 'Finalize os detalhes e aprove o pedido de produção após a revisão da amostra.'
+      icon: 'CheckCircleIcon'
+    - title: 'Produção e Envio'
+      description: 'Tideline cuidará da fabricação de alto padrão e organizará a logística confiável.'
+      icon: 'TruckIcon'
+    - title: 'Suporte ao crescimento'
+      description: 'Tideline fornece consultoria técnica e de marketing contínua para o desenvolvimento da marca a longo prazo.'
+      icon: 'ChartBarIcon'
+
+whyUs:
+  title: 'Precisa de um fornecedor que entenda de branding?'
+  description: 'Faça parceria com a Tideline para obter expertise estratégica que transforma produtos em uma marca poderosa.'
+  cta: 'Saiba mais sobre nossas vantagens'
+  advantages:
+    - name: 'Preços diretos de fábrica e comunicação'
+      description: 'Como fábrica direta, a Tideline elimina os custos de intermediários para oferecer preços mais competitivos e garantir comunicação eficiente e transparente.'
+      icon: 'SwatchIcon'
+    - name: 'Extensa biblioteca de materiais e componentes'
+      description: 'Tideline fornece uma seleção diversificada de tecidos e acessórios - de nylon ecológico a compostos de alta elasticidade - para atender às várias necessidades de estilo e funcionalidade.'
+      icon: 'BuildingOfficeIcon'
+    - name: 'Suporte flexível para baixo volume e amostragem'
+      description: 'Comece com pedidos em lotes pequenos (MOQ 60 peças) para testar o mercado com risco mínimo. Beneficie-se de um serviço de amostragem rápido, com protótipos entregues em até 3 dias.'
+      icon: 'LightBulbIcon'
+    - name: 'Controle de qualidade rigoroso'
+      description: 'Nosso rigoroso sistema de inspeção em quatro estágios - de matérias-primas a produtos acabados - garante que cada peça atenda aos padrões de qualidade internacionais.'
+      icon: 'ShieldCheckIcon'
+
+indexCta:
+  title: 'Você está a apenas uma decisão de sua própria marca de roupas de banho'
+  description: 'Obtenha uma consulta personalizada gratuita 1 a 1. Nossa equipe profissional fornecerá suporte completo na criação de marca e produção para iniciar sua jornada de roupas de banho.'
+  cta: 'Obter consulta gratuita'
+  image:
+    src: '/home/indexcta.webp'
+    alt: 'Consulta de marca de roupas de banho'
+
+products:
+  title: 'Coleções de produtos'
+  description: 'Capacite sua marca com tecidos premium e designs direcionados'
+  learnMoreText: 'Explorar'
+  quoteText: 'Solicitar orçamento'
+  quoteLink: '/contact'
+  items:
+    - id: 1
+      name: 'Coleções de roupas de banho'
+      href: '/collections/swimwear'
+      description: 'Suporta personalização completa de padrões, cores, logotipo e tamanhos para atender às necessidades da sua marca'
+      imageSrc: '/home/homeserver-1.avif'
+      imageAlt: 'Conjunto de biquíni premium em várias cores arranjado em ambiente de praia.'
+    - id: 2
+      name: 'Coleções de roupas esportivas'
+      href: '/collections/activewear'
+      description: 'De pedidos de teste em pequenos lotes à produção em larga escala, fornecemos soluções de produção flexíveis'
+      imageSrc: '/home/homeserver-2.avif'
+      imageAlt: 'Maiô atlético de uma peça em design preto elegante.'
+    - id: 3
+      name: 'Coleções Tan Through'
+      href: '/collections/tan-through'
+      description: 'Equipe de logística profissional garante que seus pedidos sejam entregues pontualmente em todo o mundo'
+      imageSrc: '/home/homeserver-3.avif'
+      imageAlt: 'Conjunto tankini de designer em design branco sofisticado.'
+    - id: 4
+      name: 'Coleções de acessórios'
+      href: '/collections/accessories'
+      description: 'Fornecer suporte profissional abrangente desde consultoria de design até serviço pós-venda'
+      imageSrc: '/home/homeserver-4.avif'
+      imageAlt: 'Saída de praia elegante em tons neutros.'
+
+serviceAdvantages:
+  title: 'Vantagens do serviço'
+  description: 'Faça parceria conosco para elevar sua coleção e simplificar sua cadeia de suprimentos'
+  advantages:
+    - id: 1
+      title: 'Design personalizado'
+      description: 'Equipe de design profissional cria estilos de roupas de banho únicos adaptados à sua marca e às necessidades dos clientes.'
+      icon: 'CogIcon'
+    - id: 2
+      title: 'Produção rápida'
+      description: 'Processo de produção eficiente com entrega rápida em 15 dias para atender às suas demandas urgentes de mercado.'
+      icon: 'ClockIcon'
+    - id: 3
+      title: 'Garantia de qualidade'
+      description: 'Sistema rigoroso de controle de qualidade garante que cada peça atenda aos padrões internacionais e às expectativas dos clientes.'
+      icon: 'ShieldCheckIcon'
+    - id: 4
+      title: 'Serviço profissional'
+      description: 'Equipe de atendimento ao cliente dedicada fornece suporte abrangente do design à entrega.'
+      icon: 'UserGroupIcon'
+
+contactForm:
+  modalTitle: 'Entre em contato'
+  nameLabel: 'Nome completo'
+  namePlaceholder: 'Digite seu nome completo'
+  emailLabel: 'Endereço de e-mail'
+  emailPlaceholder: 'Digite seu endereço de e-mail'
+  messageLabel: 'Mensagem'
+  messagePlaceholder: 'Conte-nos sobre os requisitos do seu projeto...'
+  consentText: 'Concordo em receber atualizações e comunicações da Tideline.'
+  submitButton: 'Enviar'
+  successMessage: 'Obrigado! Entraremos em contato em breve.'
+  errorMessage: 'Falha no envio. Tente novamente ou entre em contato com nossa equipe de suporte.'

@@ -1,0 +1,121 @@
+title: 'Fabricantes de Roupas de Banho Infantis'
+description: 'Mais do que um fornecedor - seu parceiro na construção de marcas de roupas de banho.'
+
+seo:
+  title: 'Fabricantes de Roupas de Banho Infantis | TIDELINE SWIMWEAR'
+  description: 'Fabricante confiável de roupas de banho infantis oferecendo roupas de banho duráveis com proteção UV. Designs personalizados para meninos e meninas, preços de atacado, MOQ baixo.'
+  keywords: 'fabricante roupas de banho infantis, fornecedor roupas de banho infantis, roupas de banho proteção UV, shorts de banho meninos, fabricante maiô meninas, fábrica roupas de banho infantis'
+  ogTitle: 'Fabricantes de Roupas de Banho Infantis | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricante de roupas de banho infantis de alta qualidade. Designs duráveis com proteção UV para crianças. Opções personalizadas disponíveis.'
+  ogType: 'website'
+  ogImage: '/catalog/kids-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricantes de Roupas de Banho Infantis | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabricação de roupas de banho infantis seguras e confortáveis. Proteção UV, designs personalizados, preços de atacado.'
+
+# Hero section
+hero:
+  cta_text: 'Consulta'
+  cta_href: '/contact'
+  image_src: '/catalog/kids-swimwear-bg.webp'
+  image_alt: 'Fabricação de Roupas de Banho Infantis'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Nossa Missão'
+  paragraph1: 'Na TideLine Swimwear, sabemos que as roupas de banho infantis são uma categoria vibrante e em crescimento para varejistas e famílias jovens. A cada temporada, nossa equipe de design desenvolve coleções divertidas, confortáveis e duráveis - desde maiôs de uma peça brincalhões até shorts de banho esportivos - oferecendo aos atacadistas e proprietários de marcas opções versáteis para atender às necessidades de crianças ativas.'
+  whatsapp_link_text: 'Entre em contato conosco no WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experiência na Indústria de Roupas de Banho'
+    value: '10 anos +'
+  - label: 'Pedidos Atendidos'
+    value: '1.000.000+'
+
+# Product categories
+categories:
+  - name: 'Maiô Uma Peça Meninas'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-1.webp'
+    imageAlt: 'Coleção de Maiôs Uma Peça para Meninas'
+  - name: 'Shorts de Banho Meninos'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-5.webp'
+    imageAlt: 'Coleção de Shorts de Banho para Meninos'
+  - name: 'Roupas de Banho para Bebês'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-3.webp'
+    imageAlt: 'Coleção de Roupas de Banho para Bebês'
+  - name: 'Camisetas de Proteção'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-4.webp'
+    imageAlt: 'Coleção de Camisetas de Proteção Infantis'
+
+# Customization capabilities
+customization:
+  title: 'Capacidades de Personalização'
+  description: 'Roupas de banho totalmente personalizáveis - TideLine aceita todos os designs, tecidos, ferragens, logos e embalagens personalizados para dar vida à visão da sua marca.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Instalação de Fabricação'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalização de Estilo'
+      description: 'Dê vida a qualquer design de roupa de banho - escolha seu estilo perfeito e deixe-nos criá-lo para sua marca.'
+      link: '/contact'
+      cta_text: 'Consulta'
+    - name: 'Personalização de Tecido'
+      description: 'Escolha entre uma ampla gama de tecidos para criar roupas de banho confortáveis de usar e bonitas de ver.'
+      link: '/fabric'
+      cta_text: 'Tecido'
+    - name: 'Personalização de Ferragens'
+      description: 'Personalize cada detalhe - de fivelas e argolas a zíperes - nossas opções de ferragens elevam seu design.'
+      link: '/hardware'
+      cta_text: 'Ferragens'
+    - name: 'Personalização de Logo'
+      description: 'Torne-o verdadeiramente seu - adicione seu logo a cada peça para um visual de marca profissional.'
+    - name: 'Personalização de Embalagem'
+      description: 'Complete a experiência da sua marca com embalagens adaptadas ao seu estilo e visão.'
+    - name: 'Entre em Contato'
+      description: 'Pronto? Vamos transformar suas ideias de roupas de banho em realidade.'
+      link: '/contact'
+      cta_text: 'Entre em Contato'
+
+# Getting Started section
+getting_started:
+  title: 'Sua jornada de roupas de banho começa aqui'
+  description: 'Seja lançando sua primeira coleção ou expandindo sua marca, TideLine fornece soluções de roupas de banho personalizadas para atender às suas necessidades. Escolha seu caminho e comece.'
+  beginner_text: 'Começar como Iniciante'
+  beginner_href: '/startup'
+  pro_text: 'Comprador Experiente'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processo de Fabricação'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Perguntas Frequentes'
+  questions:
+    - id: 1
+      question: 'Qual é o melhor tecido para roupas de banho infantis?'
+      answer: 'Os melhores tecidos para roupas de banho infantis são aqueles que são macios, elásticos e duráveis, como misturas de nylon ou poliéster com spandex. Procure materiais que ofereçam proteção solar UPF 50+ e sejam resistentes ao cloro para maior durabilidade.'
+    - id: 2
+      question: 'Como escolho o tamanho certo para meu filho?'
+      answer: 'Para encontrar o tamanho certo, consulte a tabela de tamanhos da marca e meça o peito, cintura e quadris do seu filho. Se seu filho estiver entre tamanhos, opte pelo tamanho maior para garantir conforto e espaço para crescimento.'
+    - id: 3
+      question: 'Existem designs específicos de roupas de banho para bebês?'
+      answer: 'Sim, para bebês, considere roupas de banho com recursos adicionais como fraldas de natação embutidas, alças ajustáveis ou zíperes para troca fácil. Conjuntos de camisetas de proteção fornecem proteção solar extra e são populares entre os pais.'
+    - id: 4
+      question: 'Como cuido da roupa de banho do meu filho?'
+      answer: 'Enxágue a roupa de banho com água doce imediatamente após o uso para remover cloro ou sal. Lave à mão com detergente suave e deixe secar ao ar livre na horizontal. Evite torcer o tecido, lavar na máquina ou usar secadoras para manter sua elasticidade e cor.'
+    - id: 5
+      question: 'As roupas de banho infantis precisam de proteção UV?'
+      answer: 'Absolutamente. A pele das crianças é mais sensível aos raios UV, portanto, roupas de banho com proteção UPF 50+ ajudam a bloquear até 98% dos raios solares nocivos. Combine com protetor solar para cobertura completa.'
+    - id: 6
+      question: 'As roupas de banho para crianças podem ser usadas em piscinas e no mar?'
+      answer: 'Sim, mas roupas de banho expostas regularmente a cloro ou água salgada devem ser feitas de tecidos resistentes ao cloro e ao desbotamento para garantir durabilidade. Materiais de secagem rápida também são benéficos para uso no mar.'
+    - id: 7
+      question: 'Qual é a diferença entre um maiô e uma camiseta de proteção?'
+      answer: 'Um maiô é uma peça tradicional de uma ou duas peças projetada para natação, enquanto uma camiseta de proteção é uma parte superior feita de tecido elástico e protetor contra UV. As camisetas de proteção são frequentemente combinadas com shorts de banho ou partes inferiores e fornecem proteção solar extra, especialmente para esportes aquáticos ou exposição prolongada ao sol.'

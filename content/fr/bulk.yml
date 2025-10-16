@@ -1,0 +1,69 @@
+# Bulk Production Page Content
+title: "Une approche systématique de l'excellence en maillots de bain"
+description: 'Du concept à la réalité commerciale'
+
+seo:
+  title: 'Processus de production - Tideline'
+  description: 'Découvrez comment les maillots de bain Tideline se transforment du concept au produit fini grâce à un savoir-faire méticuleux'
+  keywords: 'fabrication de maillots de bain, production en masse, maillots de bain durables, usine de maillots de bain, processus de production, assurance qualité'
+  ogTitle: 'Processus de production - Tideline'
+  ogDescription: "Une approche systématique de l'excellence en maillots de bain du concept à la réalité commerciale"
+  ogType: 'website'
+  twitterCard: 'summary_large_image'
+
+hero:
+  image: '/bulkproduct.webp'
+
+intro:
+  text: 'Une fois que vous vous associez avec Tideline, vous pouvez assister au parcours collaboratif et axé sur les détails que vos designs entreprennent. Ce processus transparent, basé sur une communication claire et une exécution précise à chaque étape (du concept à la réalité commerciale), est conçu pour garantir que votre vision se réalise parfaitement dans la production à grande échelle.'
+
+process:
+  title: "Les piliers de l'excellence : étapes fondamentales du processus de fabrication Tideline"
+  steps:
+    - icon: 'fas fa-pencil-alt'
+      title: 'Conception et développement'
+      description: "Notre processus de conception fusionne les tendances esthétiques avec les données de performance, créant des styles testés pour >90% de satisfaction client sur l'ajustement. Nous exploitons le prototypage de conception 3D pour accélérer le développement, réduisant les cycles d'échantillonnage de 30% et garantissant que les styles sont à la fois commercialement viables et fonctionnellement supérieurs."
+
+    - icon: 'fas fa-ruler-combined'
+      title: 'Création de patrons et prototypage'
+      description: "Nous utilisons des patrons de précision numérique pour concevoir un ajustement impeccable dès le départ. Chaque prototype subit un test d'ajustement en 5 points sur divers types de corps, avec des ajustements effectués sur des zones clés comme le buste, la taille et les hanches. Ce processus rigoureux garantit un taux de cohérence de taille de 98% sur tous les lots de production."
+
+    - icon: 'fas fa-cut'
+      title: 'Approvisionnement en tissus et durabilité'
+      description: "Plus de 80% de nos tissus proviennent de moulins leaders soucieux de l'environnement. Tous les matériaux offrent une protection UPF et sont testés en laboratoire pour résister à l'exposition aux UV et au chlore sans dégradation significative."
+
+    - icon: 'fas fa-industry'
+      title: 'Fabrication et assurance qualité'
+      description: 'De la densité des points à la tension élastique, chaque détail est mesuré selon des normes strictes. Cela se traduit par un taux de défauts de produit inférieur à 0,5%, garantissant que votre marque reçoit des commandes en gros de qualité constamment élevée et prêtes pour le marché.'
+
+sustainability:
+  title: 'Notre engagement envers la durabilité'
+  description: "Nous croyons que les beaux maillots de bain ne devraient pas se faire au détriment de notre planète. C'est pourquoi la durabilité est tissée dans chaque aspect de notre processus de production."
+  features:
+    - icon: 'fas fa-leaf'
+      title: 'Matériaux écologiques'
+      description: 'Nous privilégions les tissus fabriqués à partir de matériaux recyclés et de sources durables. Notre emballage est 100% recyclable et nous explorons continuellement des matériaux innovants.'
+
+    - icon: 'fas fa-hands-helping'
+      title: 'Production éthique'
+      description: 'Nous nous associons avec des fabricants qui partagent notre engagement envers des pratiques de travail équitables. Nos artisans travaillent dans des environnements sûrs et reçoivent des salaires équitables.'
+
+    - icon: 'fas fa-recycle'
+      title: 'Réduction des déchets'
+      description: 'Grâce à une coupe de patrons efficace et à une planification de production, nous minimisons les déchets textiles. Tous les matériaux restants sont réutilisés ou recyclés dans la mesure du possible.'
+
+cta:
+  title: 'Explorez nos collections'
+  description: 'Soyez le premier à découvrir nos nouvelles collections de maillots de bain durables et recevez des mises à jour exclusives.'
+  form:
+    nameLabel: 'Prénom'
+    namePlaceholder: 'Votre prénom'
+    emailLabel: 'Adresse e-mail'
+    emailPlaceholder: 'votre.email@exemple.com'
+    messageLabel: 'Message'
+    messagePlaceholder: 'Veuillez décrire brièvement vos besoins...'
+    consentText: "J'accepte de recevoir des mises à jour de Tideline concernant les nouvelles collections et les initiatives de durabilité. Je peux me désinscrire à tout moment."
+    submitButton: 'Soumettre'
+    successMessage: 'Merci ! Nous vous avons ajouté à notre liste et vous enverrons des mises à jour sur nos dernières collections.'
+    browseText: 'Vous préférez parcourir maintenant ?'
+    browseLink: 'Voir nos collections actuelles'

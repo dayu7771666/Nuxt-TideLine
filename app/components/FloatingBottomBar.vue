@@ -103,22 +103,3 @@
     navigateTo('/bulkproduction#contact-form');
   };
 </script>
-
-<style scoped>
-  /* 确保悬浮条不会被其他元素遮挡 */
-  .fixed {
-    backdrop-filter: blur(8px);
-  }
-
-  /* 响应式调整 */
-  @media (max-width: 640px) {
-    .space-x-2 > * + * {
-      margin-left: 0.5rem;
-    }
-
-    /* 在小屏幕上隐藏文字，只显示图标 */
-    .hidden-mobile-text {
-      display: none;
-    }
-  }
-</style>

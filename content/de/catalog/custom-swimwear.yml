@@ -1,0 +1,125 @@
+title: 'Hersteller für Maßgeschneiderte Bademode'
+description: 'Mehr als ein Lieferant – Ihr Partner beim Aufbau Ihrer Bademode-Marke.'
+
+seo:
+  title: 'Hersteller für Maßgeschneiderte Bademode | TIDELINE SWIMWEAR'
+  description: 'Professionelle Herstellung maßgeschneiderter Bademode. Vom Design bis zur Produktion erwecken wir Ihre einzigartige Bademode-Vision mit Premium-Qualität und persönlichem Service zum Leben.'
+  keywords: 'maßgeschneiderter Bademode-Hersteller, Private-Label-Bademode, maßgeschneiderter Bikini-Hersteller, Bademode-Design-Services, OEM-Bademode, maßgeschneiderte Badeanzug-Produktion'
+  ogTitle: 'Hersteller für Maßgeschneiderte Bademode | TIDELINE SWIMWEAR'
+  ogDescription: 'Full-Service-Herstellung maßgeschneiderter Bademode. Design-Entwicklung, Schnittmustererstellung, Massenproduktion. Erwecken Sie Ihre Bademode-Vision zum Leben.'
+  ogType: 'website'
+  ogImage: '/catalog/custom-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Hersteller für Maßgeschneiderte Bademode | TIDELINE SWIMWEAR'
+  twitterDescription: 'Maßgeschneiderte Bademode-Herstellung vom Konzept bis zur Kreation. Design-Services, Schnittmustererstellung, Massenproduktion.'
+
+# Hero section
+hero:
+  cta_text: 'Starten Sie Ihr Individuelles Design'
+  cta_href: '/contact'
+  image_src: '/catalog/custom-swimwear-bg.webp'
+  image_alt: 'Maßgeschneiderte Bademode-Herstellung'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Unsere Mission'
+  paragraph1: 'Bei TideLine Swimwear sind wir darauf spezialisiert, Ihre einzigartige Bademode-Vision zum Leben zu erwecken. Unsere maßgeschneiderten Fertigungsdienstleistungen decken jeden Aspekt der Produktion ab – von ersten Designkonzepten bis zur finalen Verpackung – und stellen sicher, dass Ihre Marke mit unverwechselbarer, hochwertiger Bademode hervorsticht, die Ihren Stil und Ihre Werte perfekt widerspiegelt.'
+  whatsapp_link_text: 'Kontaktieren Sie uns auf WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Erfahrung in der Bademode-Industrie'
+    value: '10 Jahre +'
+  - label: 'Erfüllte Individuelle Bestellungen'
+    value: '50,000+'
+
+# Product categories
+categories:
+  - name: 'Maßgeschneiderte Bikinis'
+    href: '/category?type=custom&subtype=bikini'
+    imageSrc: '/custom-swimwear/custom-bikini-1.webp'
+    imageAlt: 'Maßgeschneiderte Bikini-Kollektion'
+  - name: 'Maßgeschneiderte Einteiler'
+    href: '/category?type=custom&subtype=one-piece'
+    imageSrc: '/custom-swimwear/custom-onepiece-1.webp'
+    imageAlt: 'Maßgeschneiderte Einteiler-Kollektion'
+  - name: 'Maßgeschneiderte Tankinis'
+    href: '/category?type=custom&subtype=tankini'
+    imageSrc: '/custom-swimwear/custom-tankini-1.webp'
+    imageAlt: 'Maßgeschneiderte Tankini-Kollektion'
+  - name: 'Maßgeschneiderte Strandüberwürfe'
+    href: '/category?type=custom&subtype=cover-up'
+    imageSrc: '/custom-swimwear/custom-coverup-1.webp'
+    imageAlt: 'Maßgeschneiderte Strandüberwurf-Kollektion'
+
+# Customization capabilities
+customization:
+  title: 'Umfassende Anpassungsdienste'
+  description: 'Vom Konzept bis zur Kreation – TideLine bietet umfassende maßgeschneiderte Bademode-Herstellungsdienstleistungen, die auf Ihre genauen Spezifikationen und Markenanforderungen zugeschnitten sind.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Produktionsanlage'
+  hero_image_width: '1000'
+  features:
+    - name: 'Design-Entwicklung'
+      description: 'Unser Design-Team arbeitet mit Ihnen zusammen, um einzigartige Bademode-Konzepte zu entwickeln, von Skizzen bis zu technischen Spezifikationen.'
+      link: '/contact'
+      cta_text: 'Design-Beratung'
+    - name: 'Schnittmustererstellung'
+      description: 'Professionelle Schnittmuster-Services, um perfekte Passform und Konstruktion für Ihre individuellen Designs zu gewährleisten.'
+      link: '/contact'
+      cta_text: 'Schnittmuster-Services'
+    - name: 'Stoffauswahl'
+      description: 'Wählen Sie aus unserer umfangreichen Stoffbibliothek oder beschaffen Sie spezifische Materialien, um Ihrer Design-Vision zu entsprechen.'
+      link: '/fabric'
+      cta_text: 'Stoffoptionen'
+    - name: 'Musterproduktion'
+      description: 'Hochwertige Muster werden produziert, um Design, Passform und Konstruktion vor der Massenproduktion zu validieren.'
+      link: '/contact'
+      cta_text: 'Musteranfrage'
+    - name: 'Massenproduktion'
+      description: 'Skalierbare Produktionskapazitäten von kleinen Chargen bis zu Großbestellungen mit konsistenter Qualitätskontrolle.'
+      link: '/contact'
+      cta_text: 'Produktionsangebot'
+    - name: 'Private Labeling'
+      description: 'Komplette Branding-Services einschließlich individueller Etiketten, Tags und Verpackungslösungen.'
+      link: '/contact'
+      cta_text: 'Branding-Services'
+
+# Getting Started section
+getting_started:
+  title: 'Starten Sie Ihre Maßgeschneiderte Bademode-Reise'
+  description: 'Bereit, Ihre einzigartige Bademode-Linie zu kreieren? Unser maßgeschneiderter Herstellungsprozess ist darauf ausgelegt, Marken in jeder Phase zu unterstützen, von Startup-Konzepten bis zu etablierten Kollektionen.'
+  beginner_text: 'Neu in der Maßgeschneiderten Herstellung'
+  beginner_href: '/startup'
+  pro_text: 'Erfahrener Markeninhaber'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Maßgeschneiderter Herstellungsprozess'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Häufig Gestellte Fragen'
+  questions:
+    - id: 1
+      question: 'Was ist die Mindestbestellmenge für maßgeschneiderte Bademode?'
+      answer: 'Unsere Mindestbestellmenge für maßgeschneiderte Bademode variiert je nach Komplexität und beginnt typischerweise bei 50-100 Stück pro Stil. Wir arbeiten mit Startups und etablierten Marken zusammen, um flexible Lösungen zu finden, die Ihrem Budget und Zeitplan entsprechen.'
+    - id: 2
+      question: 'Wie lange dauert der Entwicklungsprozess für maßgeschneiderte Bademode?'
+      answer: 'Der Zeitrahmen hängt von der Design-Komplexität und dem Anpassungsniveau ab. Im Allgemeinen dauern erste Muster 2-3 Wochen, wobei die Massenproduktion 4-6 Wochen nach Mustergenehmigung erfordert. Eilbestellungen können mit zusätzlicher Planung berücksichtigt werden.'
+    - id: 3
+      question: 'Können Sie beim Bademode-Design helfen, wenn ich nur ein Konzept habe?'
+      answer: 'Absolut! Unser Design-Team ist darauf spezialisiert, Konzepte in produktionsreife Designs zu verwandeln. Wir bieten Skizzierung, technisches Design, Schnittmustererstellung und Passformentwicklungsdienste, um Ihre Vision zum Leben zu erwecken.'
+    - id: 4
+      question: 'Welche Anpassungsoptionen sind für Stoffe und Materialien verfügbar?'
+      answer: 'Wir bieten umfangreiche Stoffanpassungen einschließlich Leistungsmaterialien, umweltfreundlicher Optionen, Drucke, Texturen und Spezialveredelungen. Sie können aus unserer Stoffbibliothek wählen oder spezifische Materialien beschaffen, um Ihren Markenanforderungen zu entsprechen.'
+    - id: 5
+      question: 'Bieten Sie Design- und technische Unterstützung während des gesamten Prozesses?'
+      answer: 'Ja, unser erfahrenes Team bietet umfassende Unterstützung einschließlich Design-Beratung, technischer Anleitung, Passformoptimierung und Qualitätssicherung während des gesamten Entwicklungs- und Produktionsprozesses.'
+    - id: 6
+      question: 'Können Sie Bademode mit besonderen Merkmalen oder Leistungsanforderungen herstellen?'
+      answer: 'Sicherlich! Wir sind auf individuelle Merkmale spezialisiert, einschließlich UV-Schutz, Chlorbeständigkeit, Kompressionszonen, herausnehmbarer Polsterung, verstellbarer Träger und anderer Leistungs- oder ästhetischer Verbesserungen basierend auf Ihren Spezifikationen.'
+    - id: 7
+      question: 'Welche Kosten sind mit der Herstellung maßgeschneiderter Bademode verbunden?'
+      answer: 'Die Kosten variieren je nach Design-Komplexität, Materialien, Mengen und Anpassungsniveau. Wir bieten detaillierte Angebote einschließlich Entwicklungsgebühren, Musterkosten und Produktionspreisen. Kontaktieren Sie uns für eine personalisierte Schätzung basierend auf Ihren spezifischen Anforderungen.'

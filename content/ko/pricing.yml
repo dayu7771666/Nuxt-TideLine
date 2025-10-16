@@ -1,0 +1,202 @@
+title: 'B2B 제조 가격 가이드'
+description: '신흥 수영복 브랜드를 위한 투명하고 유연한 가격. 단 60개로 컬렉션을 출시하세요.'
+
+seo:
+  title: 'B2B 수영복 제조 가격 - 투명하고 유연함 | Tideline'
+  description: '투명한 B2B 수영복 제조 가격. 단 60개로 시작하세요. 유연한 주문 옵션으로 수영복 브랜드를 위한 맞춤 견적을 받으세요.'
+  keywords: '수영복 제조 가격, B2B 수영복 비용, 수영복 MOQ, 맞춤 수영복 가격, 수영복 생산 비용, 수영복 도매 가격, 수영복 샘플링 비용'
+  ogTitle: 'B2B 수영복 제조 가격 - 투명하고 유연함 | Tideline'
+  ogDescription: '투명한 B2B 수영복 제조 가격. 단 60개로 시작하세요. 수영복 브랜드를 위한 맞춤 견적을 받으세요.'
+  ogType: 'website'
+  ogImage: '/img/pricing-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'B2B 수영복 제조 가격 | Tideline'
+  twitterDescription: '수영복 브랜드를 위한 투명한 가격. 단 60개로 시작하세요. 유연한 주문 옵션 이용 가능.'
+
+hero:
+  image: '/img/pricing-hero.webp'
+
+initialCosts:
+  title: '일회성 초기 비용'
+  description: '제품 개발 및 샘플링을 위한 초기 투자'
+  cards:
+    - id: 1
+      icon: '/pricing/sampling.avif'
+      title: '개발 및 샘플링'
+      items:
+        - name: '디자인 개발 서비스'
+          cost: '$69 / 스타일'
+        - name: '전체 샘플 세트'
+          cost: '$50 - $200 / 스타일'
+      note: '대량 주문이 MOQ를 충족하면 샘플 비용의 50%가 환불됩니다'
+    - id: 2
+      icon: '/pricing/tooling.avif'
+      title: '툴링 및 금형 비용'
+      items:
+        - name: '표준 데코 키트'
+          cost: '$50 / 요소'
+        - name: '위생 라이너 금형'
+          cost: '$30 / 스타일'
+        - name: '케어 라벨 금형'
+          cost: '$30 - $50 / 스타일'
+    - id: 3
+      icon: '/pricing/fabric.avif'
+      title: '원단 및 스와치'
+      items:
+        - name: '컬러 카드 / 소형 스와치'
+          cost: '무료'
+        - name: '디지털 프린트 A4 스와치'
+          cost: '무료'
+        - name: '1+ 미터 원단 샘플'
+          cost: '$10 / 미터'
+      note: '원단 샘플의 배송비는 포함되지 않습니다'
+
+process:
+  title: '제조 프로세스'
+  description: '개념에서 배송까지 간단한 5단계 프로세스'
+  steps:
+    - id: 1
+      title: '상담 및 디자인'
+      description: '비전을 논의하고 디자인 가이드를 제공합니다'
+    - id: 2
+      title: '샘플 개발'
+      description: '승인을 위한 실물 샘플 제작'
+    - id: 3
+      title: '수정 및 최종화'
+      description: '피드백을 바탕으로 샘플 개선'
+    - id: 4
+      title: '대량 생산'
+      description: '전체 주문 제조'
+    - id: 5
+      title: '품질 검사 및 배송'
+      description: '모든 조각을 검사하고 배송 준비'
+
+productionCosts:
+  title: '단위당 생산 비용'
+  description: '대량 주문의 각 조각에 적용되는 비용'
+  cards:
+    - id: 1
+      icon: '/pricing/base.webp'
+      title: '기본 제품 비용'
+      items:
+        - name: '디자인 복잡도'
+          cost: '스타일에 따라 다름'
+        - name: '원단 선택'
+          cost: '프리미엄 vs. 표준'
+        - name: '주문 수량'
+          cost: '볼륨 할인 적용'
+        - name: '맞춤 vs. 카탈로그'
+          cost: '맞춤 디자인 프리미엄'
+      note: '특정 요구 사항에 따른 자세한 가격은 문의하세요'
+    - id: 2
+      icon: '/pricing/brand.webp'
+      title: '브랜딩 및 포장'
+      items:
+        - name: '케어 라벨'
+          cost: '~ $0.15 / 단위'
+        - name: '위생 라이너'
+          cost: '~ $0.15 / 단위'
+        - name: '행 태그'
+          cost: '~ $0.15 / 단위'
+        - name: '선물 상자 / 포장'
+          cost: '~ $1.00 / 단위'
+        - name: '특수 트림 및 액세서리'
+          cost: '~ $0.10 - $0.70 / 단위'
+      note: '툴링 비용은 단위당 가격에 흡수됩니다'
+
+flexibility:
+  title: '유연한 주문 옵션'
+  description: '여러 유연한 옵션으로 비즈니스 요구에 적응'
+  items:
+    - id: 1
+      icon: 'heroicons:cube'
+      title: '혼합 최소 주문'
+      description: '스타일, 색상 및 사이즈 전체에서 총 60개만으로 시작하세요. 단일 품목의 대량 주문이 필요하지 않습니다.'
+    - id: 2
+      icon: 'heroicons:currency-dollar'
+      title: '샘플 비용 크레딧'
+      description: '대량 주문 시 샘플 비용의 50%를 환급받으세요. 귀하의 성공에 투자합니다.'
+    - id: 3
+      icon: 'heroicons:wrench-screwdriver'
+      title: '숨겨진 툴링 비용 없음'
+      description: '간편함과 투명성을 위해 금형 비용을 단위당 가격에 흡수합니다.'
+    - id: 4
+      icon: 'heroicons:chart-bar-square'
+      title: '확장 가능한 생산'
+      description: '비즈니스 성장에 따라 수량을 쉽게 늘리세요. 60개에서 60,000개까지의 주문을 수용합니다.'
+    - id: 5
+      icon: 'heroicons:swatch'
+      title: '맞춤 색상 매칭'
+      description: '최소값 없이 정밀한 색상 매칭. 큰 약속 없이 고유한 브랜드 색상을 만드세요.'
+    - id: 6
+      icon: 'heroicons:truck'
+      title: '유연한 배송'
+      description: '선호하는 배송 방법과 일정을 선택하세요. 전 세계 주요 배송업체와 협력합니다.'
+
+budgetExample:
+  title: '예산 예시'
+  description: '총 100개의 2가지 스타일 컬렉션 출시'
+  chartData:
+    - name: '초기 개발'
+      amount: 388
+      percentage: 17
+      color: 'bg-gradient-to-r from-blue-600 to-blue-400'
+    - name: '대량 생산'
+      amount: 1800
+      percentage: 81
+      color: 'bg-gradient-to-r from-orange-500 to-orange-400'
+    - name: '브랜딩'
+      amount: 30
+      percentage: 2
+      color: 'bg-gradient-to-r from-green-500 to-green-400'
+  tableData:
+    - stage: '초기 개발'
+      item: '디자인 개발 ($69 × 2 스타일)'
+      cost: '$138'
+      rowspan: 3
+    - item: '샘플 세트 ($125 × 2 스타일)'
+      cost: '$250'
+    - item: '소계'
+      cost: '$388'
+      isSubtotal: true
+    - stage: '대량 생산'
+      item: '기본 제품 비용 ($18 × 100 단위)'
+      cost: '$1,800'
+      rowspan: 3
+    - item: '브랜딩 (행태그 + 케어 라벨)'
+      cost: '$30'
+    - item: '소계'
+      cost: '$1,830'
+      isSubtotal: true
+    - stage: ''
+      item: '총 예상 투자'
+      cost: '$2,218'
+      isSubtotal: true
+  note: '참고: 개발 및 샘플 비용은 일회성 비용이므로 후속 주문은 훨씬 낮습니다.'
+
+cta:
+  title: '수영복 라인 출시 준비가 되셨나요?'
+  description: '우리 팀은 브랜드에 맞춘 투명한 가격과 유연한 옵션으로 디자인을 실현하는 데 도움을 드릴 준비가 되어 있습니다.'
+  buttons:
+    - text: '맞춤 견적 요청'
+      primary: true
+
+contact:
+  title: '맞춤 견적 받기'
+  subtitle: '프로젝트에 대해 알려주시면 자세한 가격을 제공해 드리겠습니다'
+  formLabels:
+    nameLabel: '전체 이름'
+    namePlaceholder: '전체 이름을 입력하세요'
+    emailLabel: '이메일 주소'
+    emailPlaceholder: '이메일 주소를 입력하세요'
+    messageLabel: '프로젝트 세부정보'
+    messagePlaceholder: '수영복 라인 프로젝트, 수량, 일정 및 특정 요구 사항에 대해 알려주세요...'
+    submitButton: '견적 요청'
+    successMessage: '감사합니다! 24시간 이내에 자세한 견적을 보내드리겠습니다.'
+  guideTitle: '메시지에 포함할 내용:'
+  guideItems:
+    - '계획 중인 스타일 수'
+    - '스타일당 예상 수량'
+    - '목표 출시 일정'
+    - '특정 디자인 요구 사항'
+    - '예산 범위 (공유하셔도 편하시면)'

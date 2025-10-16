@@ -1,0 +1,38 @@
+title: 'Perguntas frequentes'
+description: 'Encontre respostas para perguntas comuns sobre nossa fabricação de roupas de banho, serviços de amostragem e produção. Obtenha as informações necessárias para tomar decisões informadas.'
+
+seo:
+  title: 'FAQ - Perguntas frequentes | Tideline Fabricação de roupas de banho'
+  description: 'Obtenha respostas para perguntas comuns sobre fabricação de roupas de banho, serviços de amostragem, preços, prazos de entrega e processos de produção.'
+  keywords: 'FAQ fabricação roupas de banho, perguntas sobre amostras, processo de produção, prazo de entrega, preços roupas de banho, pacote técnico, fornecimento de tecidos'
+  ogTitle: 'FAQ - Suas perguntas respondidas | Tideline'
+  ogDescription: 'Encontre respostas detalhadas sobre nossos serviços de fabricação de roupas de banho, desde amostragem até produção em massa.'
+  ogType: 'website'
+  ogImage: '/faq-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'FAQ - Perguntas sobre fabricação de roupas de banho | Tideline'
+  twitterDescription: 'Obtenha respostas para perguntas comuns sobre nossa fabricação e serviços de amostragem de roupas de banho.'
+
+faq:
+  title: 'Perguntas comuns sobre nossos serviços'
+  items:
+    - question: 'O que está tipicamente incluído no seu serviço de amostragem e qual é o custo?'
+      answer: 'Nosso serviço de amostragem é um pacote abrangente que inclui engenharia de moldes, fornecimento de tecidos e acabamentos aprovados, construção de um protótipo físico e análise interna de ajuste. O custo é específico do projeto e varia com base na complexidade do design, materiais escolhidos e detalhes de acabamento. Fornecemos uma cotação transparente após nossa consulta inicial para alinhar sobre o escopo.'
+    - question: 'Qual é o prazo de entrega típico para uma amostra?'
+      answer: 'O cronograma padrão para um primeiro protótipo é de 2-3 semanas. Este período inclui fornecimento de materiais, desenvolvimento de moldes e construção meticulosa. Podemos discutir opções aceleradas para projetos urgentes, e os cronogramas são sempre confirmados antecipadamente.'
+    - question: 'Preciso fornecer um pacote técnico completo ou vocês podem trabalhar a partir do meu conceito de design?'
+      answer: 'Podemos trabalhar com ambos. Um pacote técnico detalhado permite o processo mais preciso e eficiente. No entanto, se você tem um conceito de design ou inspiração, nossa equipe pode ajudá-lo a desenvolvê-lo em uma especificação pronta para produção, incluindo recomendações de ajuste, tecido e construção.'
+    - question: 'Como vocês lidam com ajuste e tamanhos para amostras?'
+      answer: 'Começamos alinhando em um bloco de ajuste base e regras de graduação específicas para seu mercado-alvo. A primeira amostra é construída de acordo com essas especificações precisas e é avaliada internamente em um manequim padrão. Recomendamos fortemente que você também conduza sua própria sessão de ajuste em um modelo ao vivo que corresponda às medidas do seu cliente-alvo.'
+    - question: 'Vocês podem fornecer tecidos específicos ou sustentáveis para minha amostra?'
+      answer: 'Absolutamente. Temos relacionamentos estabelecidos com fábricas que oferecem uma ampla gama de tecidos de desempenho e sustentáveis (por exemplo, nylon reciclado, materiais certificados OEKO-TEX®). Vamos curar opções com base em seus objetivos estéticos, de desempenho e sustentabilidade e fornecer amostras para sua aprovação.'
+    - question: 'O que acontece se a amostra requerer ajustes após a entrega?'
+      answer: 'A iteração é uma parte central do processo de amostragem. Incluímos uma rodada de consolidação de feedback detalhado depois que você recebe sua primeira amostra. Analisaremos suas observações sobre ajuste e construção e apresentaremos um plano claro para revisões, incluindo quaisquer custos associados e cronograma para um segundo protótipo, se necessário.'
+    - question: 'Como o processo de amostragem transita para a produção em massa?'
+      answer: 'A amostra final aprovada serve como o "padrão ouro" para a produção. Usamos os moldes refinados, materiais confirmados e detalhes de construção da fase de amostragem para criar um roteiro de produção perfeito, fornecendo uma cotação firme para seu pedido em massa com base em suas quantidades necessárias.'
+
+cta:
+  title: 'Ainda tem perguntas?'
+  description: 'Nossa equipe está aqui para ajudar. Entre em contato conosco hoje para respostas personalizadas e orientação especializada sobre seu projeto de fabricação de roupas de banho.'
+  button: 'Contate nossos especialistas'
+  link: '/contact'

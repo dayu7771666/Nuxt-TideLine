@@ -1,0 +1,69 @@
+# Bulk Production Page Content
+title: "Un approccio sistematico all'eccellenza nei costumi da bagno"
+description: 'Dal concetto alla realtà commerciale'
+
+seo:
+  title: 'Processo di produzione - Tideline'
+  description: 'Scopri come i costumi da bagno Tideline si trasformano dal concetto al prodotto finito attraverso una lavorazione meticolosa'
+  keywords: 'produzione di costumi da bagno, produzione di massa, costumi da bagno sostenibili, fabbrica di costumi da bagno, processo di produzione, garanzia di qualità'
+  ogTitle: 'Processo di produzione - Tideline'
+  ogDescription: "Un approccio sistematico all'eccellenza nei costumi da bagno dal concetto alla realtà commerciale"
+  ogType: 'website'
+  twitterCard: 'summary_large_image'
+
+hero:
+  image: '/bulkproduct.webp'
+
+intro:
+  text: "Una volta che ti associ con Tideline, puoi assistere al percorso collaborativo e orientato ai dettagli che i tuoi design intraprendono. Questo processo trasparente, basato su una comunicazione chiara e un'esecuzione precisa in ogni fase (dal concetto alla realtà commerciale), è progettato per garantire che la tua visione sia perfettamente realizzata nella produzione su larga scala."
+
+process:
+  title: "I pilastri dell'eccellenza: fasi fondamentali nel processo di produzione Tideline"
+  steps:
+    - icon: 'fas fa-pencil-alt'
+      title: 'Design e sviluppo'
+      description: 'Il nostro processo di design fonde le tendenze estetiche con i dati sulle prestazioni, creando stili testati per >90% di soddisfazione del cliente sulla vestibilità. Sfruttiamo la prototipazione di design 3D per accelerare lo sviluppo, riducendo i cicli di campionamento del 30% e garantendo che gli stili siano commercialmente validi e funzionalmente superiori.'
+
+    - icon: 'fas fa-ruler-combined'
+      title: 'Creazione di modelli e prototipazione'
+      description: "Utilizziamo modelli di precisione digitale per progettare una vestibilità impeccabile fin dall'inizio. Ogni prototipo viene sottoposto a un test di vestibilità in 5 punti su vari tipi di corpo, con regolazioni effettuate su aree chiave come il busto, la vita e i fianchi. Questo processo rigoroso garantisce un tasso di coerenza delle dimensioni del 98% su tutti i lotti di produzione."
+
+    - icon: 'fas fa-cut'
+      title: 'Approvvigionamento tessuti e sostenibilità'
+      description: "Oltre l'80% dei nostri tessuti proviene da filature leader attente all'ambiente. Tutti i materiali offrono protezione UPF e sono testati in laboratorio per resistere all'esposizione ai raggi UV e al cloro senza degrado significativo."
+
+    - icon: 'fas fa-industry'
+      title: 'Produzione e garanzia di qualità'
+      description: "Dalla densità dei punti alla tensione elastica, ogni dettaglio è misurato secondo standard rigorosi. Ciò si traduce in un tasso di difetti del prodotto inferiore allo 0,5%, garantendo che il tuo marchio riceva ordini all'ingrosso costantemente di alta qualità e pronti per il mercato."
+
+sustainability:
+  title: 'Il nostro impegno per la sostenibilità'
+  description: 'Crediamo che i bellissimi costumi da bagno non dovrebbero costare il nostro pianeta. Ecco perché la sostenibilità è intrecciata in ogni aspetto del nostro processo produttivo.'
+  features:
+    - icon: 'fas fa-leaf'
+      title: 'Materiali ecologici'
+      description: 'Diamo priorità ai tessuti realizzati con materiali riciclati e fonti sostenibili. Il nostro imballaggio è riciclabile al 100% e stiamo continuamente esplorando materiali innovativi.'
+
+    - icon: 'fas fa-hands-helping'
+      title: 'Produzione etica'
+      description: 'Collaboriamo con produttori che condividono il nostro impegno per pratiche lavorative eque. I nostri artigiani lavorano in ambienti sicuri e ricevono salari equi.'
+
+    - icon: 'fas fa-recycle'
+      title: 'Riduzione dei rifiuti'
+      description: 'Attraverso un taglio efficiente dei modelli e una pianificazione della produzione, riduciamo al minimo gli scarti tessili. Eventuali materiali rimanenti vengono riutilizzati o riciclati quando possibile.'
+
+cta:
+  title: 'Esplora le nostre collezioni'
+  description: 'Sii il primo a scoprire le nostre nuove collezioni di costumi da bagno sostenibili e ricevi aggiornamenti esclusivi.'
+  form:
+    nameLabel: 'Nome'
+    namePlaceholder: 'Il tuo nome'
+    emailLabel: 'Indirizzo email'
+    emailPlaceholder: 'tua.email@esempio.com'
+    messageLabel: 'Messaggio'
+    messagePlaceholder: 'Si prega di descrivere brevemente i vostri requisiti...'
+    consentText: "Accetto di ricevere aggiornamenti da Tideline su nuove collezioni e iniziative di sostenibilità. Posso annullare l'iscrizione in qualsiasi momento."
+    submitButton: 'Invia'
+    successMessage: 'Grazie! Ti abbiamo aggiunto alla nostra lista e ti invieremo aggiornamenti sulle nostre ultime collezioni.'
+    browseText: 'Preferisci sfogliare ora?'
+    browseLink: 'Visualizza le nostre collezioni attuali'

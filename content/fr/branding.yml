@@ -1,0 +1,193 @@
+title: 'Étiquettes de marque personnalisées et emballage'
+description: "Élevez votre marque de maillots de bain avec des étiquettes personnalisées premium et des solutions d'emballage écologiques. De l'élégance brodée aux matériaux durables, nous donnons vie à votre vision de marque."
+
+seo:
+  title: 'Étiquettes de marque personnalisées et emballage | Tideline Swimwear'
+  description: "Étiquettes personnalisées premium et solutions d'emballage écologiques pour les marques de maillots de bain. Choisissez parmi des étiquettes brodées, imprimées, tissées, PVC, cuir et plus encore. Options d'emballage durable disponibles."
+  keywords: 'étiquettes personnalisées, branding de maillots de bain, étiquettes brodées, emballage écologique, emballage durable, identité de marque, étiquettes tissées, étiquettes PVC, étiquettes cuir'
+  ogTitle: 'Étiquettes de marque personnalisées et emballage | Tideline Swimwear'
+  ogDescription: "Élevez votre marque de maillots de bain avec des étiquettes personnalisées premium et des solutions d'emballage durables."
+  ogType: 'website'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Étiquettes de marque personnalisées et emballage | Tideline Swimwear'
+  twitterDescription: 'Étiquettes personnalisées premium et emballage écologique pour les marques de maillots de bain.'
+
+hero:
+  image: '/sampling.webp'
+  alt: 'Étiquettes de marque personnalisées et emballage'
+
+introduction:
+  title: 'Pourquoi le branding personnalisé est important'
+  description: 'Votre étiquette et votre emballage sont les premiers points de contact avec vos clients. Faites-les compter avec nos solutions de branding complètes qui combinent qualité, durabilité et style.'
+  features:
+    - title: 'Identité de marque'
+      description: 'Créez une impression durable avec des étiquettes personnalisées qui reflètent la personnalité unique de votre marque'
+      icon: 'sparkles'
+      gradient: 'blue'
+    - title: 'Qualité premium'
+      description: 'Étiquettes durables et longue durée qui conservent leur apparence même après plusieurs lavages'
+      icon: 'shield'
+      gradient: 'green'
+    - title: 'Écologique'
+      description: "Matériaux et processus durables qui s'alignent sur les valeurs environnementales modernes"
+      icon: 'globe'
+      gradient: 'purple'
+
+labels:
+  title: "10 options d'étiquettes premium"
+  description: "Choisissez parmi notre gamme diversifiée de solutions d'étiquetage, chacune conçue pour des besoins spécifiques de marque et des segments de marché"
+  types:
+    - id: 1
+      name: 'Étiquettes brodées'
+      icon: 'scissors'
+      gradient: 'purple'
+      technology: 'Technique de broderie à la machine ou à la main pour coudre des noms de marque ou des logos sur le tissu.'
+      advantages: 'Haute durabilité, texture premium, parfait pour les marques de maillots de bain haut de gamme.'
+      bestFor: "Marques de luxe et premium qui mettent l'accent sur la qualité."
+
+    - id: 2
+      name: 'Étiquettes imprimées'
+      icon: 'printer'
+      gradient: 'blue'
+      technology: "Méthodes de sérigraphie, de transfert thermique ou d'impression UV."
+      advantages: 'Rentable, prend en charge les designs complexes, idéal pour la production en masse.'
+      bestFor: 'Marques de maillots de bain de milieu de gamme ou de marché de masse.'
+
+    - id: 3
+      name: 'Étiquettes de transfert thermique'
+      icon: 'fire'
+      gradient: 'orange'
+      technology: 'La technologie de presse à chaud transfère les designs sur les étiquettes, généralement sur du polyester ou du nylon.'
+      advantages: 'Résistant à la décoloration, toucher doux et confortable.'
+      bestFor: 'Maillots de bain athlétiques et fonctionnels légers.'
+
+    - id: 4
+      name: 'Étiquettes tissées'
+      icon: 'swatch'
+      gradient: 'indigo'
+      technology: "La machine à tisser intègre les logos de marque directement dans les fibres de l'étiquette en utilisant du nylon ou du polyester."
+      advantages: 'Haute qualité, durable, sensation premium.'
+      bestFor: 'Marques haut de gamme ou maillots de bain à usage prolongé.'
+
+    - id: 5
+      name: 'Étiquettes PVC'
+      icon: 'cube'
+      gradient: 'cyan'
+      technology: 'Étiquettes en plastique PVC moulé avec surface pulvérisée ou imprimée.'
+      advantages: "Résistant à l'eau, résistant à l'humidité, apparence moderne et à la mode."
+      bestFor: 'Marques jeunes et tendance, en particulier les maillots de bain de plein air ou athlétiques.'
+
+    - id: 6
+      name: 'Étiquettes en cuir'
+      icon: 'star'
+      gradient: 'amber'
+      technology: 'Cuir véritable ou synthétique avec logos gaufrés ou marqués.'
+      advantages: 'Sensation luxueuse et haut de gamme avec un fort impact visuel.'
+      bestFor: 'Marques de luxe cherchant à élever le prestige de la marque.'
+
+    - id: 7
+      name: 'Étiquettes en papier'
+      icon: 'document'
+      gradient: 'green'
+      technology: "Papier ou carton écologique avec techniques d'impression (estampage à chaud, sérigraphie)."
+      advantages: "Faible coût, production de masse facile, respectueux de l'environnement."
+      bestFor: "Marques de maillots de bain soucieuses du budget ou axées sur l'écologie."
+
+    - id: 8
+      name: 'Design sans étiquette'
+      icon: 'heart'
+      gradient: 'pink'
+      technology: "Le transfert thermique ou la broderie imprime les informations de marque directement à l'intérieur du vêtement, sans étiquette physique."
+      advantages: 'Confort amélioré, aucune irritation de la peau, idéal pour les peaux sensibles.'
+      bestFor: 'Marques athlétiques et maillots de bain axés sur le confort.'
+
+    - id: 9
+      name: 'Étiquettes découpées au laser'
+      icon: 'bolt'
+      gradient: 'violet'
+      technology: 'La découpe laser crée des motifs complexes sur le cuir, le tissu ou les matériaux synthétiques.'
+      advantages: 'Précis, efficace, capable de designs complexes.'
+      bestFor: 'Marques modernes avec attention aux détails, maillots de bain haut de gamme.'
+
+    - id: 10
+      name: 'Étiquettes réfléchissantes'
+      icon: 'lightbulb'
+      gradient: 'yellow'
+      technology: 'Les matériaux réfléchissants améliorent la visibilité et la sécurité de la marque.'
+      advantages: 'Améliore la sécurité nocturne, ajoute une touche à la mode.'
+      bestFor: 'Marques de maillots de bain athlétiques et de plein air privilégiant la fonctionnalité.'
+
+packaging:
+  badge: 'Choix durable'
+  title: "Solutions d'emballage écologiques"
+  description: "Protégez vos produits et la planète avec nos options d'emballage durable. Fabriqués à partir de matériaux recyclés et biodégradables qui reflètent l'engagement environnemental de votre marque."
+
+  features:
+    - title: '100% matériaux recyclés'
+      description: "Nos sacs d'emballage sont fabriqués à partir de plastiques recyclés post-consommation, réduisant les déchets et l'impact environnemental."
+      icon: 'arrowPath'
+      gradient: 'green'
+
+    - title: 'Options biodégradables'
+      description: "Choisissez parmi des matériaux compostables qui se décomposent naturellement sans nuire à l'environnement."
+      icon: 'checkCircle'
+      gradient: 'emerald'
+
+    - title: 'Expédition neutre en carbone'
+      description: "Notre emballage est conçu pour minimiser le poids et le volume d'expédition, réduisant les émissions de carbone."
+      icon: 'globe'
+      gradient: 'teal'
+
+    - title: 'Papier certifié FSC'
+      description: 'Tous les matériaux papier proviennent de forêts gérées de manière responsable avec certification FSC.'
+      icon: 'shield'
+      gradient: 'green'
+
+    - title: 'Branding personnalisé'
+      description: "Entièrement personnalisable avec votre logo et vos couleurs de marque en utilisant des encres et des méthodes d'impression écologiques."
+      icon: 'sparkles'
+      gradient: 'emerald'
+
+    - title: 'Qualité premium'
+      description: 'Écologique ne signifie pas compromettre la qualité. Nos sacs sont durables, imperméables et protègent vos produits.'
+      icon: 'checkBadge'
+      gradient: 'teal'
+
+  types:
+    - title: 'Enveloppes poly recyclées'
+      description: "Sacs résistants à l'eau et aux déchirures fabriqués à partir de 100% de plastique recyclé. Disponibles en plusieurs tailles avec impression personnalisée."
+      icon: 'archive'
+      gradient: 'green'
+
+    - title: 'Sacs en papier Kraft'
+      description: "Sacs en papier biodégradables avec poignées renforcées. Parfaits pour l'emballage en magasin et de détail."
+      icon: 'document'
+      gradient: 'emerald'
+
+    - title: 'Enveloppes compostables'
+      description: 'Emballage à base de plantes qui se décompose complètement dans les installations de compostage industriel en 180 jours.'
+      icon: 'sparkles'
+      gradient: 'teal'
+
+    - title: 'Sacs en tissu réutilisables'
+      description: 'Sacs premium en coton ou tissu recyclé que les clients peuvent réutiliser, étendant la portée de votre marque.'
+      icon: 'arrowPath'
+      gradient: 'cyan'
+
+  impact:
+    title: 'Créez un impact positif'
+    description: 'En choisissant notre emballage écologique, vous ne protégez pas seulement vos produits - vous protégez la planète et montrez à vos clients que la durabilité compte.'
+    stats:
+      - value: '100%'
+        label: 'Recyclable ou compostable'
+      - value: '-60%'
+        label: 'Émissions de carbone'
+      - value: '0'
+        label: 'Plastiques vierges utilisés'
+
+cta:
+  title: 'Prêt à élever votre marque ?'
+  description: "Contactez-nous aujourd'hui pour discuter de vos besoins en étiquettes et emballages personnalisés. Notre équipe vous aidera à créer la solution de branding parfaite qui reflète votre identité unique."
+  button: 'Commencer'
+  link: '/contact'
+  variant: 'blue'

@@ -1,0 +1,87 @@
+title: 'Soluções de roupas de banho por atacado para marcas estabelecidas e emergentes'
+description: 'Na TideLine Swimwear, somos especializados em fornecer soluções de roupas de banho por atacado de serviço completo adaptadas para marcas independentes, marcas de designer e empresas globais de roupas de banho. Seja expandindo sua coleção ou lançando uma linha premium, nossa experiência em fabricação OEM e ODM, previsão de tendências e desenvolvimento de produtos garante que sua marca fique à frente.'
+
+seo:
+  title: 'Fabricante premium de roupas de banho para marcas | Tideline'
+  description: 'Faça parceria com a TideLine Swimwear para fabricação de roupas de banho de alta qualidade e escalável. Confiável por marcas globais. OEM e ODM, designs personalizados, prazos de entrega rápidos.'
+  keywords: 'fabricante de roupas de banho, roupas de banho por atacado, OEM roupas de banho, ODM roupas de banho, fabricação de marcas, produção personalizada de roupas de banho, fábrica de roupas de banho, roupas de banho de marca própria'
+  ogTitle: 'Fabricante premium de roupas de banho para marcas | Tideline'
+  ogDescription: 'Faça parceria com a TideLine Swimwear para fabricação de roupas de banho de alta qualidade e escalável. Confiável por marcas globais em todo o mundo.'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricante premium de roupas de banho para marcas | Tideline'
+  twitterDescription: 'Fabricação de roupas de banho de alta qualidade e escalável para marcas estabelecidas e emergentes. Serviços OEM e ODM.'
+
+hero:
+  badge: Fabricação premium de roupas de banho
+  subtitle: Fabricação premium. Serviços personalizados. Confiável por marcas em todo o mundo.
+
+why_choose:
+  title: Por que as marcas escolhem TideLine Swimwear
+  items:
+    - id: 1
+      title: Experiência comprovada com marcas globais de roupas de banho
+      description: Colaboramos com dezenas de marcas estabelecidas e emergentes de roupas de banho nos EUA, Europa e Austrália. Nossos clientes variam de casas de moda de alta gama a marcas de nicho sustentáveis, todos buscando a mesma coisa - qualidade, confiabilidade e flexibilidade.
+    - id: 2
+      title: Serviço completo do conceito à entrega
+      description: Nossa equipe apoia você em cada etapa - Assistência de design e desenvolvimento de pacote técnico, Fornecimento de tecidos incluindo materiais ecológicos e de luxo, Prototipagem e produção de amostras, Fabricação em massa com MOQs flexíveis, Controle de qualidade e embalagem, Coordenação logística e envio global.
+    - id: 3
+      title: Personalização encontra escalabilidade
+      description: De cortes exclusivos a estampas exclusivas, damos vida à sua visão. Seja necessário 50 ou 5.000 peças, oferecemos produção escalável sem comprometer a qualidade.
+
+what_sets_apart:
+  title: O que nos diferencia
+  features:
+    - icon: 🧵
+      name: Artesanato especializado
+      benefit: Mais de 10 anos de experiência em fabricação de roupas de banho premium
+    - icon: 🌍
+      name: Padrões de qualidade globais
+      benefit: Produção certificada ISO e processos rigorosos de controle de qualidade
+    - icon: ♻️
+      name: Opções sustentáveis
+      benefit: Tecidos reciclados, embalagens biodegradáveis e fornecimento ético
+    - icon: 🔄
+      name: Amostragem rápida
+      benefit: Primeiras amostras prontas em 7-10 dias
+    - icon: 📦
+      name: Prazos de entrega confiáveis
+      benefit: Tempo médio de produção 15-25 dias
+    - icon: 💬
+      name: Suporte dedicado
+      benefit: Gerentes de projeto que falam inglês com experiência em desenvolvimento de marcas
+
+success_stories:
+  title: Histórias de sucesso de marcas
+  testimonials:
+    - id: 1
+      quote: A TideLine nos ajudou a expandir para o mercado da UE com uma linha cápsula de luxo. Sua atenção aos detalhes e MOQ flexível tornaram tudo mais fácil.
+      author: Diretor Criativo, Marca premium de roupas de banho com sede nos EUA
+      avatar: https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80
+    - id: 2
+      quote: Trabalhamos com três outros fornecedores antes de encontrar a TideLine. Eles finalmente entenderam nossa visão - e a entregaram perfeitamente.
+      author: Fundador, Marca de roupas de banho sustentáveis na Austrália
+      avatar: https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=facearea&w=1310&h=873&q=80&facepad=3
+
+how_we_work:
+  title: Como trabalhamos com marcas
+  steps:
+    - id: 1
+      text: Envie-nos seus designs ou moodboard
+    - id: 2
+      text: Receba uma cotação e cronograma de amostra
+    - id: 3
+      text: Aprovar amostra → Iniciar produção
+    - id: 4
+      text: Controle de qualidade + Embalagem → Envio global
+
+partnership:
+  title: Comece sua parceria por atacado hoje
+  description: Se você está construindo uma marca que valoriza qualidade, design e produção confiável, vamos conversar.
+  cta_text: Entre em contato
+
+image:
+  src: /manufacturer.jpg
+  alt: Fabricação de roupas de banho
+  caption: Nossa instalação de produção é especializada em fabricação premium de roupas de banho

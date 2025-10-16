@@ -1,0 +1,125 @@
+title: 'Fabricante de Trajes de Baño Personalizados'
+description: 'Más que un proveedor: su socio en la construcción de su marca de trajes de baño.'
+
+seo:
+  title: 'Fabricante de Trajes de Baño Personalizados | TIDELINE SWIMWEAR'
+  description: 'Servicios profesionales de fabricación de trajes de baño personalizados. Desde el diseño hasta la producción, damos vida a su visión única de trajes de baño con calidad premium y servicio personalizado.'
+  keywords: 'fabricante de trajes de baño personalizados, trajes de baño de marca privada, fabricante de bikinis personalizados, servicios de diseño de trajes de baño, OEM trajes de baño, producción de trajes de baño personalizados'
+  ogTitle: 'Fabricante de Trajes de Baño Personalizados | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricación de trajes de baño personalizados de servicio completo. Desarrollo de diseño, creación de patrones, producción a granel. Dé vida a su visión de trajes de baño.'
+  ogType: 'website'
+  ogImage: '/catalog/custom-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricante de Trajes de Baño Personalizados | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabricación de trajes de baño personalizados del concepto a la creación. Servicios de diseño, creación de patrones, producción a granel.'
+
+# Hero section
+hero:
+  cta_text: 'Comience Su Diseño Personalizado'
+  cta_href: '/contact'
+  image_src: '/catalog/custom-swimwear-bg.webp'
+  image_alt: 'Fabricación de Trajes de Baño Personalizados'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Nuestra Misión'
+  paragraph1: 'En TideLine Swimwear, nos especializamos en dar vida a su visión única de trajes de baño. Nuestros servicios de fabricación personalizada cubren todos los aspectos de la producción, desde los conceptos de diseño iniciales hasta el empaque final, asegurando que su marca se destaque con trajes de baño distintivos y de alta calidad que reflejan perfectamente su estilo y valores.'
+  whatsapp_link_text: 'Contáctenos en WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experiencia en la Industria de Trajes de Baño'
+    value: '10 años +'
+  - label: 'Pedidos Personalizados Cumplidos'
+    value: '50,000+'
+
+# Product categories
+categories:
+  - name: 'Bikinis Personalizados'
+    href: '/category?type=custom&subtype=bikini'
+    imageSrc: '/custom-swimwear/custom-bikini-1.webp'
+    imageAlt: 'Colección de Bikinis Personalizados'
+  - name: 'Una Pieza Personalizada'
+    href: '/category?type=custom&subtype=one-piece'
+    imageSrc: '/custom-swimwear/custom-onepiece-1.webp'
+    imageAlt: 'Colección de Una Pieza Personalizada'
+  - name: 'Tankinis Personalizados'
+    href: '/category?type=custom&subtype=tankini'
+    imageSrc: '/custom-swimwear/custom-tankini-1.webp'
+    imageAlt: 'Colección de Tankinis Personalizados'
+  - name: 'Cubiertas de Playa Personalizadas'
+    href: '/category?type=custom&subtype=cover-up'
+    imageSrc: '/custom-swimwear/custom-coverup-1.webp'
+    imageAlt: 'Colección de Cubiertas de Playa Personalizadas'
+
+# Customization capabilities
+customization:
+  title: 'Servicios de Personalización Completos'
+  description: 'Del concepto a la creación: TideLine ofrece servicios integrales de fabricación de trajes de baño personalizados adaptados a sus especificaciones exactas y requisitos de marca.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Instalación de Fabricación'
+  hero_image_width: '1000'
+  features:
+    - name: 'Desarrollo de Diseño'
+      description: 'Nuestro equipo de diseño trabaja con usted para desarrollar conceptos únicos de trajes de baño, desde bocetos hasta especificaciones técnicas.'
+      link: '/contact'
+      cta_text: 'Consulta de Diseño'
+    - name: 'Creación de Patrones'
+      description: 'Servicios profesionales de creación de patrones para garantizar un ajuste y construcción perfectos para sus diseños personalizados.'
+      link: '/contact'
+      cta_text: 'Servicios de Patrones'
+    - name: 'Selección de Telas'
+      description: 'Elija de nuestra extensa biblioteca de telas o busque materiales específicos para que coincidan con su visión de diseño.'
+      link: '/fabric'
+      cta_text: 'Opciones de Telas'
+    - name: 'Producción de Muestras'
+      description: 'Muestras de alta calidad producidas para validar el diseño, ajuste y construcción antes de la producción a granel.'
+      link: '/contact'
+      cta_text: 'Solicitud de Muestra'
+    - name: 'Fabricación a Granel'
+      description: 'Capacidades de producción escalables desde lotes pequeños hasta pedidos grandes con control de calidad consistente.'
+      link: '/contact'
+      cta_text: 'Cotización de Producción'
+    - name: 'Etiquetado Privado'
+      description: 'Servicios completos de marca que incluyen etiquetas personalizadas, tags y soluciones de empaque.'
+      link: '/contact'
+      cta_text: 'Servicios de Marca'
+
+# Getting Started section
+getting_started:
+  title: 'Comience Su Viaje de Trajes de Baño Personalizados'
+  description: '¿Listo para crear su línea única de trajes de baño? Nuestro proceso de fabricación personalizada está diseñado para apoyar a las marcas en cada etapa, desde conceptos de inicio hasta colecciones establecidas.'
+  beginner_text: 'Nuevo en Fabricación Personalizada'
+  beginner_href: '/startup'
+  pro_text: 'Propietario de Marca Experimentado'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Proceso de Fabricación Personalizada'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Preguntas Frecuentes'
+  questions:
+    - id: 1
+      question: '¿Cuál es la cantidad mínima de pedido para trajes de baño personalizados?'
+      answer: 'Nuestra cantidad mínima de pedido para trajes de baño personalizados varía según la complejidad, generalmente comenzando en 50-100 piezas por estilo. Trabajamos con startups y marcas establecidas para encontrar soluciones flexibles que se ajusten a su presupuesto y cronograma.'
+    - id: 2
+      question: '¿Cuánto tiempo tarda el proceso de desarrollo de trajes de baño personalizados?'
+      answer: 'El cronograma depende de la complejidad del diseño y el nivel de personalización. Generalmente, las muestras iniciales tardan 2-3 semanas, con la producción a granel requiriendo 4-6 semanas después de la aprobación de la muestra. Los pedidos urgentes pueden ser acomodados con planificación adicional.'
+    - id: 3
+      question: '¿Pueden ayudar con el diseño de trajes de baño si solo tengo un concepto?'
+      answer: '¡Absolutamente! Nuestro equipo de diseño se especializa en transformar conceptos en diseños listos para producción. Proporcionamos servicios de bocetos, diseño técnico, creación de patrones y desarrollo de ajuste para dar vida a su visión.'
+    - id: 4
+      question: '¿Qué opciones de personalización están disponibles para telas y materiales?'
+      answer: 'Ofrecemos una amplia personalización de telas que incluye materiales de rendimiento, opciones ecológicas, estampados, texturas y acabados especiales. Puede elegir de nuestra biblioteca de telas o buscar materiales específicos para que coincidan con los requisitos de su marca.'
+    - id: 5
+      question: '¿Proporcionan soporte de diseño y técnico durante todo el proceso?'
+      answer: 'Sí, nuestro equipo experimentado proporciona soporte integral que incluye consulta de diseño, orientación técnica, optimización de ajuste y aseguramiento de calidad durante todo el proceso de desarrollo y producción.'
+    - id: 6
+      question: '¿Pueden fabricar trajes de baño con características especiales o requisitos de rendimiento?'
+      answer: '¡Ciertamente! Nos especializamos en características personalizadas que incluyen protección UV, resistencia al cloro, zonas de compresión, relleno removible, correas ajustables y otras mejoras de rendimiento o estéticas basadas en sus especificaciones.'
+    - id: 7
+      question: '¿Cuáles son los costos involucrados en la fabricación de trajes de baño personalizados?'
+      answer: 'Los costos varían según la complejidad del diseño, materiales, cantidades y nivel de personalización. Proporcionamos cotizaciones detalladas que incluyen tarifas de desarrollo, costos de muestras y precios de producción. Contáctenos para una estimación personalizada basada en sus requisitos específicos.'

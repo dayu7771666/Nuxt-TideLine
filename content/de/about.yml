@@ -1,0 +1,36 @@
+title: 'Wir transformieren die Bademodeindustrie'
+description: 'Wir glauben, dass Marken nicht mehr exklusiv für Unternehmen sind. Jeder kann seine eigene Bademodenmarke aufbauen, und wir sind verpflichtet, Unternehmern vollständige Unterstützung von kreativen Ideen bis zur Produktumsetzung zu bieten.'
+
+seo:
+  title: 'Über uns - Die Bademodeindustrie transformieren'
+  description: 'Wir glauben, dass Marken nicht mehr exklusiv für Unternehmen sind. Jeder kann seine eigene Bademodenmarke aufbauen. 10 Jahre Erfahrung in der chinesischen Bademodenindustrie, bieten vollständige Unterstützung von kreativen Ideen bis zur Produktumsetzung für Unternehmer.'
+  keywords: 'Bademodenhersteller, maßgeschneiderte Bademode, Kleinserienproduktion, Bademodenfabrik, chinesische Bademode, Markenunterstützung, OEM Bademode, Badeanzug-Anpassung, Private Label Bademode'
+  ogImage: '/og-image.jpg'
+  twitterCard: 'summary_large_image'
+
+quote:
+  text: 'Wir sind seit 10 Jahren tief in Chinas Bademoden-Industriegürtel verwurzelt und haben umfangreiche Produktionserfahrung gesammelt, die es uns ermöglicht, jeder Marke hochwertige, schnelle Lieferunterstützung zu bieten.'
+  author:
+    name: 'TideLine Team'
+    handle: '@tideline'
+    avatar: 'https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
+
+content:
+  intro: 'Wir sind eine exzellente Fabrik mit einer starken Lieferkette, die in der Lage ist, stabile und effiziente Produktionskapazitäten für jede Marke bereitzustellen.'
+
+  features:
+    - title: 'Kleinserien-Service'
+      description: 'Ab September 2025 bieten wir offiziell Kleinserienbestellungen an, die es neuen Marken ermöglichen, mit geringem Risiko und schneller Reaktion in den Markt einzutreten.'
+      icon: 'CloudArrowUpIcon'
+    - title: 'Maßgeschneiderter Service'
+      description: 'Wir bieten One-Stop-Anpassungsdienstleistungen, von Bademodenstilen, Stoffen, Logos bis hin zu Verpackungstaschen, um sicherzustellen, dass Ihre Marke in jedem Detail einzigartig ist.'
+      icon: 'LockClosedIcon'
+    - title: 'Erfahrung & Grundlage'
+      description: 'Wir sind seit 10 Jahren in Chinas Bademoden-Industriegürtel verwurzelt, und unsere umfangreiche Produktionserfahrung ermöglicht es uns, globale Marken aller Art in ihrem Wachstum zu unterstützen.'
+      icon: 'ServerIcon'
+
+  mission: 'Unsere Mission ist es, jedem mit einem Traum zu helfen, seine Kreativität in eine lebensfähige Bademodenmarke zu verwandeln und vollständige Unterstützung für Marken zu bieten, klein anzufangen und stetig zu wachsen.'
+
+  commitment:
+    title: 'Unser Engagement'
+    description: 'Wir sind verpflichtet, jeder Marke zu helfen, sich durch professionelle Produktion, flexible Dienstleistungen und umfangreiche Erfahrung auf dem Markt hervorzuheben und langfristige Entwicklung zu erreichen.'

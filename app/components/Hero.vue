@@ -8,7 +8,7 @@
     >
       <!-- Grid pattern -->
       <div
-        class="absolute inset-0 bg-grid-slate-100 [mask-image:linear-gradient(0deg,white,rgba(255,255,255,0.6))]"
+        class="absolute inset-0 [mask-image:linear-gradient(0deg,white,rgba(255,255,255,0.6))]"
       ></div>
 
       <!-- Floating gradient orbs -->
@@ -216,30 +216,3 @@
     return positionMap[position] || 'object-center';
   }
 </script>
-
-<style scoped>
-  /* 网格背景样式 */
-  .bg-grid-slate-100 {
-    background-image: radial-gradient(
-      circle at 1px 1px,
-      rgba(148, 163, 184, 0.15) 1px,
-      transparent 0
-    );
-    background-size: 20px 20px;
-  }
-
-  /* 自定义脉冲动画 */
-  @keyframes pulse {
-    0%,
-    100% {
-      opacity: 1;
-    }
-    50% {
-      opacity: 0.5;
-    }
-  }
-
-  .animate-pulse {
-    animation: pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
-  }
-</style>

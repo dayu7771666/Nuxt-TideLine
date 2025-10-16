@@ -1,0 +1,202 @@
+title: 'B2B 制造定价指南'
+description: '新兴泳装品牌的透明、灵活定价。只需 60 件即可启动您的系列。'
+
+seo:
+  title: 'B2B 泳装制造定价 - 透明且灵活 | Tideline'
+  description: '透明的 B2B 泳装制造定价。只需 60 件起订。通过灵活的订购选项为您的泳装品牌获取定制报价。'
+  keywords: '泳装制造定价, B2B泳装成本, 泳装MOQ, 定制泳装定价, 泳装生产成本, 泳装批发定价, 泳装打样成本'
+  ogTitle: 'B2B 泳装制造定价 - 透明且灵活 | Tideline'
+  ogDescription: '透明的 B2B 泳装制造定价。只需 60 件起订。为您的泳装品牌获取定制报价。'
+  ogType: 'website'
+  ogImage: '/img/pricing-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'B2B 泳装制造定价 | Tideline'
+  twitterDescription: '泳装品牌的透明定价。只需 60 件起订。提供灵活的订购选项。'
+
+hero:
+  image: '/img/pricing-hero.webp'
+
+initialCosts:
+  title: '一次性初始成本'
+  description: '产品开发和打样的初始投资'
+  cards:
+    - id: 1
+      icon: '/pricing/sampling.avif'
+      title: '开发和打样'
+      items:
+        - name: '设计开发服务'
+          cost: '$69 / 款式'
+        - name: '完整样品套装'
+          cost: '$50 - $200 / 款式'
+      note: '批量订单满足 MOQ 时退还 50% 的样品费用'
+    - id: 2
+      icon: '/pricing/tooling.avif'
+      title: '工具和模具费用'
+      items:
+        - name: '标准装饰套件'
+          cost: '$50 / 元素'
+        - name: '卫生衬垫模具'
+          cost: '$30 / 款式'
+        - name: '护理标签模具'
+          cost: '$30 - $50 / 款式'
+    - id: 3
+      icon: '/pricing/fabric.avif'
+      title: '面料和色卡'
+      items:
+        - name: '色卡 / 小样'
+          cost: '免费'
+        - name: '数码印花 A4 色卡'
+          cost: '免费'
+        - name: '1+ 米面料样品'
+          cost: '$10 / 米'
+      note: '面料样品不包含运费'
+
+process:
+  title: '我们的制造流程'
+  description: '从概念到交付的简单 5 步流程'
+  steps:
+    - id: 1
+      title: '咨询和设计'
+      description: '我们讨论您的愿景并提供设计指导'
+    - id: 2
+      title: '样品开发'
+      description: '制作实物样品供您批准'
+    - id: 3
+      title: '修改和定稿'
+      description: '根据您的反馈完善样品'
+    - id: 4
+      title: '批量生产'
+      description: '制造您的完整订单'
+    - id: 5
+      title: '质量检查和发货'
+      description: '检查每一件并安排交付'
+
+productionCosts:
+  title: '单件生产成本'
+  description: '应用于批量订单中每件产品的成本'
+  cards:
+    - id: 1
+      icon: '/pricing/base.webp'
+      title: '基础产品成本'
+      items:
+        - name: '设计复杂度'
+          cost: '因款式而异'
+        - name: '面料选择'
+          cost: '高级 vs. 标准'
+        - name: '订单数量'
+          cost: '适用批量折扣'
+        - name: '定制 vs. 目录'
+          cost: '定制设计溢价'
+      note: '请联系我们根据您的具体要求获取详细定价'
+    - id: 2
+      icon: '/pricing/brand.webp'
+      title: '品牌和包装'
+      items:
+        - name: '护理标签'
+          cost: '~ $0.15 / 件'
+        - name: '卫生衬垫'
+          cost: '~ $0.15 / 件'
+        - name: '吊牌'
+          cost: '~ $0.15 / 件'
+        - name: '礼盒 / 包装'
+          cost: '~ $1.00 / 件'
+        - name: '特殊装饰和配件'
+          cost: '~ $0.10 - $0.70 / 件'
+      note: '工具成本已纳入单件定价'
+
+flexibility:
+  title: '灵活的订购选项'
+  description: '我们通过多种灵活选项来适应您的业务需求'
+  items:
+    - id: 1
+      icon: 'heroicons:cube'
+      title: '混合最小订单'
+      description: '跨款式、颜色和尺码总共只需 60 件即可开始。无需订购大量单一商品。'
+    - id: 2
+      icon: 'heroicons:currency-dollar'
+      title: '样品费用抵扣'
+      description: '下批量订单时可退还 50% 的样品费用。我们投资于您的成功。'
+    - id: 3
+      icon: 'heroicons:wrench-screwdriver'
+      title: '无隐藏工具费用'
+      description: '为了简单和透明,我们将模具成本吸收到单件定价中。'
+    - id: 4
+      icon: 'heroicons:chart-bar-square'
+      title: '可扩展生产'
+      description: '随着业务增长轻松增加数量。我们接受从 60 到 60,000 件的订单。'
+    - id: 5
+      icon: 'heroicons:swatch'
+      title: '定制配色'
+      description: '无最小值的精确配色。在无需大量承诺的情况下创建您的独特品牌色彩。'
+    - id: 6
+      icon: 'heroicons:truck'
+      title: '灵活发货'
+      description: '选择您首选的运输方式和时间表。我们与全球主要承运商合作。'
+
+budgetExample:
+  title: '预算示例'
+  description: '推出 2 款式系列,共 100 件'
+  chartData:
+    - name: '初始开发'
+      amount: 388
+      percentage: 17
+      color: 'bg-gradient-to-r from-blue-600 to-blue-400'
+    - name: '批量生产'
+      amount: 1800
+      percentage: 81
+      color: 'bg-gradient-to-r from-orange-500 to-orange-400'
+    - name: '品牌推广'
+      amount: 30
+      percentage: 2
+      color: 'bg-gradient-to-r from-green-500 to-green-400'
+  tableData:
+    - stage: '初始开发'
+      item: '设计开发 ($69 × 2 款式)'
+      cost: '$138'
+      rowspan: 3
+    - item: '样品套装 ($125 × 2 款式)'
+      cost: '$250'
+    - item: '小计'
+      cost: '$388'
+      isSubtotal: true
+    - stage: '批量生产'
+      item: '基础产品成本 ($18 × 100 件)'
+      cost: '$1,800'
+      rowspan: 3
+    - item: '品牌推广 (吊牌 + 护理标签)'
+      cost: '$30'
+    - item: '小计'
+      cost: '$1,830'
+      isSubtotal: true
+    - stage: ''
+      item: '估计总投资'
+      cost: '$2,218'
+      isSubtotal: true
+  note: '注意:后续订单将显著降低,因为开发和样品费用是一次性成本。'
+
+cta:
+  title: '准备好推出您的泳装系列了吗?'
+  description: '我们的团队随时准备通过透明的定价和为您的品牌量身定制的灵活选项,帮助您实现设计。'
+  buttons:
+    - text: '申请定制报价'
+      primary: true
+
+contact:
+  title: '获取您的定制报价'
+  subtitle: '告诉我们您的项目,我们将提供详细的定价'
+  formLabels:
+    nameLabel: '全名'
+    namePlaceholder: '输入您的全名'
+    emailLabel: '电子邮件地址'
+    emailPlaceholder: '输入您的电子邮件地址'
+    messageLabel: '项目详情'
+    messagePlaceholder: '告诉我们您的泳装系列项目、数量、时间表和任何具体要求...'
+    submitButton: '申请报价'
+    successMessage: '谢谢!我们将在 24 小时内向您发送详细报价。'
+  guideTitle: '在您的消息中包含什么:'
+  guideItems:
+    - '您计划的款式数量'
+    - '每款式的估计数量'
+    - '您的目标推出时间表'
+    - '任何具体的设计要求'
+    - '您的预算范围(如果愿意分享)'

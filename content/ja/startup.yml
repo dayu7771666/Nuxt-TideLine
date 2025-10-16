@@ -1,0 +1,144 @@
+title: 'スタートアップと実店舗向け水着工場サービス'
+description: '私たちは完全なサプライチェーンを持つ中国の水着工場で、スタートアップと実店舗にプレミアムサービスを提供することに専念しています。最小注文数量はわずか30個で、小ロット購入ニーズのあるお客様に最適です。'
+
+seo:
+  title: 'スタートアップと実店舗向け水着工場サービス | TIDELINE SWIMWEAR'
+  description: '私たちは完全なサプライチェーンを持つ中国の水着工場で、スタートアップと実店舗にプレミアムサービスを提供することに専念しています。最小注文数量はわずか30個です。'
+  keywords: '水着工場, 水着メーカー, スタートアップ水着, 小ロット水着, 低MOQ水着, 水着工場, カスタム水着生産, 水着サプライヤー'
+  ogTitle: 'スタートアップ向け水着工場サービス | TIDELINE SWIMWEAR'
+  ogDescription: '完全なサプライチェーンを持つ中国の水着工場。30個の低MOQ、スタートアップと実店舗に最適。8年以上の業界経験。'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'スタートアップ向け水着工場 | TIDELINE SWIMWEAR'
+  twitterDescription: 'スタートアップ向け低MOQ水着製造。最小30個、完全なサプライチェーン、8年以上の経験。'
+
+# Hero section
+hero:
+  badge: 'ご紹介'
+
+# Company information
+company:
+  introduction: '水着業界で8年の経験を持ち、Alibaba、SHEIN、TikTokなどの有名プラットフォームの長期サプライヤーとして、製品品質と安定供給を保証しています。'
+  benefits: '私たちを選ぶことで、プロフェッショナルチームのサポート、効率的な生産プロセス、柔軟な小ロットカスタマイズサービスの恩恵を受け、水着ビジネスを迅速に立ち上げまたは拡大できます。'
+
+# Features list
+features:
+  - id: 1
+    title: 'わずか30個の最小注文数量'
+    description: 'スタートアップと小規模実店舗が低コストで市場をテストするのに最適です。'
+  - id: 2
+    title: '競争力のある価格'
+    description: '国際的なサプライヤーと比較して、高品質基準を維持しながら価格が低くなっています。'
+  - id: 3
+    title: '水着業界での8年の経験'
+    description: '市場の需要を理解し、お客様がベストセラー水着を作成するのを支援できます。'
+
+# Success section
+success:
+  title: 'ゼロから始めて、成功をお手伝い'
+  description: '始めたばかりのスタートアップでも、信頼できるサプライヤーを探している実店舗でも、お客様のニーズに合わせたカスタマイズされたソリューションを提供します。'
+
+# Quote section
+quote:
+  text: '私たちは、スタートアップと実店舗の優先水着サプライヤーとなり、お客様が簡単に市場に参入し、急速に成長できるよう支援することに尽力しています。'
+  company: 'TideLine'
+  role: '水着業界専門家'
+  avatar: '/tidelinelogo-600.png'
+
+# Call to action
+cta:
+  text: 'お問い合わせ'
+  description: '私たちのサービスについて詳しく知る。'
+
+# Image section
+image:
+  src: '/manufacturer.jpg'
+  alt: 'スタートアップ向け水着工場サポート'
+  caption: 'スタートアップと実店舗への強力なサポート'
+
+# Services section
+services:
+  title: 'お客様のニーズを満たす包括的なサービス'
+  description: 'デザインから生産まで、完全なサプライチェーンを持ち、お客様に効率的で信頼できるサービス体験を提供します。'
+  cta: 'お問い合わせいただき、水着ビジネスの新しい章を始めましょう！'
+
+# Contact form section
+contact:
+  title: '参加する'
+  form:
+    firstName: '名'
+    email: 'メール'
+    message: 'メッセージ'
+    submit: '送信'
+    terms:
+      text: 'このフォームを送信することにより、私は同意します'
+      link: '利用規約'
+
+# Testimonial section
+testimonial:
+  quote: '水着業界の未来は大胆なイノベーションとトレンドの先を行くことです - 次の大きなものを形作るために私たちに参加し、一緒に忘れられないものを作りましょう！'
+  name: 'ChangShun'
+  title: 'TideLine Swimwear CEO'
+  avatar: '/img/contactus.png'
+
+# Statistics
+stats:
+  - label: '水着業界での経験'
+    value: '8年 +'
+  - label: '完了した注文'
+    value: '100,000+'
+
+# Additional sections for potential expansion
+advantages:
+  title: 'スタートアップにTideLineを選ぶ理由'
+  items:
+    - title: '低リスク参入'
+      description: 'わずか30個の最小注文数量で開始'
+      icon: 'shield-check'
+    - title: '完全なサプライチェーン'
+      description: 'デザインから配送まで、すべてを処理'
+      icon: 'cog-6-tooth'
+    - title: '業界経験'
+      description: 'グローバルブランドとプラットフォームにサービスを提供して8年以上'
+      icon: 'star'
+    - title: '柔軟なカスタマイズ'
+      description: 'ブランド要件に合わせてデザインを適応'
+      icon: 'adjustments-horizontal'
+
+# Process steps
+process:
+  title: 'スタートアップの旅をサポートする方法'
+  steps:
+    - step: 1
+      title: '初回相談'
+      description: 'ビジョンと要件を私たちのチームと共有'
+    - step: 2
+      title: 'デザインとサンプリング'
+      description: '仕様に基づいてサンプルを作成'
+    - step: 3
+      title: '小ロット生産'
+      description: '市場をテストするために最小30個から開始'
+    - step: 4
+      title: 'スケールと成長'
+      description: 'ビジネスが成長するにつれて生産を拡大'
+
+# FAQ section
+faq:
+  title: 'よくある質問'
+  questions:
+    - id: 1
+      question: 'TideLineを他の水着メーカーと区別するものは何ですか？'
+      answer: '私たちは、低い最小注文数量、競争力のある価格、デザインから配送までの包括的なサポートでスタートアップと中小企業をサポートすることに特化しています。'
+    - id: 2
+      question: 'コンセプトしかない場合、デザインを手伝ってもらえますか？'
+      answer: 'もちろんです！経験豊富なデザインチームが、コンセプトを生産準備の整ったデザインに変換し、開発プロセス全体でガイダンスを提供できます。'
+    - id: 3
+      question: '典型的な生産スケジュールは？'
+      answer: 'サンプル生産は通常7〜10日かかり、大量生産は注文サイズと複雑さに応じて15〜25日かかります。'
+    - id: 4
+      question: 'ブランド開発のサポートを提供していますか？'
+      answer: 'はい、カスタムラベリング、パッケージデザイン、マーケティングガイダンスを含む包括的なブランドサポートを提供し、水着ブランドの確立を支援します。'
+    - id: 5
+      question: 'どのような品質基準を維持していますか？'
+      answer: '厳格な品質管理プロセスを維持し、Alibaba、SHEIN、TikTokなどの確立されたプラットフォームと協力して、一貫した高品質生産を保証しています。'

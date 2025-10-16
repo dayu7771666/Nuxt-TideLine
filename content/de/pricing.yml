@@ -1,0 +1,202 @@
+title: 'B2B Fertigungspreisführer'
+description: 'Transparente, flexible Preise für aufstrebende Bademoden-Marken. Starten Sie Ihre Kollektion mit nur 60 Teilen.'
+
+seo:
+  title: 'B2B Bademoden-Fertigung Preise - Transparent & Flexibel | Tideline'
+  description: 'Transparente B2B Bademoden-Fertigungspreise. Beginnen Sie mit nur 60 Teilen. Erhalten Sie individuelle Angebote für Ihre Bademoden-Marke mit flexiblen Bestelloptionen.'
+  keywords: 'Bademoden-Fertigungspreise, B2B Bademoden-Kosten, Bademoden MOQ, individuelle Bademoden-Preise, Bademoden-Produktionskosten, Bademoden-Großhandelspreise, Bademoden-Bemusterungskosten'
+  ogTitle: 'B2B Bademoden-Fertigung Preise - Transparent & Flexibel | Tideline'
+  ogDescription: 'Transparente B2B Bademoden-Fertigungspreise. Beginnen Sie mit nur 60 Teilen. Erhalten Sie individuelle Angebote für Ihre Bademoden-Marke.'
+  ogType: 'website'
+  ogImage: '/img/pricing-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'B2B Bademoden-Fertigung Preise | Tideline'
+  twitterDescription: 'Transparente Preise für Bademoden-Marken. Beginnen Sie mit nur 60 Teilen. Flexible Bestelloptionen verfügbar.'
+
+hero:
+  image: '/img/pricing-hero.webp'
+
+initialCosts:
+  title: 'Einmalige Anfangskosten'
+  description: 'Anfangsinvestition für Produktentwicklung und Bemusterung'
+  cards:
+    - id: 1
+      icon: '/pricing/sampling.avif'
+      title: 'Entwicklung & Bemusterung'
+      items:
+        - name: 'Design-Entwicklungsservice'
+          cost: '$69 / Stil'
+        - name: 'Vollständiges Musterset'
+          cost: '$50 - $200 / Stil'
+      note: '50% der Mustergebühr werden zurückerstattet, wenn die Großbestellung die MOQ erfüllt'
+    - id: 2
+      icon: '/pricing/tooling.avif'
+      title: 'Werkzeug- & Formgebühren'
+      items:
+        - name: 'Standard-Dekor-Kit'
+          cost: '$50 / Element'
+        - name: 'Hygiene-Liner-Form'
+          cost: '$30 / Stil'
+        - name: 'Pflegeetikett-Form'
+          cost: '$30 - $50 / Stil'
+    - id: 3
+      icon: '/pricing/fabric.avif'
+      title: 'Stoff & Muster'
+      items:
+        - name: 'Farbkarten / Kleine Muster'
+          cost: 'KOSTENLOS'
+        - name: 'Digitaldruck A4-Muster'
+          cost: 'KOSTENLOS'
+        - name: '1+ Meter Stoffmuster'
+          cost: '$10 / Meter'
+      note: 'Versand nicht in Stoffmustern enthalten'
+
+process:
+  title: 'Unser Fertigungsprozess'
+  description: 'Einfacher 5-Schritte-Prozess vom Konzept zur Lieferung'
+  steps:
+    - id: 1
+      title: 'Beratung & Design'
+      description: 'Wir besprechen Ihre Vision und bieten Design-Beratung'
+    - id: 2
+      title: 'Musterentwicklung'
+      description: 'Erstellen Sie physische Muster zur Genehmigung'
+    - id: 3
+      title: 'Überarbeitungen & Finalisierung'
+      description: 'Verfeinern Sie Muster basierend auf Ihrem Feedback'
+    - id: 4
+      title: 'Massenproduktion'
+      description: 'Fertigen Sie Ihre vollständige Bestellung'
+    - id: 5
+      title: 'Qualitätskontrolle & Versand'
+      description: 'Prüfen Sie jedes Teil und arrangieren Sie die Lieferung'
+
+productionCosts:
+  title: 'Produktionskosten pro Einheit'
+  description: 'Kosten, die auf jedes Teil in Ihrer Großbestellung angewendet werden'
+  cards:
+    - id: 1
+      icon: '/pricing/base.webp'
+      title: 'Basis-Produktkosten'
+      items:
+        - name: 'Design-Komplexität'
+          cost: 'Variiert je nach Stil'
+        - name: 'Stoffauswahl'
+          cost: 'Premium vs. Standard'
+        - name: 'Bestellmenge'
+          cost: 'Mengenrabatte gelten'
+        - name: 'Individuell vs. Katalog'
+          cost: 'Individuelles Design-Premium'
+      note: 'Kontaktieren Sie uns für detaillierte Preise basierend auf Ihren spezifischen Anforderungen'
+    - id: 2
+      icon: '/pricing/brand.webp'
+      title: 'Branding & Verpackung'
+      items:
+        - name: 'Pflegeetikett'
+          cost: '~ $0.15 / Einheit'
+        - name: 'Hygiene-Liner'
+          cost: '~ $0.15 / Einheit'
+        - name: 'Hänge-Tag'
+          cost: '~ $0.15 / Einheit'
+        - name: 'Geschenkbox / Verpackung'
+          cost: '~ $1.00 / Einheit'
+        - name: 'Spezielle Besätze & Zubehör'
+          cost: '~ $0.10 - $0.70 / Einheit'
+      note: 'Werkzeugkosten werden in die Pro-Einheit-Preise eingerechnet'
+
+flexibility:
+  title: 'Flexible Bestelloptionen'
+  description: 'Wir passen uns Ihren Geschäftsbedürfnissen mit mehreren flexiblen Optionen an'
+  items:
+    - id: 1
+      icon: 'heroicons:cube'
+      title: 'Gemischte Mindestbestellung'
+      description: 'Beginnen Sie mit nur 60 Gesamtteilen über Stile, Farben und Größen hinweg. Keine Notwendigkeit, große Mengen eines einzelnen Artikels zu bestellen.'
+    - id: 2
+      icon: 'heroicons:currency-dollar'
+      title: 'Mustergebühr-Gutschrift'
+      description: 'Erhalten Sie 50% Ihrer Musterkosten zurück, wenn Sie eine Großbestellung aufgeben. Wir investieren in Ihren Erfolg.'
+    - id: 3
+      icon: 'heroicons:wrench-screwdriver'
+      title: 'Keine versteckten Werkzeuggebühren'
+      description: 'Wir nehmen Formkosten in die Pro-Einheit-Preise auf für Einfachheit und Transparenz.'
+    - id: 4
+      icon: 'heroicons:chart-bar-square'
+      title: 'Skalierbare Produktion'
+      description: 'Erhöhen Sie Mengen einfach, während Ihr Geschäft wächst. Wir nehmen Bestellungen von 60 bis 60.000 Teilen an.'
+    - id: 5
+      icon: 'heroicons:swatch'
+      title: 'Individuelle Farbabstimmung'
+      description: 'Präzise Farbabstimmung ohne Mindestmengen. Erstellen Sie Ihre einzigartigen Markenfarben ohne große Verpflichtungen.'
+    - id: 6
+      icon: 'heroicons:truck'
+      title: 'Flexibler Versand'
+      description: 'Wählen Sie Ihre bevorzugte Versandmethode und Ihren Zeitplan. Wir arbeiten mit großen Spediteuren weltweit zusammen.'
+
+budgetExample:
+  title: 'Budget-Beispiel'
+  description: 'Start einer 2-Stil-Kollektion mit insgesamt 100 Teilen'
+  chartData:
+    - name: 'Anfangsentwicklung'
+      amount: 388
+      percentage: 17
+      color: 'bg-gradient-to-r from-blue-600 to-blue-400'
+    - name: 'Massenproduktion'
+      amount: 1800
+      percentage: 81
+      color: 'bg-gradient-to-r from-orange-500 to-orange-400'
+    - name: 'Branding'
+      amount: 30
+      percentage: 2
+      color: 'bg-gradient-to-r from-green-500 to-green-400'
+  tableData:
+    - stage: 'Anfangsentwicklung'
+      item: 'Design-Entwicklung ($69 × 2 Stile)'
+      cost: '$138'
+      rowspan: 3
+    - item: 'Mustersets ($125 × 2 Stile)'
+      cost: '$250'
+    - item: 'Zwischensumme'
+      cost: '$388'
+      isSubtotal: true
+    - stage: 'Massenproduktion'
+      item: 'Basis-Produktkosten ($18 × 100 Einheiten)'
+      cost: '$1,800'
+      rowspan: 3
+    - item: 'Branding (Hänge-Tags + Pflegeetiketten)'
+      cost: '$30'
+    - item: 'Zwischensumme'
+      cost: '$1,830'
+      isSubtotal: true
+    - stage: ''
+      item: 'Geschätzter Gesamtinvestition'
+      cost: '$2,218'
+      isSubtotal: true
+  note: 'Hinweis: Nachfolgende Bestellungen werden deutlich niedriger sein, da Entwicklungs- und Mustergebühren einmalige Kosten sind.'
+
+cta:
+  title: 'Bereit, Ihre Bademoden-Linie zu starten?'
+  description: 'Unser Team ist bereit, Ihnen zu helfen, Ihre Designs mit transparenten Preisen und flexiblen Optionen, die auf Ihre Marke zugeschnitten sind, zum Leben zu erwecken.'
+  buttons:
+    - text: 'Individuelles Angebot anfordern'
+      primary: true
+
+contact:
+  title: 'Holen Sie sich Ihr individuelles Angebot'
+  subtitle: 'Erzählen Sie uns von Ihrem Projekt und wir liefern detaillierte Preise'
+  formLabels:
+    nameLabel: 'Vollständiger Name'
+    namePlaceholder: 'Geben Sie Ihren vollständigen Namen ein'
+    emailLabel: 'E-Mail-Adresse'
+    emailPlaceholder: 'Geben Sie Ihre E-Mail-Adresse ein'
+    messageLabel: 'Projektdetails'
+    messagePlaceholder: 'Erzählen Sie uns von Ihrem Bademoden-Linienprojekt, Mengen, Zeitplan und spezifischen Anforderungen...'
+    submitButton: 'Angebot anfordern'
+    successMessage: 'Vielen Dank! Wir senden Ihnen innerhalb von 24 Stunden ein detailliertes Angebot.'
+  guideTitle: 'Was Sie in Ihre Nachricht aufnehmen sollten:'
+  guideItems:
+    - 'Anzahl der Stile, die Sie planen'
+    - 'Geschätzte Mengen pro Stil'
+    - 'Ihr Ziel-Start-Zeitplan'
+    - 'Spezifische Design-Anforderungen'
+    - 'Ihr Budgetbereich (wenn Sie sich wohl fühlen, ihn zu teilen)'

@@ -1,0 +1,111 @@
+title: 'Fabricante de Trajes de Baño para Hombres'
+description: 'Más que un proveedor — tu socio en la construcción de marca de trajes de baño.'
+
+seo:
+  title: 'Fabricante de Trajes de Baño para Hombres | TIDELINE SWIMWEAR'
+  description: 'Fabricante mayorista de trajes de baño para hombres que ofrece shorts de baño de alto rendimiento, boardshorts y slips. Diseños personalizados, precios competitivos, MOQ bajo.'
+  keywords: 'fabricante trajes de baño hombres, shorts de baño mayorista, fabricante boardshorts, proveedor trajes de baño hombres, shorts de baño personalizados, fábrica trajes de baño hombres'
+  ogTitle: 'Fabricante de Trajes de Baño para Hombres | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricante profesional de trajes de baño para hombres. Shorts de baño, boardshorts, slips. Diseños personalizados, MOQ bajo, precios mayoristas.'
+  ogType: 'website'
+  ogImage: '/catalog/men-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricante de Trajes de Baño para Hombres | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabricación de trajes de baño para hombres de alto rendimiento. Shorts, boardshorts, slips. Diseños personalizados disponibles.'
+
+# Hero section
+hero:
+  cta_text: 'Consulta'
+  cta_href: '/contact'
+  image_src: '/catalog/men-swimwear-bg.webp'
+  image_alt: 'Fabricación de Trajes de Baño para Hombres'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Nuestra Misión'
+  paragraph1: 'En TideLine Swimwear, sabemos que los trajes de baño para hombres son una categoría de crecimiento clave para minoristas y marcas emergentes. Cada temporada, nuestro equipo de fábrica desarrolla colecciones listas para el mercado que combinan comodidad, durabilidad y estilo—ya sean shorts clásicos, boardshorts funcionales o slips contemporáneos—ofreciendo a mayoristas y propietarios de marcas opciones versátiles para satisfacer la demanda del consumidor actual.'
+  whatsapp_link_text: 'Contáctanos en WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experiencia en la Industria de Trajes de Baño'
+    value: '10 años +'
+  - label: 'Pedidos Cumplidos'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Camisetas de Natación'
+    href: '/category?type=men&subtype=swim-shirt'
+    imageSrc: '/men-swimwear/shirt/shirt-5.webp'
+    imageAlt: 'Colección de Camisetas de Natación para Hombres'
+  - name: 'Slips'
+    href: '/category?type=men&subtype=briefs'
+    imageSrc: '/men-swimwear/san/san-1.webp'
+    imageAlt: 'Colección de Slips de Natación para Hombres'
+  - name: 'Shorts'
+    href: '/category?type=men&subtype=trunks'
+    imageSrc: '/men-swimwear/ping/ping-4.webp'
+    imageAlt: 'Colección de Shorts de Natación para Hombres'
+
+# Customization capabilities
+customization:
+  title: 'Capacidades de Personalización'
+  description: 'Trajes de baño completamente personalizables—TideLine acepta todos los diseños personalizados, telas, herrajes, logos y empaques para dar vida a tu visión de marca.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Instalación de Fabricación'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalización de Estilo'
+      description: 'Da vida a cualquier diseño de traje de baño—elige tu estilo perfecto y déjanos crearlo para tu marca.'
+      link: '/contact'
+      cta_text: 'Consulta'
+    - name: 'Personalización de Tela'
+      description: 'Elige de una amplia gama de telas para crear trajes de baño cómodos de usar y hermosos de ver.'
+      link: '/fabric'
+      cta_text: 'Tela'
+    - name: 'Personalización de Herrajes'
+      description: 'Personaliza cada detalle—desde hebillas y anillos hasta cremalleras—nuestras opciones de herrajes elevan tu diseño.'
+      link: '/hardware'
+      cta_text: 'Herrajes'
+    - name: 'Personalización de Logo'
+      description: 'Hazlo verdaderamente tuyo—agrega tu logo a cada pieza para un look de marca profesional.'
+    - name: 'Personalización de Empaque'
+      description: 'Completa tu experiencia de marca con empaque adaptado a tu estilo y visión.'
+    - name: 'Contáctanos'
+      description: '¿Listo? Convirtamos tus ideas de trajes de baño en realidad.'
+      link: '/contact'
+      cta_text: 'Contáctanos'
+
+# Getting Started section
+getting_started:
+  title: 'Tu viaje en trajes de baño comienza aquí'
+  description: 'Ya sea que estés lanzando tu primera colección o escalando tu marca, TideLine proporciona soluciones de trajes de baño personalizadas para satisfacer tus necesidades. Elige tu camino y comienza.'
+  beginner_text: 'Comenzar como Principiante'
+  beginner_href: '/startup'
+  pro_text: 'Comprador Experimentado'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Proceso de Fabricación'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Preguntas Frecuentes'
+  questions:
+    - id: 1
+      question: '¿Cuál es la cantidad mínima de pedido para trajes de baño para hombres al por mayor?'
+      answer: 'Nuestro MOQ comienza en 30 piezas por estilo y talla, permitiendo a las marcas nuevas y en crecimiento de trajes de baño para hombres lanzar colecciones con flexibilidad.'
+    - id: 2
+      question: '¿Puedo personalizar los estilos y materiales de los trajes de baño para hombres?'
+      answer: 'Sí. Ofrecemos personalización completa para trajes de baño para hombres—incluyendo shorts, boardshorts y slips—usando tus telas, colores, logos y empaques preferidos.'
+    - id: 3
+      question: '¿Cuánto tiempo toma la producción para pedidos al por mayor de trajes de baño para hombres?'
+      answer: 'Las muestras generalmente se completan en 10 días, mientras que la producción al por mayor se termina en 30 días dependiendo del tamaño del pedido y nivel de personalización.'
+    - id: 4
+      question: '¿Proporcionan opciones de telas sostenibles para trajes de baño para hombres?'
+      answer: 'Absolutamente. Ofrecemos telas ecológicas como poliéster y nylon reciclados, dando a tu marca una ventaja sostenible en el mercado de trajes de baño para hombres.'
+    - id: 5
+      question: '¿Cómo puedo solicitar una cotización para trajes de baño para hombres al por mayor?'
+      answer: 'Simplemente comparte tus diseños preferidos, tallas y opciones de telas con nuestro equipo a través de WhatsApp o email. Proporcionaremos una cotización detallada, junto con muestras de telas y recomendaciones de expertos.'

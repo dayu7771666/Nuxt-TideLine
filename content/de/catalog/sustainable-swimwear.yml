@@ -1,0 +1,121 @@
+title: 'Nachhaltige Bademode Hersteller'
+description: 'Mehr als ein Lieferant — Ihr Partner beim Aufbau Ihrer Bademode-Marke.'
+
+seo:
+  title: 'Nachhaltige Bademode Hersteller | TIDELINE SWIMWEAR'
+  description: 'Umweltfreundlicher Bademode-Hersteller mit recycelten Materialien und nachhaltiger Produktion. Großhandel nachhaltige Bademode, kohlenstoffarme Prozesse, individuelle Designs.'
+  keywords: 'nachhaltiger Bademode Hersteller, umweltfreundliche Bademode, recycelte Bademode Lieferant, Bio-Bademode Fabrik, grüne Bademode Herstellung, RPET Bademode'
+  ogTitle: 'Nachhaltige Bademode Hersteller | TIDELINE SWIMWEAR'
+  ogDescription: 'Umweltfreundlicher Bademode-Hersteller. Recycelte Materialien, nachhaltige Produktion, kohlenstoffarme Prozesse. Helfen Sie Ihrer Marke, grün zu werden.'
+  ogType: 'website'
+  ogImage: '/catalog/sustainable-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Nachhaltige Bademode Hersteller | TIDELINE SWIMWEAR'
+  twitterDescription: 'Nachhaltige Bademode-Herstellung. Recycelte Materialien, umweltfreundliche Produktion, individuelle Designs.'
+
+# Hero section
+hero:
+  cta_text: 'Beratung'
+  cta_href: '/contact'
+  image_src: '/catalog/sustainable-swimwear-bg.webp'
+  image_alt: 'Nachhaltige Bademode Herstellung'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Unsere Mission'
+  paragraph1: 'Bei TideLine Swimwear sind wir verpflichtet, nachhaltige Bademode zu schaffen, die sowohl Menschen als auch den Planeten respektiert. Unsere umweltfreundlichen Kollektionen verwenden recycelte und verantwortungsvoll beschaffte Stoffe, kombiniert mit achtsamen Produktionspraktiken, um hochwertige Bademode zu gewährleisten, die die Umweltauswirkungen minimiert und gleichzeitig Komfort und Haltbarkeit bietet.'
+  whatsapp_link_text: 'Kontaktieren Sie uns auf WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Erfahrung in der Bademode-Industrie'
+    value: '10 Jahre +'
+  - label: 'Erfüllte Bestellungen'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Recycelte Bikinis'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/recycled-bikini-1.webp'
+    imageAlt: 'Recycelte Bikinis Kollektion'
+  - name: 'Öko-Einteiler'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/eco-onepiece-1.webp'
+    imageAlt: 'Öko-Einteiler Kollektion'
+  - name: 'Bio-Bademode'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/organic-1.webp'
+    imageAlt: 'Bio-Bademode Kollektion'
+  - name: 'Biologisch abbaubare Anzüge'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/biodegradable-1.webp'
+    imageAlt: 'Biologisch abbaubare Anzüge Kollektion'
+
+# Customization capabilities
+customization:
+  title: 'Anpassungsmöglichkeiten'
+  description: 'Vollständig anpassbare Bademode—TideLine akzeptiert alle individuellen Designs, Stoffe, Hardware, Logos und Verpackungen, um Ihre Markenvision zum Leben zu erwecken.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Produktionsanlage'
+  hero_image_width: '1000'
+  features:
+    - name: 'Stil-Anpassung'
+      description: 'Erwecken Sie jedes Bademode-Design zum Leben—wählen Sie Ihren perfekten Stil und lassen Sie uns ihn für Ihre Marke fertigen.'
+      link: '/contact'
+      cta_text: 'Beratung'
+    - name: 'Stoff-Anpassung'
+      description: 'Wählen Sie aus einer breiten Palette von Stoffen, um Bademode zu schaffen, die bequem zu tragen und schön anzusehen ist.'
+      link: '/fabric'
+      cta_text: 'Stoff'
+    - name: 'Hardware-Anpassung'
+      description: 'Passen Sie jedes Detail an—von Schnallen und Ringen bis zu Reißverschlüssen—unsere Hardware-Optionen werten Ihr Design auf.'
+      link: '/hardware'
+      cta_text: 'Hardware'
+    - name: 'Logo-Anpassung'
+      description: 'Machen Sie es wirklich zu Ihrem—fügen Sie Ihr Logo zu jedem Stück für einen professionellen Marken-Look hinzu.'
+    - name: 'Verpackungs-Anpassung'
+      description: 'Vervollständigen Sie Ihr Markenerlebnis mit Verpackungen, die auf Ihren Stil und Ihre Vision zugeschnitten sind.'
+    - name: 'Kontaktieren Sie uns'
+      description: 'Bereit? Lassen Sie uns Ihre Bademode-Ideen in die Realität umsetzen.'
+      link: '/contact'
+      cta_text: 'Kontaktieren Sie uns'
+
+# Getting Started section
+getting_started:
+  title: 'Ihre Bademode-Reise beginnt hier'
+  description: 'Ob Sie Ihre erste Kollektion starten oder Ihre Marke skalieren, TideLine bietet maßgeschneiderte Bademode-Lösungen für Ihre Bedürfnisse. Wählen Sie Ihren Weg und legen Sie los.'
+  beginner_text: 'Als Anfänger starten'
+  beginner_href: '/startup'
+  pro_text: 'Erfahrener Käufer'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Herstellungsprozess'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Häufig gestellte Fragen'
+  questions:
+    - id: 1
+      question: 'Was ist nachhaltige Bademode?'
+      answer: 'Nachhaltige Bademode wird aus umweltfreundlichen Materialien und kohlenstoffarmen Produktionsprozessen hergestellt, mit dem Ziel, die negativen Umweltauswirkungen zu reduzieren. Sie verwendet typischerweise recycelte Plastikfasern (wie RPET), Bio-Baumwolle, Naturfasern und minimiert Wasser- und Stromverbrauch, während schädliche Farbstoffe vermieden werden, um den CO2-Fußabdruck zu reduzieren.'
+    - id: 2
+      question: 'Welche Materialien werden in Ihrer nachhaltigen Bademode verwendet?'
+      answer: 'Wir verwenden eine Vielzahl umweltfreundlicher Materialien zur Herstellung nachhaltiger Bademode, einschließlich recycelter Plastikfasern (RPET), natürlicher Seetang-Fasern, biologisch abbaubarem Nylon und Bio-Baumwolle. Diese Materialien bieten guten Komfort, Haltbarkeit und Elastizität und helfen dabei, Umweltverschmutzung und Ressourcenverbrauch zu reduzieren.'
+    - id: 3
+      question: 'Ist nachhaltige Bademode teurer als traditionelle Bademode?'
+      answer: 'Aufgrund der Verwendung umweltfreundlicher Materialien und fortschrittlicher Produktionsprozesse ist nachhaltige Bademode tendenziell teurer als traditionelle Bademode. Da sich nachhaltige Trends jedoch weiterentwickeln, sinken die Kosten für die Beschaffung umweltfreundlicher Materialien und Produktionsmethoden allmählich. Wir streben danach, wettbewerbsfähige Preise anzubieten und dabei Umweltstandards zu erhalten.'
+    - id: 4
+      question: 'Wie stellen Sie die Qualität nachhaltiger Bademode sicher?'
+      answer: 'Obwohl wir umweltfreundliche Materialien verwenden, unterliegt jedes Stück nachhaltiger Bademode einer strengen Qualitätskontrolle, um sicherzustellen, dass es hohe Standards für Komfort, Haltbarkeit und Funktionalität erfüllt. Die umweltfreundlichen Stoffe, die wir auswählen, werden getestet, um ihre Leistung im Wasser, Haltbarkeit und Komfort sicherzustellen, die traditionelle Materialien erreichen oder übertreffen.'
+    - id: 5
+      question: 'Wie ist der Produktionsprozess für Ihre nachhaltige Bademode?'
+      answer: 'Unsere nachhaltigen Bademode-Produktionsprozesse konzentrieren sich auf kohlenstoffarme und ressourcenschonende Herstellung, minimieren Wasser- und Stromverbrauch. Wir wählen Farbstoffe sorgfältig aus, um sicherzustellen, dass sie ungiftig und umweltfreundlich sind, und vermeiden schädliche Chemikalien. Abfallmaterialien aus dem Produktionsprozess werden behandelt und recycelt, um Abfall zu minimieren.'
+    - id: 6
+      question: 'Bieten Sie maßgeschneiderte nachhaltige Bademode an?'
+      answer: 'Ja, wir bieten vollständig maßgeschneiderte nachhaltige Bademode an. Ob Stoff, Design, Farbe oder Markenlogo, wir können nach Ihren Anforderungen anpassen, um sicherzustellen, dass jedes Stück Bademode mit Ihrer Markenphilosophie und Umweltverpflichtungen übereinstimmt.'
+    - id: 7
+      question: 'Wie sollte nachhaltige Bademode gepflegt und gereinigt werden?'
+      answer: 'Die Pflege nachhaltiger Bademode ist ähnlich wie bei traditioneller Bademode. Wir empfehlen Handwäsche in kaltem Wasser und das Vermeiden von Bleichmitteln. Um die Lebensdauer der Bademode zu verlängern, vermeiden Sie direkte Sonneneinstrahlung und Wäschetrockner und legen Sie die Bademode flach zum Trocknen. Regelmäßige Reinigung und ordnungsgemäße Pflege helfen dabei, Komfort zu erhalten und die Lebensdauer der Bademode zu verlängern.'

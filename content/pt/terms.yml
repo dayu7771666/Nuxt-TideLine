@@ -1,0 +1,89 @@
+title: 'Termos e Condições'
+description: 'Operamos como fabricante B2B, e todas as compras feitas através da nossa loja são por atacado, não para B2C. Aceitamos apenas devoluções ou reembolsos para produtos defeituosos de acordo com nossos termos. Amostras são fornecidas para ajudá-lo a avaliar qualidade, ajuste e design antes de se comprometer com pedidos em grande quantidade. Quaisquer alterações feitas nas amostras serão consideradas como personalização, que pode ser organizada através do nosso serviço de personalização online.'
+
+seo:
+  title: 'Termos e Condições | TIDELINE SWIMWEAR'
+  description: 'Termos e condições do fabricante de roupas de banho B2B. Compras por atacado, termos de pagamento, políticas de envio, acordos de confidencialidade e termos comerciais para pedidos de roupas de banho.'
+  keywords: 'termos e condições roupas de banho, termos B2B, termos roupas de banho atacado, termos fabricante, termos comerciais roupas de banho, acordo de confidencialidade, termos de pagamento, termos de envio'
+  ogTitle: 'Termos e Condições | TIDELINE SWIMWEAR'
+  ogDescription: 'Termos e condições do fabricante de roupas de banho B2B. Compras por atacado, termos de pagamento, políticas de envio e acordos de confidencialidade.'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Termos e Condições | TIDELINE SWIMWEAR'
+  twitterDescription: 'Termos do fabricante de roupas de banho B2B: compras por atacado, termos de pagamento, políticas de envio e acordos de confidencialidade.'
+
+sections:
+  contract_formation:
+    title: 'Formação do Contrato'
+    content: 'Um pedido torna-se um contrato vinculativo uma vez confirmado. Quaisquer alterações requerem consentimento mútuo por escrito.'
+
+  payment_terms:
+    title: 'Termos de Pagamento'
+    content: |
+      É necessário um depósito de 50% para todos os pedidos, com o saldo devido antes do envio.
+
+      Para clientes de primeira viagem, é necessário um depósito de 100%.
+
+  shipping:
+    title: 'Envio'
+    content: 'Os prazos de entrega dependem do tipo de pedido (amostras ou grande quantidade) e do método de envio. Forneceremos documentação de envio completa para desembaraço aduaneiro, que será tratado pelo comprador.'
+
+  cancellations:
+    title: 'Cancelamentos'
+    content: 'Os pedidos não podem ser cancelados após a conclusão. Uma taxa de 25% é aplicada para qualquer cancelamento ou modificação de pedido após o pagamento final.'
+
+  pricing:
+    title: 'Preços'
+    content: 'Os preços unitários incluem tecido, mão de obra e verificações de qualidade padrão, mas excluem elementos adicionais como etiquetas penduradas ou embalagens personalizadas.'
+
+  bulk_orders:
+    title: 'Pedidos em Grande Quantidade'
+    content: 'Exigimos um pacote técnico final e aprovação da amostra antes da produção em massa. Quaisquer alterações após o pagamento podem incorrer em cobranças adicionais.'
+
+  claims_returns:
+    title: 'Reclamações e Devoluções'
+    content: 'Para itens defeituosos em grande quantidade, as reclamações devem ser feitas dentro de 14 dias após o recebimento das mercadorias. Reembolsos ou substituições serão baseados em nossa avaliação do defeito.'
+
+  confidentiality:
+    title: 'Confidencialidade'
+    subsections:
+      definition:
+        title: 'Definição de Informações Confidenciais'
+        content: 'Especifique que "Informações Confidenciais" abrangem todas as informações não públicas divulgadas pelo cliente, incluindo, mas não se limitando a planos de negócios, designs, dados técnicos, estratégias de marketing, detalhes financeiros, listas de clientes e quaisquer outras informações proprietárias.'
+
+      obligations:
+        title: 'Obrigações de Confidencialidade'
+        content: |
+          Comprometa-se a usar as Informações Confidenciais exclusivamente para os propósitos descritos no acordo e proibir a divulgação a terceiros sem o consentimento prévio por escrito do cliente.
+          Garanta que o acesso às Informações Confidenciais seja restrito a funcionários ou parceiros que precisem conhecer tais informações para cumprir o acordo e exija que eles adiram a obrigações de confidencialidade equivalentes.
+
+      protection:
+        title: 'Medidas de Proteção'
+        content: 'Implemente salvaguardas técnicas e organizacionais razoáveis para prevenir acesso, uso ou divulgação não autorizados de Informações Confidenciais.'
+
+      duration:
+        title: 'Duração da Confidencialidade'
+        content: 'Especifique que as obrigações de confidencialidade permanecem em vigor durante o prazo do acordo e por um período especificado (por exemplo, dois anos) após sua rescisão.'
+
+      exceptions:
+        title: 'Exceções à Confidencialidade'
+        content: |
+          Esclareça que as obrigações de confidencialidade não se aplicam a informações que:
+
+          Sejam ou se tornem publicamente disponíveis sem violação do acordo;
+          Já estavam na posse da parte receptora sem obrigação de confidencialidade;
+          Sejam divulgadas à parte receptora por um terceiro legalmente autorizado a fazer tal divulgação;
+          Sejam desenvolvidas independentemente pela parte receptora sem uso das Informações Confidenciais da parte divulgadora;
+          Sejam obrigadas a ser divulgadas por lei ou ordem governamental, desde que a parte divulgadora seja prontamente notificada e tenha a oportunidade de buscar uma ordem de proteção.
+
+      breach:
+        title: 'Violação e Remédios'
+        content: 'Declare que qualquer violação de confidencialidade pode resultar em dano irreparável ao cliente e lhe dá direito a buscar medida liminar além de quaisquer outros remédios legais.'
+
+      return_destruction:
+        title: 'Devolução ou Destruição de Informações'
+        content: 'Após a rescisão do acordo ou mediante solicitação do cliente, obrigue a devolução ou destruição certificada de todos os materiais contendo Informações Confidenciais.'
+
+footer:
+  consultation: 'Se você está interessado em nossos serviços ou tem alguma dúvida, oferecemos Consulta gratuita.'

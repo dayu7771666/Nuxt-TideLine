@@ -16,52 +16,47 @@ seo:
 
 products:
   - id: 1
-    name: 'Classic Bikini Bottom'
-    description: 'Timeless classic cut bikini bottom with moderate coverage and comfortable fit for all-day wear.'
-    imageSrc: '/women-swimwear/tankini/tankini-1.webp'
-    imageAlt: 'Classic bikini bottom in navy blue'
+    name: "Girls' Shimmer Cutout Crisscross One-Piece Swimsuit"
+    description: 'Shimmering black one-piece with modern front cutout and crisscross back straps, offering a sleek and trendy look.'
+    imageSrc: '/products/kids-swimwear/M01.png'
+    imageAlt: "Girls' One-Piece Swimsuit Shimmering black cutout design for tween girls."
   - id: 2
-    name: 'High-Waisted Retro Bottom'
-    description: 'Vintage-inspired high-waisted bottom with full coverage and flattering silhouette for all body types.'
-    imageSrc: '/women-swimwear/tankini/tankini-2.webp'
-    imageAlt: 'High-waisted retro bikini bottom'
+    name: "Girls' Neon Stripe Athletic Tank One-Piece Swimsuit"
+    description: 'Classic tank suit with vibrant horizontal neon stripes (pink, blue, mint) for high visibility and a fun, sporty style.'
+    imageSrc: '/products/kids-swimwear/M02.png'
+    imageAlt: "Girls' One-Piece Swimsuit Neon horizontal stripe pattern with athletic tank cut."
   - id: 3
-    name: 'Brazilian Cut Bottom'
-    description: 'Sexy Brazilian cut bottom with minimal coverage and cheeky design for confident beach looks.'
-    imageSrc: '/women-swimwear/tankini/tankini-3.webp'
-    imageAlt: 'Brazilian cut bikini bottom in black'
+    name: "Toddler/Girls' Sea Life Print Mesh One-Piece Swimsuit"
+    description: 'Bright blue one-piece featuring multi-colored starfish and coral print with contrast straps, providing a cheerful, secure fit.'
+    imageSrc: '/products/kids-swimwear/M03.png'
+    imageAlt: "Girls' One-Piece Swimsuit Blue with multi-color sea life print and mesh texture."
   - id: 4
-    name: 'Boy Short Bikini Bottom'
-    description: 'Sporty boy short style bottom with full coverage and comfortable fit perfect for active beach days.'
-    imageSrc: '/women-swimwear/tankini/tankini-4.webp'
-    imageAlt: 'Boy short bikini bottom with sporty design'
+    name: "Girls' Tropical Print Crop Bikini Set with Beach Pants"
+    description: 'Two-piece set with a tropical print sports bra top and matching wide-leg cover-up pants, perfect for beach-to-street wear.'
+    imageSrc: '/products/kids-swimwear/M04.png'
+    imageAlt: "Girls' Swim Set Tropical print crop top and matching beach pants for cover-up."
   - id: 5
-    name: 'String Tie Side Bottom'
-    description: 'Adjustable string tie side bottom with customizable fit and playful tie details at the hips.'
-    imageSrc: '/women-swimwear/tankini/tankini-5.webp'
-    imageAlt: 'String tie side bikini bottom'
+    name: "Kids' Ribbed Jersey Knit Relaxed Drawstring Shorts"
+    description: 'Dark grey, vertically ribbed knit shorts with an adjustable drawstring waist, designed for comfortable, casual wear.'
+    imageSrc: '/products/kids-swimwear/M05.png'
+    imageAlt: "Kids' Swim Shorts Dark grey ribbed knit jersey for comfort and quick-drying."
   - id: 6
-    name: 'Ruffle Trim Bottom'
-    description: 'Feminine ruffle trim bottom with delicate details and moderate coverage for a romantic look.'
-    imageSrc: '/women-swimwear/tankini/tankini-6.webp'
-    imageAlt: 'Ruffle trim bikini bottom in coral'
+    name: "Boys' Striped Alligator Print Quick-Dry Swim Trunks"
+    description: 'Light blue and white striped swim trunks with green alligator print, featuring a comfortable elastic drawstring waist.'
+    imageSrc: '/products/kids-swimwear/M06.png'
+    imageAlt: "Boys' Swim Trunks Light blue stripe with green alligator graphic print."
   - id: 7
-    name: 'Hipster Bikini Bottom'
-    description: 'Modern hipster style bottom with mid-rise cut and comfortable elastic waistband.'
-    imageSrc: '/women-swimwear/tankini/tankini-7.webp'
-    imageAlt: 'Hipster bikini bottom with striped pattern'
+    name: "Toddler Girls' Daisy Print Ruffle Tutu One-Piece Swimsuit"
+    description: 'Light blue one-piece with all-over daisy print and a tiered ruffle tulle skirt, creating a cute ballet-inspired look.'
+    imageSrc: '/products/kids-swimwear/M07.png'
+    imageAlt: "Toddler Girls' One-Piece Swimsuit Light blue daisy print with layered ruffle tutu skirt."
   - id: 8
-    name: 'Tropical Print Bottom'
-    description: 'Vibrant tropical print bottom featuring palm leaves and exotic flowers in sunset colors.'
-    imageSrc: '/women-swimwear/tankini/tankini-8.webp'
-    imageAlt: 'Tropical print bikini bottom'
+    name: "Girls' Animal Print Long Sleeve Rash Guard & High-Waist Bikini Set"
+    description: 'Long-sleeve rash guard in an orange/purple leopard print paired with high-waisted black textured bikini bottoms for sun protection.'
+    imageSrc: '/products/kids-swimwear/M08.png'
+    imageAlt: "Girls' Rash Guard Set Long sleeve animal print top with high-waist black bottoms for UV protection."
   - id: 9
-    name: 'Seamless Minimalist Bottom'
-    description: 'Clean and simple seamless bottom with no-show construction and ultra-comfortable fit.'
-    imageSrc: '/women-swimwear/tankini/tankini-9.webp'
-    imageAlt: 'Seamless minimalist bikini bottom'
-  - id: 10
-    name: 'Polka Dot High-Waisted Bottom'
-    description: 'Vintage-inspired polka dot high-waisted bottom with retro charm and full coverage.'
-    imageSrc: '/women-swimwear/tankini/tankini-10.webp'
-    imageAlt: 'Polka dot high-waisted bikini bottom'
+    name: "Girls' Ribbed Scallop One-Shoulder Cutout One-Piece Swimsuit"
+    description: 'Black ribbed one-piece with a chic one-shoulder neckline featuring scallop trim and a trendy side cutout detail.'
+    imageSrc: '/products/kids-swimwear/M09.png'
+    imageAlt: "Girls' One-Piece Swimsuit Black ribbed one-shoulder with scallop detail and side cutout."

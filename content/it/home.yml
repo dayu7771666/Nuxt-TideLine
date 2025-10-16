@@ -1,0 +1,147 @@
+title: 'Tideline: Più di un fornitore, il tuo partner per costruire il tuo marchio di costumi da bagno.'
+description: 'Offriamo produzione di costumi da bagno personalizzati di alta qualità, end-to-end, dal design alla consegna.'
+
+seo:
+  title: 'Produttore Premium di Costumi da Bagno: Costumi da Bagno e Bikini di Alta Qualità | Tideline Swim'
+  description: 'Tideline Swim è un produttore premium di costumi da bagno con sede in Cina, specializzato in costumi da bagno personalizzati di alta qualità, bikini e produzione private label. Collaboriamo con marchi e designer esigenti in tutto il mondo, offrendo produzione sostenibile, artigianalità meticolosa e servizio eccezionale per dare vita alla tua visione di costumi da bagno di lusso.'
+  keywords: 'produttore premium di costumi da bagno, fabbrica di costumi da bagno di lusso, produttore di bikini personalizzati, costumi da bagno di alta qualità, costumi da bagno private label, produzione di costumi da bagno eco-friendly, costumi da bagno sostenibili, produttore di costumi da bagno designer, OEM costumi da bagno, fornitore di costumi da bagno, Tideline Swim'
+  ogImage: '/og-image.jpg'
+  twitterCard: 'summary_large_image'
+  ogType: 'website'
+  ogSiteName: 'Tideline Swim'
+  twitterSite: '@TidelineSwim'
+  robots: 'index, follow'
+  canonical: 'https://tidelineswim.com/it'
+
+hero:
+  src: /hero_banner.webp
+  alt: 'Costruisci la tua linea premium di costumi da bagno'
+  ctaButton: 'Richiedi un campione'
+  features:
+    - text: 'MOQ a partire da soli 60 pezzi'
+      href: '/bulkproduction'
+    - text: 'Produzione rapida in 15 giorni'
+      href: '/bulkproduction'
+    - text: 'Supporto di design gratuito'
+      href: '/sampling'
+
+videoShowcase:
+  title: 'Esplora il nostro processo di produzione di costumi da bagno'
+  description: 'Questo video mostra il percorso di creazione dei tuoi costumi da bagno personalizzati di alta qualità, supportati da design professionale e produzione di precisione.'
+  ctaText: 'Scopri di più'
+  videoSrc: 'https://www.youtube.com/watch?v=sSPf81Vexwc'
+  videoDuration: '5:32'
+  youtubeWatchText: 'Guarda su YouTube'
+
+howWorks:
+  title: "Dall'idea ai costumi da bagno in 5 semplici passaggi"
+  description: 'Semplifica il tuo processo di creazione del marchio. Concentrati sulla creatività e sul marketing.'
+  cta: 'Inizia il tuo percorso di marca'
+  steps:
+    - title: 'Consultazione'
+      description: 'Condividi il tuo concetto di marchio e i requisiti tramite telefono, e-mail o il nostro modulo online.'
+      icon: 'ChatBubbleLeftRightIcon'
+    - title: 'Design e Campionatura'
+      description: 'Tideline crea design professionali e produce campioni per te.'
+      icon: 'PencilSquareIcon'
+    - title: 'Conferma e Ordine'
+      description: "Finalizza i dettagli e approva l'ordine di produzione dopo la revisione del campione."
+      icon: 'CheckCircleIcon'
+    - title: 'Produzione e Spedizione'
+      description: 'Tideline gestirà la produzione di alto livello e organizzerà la logistica affidabile.'
+      icon: 'TruckIcon'
+    - title: 'Supporto alla crescita'
+      description: 'Tideline fornisce consulenza tecnica e di marketing continua per lo sviluppo del marchio a lungo termine.'
+      icon: 'ChartBarIcon'
+
+whyUs:
+  title: 'Hai bisogno di un fornitore che capisca il branding?'
+  description: "Collabora con Tideline per un'expertise strategica che trasforma i prodotti in un marchio potente."
+  cta: 'Scopri di più sui nostri vantaggi'
+  advantages:
+    - name: 'Prezzi diretti di fabbrica e comunicazione'
+      description: 'Come fabbrica diretta, Tideline elimina i costi degli intermediari per offrire prezzi più competitivi e garantire una comunicazione efficiente e trasparente.'
+      icon: 'SwatchIcon'
+    - name: 'Ampia libreria di materiali e componenti'
+      description: 'Tideline fornisce una selezione diversificata di tessuti e accessori - dal nylon eco-friendly ai compositi ad alta elasticità - per soddisfare varie esigenze di stile e funzionalità.'
+      icon: 'BuildingOfficeIcon'
+    - name: 'Supporto flessibile per piccoli volumi e campionatura'
+      description: 'Inizia con ordini in piccoli lotti (MOQ 60 pezzi) per testare il mercato con un rischio minimo. Approfitta di un servizio di campionatura rapido, con prototipi consegnati in soli 3 giorni.'
+      icon: 'LightBulbIcon'
+    - name: 'Rigoroso controllo qualità'
+      description: 'Il nostro rigoroso sistema di ispezione in quattro fasi - dalle materie prime ai prodotti finiti - garantisce che ogni capo soddisfi gli standard di qualità internazionali.'
+      icon: 'ShieldCheckIcon'
+
+indexCta:
+  title: 'Sei a una sola decisione dal tuo marchio di costumi da bagno'
+  description: 'Ottieni una consulenza personalizzata gratuita 1-a-1. Il nostro team professionale fornirà supporto completo nella creazione del marchio e nella produzione per iniziare il tuo percorso nei costumi da bagno.'
+  cta: 'Ottieni una consulenza gratuita'
+  image:
+    src: '/home/indexcta.webp'
+    alt: 'Consulenza per marchio di costumi da bagno'
+
+products:
+  title: 'Collezioni di prodotti'
+  description: 'Potenzia il tuo marchio con tessuti premium e design mirati'
+  learnMoreText: 'Esplora'
+  quoteText: 'Richiedi un preventivo'
+  quoteLink: '/contact'
+  items:
+    - id: 1
+      name: 'Collezioni di costumi da bagno'
+      href: '/collections/swimwear'
+      description: 'Supporta la personalizzazione completa di modelli, colori, logo e taglie per soddisfare le esigenze del tuo marchio'
+      imageSrc: '/home/homeserver-1.avif'
+      imageAlt: 'Set bikini premium in vari colori disposto su sfondo balneare.'
+    - id: 2
+      name: 'Collezioni di abbigliamento sportivo'
+      href: '/collections/activewear'
+      description: 'Dagli ordini di prova in piccoli lotti alla produzione su larga scala, forniamo soluzioni di produzione flessibili'
+      imageSrc: '/home/homeserver-2.avif'
+      imageAlt: 'Costume da bagno intero atletico dal design nero elegante.'
+    - id: 3
+      name: 'Collezioni Tan Through'
+      href: '/collections/tan-through'
+      description: 'Team logistico professionale garantisce che i tuoi ordini siano consegnati puntualmente in tutto il mondo'
+      imageSrc: '/home/homeserver-3.avif'
+      imageAlt: 'Set tankini di design dal design bianco sofisticato.'
+    - id: 4
+      name: 'Collezioni di accessori'
+      href: '/collections/accessories'
+      description: 'Fornire supporto professionale completo dalla consulenza di design al servizio post-vendita'
+      imageSrc: '/home/homeserver-4.avif'
+      imageAlt: 'Elegante copricostume in toni neutri.'
+
+serviceAdvantages:
+  title: 'Vantaggi del servizio'
+  description: 'Collabora con noi per elevare la tua collezione e semplificare la tua catena di approvvigionamento'
+  advantages:
+    - id: 1
+      title: 'Design personalizzato'
+      description: 'Team di design professionale crea stili di costumi da bagno unici su misura per il tuo marchio e le esigenze dei clienti.'
+      icon: 'CogIcon'
+    - id: 2
+      title: 'Produzione rapida'
+      description: 'Processo di produzione efficiente con consegna rapida in 15 giorni per soddisfare le tue urgenti esigenze di mercato.'
+      icon: 'ClockIcon'
+    - id: 3
+      title: 'Garanzia di qualità'
+      description: 'Sistema di controllo qualità rigoroso garantisce che ogni pezzo soddisfi gli standard internazionali e le aspettative dei clienti.'
+      icon: 'ShieldCheckIcon'
+    - id: 4
+      title: 'Servizio professionale'
+      description: 'Team di assistenza clienti dedicato fornisce supporto completo dal design alla consegna.'
+      icon: 'UserGroupIcon'
+
+contactForm:
+  modalTitle: 'Contattaci'
+  nameLabel: 'Nome completo'
+  namePlaceholder: 'Inserisci il tuo nome completo'
+  emailLabel: 'Indirizzo email'
+  emailPlaceholder: 'Inserisci il tuo indirizzo email'
+  messageLabel: 'Messaggio'
+  messagePlaceholder: 'Raccontaci i requisiti del tuo progetto...'
+  consentText: 'Accetto di ricevere aggiornamenti e comunicazioni da Tideline.'
+  submitButton: 'Invia'
+  successMessage: 'Grazie! Ti contatteremo presto.'
+  errorMessage: 'Invio fallito. Riprova o contatta il nostro team di supporto.'

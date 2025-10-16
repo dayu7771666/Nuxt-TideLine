@@ -1,0 +1,121 @@
+title: 'Produttori Costumi da Bagno Sostenibili'
+description: 'Più di un fornitore — il tuo partner nella costruzione del brand di costumi da bagno.'
+
+seo:
+  title: 'Produttori Costumi da Bagno Sostenibili | TIDELINE SWIMWEAR'
+  description: "Produttore di costumi da bagno eco-friendly utilizzando materiali riciclati e produzione sostenibile. Costumi da bagno sostenibili all'ingrosso, processi a basso carbonio, design personalizzati."
+  keywords: 'produttore costumi da bagno sostenibili, costumi da bagno eco-friendly, fornitore costumi da bagno riciclati, fabbrica costumi da bagno biologici, produzione costumi da bagno verdi, costumi da bagno RPET'
+  ogTitle: 'Produttori Costumi da Bagno Sostenibili | TIDELINE SWIMWEAR'
+  ogDescription: 'Produttore di costumi da bagno eco-friendly. Materiali riciclati, produzione sostenibile, processi a basso carbonio. Aiuta il tuo brand a diventare verde.'
+  ogType: 'website'
+  ogImage: '/catalog/sustainable-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Produttori Costumi da Bagno Sostenibili | TIDELINE SWIMWEAR'
+  twitterDescription: 'Produzione di costumi da bagno sostenibili. Materiali riciclati, produzione eco-friendly, design personalizzati.'
+
+# Hero section
+hero:
+  cta_text: 'Consulenza'
+  cta_href: '/contact'
+  image_src: '/catalog/sustainable-swimwear-bg.webp'
+  image_alt: 'Produzione Costumi da Bagno Sostenibili'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'La Nostra Missione'
+  paragraph1: "In TideLine Swimwear, siamo impegnati a creare costumi da bagno sostenibili che rispettino sia le persone che il pianeta. Le nostre collezioni eco-friendly utilizzano tessuti riciclati e di provenienza responsabile, combinati con pratiche di produzione consapevoli, garantendo costumi da bagno di alta qualità che minimizzano l'impatto ambientale fornendo comfort e durata."
+  whatsapp_link_text: 'Contattaci su WhatsApp'
+
+# Statistics
+stats:
+  - label: "Esperienza nell'Industria dei Costumi da Bagno"
+    value: '10 anni +'
+  - label: 'Ordini Completati'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Bikini Riciclati'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/recycled-bikini-1.webp'
+    imageAlt: 'Collezione Bikini Riciclati'
+  - name: 'Costume Intero Eco'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/eco-onepiece-1.webp'
+    imageAlt: 'Collezione Costume Intero Eco'
+  - name: 'Costumi da Bagno Biologici'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/organic-1.webp'
+    imageAlt: 'Collezione Costumi da Bagno Biologici'
+  - name: 'Costumi Biodegradabili'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/biodegradable-1.webp'
+    imageAlt: 'Collezione Costumi Biodegradabili'
+
+# Customization capabilities
+customization:
+  title: 'Capacità di Personalizzazione'
+  description: 'Costumi da bagno completamente personalizzabili—TideLine accetta tutti i design personalizzati, tessuti, hardware, loghi e packaging per dare vita alla tua visione del brand.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Struttura di Produzione'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalizzazione dello Stile'
+      description: 'Dai vita a qualsiasi design di costume da bagno—scegli il tuo stile perfetto e lascia che lo realizziamo per il tuo brand.'
+      link: '/contact'
+      cta_text: 'Consulenza'
+    - name: 'Personalizzazione del Tessuto'
+      description: 'Scegli da una vasta gamma di tessuti per creare costumi da bagno comodi da indossare e belli da vedere.'
+      link: '/fabric'
+      cta_text: 'Tessuto'
+    - name: 'Personalizzazione Hardware'
+      description: 'Personalizza ogni dettaglio—da fibbie e anelli a cerniere—le nostre opzioni hardware elevano il tuo design.'
+      link: '/hardware'
+      cta_text: 'Hardware'
+    - name: 'Personalizzazione Logo'
+      description: 'Rendilo veramente tuo—aggiungi il tuo logo a ogni pezzo per un look di brand professionale.'
+    - name: 'Personalizzazione Packaging'
+      description: 'Completa la tua esperienza di brand con packaging su misura per il tuo stile e visione.'
+    - name: 'Contattaci'
+      description: 'Pronto? Trasformiamo le tue idee di costumi da bagno in realtà.'
+      link: '/contact'
+      cta_text: 'Contattaci'
+
+# Getting Started section
+getting_started:
+  title: 'Il tuo viaggio nei costumi da bagno inizia qui'
+  description: 'Che tu stia lanciando la tua prima collezione o scalando il tuo brand, TideLine fornisce soluzioni di costumi da bagno su misura per soddisfare le tue esigenze. Scegli il tuo percorso e inizia.'
+  beginner_text: 'Inizia come Principiante'
+  beginner_href: '/startup'
+  pro_text: 'Acquirente Esperto'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processo di Produzione'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Domande Frequenti'
+  questions:
+    - id: 1
+      question: 'Cosa sono i costumi da bagno sostenibili?'
+      answer: "I costumi da bagno sostenibili sono realizzati con materiali eco-friendly e processi di produzione a basso carbonio, mirando a ridurre l'impatto ambientale negativo. Tipicamente utilizzano fibre plastiche riciclate (come RPET), cotone biologico, fibre naturali, e minimizzano il consumo di acqua ed elettricità evitando tinture nocive per ridurre l'impronta di carbonio."
+    - id: 2
+      question: 'Quali materiali sono utilizzati nei vostri costumi da bagno sostenibili?'
+      answer: "Utilizziamo una varietà di materiali eco-friendly per produrre costumi da bagno sostenibili, incluse fibre plastiche riciclate (RPET), fibre naturali di alghe marine, nylon biodegradabile e cotone biologico. Questi materiali offrono buon comfort, durata ed elasticità aiutando a ridurre l'inquinamento ambientale e il consumo di risorse."
+    - id: 3
+      question: 'I costumi da bagno sostenibili sono più costosi dei costumi da bagno tradizionali?'
+      answer: "A causa dell'uso di materiali eco-friendly e processi di produzione avanzati, i costumi da bagno sostenibili tendono ad essere più costosi dei costumi da bagno tradizionali. Tuttavia, mentre le tendenze sostenibili continuano a svilupparsi, i costi di approvvigionamento di materiali eco-friendly e metodi di produzione stanno gradualmente diminuendo. Ci sforziamo di offrire prezzi competitivi mantenendo gli standard ambientali."
+    - id: 4
+      question: 'Come assicurate la qualità dei costumi da bagno sostenibili?'
+      answer: 'Anche se utilizziamo materiali eco-friendly, ogni pezzo di costume da bagno sostenibile subisce un rigoroso controllo qualità per assicurare che soddisfi alti standard di comfort, durata e funzionalità. I tessuti eco-friendly che selezioniamo sono testati per assicurare le loro prestazioni in acqua, durata e comfort, uguagliando o superando quelli dei materiali tradizionali.'
+    - id: 5
+      question: 'Qual è il processo di produzione per i vostri costumi da bagno sostenibili?'
+      answer: 'I nostri processi di produzione di costumi da bagno sostenibili si concentrano sulla produzione a basso carbonio e risparmio di risorse, minimizzando il consumo di acqua ed elettricità. Selezioniamo attentamente le tinture per assicurare che siano non tossiche ed eco-friendly, evitando sostanze chimiche nocive. I materiali di scarto del processo di produzione sono trattati e riciclati per minimizzare i rifiuti.'
+    - id: 6
+      question: 'Offrite costumi da bagno sostenibili personalizzati?'
+      answer: 'Sì, offriamo costumi da bagno sostenibili completamente personalizzati. Che si tratti di tessuto, design, colore o logo del brand, possiamo personalizzare secondo le vostre esigenze per assicurare che ogni pezzo di costume da bagno si allinei con la vostra filosofia del brand e impegni ambientali.'
+    - id: 7
+      question: 'Come dovrebbero essere mantenuti e puliti i costumi da bagno sostenibili?'
+      answer: "La manutenzione dei costumi da bagno sostenibili è simile ai costumi da bagno tradizionali. Raccomandiamo il lavaggio a mano in acqua fredda ed evitare la candeggina. Per estendere la vita del costume da bagno, evitate la luce solare diretta e l'asciugatrice, e stendete il costume da bagno piatto per asciugare. La pulizia regolare e la cura appropriata aiuteranno a mantenere il comfort ed estendere la durata del costume da bagno."

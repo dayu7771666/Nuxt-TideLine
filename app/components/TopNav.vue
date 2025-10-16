@@ -18,7 +18,7 @@
 
       <!-- 桌面端显示完整内容 -->
       <div class="hidden sm:flex items-center gap-4">
-        <span class="text-white text-sm">Follow Us :</span>
+        <span class="text-white text-sm">{{ $t('Follow Us :') }}</span>
         <!-- 社媒  -->
         <div class="flex space-x-3">
           <a
@@ -41,7 +41,7 @@
       <div class="hidden sm:flex items-center gap-2">
         <div class="flex items-center gap-2">
           <span>WhatsApp:</span>
-          <span>+86 13147918301</span>
+          <span>+(86)18302407790</span>
         </div>
         <div class="flex items-center gap-2 ml-5">
           <span>Email:</span>

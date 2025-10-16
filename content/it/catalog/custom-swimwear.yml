@@ -1,0 +1,125 @@
+title: 'Produttore di Costumi da Bagno Personalizzati'
+description: 'Più di un fornitore - il vostro partner nella costruzione del vostro marchio di costumi da bagno.'
+
+seo:
+  title: 'Produttore di Costumi da Bagno Personalizzati | TIDELINE SWIMWEAR'
+  description: 'Servizi professionali di produzione di costumi da bagno personalizzati. Dal design alla produzione, diamo vita alla vostra visione unica di costumi da bagno con qualità premium e servizio personalizzato.'
+  keywords: 'produttore costumi da bagno personalizzati, costumi da bagno private label, produttore bikini personalizzati, servizi design costumi da bagno, OEM costumi da bagno, produzione costumi da bagno personalizzati'
+  ogTitle: 'Produttore di Costumi da Bagno Personalizzati | TIDELINE SWIMWEAR'
+  ogDescription: 'Produzione di costumi da bagno personalizzati a servizio completo. Sviluppo design, creazione cartamodelli, produzione in serie. Date vita alla vostra visione di costumi da bagno.'
+  ogType: 'website'
+  ogImage: '/catalog/custom-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Produttore di Costumi da Bagno Personalizzati | TIDELINE SWIMWEAR'
+  twitterDescription: 'Produzione di costumi da bagno personalizzati dal concetto alla creazione. Servizi di design, creazione cartamodelli, produzione in serie.'
+
+# Hero section
+hero:
+  cta_text: 'Inizia il Tuo Design Personalizzato'
+  cta_href: '/contact'
+  image_src: '/catalog/custom-swimwear-bg.webp'
+  image_alt: 'Produzione di Costumi da Bagno Personalizzati'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'La Nostra Missione'
+  paragraph1: 'In TideLine Swimwear, siamo specializzati nel dare vita alla vostra visione unica di costumi da bagno. I nostri servizi di produzione personalizzata coprono ogni aspetto della produzione - dai concetti di design iniziali al confezionamento finale - garantendo che il vostro marchio si distingua con costumi da bagno distintivi e di alta qualità che riflettono perfettamente il vostro stile e i vostri valori.'
+  whatsapp_link_text: 'Contattaci su WhatsApp'
+
+# Statistics
+stats:
+  - label: "Esperienza nell'Industria dei Costumi da Bagno"
+    value: '10 anni +'
+  - label: 'Ordini Personalizzati Completati'
+    value: '50,000+'
+
+# Product categories
+categories:
+  - name: 'Bikini Personalizzati'
+    href: '/category?type=custom&subtype=bikini'
+    imageSrc: '/custom-swimwear/custom-bikini-1.webp'
+    imageAlt: 'Collezione Bikini Personalizzati'
+  - name: 'Intero Personalizzato'
+    href: '/category?type=custom&subtype=one-piece'
+    imageSrc: '/custom-swimwear/custom-onepiece-1.webp'
+    imageAlt: 'Collezione Intero Personalizzato'
+  - name: 'Tankini Personalizzati'
+    href: '/category?type=custom&subtype=tankini'
+    imageSrc: '/custom-swimwear/custom-tankini-1.webp'
+    imageAlt: 'Collezione Tankini Personalizzati'
+  - name: 'Copricostume Personalizzati'
+    href: '/category?type=custom&subtype=cover-up'
+    imageSrc: '/custom-swimwear/custom-coverup-1.webp'
+    imageAlt: 'Collezione Copricostume Personalizzati'
+
+# Customization capabilities
+customization:
+  title: 'Servizi di Personalizzazione Completi'
+  description: 'Dal concetto alla creazione - TideLine offre servizi completi di produzione di costumi da bagno personalizzati su misura per le vostre specifiche esatte e i requisiti del marchio.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Impianto di Produzione'
+  hero_image_width: '1000'
+  features:
+    - name: 'Sviluppo del Design'
+      description: 'Il nostro team di design lavora con voi per sviluppare concetti unici di costumi da bagno, dagli schizzi alle specifiche tecniche.'
+      link: '/contact'
+      cta_text: 'Consulenza di Design'
+    - name: 'Creazione Cartamodelli'
+      description: 'Servizi professionali di creazione cartamodelli per garantire vestibilità e costruzione perfette per i vostri design personalizzati.'
+      link: '/contact'
+      cta_text: 'Servizi Cartamodelli'
+    - name: 'Selezione Tessuti'
+      description: 'Scegliete dalla nostra vasta biblioteca di tessuti o procurate materiali specifici per corrispondere alla vostra visione di design.'
+      link: '/fabric'
+      cta_text: 'Opzioni Tessuti'
+    - name: 'Produzione Campioni'
+      description: 'Campioni di alta qualità prodotti per convalidare design, vestibilità e costruzione prima della produzione in serie.'
+      link: '/contact'
+      cta_text: 'Richiesta Campione'
+    - name: 'Produzione in Serie'
+      description: 'Capacità di produzione scalabili da piccoli lotti a grandi ordini con controllo qualità coerente.'
+      link: '/contact'
+      cta_text: 'Preventivo Produzione'
+    - name: 'Etichettatura Privata'
+      description: 'Servizi di branding completi incluse etichette personalizzate, tag e soluzioni di confezionamento.'
+      link: '/contact'
+      cta_text: 'Servizi di Branding'
+
+# Getting Started section
+getting_started:
+  title: 'Inizia il Tuo Viaggio nei Costumi da Bagno Personalizzati'
+  description: 'Pronti a creare la vostra linea unica di costumi da bagno? Il nostro processo di produzione personalizzata è progettato per supportare i marchi in ogni fase, dai concetti di startup alle collezioni consolidate.'
+  beginner_text: 'Nuovo nella Produzione Personalizzata'
+  beginner_href: '/startup'
+  pro_text: 'Proprietario di Marchio Esperto'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processo di Produzione Personalizzata'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Domande Frequenti'
+  questions:
+    - id: 1
+      question: "Qual è la quantità minima d'ordine per i costumi da bagno personalizzati?"
+      answer: "La nostra quantità minima d'ordine per i costumi da bagno personalizzati varia in base alla complessità, iniziando tipicamente da 50-100 pezzi per stile. Lavoriamo con startup e marchi consolidati per trovare soluzioni flessibili che soddisfino il vostro budget e la vostra tempistica."
+    - id: 2
+      question: 'Quanto tempo richiede il processo di sviluppo dei costumi da bagno personalizzati?'
+      answer: "La tempistica dipende dalla complessità del design e dal livello di personalizzazione. Generalmente, i campioni iniziali richiedono 2-3 settimane, con la produzione in serie che richiede 4-6 settimane dopo l'approvazione del campione. Gli ordini urgenti possono essere accolti con una pianificazione aggiuntiva."
+    - id: 3
+      question: 'Potete aiutare con il design dei costumi da bagno se ho solo un concetto?'
+      answer: 'Assolutamente! Il nostro team di design è specializzato nel trasformare i concetti in design pronti per la produzione. Forniamo servizi di schizzi, design tecnico, creazione cartamodelli e sviluppo della vestibilità per dare vita alla vostra visione.'
+    - id: 4
+      question: 'Quali opzioni di personalizzazione sono disponibili per tessuti e materiali?'
+      answer: "Offriamo un'ampia personalizzazione dei tessuti inclusi materiali performanti, opzioni eco-friendly, stampe, texture e finiture speciali. Potete scegliere dalla nostra biblioteca di tessuti o procurare materiali specifici per soddisfare i requisiti del vostro marchio."
+    - id: 5
+      question: 'Fornite supporto di design e tecnico durante tutto il processo?'
+      answer: "Sì, il nostro team esperto fornisce supporto completo inclusa consulenza di design, guida tecnica, ottimizzazione della vestibilità e assicurazione qualità durante l'intero processo di sviluppo e produzione."
+    - id: 6
+      question: 'Potete produrre costumi da bagno con caratteristiche speciali o requisiti di performance?'
+      answer: 'Certamente! Siamo specializzati in caratteristiche personalizzate inclusa protezione UV, resistenza al cloro, zone di compressione, imbottitura rimovibile, spalline regolabili e altri miglioramenti di performance o estetici basati sulle vostre specifiche.'
+    - id: 7
+      question: 'Quali sono i costi coinvolti nella produzione di costumi da bagno personalizzati?'
+      answer: 'I costi variano in base alla complessità del design, materiali, quantità e livello di personalizzazione. Forniamo preventivi dettagliati incluse tariffe di sviluppo, costi dei campioni e prezzi di produzione. Contattateci per una stima personalizzata basata sui vostri requisiti specifici.'

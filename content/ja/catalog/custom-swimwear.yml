@@ -1,0 +1,125 @@
+title: 'カスタム水着メーカー'
+description: 'サプライヤー以上 - あなたの水着ブランド構築パートナー。'
+
+seo:
+  title: 'カスタム水着メーカー | TIDELINE SWIMWEAR'
+  description: 'プロフェッショナルなカスタム水着製造サービス。デザインから生産まで、プレミアム品質とパーソナライズされたサービスで、あなたのユニークな水着ビジョンを実現します。'
+  keywords: 'カスタム水着メーカー, プライベートラベル水着, カスタムビキニメーカー, 水着デザインサービス, OEM水着, カスタム水着生産'
+  ogTitle: 'カスタム水着メーカー | TIDELINE SWIMWEAR'
+  ogDescription: 'フルサービスのカスタム水着製造。デザイン開発、パターン作成、大量生産。あなたの水着ビジョンを実現します。'
+  ogType: 'website'
+  ogImage: '/catalog/custom-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'カスタム水着メーカー | TIDELINE SWIMWEAR'
+  twitterDescription: 'コンセプトから創造までのカスタム水着製造。デザインサービス、パターン作成、大量生産。'
+
+# Hero section
+hero:
+  cta_text: 'カスタムデザインを始める'
+  cta_href: '/contact'
+  image_src: '/catalog/custom-swimwear-bg.webp'
+  image_alt: 'カスタム水着製造'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: '私たちの使命'
+  paragraph1: 'TideLine Swimwearでは、あなたのユニークな水着ビジョンを実現することに特化しています。当社のカスタム製造サービスは、初期のデザインコンセプトから最終的なパッケージングまで、生産のあらゆる側面をカバーし、あなたのスタイルと価値観を完璧に反映する、独特で高品質な水着であなたのブランドを際立たせます。'
+  whatsapp_link_text: 'WhatsAppでお問い合わせ'
+
+# Statistics
+stats:
+  - label: '水着業界での経験'
+    value: '10年 +'
+  - label: '完了したカスタムオーダー'
+    value: '50,000+'
+
+# Product categories
+categories:
+  - name: 'カスタムビキニ'
+    href: '/category?type=custom&subtype=bikini'
+    imageSrc: '/custom-swimwear/custom-bikini-1.webp'
+    imageAlt: 'カスタムビキニコレクション'
+  - name: 'カスタムワンピース'
+    href: '/category?type=custom&subtype=one-piece'
+    imageSrc: '/custom-swimwear/custom-onepiece-1.webp'
+    imageAlt: 'カスタムワンピースコレクション'
+  - name: 'カスタムタンキニ'
+    href: '/category?type=custom&subtype=tankini'
+    imageSrc: '/custom-swimwear/custom-tankini-1.webp'
+    imageAlt: 'カスタムタンキニコレクション'
+  - name: 'カスタムカバーアップ'
+    href: '/category?type=custom&subtype=cover-up'
+    imageSrc: '/custom-swimwear/custom-coverup-1.webp'
+    imageAlt: 'カスタムカバーアップコレクション'
+
+# Customization capabilities
+customization:
+  title: '完全なカスタマイズサービス'
+  description: 'コンセプトから創造まで - TideLineは、お客様の正確な仕様とブランド要件に合わせた包括的なカスタム水着製造サービスを提供します。'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: '製造施設'
+  hero_image_width: '1000'
+  features:
+    - name: 'デザイン開発'
+      description: '当社のデザインチームは、スケッチから技術仕様まで、ユニークな水着コンセプトを開発するためにお客様と協力します。'
+      link: '/contact'
+      cta_text: 'デザイン相談'
+    - name: 'パターン作成'
+      description: 'カスタムデザインの完璧なフィット感と構造を保証するプロフェッショナルなパターン作成サービス。'
+      link: '/contact'
+      cta_text: 'パターンサービス'
+    - name: '生地選択'
+      description: '豊富な生地ライブラリから選択するか、デザインビジョンに合わせて特定の素材を調達します。'
+      link: '/fabric'
+      cta_text: '生地オプション'
+    - name: 'サンプル生産'
+      description: '大量生産前にデザイン、フィット感、構造を検証するために高品質のサンプルを生産します。'
+      link: '/contact'
+      cta_text: 'サンプルリクエスト'
+    - name: '大量製造'
+      description: '一貫した品質管理で、小ロットから大量注文までスケーラブルな生産能力。'
+      link: '/contact'
+      cta_text: '生産見積もり'
+    - name: 'プライベートラベリング'
+      description: 'カスタムラベル、タグ、パッケージングソリューションを含む完全なブランディングサービス。'
+      link: '/contact'
+      cta_text: 'ブランディングサービス'
+
+# Getting Started section
+getting_started:
+  title: 'カスタム水着の旅を始めましょう'
+  description: 'ユニークな水着ラインを作成する準備はできていますか？当社のカスタム製造プロセスは、スタートアップのコンセプトから確立されたコレクションまで、あらゆる段階でブランドをサポートするように設計されています。'
+  beginner_text: 'カスタム製造が初めて'
+  beginner_href: '/startup'
+  pro_text: '経験豊富なブランドオーナー'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'カスタム製造プロセス'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'よくある質問'
+  questions:
+    - id: 1
+      question: 'カスタム水着の最小注文数量は何ですか？'
+      answer: 'カスタム水着の最小注文数量は複雑さによって異なり、通常はスタイルごとに50〜100個から始まります。スタートアップや確立されたブランドと協力して、予算とスケジュールに合った柔軟なソリューションを見つけます。'
+    - id: 2
+      question: 'カスタム水着の開発プロセスにはどのくらい時間がかかりますか？'
+      answer: 'タイムラインはデザインの複雑さとカスタマイズのレベルによって異なります。一般的に、初期サンプルには2〜3週間かかり、サンプル承認後の大量生産には4〜6週間が必要です。追加の計画により、急ぎの注文にも対応できます。'
+    - id: 3
+      question: 'コンセプトしかない場合、水着のデザインを手伝ってもらえますか？'
+      answer: 'もちろんです！当社のデザインチームは、コンセプトを生産可能なデザインに変換することに特化しています。スケッチ、技術設計、パターン作成、フィット開発サービスを提供して、あなたのビジョンを実現します。'
+    - id: 4
+      question: '生地と素材にはどのようなカスタマイズオプションがありますか？'
+      answer: 'パフォーマンス素材、環境に優しいオプション、プリント、テクスチャ、特殊仕上げを含む広範な生地カスタマイズを提供しています。生地ライブラリから選択するか、ブランド要件に合わせて特定の素材を調達できます。'
+    - id: 5
+      question: 'プロセス全体を通じてデザインと技術サポートを提供していますか？'
+      answer: 'はい、経験豊富なチームが、デザイン相談、技術指導、フィット最適化、品質保証を含む包括的なサポートを、開発と生産プロセス全体を通じて提供します。'
+    - id: 6
+      question: '特別な機能やパフォーマンス要件を持つ水着を製造できますか？'
+      answer: '確かに！UV保護、耐塩素性、圧縮ゾーン、取り外し可能なパッド、調整可能なストラップ、その他のパフォーマンスまたは美的向上を含むカスタム機能に特化しています。'
+    - id: 7
+      question: 'カスタム水着製造にはどのような費用がかかりますか？'
+      answer: 'コストはデザインの複雑さ、素材、数量、カスタマイズのレベルによって異なります。開発費、サンプルコスト、生産価格を含む詳細な見積もりを提供します。特定の要件に基づいたパーソナライズされた見積もりについては、お問い合わせください。'

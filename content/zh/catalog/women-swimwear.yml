@@ -1,0 +1,116 @@
+title: '女性泳装制造商'
+description: '不仅仅是供应商——您的泳装品牌建设合作伙伴。'
+
+seo:
+  title: '女性泳装制造商 | TIDELINE SWIMWEAR'
+  description: '专业女性泳装制造商，提供定制比基尼、连体泳衣和坦基尼。低MOQ，高品质，为品牌和零售商提供批发价格。'
+  keywords: '女性泳装制造商, 比基尼制造商, 连体泳衣批发, 定制泳装, 女性泳装供应商, 泳装工厂'
+  ogTitle: '女性泳装制造商 | TIDELINE SWIMWEAR'
+  ogDescription: '专业女性泳装制造商。定制设计，低MOQ，比基尼、连体泳衣和坦基尼的批发价格。'
+  ogType: 'website'
+  ogImage: '/catalog/women-swimwear.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '女性泳装制造商 | TIDELINE SWIMWEAR'
+  twitterDescription: '定制女性泳装制造。比基尼，连体泳衣，坦基尼。低MOQ，批发价格。'
+
+# Hero section
+hero:
+  cta_text: '咨询'
+  cta_href: '/contact'
+  image_src: '/catalog/women-swimwear.webp'
+  image_alt: ''
+  image_width: '900px'
+
+# Mission section
+mission:
+  title: '我们的使命'
+  paragraph1: '在TideLine Swimwear，我们知道女性泳装是时尚界最具活力的类别之一。每年，我们的设计团队都会开发新鲜、紧跟潮流的系列，反映最新的全球风格——无论是时尚的连体泳衣、别致的比基尼，还是多功能的坦基尼。'
+  paragraph2_with_link: '准备开始您的订单或探索我们的完整目录？今天就{0}，我们的团队将提供个性化推荐、定价和样品——快速且无忧。'
+  whatsapp_link_text: '通过WhatsApp联系我们'
+
+# Statistics
+stats:
+  - label: '泳装行业经验'
+    value: '10年以上'
+  - label: '完成订单'
+    value: '1,000,000+'
+
+# Product categories
+product_range:
+  title: '女性泳装系列'
+  description: '探索我们精心策划的泳装系列'
+  more_text: '浏览所有产品'
+  categories:
+    - name: '比基尼'
+      href: '/category?type=women&subtype=bikini'
+      image_src: '/women-swimwear/bikinis/bikinis-1.webp'
+    - name: '连体泳衣'
+      href: '/category?type=women&subtype=one-piece'
+      image_src: '/women-swimwear/one-piece/one-piece-1.webp'
+    - name: '坦基尼'
+      href: '/category?type=women&subtype=tankini'
+      image_src: '/women-swimwear/tankini/tankini-10.webp'
+    - name: '沙滩罩衫'
+      href: '/category?type=women&subtype=cover-up'
+      image_src: '/women-swimwear/beach/beach-2.webp'
+
+# Customization capabilities
+customization:
+  title: '定制能力'
+  description: '完全可定制的泳装——TideLine接受所有定制设计、面料、五金配件、标志和包装，让您的品牌愿景成为现实。'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: ''
+  hero_image_width: '1000px'
+  features:
+    - name: '款式定制'
+      description: '实现任何泳装设计——选择您的完美款式，让我们为您的品牌制作。'
+      link: '/contact'
+      cta_text: '咨询'
+    - name: '面料定制'
+      description: '从广泛的面料中选择，创造穿着舒适、外观美丽的泳装。'
+      link: '/fabric'
+      cta_text: '面料'
+    - name: '五金配件定制'
+      description: '定制每个细节——从扣环和环扣到拉链——我们的五金配件选项提升您的设计。'
+      link: '/hardware'
+      cta_text: '五金配件'
+    - name: '标志定制'
+      description: '让它真正属于您——为每件产品添加您的标志，打造专业品牌外观。'
+    - name: '包装定制'
+      description: '用符合您风格和愿景的包装完善您的品牌体验。'
+    - name: '联系我们'
+      description: '准备好了吗？让我们将您的泳装想法变为现实。'
+      link: '/contact'
+      cta_text: '联系我们'
+
+# Getting started section
+getting_started:
+  title: '您的泳装之旅从这里开始'
+  description: '无论您是推出第一个系列还是扩展品牌，TideLine都提供量身定制的泳装解决方案来满足您的需求。选择您的道路并开始。'
+  beginner_text: '作为初学者开始'
+  beginner_href: '/startup'
+  pro_text: '经验丰富的买家'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: ''
+  image_width: '1000px'
+
+# FAQ section
+faq:
+  title: '常见问题'
+  questions:
+    - id: 1
+      question: '女性泳装批发的最小订单量是多少？'
+      answer: '我们的最小订单量（MOQ）从每种款式和尺寸30件开始，这对中小型泳装品牌来说很灵活。'
+    - id: 2
+      question: '我可以定制泳装设计和面料吗？'
+      answer: '可以！我们提供完全可定制的泳装，包括设计、面料、标志和包装，帮助您的品牌在市场上脱颖而出。'
+    - id: 3
+      question: '大批量泳装订单需要多长时间生产？'
+      answer: '通常，样品在10天内准备就绪，大批量订单根据数量和定制要求在30天内发货。'
+    - id: 4
+      question: '你们提供环保或可持续的泳装选择吗？'
+      answer: '当然。我们为优先考虑环境责任的品牌提供一系列环保面料和可持续生产方法。'
+    - id: 5
+      question: '我如何获得批发订单的详细报价？'
+      answer: '您可以通过WhatsApp或电子邮件联系我们的团队，提供您想要的款式、尺寸和面料，我们将发送完整的报价、面料目录和专业指导。'

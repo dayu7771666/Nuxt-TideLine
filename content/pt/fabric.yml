@@ -1,0 +1,104 @@
+title: 'Seleção de tecidos premium para roupas de banho superiores'
+description: 'Descubra nossa coleção curada de tecidos de alto desempenho projetados especificamente para roupas de banho. De materiais sustentáveis a têxteis com proteção UV, obtemos apenas os tecidos da melhor qualidade para sua marca.'
+
+seo:
+  title: 'Tecidos premium para roupas de banho | Materiais de alto desempenho | Tideline'
+  description: 'Navegue por nossa coleção abrangente de tecidos premium para roupas de banho, incluindo misturas de poliéster, materiais sustentáveis e têxteis com proteção UV. Baixe catálogos de tecidos e especificações técnicas.'
+  keywords: 'tecidos para roupas de banho, tecidos de alto desempenho, materiais sustentáveis para roupas de banho, tecido com proteção UV, tecido ECONYL, poliéster reciclado, têxteis para roupas de banho'
+  ogTitle: 'Tecidos e materiais premium para roupas de banho | Tideline'
+  ogDescription: 'Descubra tecidos de alto desempenho para fabricação de roupas de banho. Opções sustentáveis, proteção UV e especificações técnicas disponíveis.'
+  ogType: 'website'
+  ogImage: '/fabric-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Tecidos premium para roupas de banho | Tideline'
+  twitterDescription: 'Navegue por nossa coleção abrangente de tecidos premium para roupas de banho para fabricação.'
+
+hero:
+  alt: 'Tecidos premium para roupas de banho'
+  ctaButton: 'Explore nosso catálogo de tecidos'
+  ctaLink: '#catalog'
+
+features:
+  title: 'Por que nossos tecidos se destacam'
+  description: 'Fazemos parceria com fábricas líderes em todo o mundo para trazer a você tecidos inovadores e de alta qualidade que atendem aos requisitos exigentes da produção de roupas de banho.'
+  items:
+    - id: 1
+      title: 'Testados em desempenho'
+      description: 'Cada tecido passa por testes rigorosos de resistência ao cloro, proteção UV, solidez da cor e recuperação de estiramento para garantir qualidade duradoura.'
+      icon: 'ShieldCheckIcon'
+    - id: 2
+      title: 'Opções sustentáveis'
+      description: 'Escolha entre materiais ecológicos, incluindo nylon reciclado, ECONYL® e tecidos certificados OEKO-TEX® que reduzem o impacto ambiental sem comprometer o desempenho.'
+      icon: 'SparklesIcon'
+    - id: 3
+      title: 'Especificações técnicas'
+      description: 'Fichas técnicas detalhadas para cada tecido, incluindo composição, peso, porcentagem de estiramento e instruções de cuidados para ajudá-lo a tomar decisões informadas.'
+      icon: 'DocumentTextIcon'
+
+catalog:
+  title: 'Navegue por nossas coleções de tecidos'
+  description: 'Baixe nossos catálogos de tecidos abrangentes para explorar especificações detalhadas, gamas de cores e propriedades técnicas. Cada catálogo inclui amostras e dados de desempenho.'
+  viewButtonText: 'Ver catálogo'
+  note: 'Precisa de amostras físicas ou desenvolvimento de tecidos personalizados? Entre em contato com nossos especialistas em tecidos para assistência personalizada.'
+  pdfs:
+    - title: 'Coleção de tecidos de poliéster'
+      description: 'Misturas de poliéster de alto desempenho perfeitas para roupas de banho ativas, oferecendo excelente retenção de forma e propriedades de secagem rápida.'
+      file: '/pdf/tideline-polyester-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'Tecnologia de secagem rápida'
+        - 'Excelente retenção de forma'
+        - 'Resistente ao cloro'
+      gradient: 'bg-gradient-to-br from-blue-500/10 to-cyan-500/10'
+      iconBg: 'bg-gradient-to-br from-blue-600 to-cyan-600'
+      buttonClass: 'bg-blue-600 text-white hover:bg-blue-700'
+      accentLine: 'bg-gradient-to-r from-blue-600 to-cyan-600'
+
+    - title: 'Coleção de tecidos sustentáveis'
+      description: 'Materiais eco-conscientes, incluindo poliéster reciclado e nylon regenerado ECONYL®, combinando sustentabilidade com desempenho.'
+      file: '/pdf/tideline-sustainable-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'Materiais reciclados'
+        - 'Certificado OEKO-TEX®'
+        - 'Pegada de carbono reduzida'
+      gradient: 'bg-gradient-to-br from-green-500/10 to-emerald-500/10'
+      iconBg: 'bg-gradient-to-br from-green-600 to-emerald-600'
+      buttonClass: 'bg-green-600 text-white hover:bg-green-700'
+      accentLine: 'bg-gradient-to-r from-green-600 to-emerald-600'
+
+    - title: 'Coleção de tecidos com proteção UV'
+      description: 'Tecidos avançados que bloqueiam raios UV com proteção UPF 50+, ideais para roupas de banho de desempenho e peças de proteção solar.'
+      file: '/pdf/tideline-uv-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'Proteção UPF 50+'
+        - 'Resistente ao desbotamento'
+        - 'Absorve umidade'
+      gradient: 'bg-gradient-to-br from-purple-500/10 to-pink-500/10'
+      iconBg: 'bg-gradient-to-br from-purple-600 to-pink-600'
+      buttonClass: 'bg-purple-600 text-white hover:bg-purple-700'
+      accentLine: 'bg-gradient-to-r from-purple-600 to-pink-600'
+
+whyChoose:
+  title: 'Por que escolher nossa seleção de tecidos?'
+  description: 'Nosso processo de aquisição de tecidos é projetado para garantir que você receba materiais que atendam aos mais altos padrões para produção de roupas de banho.'
+  reasons:
+    - title: 'Parcerias diretas com fábricas'
+      description: 'Trabalhamos diretamente com fábricas certificadas, eliminando intermediários para oferecer preços competitivos sem comprometer a qualidade.'
+    - title: 'Garantia de qualidade'
+      description: 'Cada lote de tecido é inspecionado e testado para atender aos rigorosos padrões de qualidade para fabricação de roupas de banho.'
+    - title: 'Prazos de entrega rápidos'
+      description: 'Com gestão estratégica de estoque e cadeias de suprimentos confiáveis, garantimos entrega oportuna para seu cronograma de produção.'
+    - title: 'Suporte técnico'
+      description: 'Nossos especialistas em tecidos fornecem orientação especializada sobre seleção de materiais, compatibilidade com seus designs e requisitos de produção.'
+    - title: 'Flexibilidade de pedido mínimo'
+      description: 'Seja você precisando de pequenas quantidades para amostras ou grandes volumes para produção, acomodamos vários tamanhos de pedido.'
+    - title: 'Personalização de cores'
+      description: 'Acesso a extensas bibliotecas de cores e serviços de tingimento personalizado para corresponder às suas especificações exatas de marca.'
+
+cta:
+  title: 'Pronto para selecionar seus tecidos?'
+  description: 'Deixe nossos especialistas em tecidos ajudá-lo a escolher os materiais perfeitos para sua coleção de roupas de banho. Solicite amostras, dados técnicos ou agende uma consulta.'
+  button: 'Contatar especialistas em tecidos'
+  link: '/contact'

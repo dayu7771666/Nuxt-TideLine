@@ -1,0 +1,104 @@
+title: 'Sélection de tissus premium pour maillots de bain supérieurs'
+description: 'Découvrez notre collection soigneusement sélectionnée de tissus haute performance conçus spécifiquement pour les maillots de bain. Des matériaux durables aux textiles à protection UV, nous ne sélectionnons que les tissus de la plus haute qualité pour votre marque.'
+
+seo:
+  title: 'Tissus premium pour maillots de bain | Matériaux haute performance | Tideline'
+  description: 'Parcourez notre collection complète de tissus premium pour maillots de bain comprenant des mélanges de polyester, des matériaux durables et des textiles à protection UV. Téléchargez les catalogues de tissus et les spécifications techniques.'
+  keywords: 'tissus pour maillots de bain, tissus haute performance, matériaux durables pour maillots de bain, tissu de protection UV, tissu ECONYL, polyester recyclé, textiles pour maillots de bain'
+  ogTitle: 'Tissus et matériaux premium pour maillots de bain | Tideline'
+  ogDescription: 'Découvrez des tissus haute performance pour la fabrication de maillots de bain. Options durables, protection UV et spécifications techniques disponibles.'
+  ogType: 'website'
+  ogImage: '/fabric-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Tissus premium pour maillots de bain | Tideline'
+  twitterDescription: 'Parcourez notre collection complète de tissus premium pour maillots de bain pour la fabrication.'
+
+hero:
+  alt: 'Tissus premium pour maillots de bain'
+  ctaButton: 'Explorez notre catalogue de tissus'
+  ctaLink: '#catalog'
+
+features:
+  title: 'Pourquoi nos tissus se démarquent'
+  description: 'Nous nous associons avec des usines leaders dans le monde entier pour vous apporter des tissus innovants et de haute qualité qui répondent aux exigences rigoureuses de la production de maillots de bain.'
+  items:
+    - id: 1
+      title: 'Testés en performance'
+      description: "Chaque tissu subit des tests rigoureux de résistance au chlore, de protection UV, de solidité des couleurs et de récupération d'élasticité pour garantir une qualité durable."
+      icon: 'ShieldCheckIcon'
+    - id: 2
+      title: 'Options durables'
+      description: "Choisissez parmi des matériaux écologiques comprenant du nylon recyclé, ECONYL® et des tissus certifiés OEKO-TEX® qui réduisent l'impact environnemental sans compromettre les performances."
+      icon: 'SparklesIcon'
+    - id: 3
+      title: 'Spécifications techniques'
+      description: "Fiches de données techniques détaillées pour chaque tissu comprenant la composition, le poids, le pourcentage d'élasticité et les instructions d'entretien pour vous aider à prendre des décisions éclairées."
+      icon: 'DocumentTextIcon'
+
+catalog:
+  title: 'Parcourez nos collections de tissus'
+  description: 'Téléchargez nos catalogues de tissus complets pour explorer les spécifications détaillées, les gammes de couleurs et les propriétés techniques. Chaque catalogue comprend des échantillons et des données de performance.'
+  viewButtonText: 'Voir le catalogue'
+  note: "Besoin d'échantillons physiques ou de développement de tissus personnalisés ? Contactez nos spécialistes des tissus pour une assistance personnalisée."
+  pdfs:
+    - title: 'Collection de tissus en polyester'
+      description: 'Mélanges de polyester haute performance parfaits pour les maillots de bain actifs, offrant une excellente rétention de forme et des propriétés de séchage rapide.'
+      file: '/pdf/tideline-polyester-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'Technologie de séchage rapide'
+        - 'Excellente rétention de forme'
+        - 'Résistant au chlore'
+      gradient: 'bg-gradient-to-br from-blue-500/10 to-cyan-500/10'
+      iconBg: 'bg-gradient-to-br from-blue-600 to-cyan-600'
+      buttonClass: 'bg-blue-600 text-white hover:bg-blue-700'
+      accentLine: 'bg-gradient-to-r from-blue-600 to-cyan-600'
+
+    - title: 'Collection de tissus durables'
+      description: 'Matériaux éco-conscients comprenant du polyester recyclé et du nylon régénéré ECONYL®, combinant durabilité et performance.'
+      file: '/pdf/tideline-sustainable-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'Matériaux recyclés'
+        - 'Certifié OEKO-TEX®'
+        - 'Empreinte carbone réduite'
+      gradient: 'bg-gradient-to-br from-green-500/10 to-emerald-500/10'
+      iconBg: 'bg-gradient-to-br from-green-600 to-emerald-600'
+      buttonClass: 'bg-green-600 text-white hover:bg-green-700'
+      accentLine: 'bg-gradient-to-r from-green-600 to-emerald-600'
+
+    - title: 'Collection de tissus à protection UV'
+      description: 'Tissus avancés bloquant les UV avec protection UPF 50+, idéaux pour les maillots de bain de performance et les vêtements de protection solaire.'
+      file: '/pdf/tideline-uv-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'Protection UPF 50+'
+        - 'Résistant à la décoloration'
+        - "Évacuation de l'humidité"
+      gradient: 'bg-gradient-to-br from-purple-500/10 to-pink-500/10'
+      iconBg: 'bg-gradient-to-br from-purple-600 to-pink-600'
+      buttonClass: 'bg-purple-600 text-white hover:bg-purple-700'
+      accentLine: 'bg-gradient-to-r from-purple-600 to-pink-600'
+
+whyChoose:
+  title: 'Pourquoi choisir notre sélection de tissus ?'
+  description: "Notre processus d'approvisionnement en tissus est conçu pour garantir que vous receviez des matériaux qui répondent aux normes les plus élevées pour la production de maillots de bain."
+  reasons:
+    - title: 'Partenariats directs avec les usines'
+      description: 'Nous travaillons directement avec des usines certifiées, éliminant les intermédiaires pour offrir des prix compétitifs sans compromettre la qualité.'
+    - title: 'Assurance qualité'
+      description: 'Chaque lot de tissu est inspecté et testé pour répondre aux normes de qualité strictes pour la fabrication de maillots de bain.'
+    - title: 'Délais de livraison rapides'
+      description: "Avec une gestion stratégique des stocks et des chaînes d'approvisionnement fiables, nous assurons une livraison en temps opportun pour votre calendrier de production."
+    - title: 'Support technique'
+      description: "Nos spécialistes des tissus fournissent des conseils d'experts sur la sélection des matériaux, la compatibilité avec vos designs et les exigences de production."
+    - title: 'Flexibilité de commande minimale'
+      description: 'Que vous ayez besoin de petites quantités pour des échantillons ou de grands volumes pour la production, nous accommodons diverses tailles de commande.'
+    - title: 'Personnalisation des couleurs'
+      description: 'Accès à de vastes bibliothèques de couleurs et à des services de teinture personnalisés pour correspondre à vos spécifications de marque exactes.'
+
+cta:
+  title: 'Prêt à sélectionner vos tissus ?'
+  description: 'Laissez nos experts en tissus vous aider à choisir les matériaux parfaits pour votre collection de maillots de bain. Demandez des échantillons, des données techniques ou planifiez une consultation.'
+  button: 'Contacter les spécialistes des tissus'
+  link: '/contact'

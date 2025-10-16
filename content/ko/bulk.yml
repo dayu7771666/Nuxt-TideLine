@@ -1,0 +1,69 @@
+# Bulk Production Page Content
+title: '수영복 우수성을 위한 체계적인 접근 방식'
+description: '개념에서 상업적 현실로'
+
+seo:
+  title: '생산 프로세스 - Tideline'
+  description: 'Tideline 수영복이 세심한 장인 정신을 통해 개념에서 완제품으로 어떻게 변화하는지 알아보세요'
+  keywords: '수영복 제조, 대량 생산, 지속 가능한 수영복, 수영복 공장, 생산 프로세스, 품질 보증'
+  ogTitle: '생산 프로세스 - Tideline'
+  ogDescription: '개념에서 상업적 현실로 수영복 우수성을 위한 체계적인 접근 방식'
+  ogType: 'website'
+  twitterCard: 'summary_large_image'
+
+hero:
+  image: '/bulkproduct.webp'
+
+intro:
+  text: 'Tideline과 파트너십을 맺으면 디자인이 거치는 협력적이고 세부 지향적인 여정을 목격할 수 있습니다. 모든 단계에서 명확한 커뮤니케이션과 정밀한 실행을 기반으로 한 이 투명한 프로세스(개념에서 상업적 현실까지)는 대규모 생산에서 귀하의 비전이 완벽하게 실현되도록 설계되었습니다.'
+
+process:
+  title: '우수성의 기둥: Tideline 제조 프로세스의 핵심 단계'
+  steps:
+    - icon: 'fas fa-pencil-alt'
+      title: '디자인 및 개발'
+      description: '우리의 디자인 프로세스는 미적 트렌드와 성능 데이터를 융합하여 핏에 대해 >90%의 고객 만족도로 테스트된 스타일을 만듭니다. 우리는 3D 디자인 프로토타이핑을 활용하여 개발을 가속화하고 샘플링 사이클을 30% 줄이며 스타일이 상업적으로 실행 가능하고 기능적으로 우수함을 보장합니다.'
+
+    - icon: 'fas fa-ruler-combined'
+      title: '패턴 제작 및 프로토타이핑'
+      description: '처음부터 완벽한 핏을 설계하기 위해 디지털 정밀 패터닝을 사용합니다. 각 프로토타입은 다양한 체형에서 5포인트 핏 테스트를 거치며 가슴, 허리, 엉덩이와 같은 주요 부위에 조정이 이루어집니다. 이 엄격한 프로세스는 모든 생산 배치에서 98%의 사이즈 일관성 비율을 보장합니다.'
+
+    - icon: 'fas fa-cut'
+      title: '원단 소싱 및 지속 가능성'
+      description: '우리 원단의 80% 이상이 선도적인 환경 의식이 있는 제조소에서 조달됩니다. 모든 재료는 UPF 보호를 제공하며 심각한 열화 없이 UV 및 염소 노출을 견딜 수 있도록 실험실에서 테스트됩니다.'
+
+    - icon: 'fas fa-industry'
+      title: '제조 및 품질 보증'
+      description: '스티치 밀도에서 탄성 장력까지 각 세부 사항은 엄격한 기준에 따라 측정됩니다. 이로 인해 제품 결함률이 0.5% 미만이 되어 귀하의 브랜드가 일관되게 고품질이며 시장에 준비된 대량 주문을 받을 수 있습니다.'
+
+sustainability:
+  title: '지속 가능성에 대한 우리의 약속'
+  description: '아름다운 수영복이 우리 행성을 희생해서는 안 된다고 믿습니다. 그래서 지속 가능성은 우리 생산 프로세스의 모든 측면에 짜여 있습니다.'
+  features:
+    - icon: 'fas fa-leaf'
+      title: '친환경 소재'
+      description: '재활용 재료와 지속 가능한 소스로 만든 원단을 우선시합니다. 우리의 포장은 100% 재활용 가능하며 혁신적인 재료를 지속적으로 탐구하고 있습니다.'
+
+    - icon: 'fas fa-hands-helping'
+      title: '윤리적 생산'
+      description: '공정한 노동 관행에 대한 우리의 약속을 공유하는 제조업체와 파트너십을 맺습니다. 우리의 장인들은 안전한 환경에서 일하고 공정한 임금을 받습니다.'
+
+    - icon: 'fas fa-recycle'
+      title: '폐기물 감소'
+      description: '효율적인 패턴 절단과 생산 계획을 통해 섬유 폐기물을 최소화합니다. 남은 재료는 가능할 때마다 재사용되거나 재활용됩니다.'
+
+cta:
+  title: '우리의 컬렉션 탐색'
+  description: '새로운 지속 가능한 수영복 컬렉션을 가장 먼저 발견하고 독점 업데이트를 받으세요.'
+  form:
+    nameLabel: '이름'
+    namePlaceholder: '귀하의 이름'
+    emailLabel: '이메일 주소'
+    emailPlaceholder: 'your.email@example.com'
+    messageLabel: '메시지'
+    messagePlaceholder: '귀하의 요구 사항을 간략하게 설명해 주세요...'
+    consentText: '새로운 컬렉션 및 지속 가능성 이니셔티브에 대한 Tideline의 업데이트를 받는 데 동의합니다. 언제든지 구독을 취소할 수 있습니다.'
+    submitButton: '제출'
+    successMessage: '감사합니다! 귀하를 목록에 추가했으며 최신 컬렉션에 대한 업데이트를 보내드리겠습니다.'
+    browseText: '지금 탐색하시겠습니까?'
+    browseLink: '현재 컬렉션 보기'

@@ -1,0 +1,121 @@
+title: '孕妇泳装供应商'
+description: '不仅仅是供应商 - 您的泳装品牌建设合作伙伴。'
+
+seo:
+  title: '孕妇泳装供应商 | TIDELINE SWIMWEAR'
+  description: '高品质孕妇泳装制造商，为准妈妈提供舒适、支撑性的设计。定制孕妇泳装，批发价格，低MOQ。'
+  keywords: '孕妇泳装制造商, 孕期泳装供应商, 哺乳泳装, 孕妇坦基尼, 孕妇泳装批发, 孕妇泳装工厂'
+  ogTitle: '孕妇泳装供应商 | TIDELINE SWIMWEAR'
+  ogDescription: '舒适的孕妇泳装制造商。为准妈妈提供支撑性设计。定制选项，批发价格。'
+  ogType: 'website'
+  ogImage: '/catalog/maternity-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '孕妇泳装供应商 | TIDELINE SWIMWEAR'
+  twitterDescription: '孕妇泳装制造。孕期舒适、支撑性设计。提供定制选项。'
+
+# Hero section
+hero:
+  cta_text: '咨询'
+  cta_href: '/contact'
+  image_src: '/catalog/maternity-swimwear-bg.webp'
+  image_alt: '孕妇泳装制造'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: '我们的使命'
+  paragraph1: '在TideLine Swimwear，我们知道孕妇泳装需要为准妈妈提供舒适和支撑的完美平衡。每个季节，我们的工厂团队都会开发采用柔软、灵活面料和周到剪裁设计的系列 - 为批发商和品牌所有者提供市场就绪的选择，帮助女性在怀孕的每个阶段都感到自信和舒适。'
+  whatsapp_link_text: '在WhatsApp上联系我们'
+
+# Statistics
+stats:
+  - label: '泳装行业经验'
+    value: '10年以上'
+  - label: '完成订单'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: '孕妇连体泳衣'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/one-piece-1.webp'
+    imageAlt: '孕妇连体泳衣系列'
+  - name: '孕妇坦基尼'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/tankini-1.webp'
+    imageAlt: '孕妇坦基尼系列'
+  - name: '哺乳泳装'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/nursing-1.webp'
+    imageAlt: '哺乳泳装系列'
+  - name: '孕妇罩衫'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/cover-up-1.webp'
+    imageAlt: '孕妇罩衫系列'
+
+# Customization capabilities
+customization:
+  title: '定制能力'
+  description: '完全可定制的泳装 - TideLine接受所有定制设计、面料、五金、标志和包装，将您的品牌愿景变为现实。'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: '制造设施'
+  hero_image_width: '1000'
+  features:
+    - name: '款式定制'
+      description: '将任何泳装设计变为现实 - 选择您的完美款式，让我们为您的品牌打造。'
+      link: '/contact'
+      cta_text: '咨询'
+    - name: '面料定制'
+      description: '从各种面料中选择，打造穿着舒适、外观美丽的泳装。'
+      link: '/fabric'
+      cta_text: '面料'
+    - name: '五金定制'
+      description: '定制每个细节 - 从扣环和环到拉链 - 我们的五金选项提升您的设计。'
+      link: '/hardware'
+      cta_text: '五金'
+    - name: '标志定制'
+      description: '让它真正属于您 - 在每件产品上添加您的标志，打造专业的品牌外观。'
+    - name: '包装定制'
+      description: '通过符合您风格和愿景的包装完善您的品牌体验。'
+    - name: '联系我们'
+      description: '准备好了吗？让我们将您的泳装想法变为现实。'
+      link: '/contact'
+      cta_text: '联系我们'
+
+# Getting Started section
+getting_started:
+  title: '您的泳装之旅从这里开始'
+  description: '无论您是推出第一个系列还是扩大品牌规模，TideLine都提供量身定制的泳装解决方案以满足您的需求。选择您的路径并开始。'
+  beginner_text: '作为初学者开始'
+  beginner_href: '/startup'
+  pro_text: '经验丰富的买家'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: '制造流程'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: '常见问题'
+  questions:
+    - id: 1
+      question: '孕妇泳装的特殊设计要求是什么？'
+      answer: '孕妇泳装的设计要求主要集中在舒适性、支撑性和适应性上。它们通常使用高弹性面料，可以适应女性在怀孕期间不断变化的身体形状。设计还应为腹部提供支撑，无压力肩带和舒适的裆部设计，以确保孕妇在水中活动时的舒适性。'
+    - id: 2
+      question: '孕妇泳装使用什么材料？'
+      answer: '孕妇泳装通常由高弹性、透气的面料制成，如莱卡、尼龙和氨纶。这些面料具有出色的弹性，适应怀孕期间的身体变化，同时确保舒适性和支撑性。我们还确保所使用的材料无毒且对敏感皮肤安全。'
+    - id: 3
+      question: '孕妇泳装需要提供防晒保护吗？'
+      answer: '是的，孕妇泳装最好具有UV防护（UPF），特别是在户外游泳池或海滩使用时。我们的孕妇泳装设计考虑到这一点，使用具有防晒保护的面料来保护准妈妈的皮肤免受有害UV射线的伤害。'
+    - id: 4
+      question: '如何确保孕妇泳装的安全性和舒适性？'
+      answer: '孕妇泳装的设计非常注重安全性和舒适性。我们使用无毒、环保的面料，并确保裁剪和设计不施加压力，特别是在腹部和胸部区域。支撑设计还考虑到怀孕期间发生的变化，提供全面支撑。'
+    - id: 5
+      question: '孕妇泳装适合产后使用吗？'
+      answer: '是的，许多孕妇泳装设计也适合产后使用。因为它们使用高弹性面料，可以适应恢复期并提供舒适的贴合度。对于需要哺乳的妈妈，我们还提供专门设计的哺乳款式，使母乳喂养更容易。'
+    - id: 6
+      question: '孕妇泳装可以定制吗？'
+      answer: '可以，我们提供定制服务，可以根据您的品牌需求和设计理念制造孕妇泳装。您可以选择款式、颜色、面料，甚至在泳装上印刷标志或设计，以确保您的产品独特并满足市场需求。'
+    - id: 7
+      question: '孕妇泳装的最小订单数量是多少？'
+      answer: '孕妇泳装的最小订单数量（MOQ）因设计和所用材料而异。一般来说，我们为订单数量较小或处于创业阶段的客户提供灵活的生产选项。MOQ通常在100到500件之间，但确切数量可以根据您的需求进行调整。'

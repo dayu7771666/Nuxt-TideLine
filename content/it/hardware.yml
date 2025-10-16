@@ -1,0 +1,154 @@
+title: 'Hardware e Rifiniture Premium per Costumi da Bagno'
+description: 'Eleva i tuoi design di costumi da bagno con la nostra selezione curata di hardware e rifiniture di alta qualità. Dagli elastici resistenti al cloro agli accessori metallici durevoli, ogni dettaglio conta nella creazione di costumi da bagno duraturi.'
+
+seo:
+  title: 'Hardware e Rifiniture per Costumi da Bagno | Accessori di Qualità Premium | Tideline Swim'
+  description: 'Eleva i tuoi design di costumi da bagno con hardware e rifiniture premium. Elastici resistenti al cloro, accessori metallici antiruggine, coppe di sostegno e opzioni di branding personalizzate. Componenti per costumi da bagno certificati in qualità.'
+  keywords: 'hardware per costumi da bagno, accessori per costumi da bagno, elastico resistente al cloro, fibbie metalliche, coppe di sostegno, rifiniture per costumi da bagno, gancio e occhiello, spalline regolabili, etichette per costumi da bagno, hardware personalizzato'
+  ogTitle: 'Hardware e Rifiniture Premium per Costumi da Bagno | Tideline Swim'
+  ogDescription: 'Eleva i tuoi design di costumi da bagno con hardware e rifiniture premium. Elastici resistenti al cloro, accessori metallici antiruggine e opzioni di branding personalizzate.'
+  ogType: 'website'
+  ogImage: '/hardware/hardware-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Hardware e Rifiniture Premium per Costumi da Bagno | Tideline Swim'
+  twitterDescription: 'Hardware e rifiniture per costumi da bagno certificati in qualità. Componenti resistenti al cloro, durevoli e personalizzabili per i tuoi design.'
+
+hero:
+  ctaButton: 'Esplora il Nostro Catalogo Hardware'
+
+gallery:
+  title: 'La Nostra Collezione di Hardware'
+  description: 'Sfoglia la nostra vasta gamma di hardware e rifiniture specifiche per costumi da bagno, accuratamente selezionate per durabilità, funzionalità e appeal estetico.'
+  categories:
+    - name: 'Hardware Metallico'
+      description: 'Fibbie, anelli, cursori ed elementi decorativi resistenti alla ruggine'
+      image: '/hardware/metal-hardware.webp'
+      items:
+        - 'Anelli D e Anelli O'
+        - 'Cursori Regolabili'
+        - 'Fibbie Decorative'
+        - 'Occhielli Metallici'
+    - name: 'Elastici e Spalline'
+      description: 'Elastici e spalline regolabili resistenti al cloro'
+      image: '/hardware/elastic-straps.webp'
+      items:
+        - 'Bande Elastiche per Costumi da Bagno'
+        - 'Spalline per Reggiseno Regolabili'
+        - 'Cordini Intrecciati Decorativi'
+        - 'Rete Power'
+    - name: 'Chiusure e Chiusure'
+      description: 'Sistemi di chiusura sicuri e confortevoli'
+      image: '/hardware/closures-fasteners.webp'
+      items:
+        - 'Set Gancio e Occhiello'
+        - 'Bottoni a Pressione'
+        - 'Fibbie in Plastica'
+        - 'Chiusure Magnetiche'
+    - name: 'Sostegno al Seno'
+      description: 'Coppe professionali e strutture di supporto'
+      image: '/hardware/bust-support.webp'
+      items:
+        - 'Coppe Modellate (A-DD)'
+        - 'Imbottitura in Schiuma'
+        - 'Canali per Ferretto'
+        - 'Tasche per Coppe Rimovibili'
+    - name: 'Etichette e Tag'
+      description: 'Etichette di branding e cura personalizzate'
+      image: '/hardware/labels-tags.webp'
+      items:
+        - 'Etichette Tessute'
+        - 'Etichette di Cura Stampate'
+        - 'Cartellini Appesi'
+        - 'Etichette di Taglia'
+    - name: 'Rifiniture Decorative'
+      description: 'Aggiungi tocchi unici ai tuoi design'
+      image: '/hardware/decorative.webp'
+      items:
+        - 'Catene Perline'
+        - 'Applicazioni di Paillettes'
+        - 'Toppe Ricamate'
+        - 'Dettagli in Strass'
+
+features:
+  title: 'Perché Scegliere il Nostro Hardware?'
+  description: 'Procuriamo solo hardware di altissima qualità specifico per costumi da bagno che soddisfa gli standard internazionali di durabilità e sicurezza.'
+  items:
+    - title: 'Resistente al Cloro'
+      description: 'Tutto il nostro hardware è testato per la resistenza al cloro, acqua salata ed esposizione UV per garantire prestazioni durature.'
+      icon: 'ShieldCheckIcon'
+    - title: 'Opzioni Senza Nichel'
+      description: 'Offriamo opzioni di hardware metallico ipoallergenico senza nichel per pelli sensibili, conformi agli standard UE.'
+      icon: 'HeartIcon'
+    - title: 'Abbinamento Colori'
+      description: 'Vasta gamma di colori per abbinare perfettamente le tue scelte di tessuto, con abbinamento colori personalizzato disponibile.'
+      icon: 'SwatchIcon'
+    - title: 'Qualità Certificata'
+      description: "Tutto l'hardware soddisfa gli standard OEKO-TEX® e di sicurezza internazionale per costumi da bagno."
+      icon: 'CheckBadgeIcon'
+
+process:
+  title: 'Come Ordinare Hardware'
+  description: "Il nostro processo semplificato rende facile ottenere esattamente l'hardware di cui hai bisogno per la tua produzione di costumi da bagno."
+  steps:
+    - number: 1
+      title: 'Sfoglia e Seleziona'
+      description: 'Esamina il nostro catalogo hardware e seleziona gli articoli di cui hai bisogno. Richiedi campioni fisici se necessario per garantire una corrispondenza perfetta con i tuoi design.'
+    - number: 2
+      title: 'Conferma Specifiche'
+      description: 'Fornisci dettagli su quantità, colori e requisiti di personalizzazione. Il nostro team confermerà disponibilità e tempi di consegna.'
+    - number: 3
+      title: 'Ricevi Campioni'
+      description: 'Per ordini grandi, possiamo inviare set di campioni per la tua approvazione prima della produzione in massa per garantire qualità e vestibilità.'
+    - number: 4
+      title: 'Effettua Ordine'
+      description: "Una volta approvato, effettua il tuo ordine con MOQ chiaro e cronoprogramma di consegna. Gestiamo l'approvvigionamento e l'ispezione della qualità."
+    - number: 5
+      title: 'Controllo Qualità e Consegna'
+      description: "Tutto l'hardware è sottoposto a rigoroso controllo qualità prima della spedizione. Coordiniamo la consegna con il tuo programma di produzione."
+
+specifications:
+  title: 'Specifiche Tecniche'
+  description: "Comprendere le specifiche dell'hardware garantisce una perfetta integrazione con i tuoi design di costumi da bagno."
+  items:
+    - category: 'Hardware Metallico'
+      specs:
+        - 'Materiale: Acciaio inossidabile, ottone o lega di zinco'
+        - 'Finitura: Lucido, spazzolato o verniciato a polvere'
+        - 'Resistenza alla corrosione: Test nebbia salina 48+ ore'
+        - 'Dimensioni disponibili: da 10 mm a 50 mm'
+    - category: 'Elastici e Spalline'
+      specs:
+        - 'Materiale: Miscela nylon/spandex o poliestere'
+        - "Recupero dell'elasticità: 95%+ dopo 100 cicli"
+        - 'Resistenza al cloro: 200+ ore di esposizione'
+        - 'Range di larghezza: da 3 mm a 25 mm'
+    - category: 'Chiusure'
+      specs:
+        - 'Forza del gancio: forza di trazione 3-5 kg'
+        - 'Durabilità bottone a pressione: 1000+ cicli apertura/chiusura'
+        - 'Resistenza alla temperatura: da -20°C a 60°C'
+        - 'Opzioni senza nichel disponibili'
+
+faq:
+  title: 'FAQ Hardware'
+  items:
+    - question: "Qual è la quantità minima d'ordine (MOQ) per l'hardware?"
+      answer: 'I MOQ variano in base al tipo di articolo. Gli articoli hardware standard hanno tipicamente MOQ di 100-500 pezzi per colore/dimensione. Per hardware personalizzato o finiture speciali, i MOQ possono essere più alti (1000+ pezzi). Contattaci per MOQ specifici degli articoli.'
+    - question: "Posso ordinare campioni di hardware prima dell'acquisto in massa?"
+      answer: 'Sì! Offriamo set di campioni per la maggior parte degli articoli hardware. I costi dei campioni sono tipicamente di $20-50 per set e possono essere accreditati sul tuo ordine in massa. Questo ti consente di testare qualità, abbinamento colori e vestibilità prima di impegnarti in grandi quantità.'
+    - question: 'Offrite hardware personalizzato con il logo del mio marchio?'
+      answer: 'Assolutamente. Possiamo personalizzare hardware metallico (fibbie, cursori, ciondoli) con il logo del tuo marchio tramite incisione o goffratura. Etichette e tag personalizzati sono anche disponibili. I MOQ per articoli personalizzati iniziano tipicamente da 1000 pezzi.'
+    - question: "Come mi assicuro che i colori dell'hardware corrispondano al mio tessuto?"
+      answer: 'Consigliamo di ordinare campioni di tessuto e campioni di hardware insieme per il confronto fisico. Possiamo anche fornire riferimenti di colore Pantone per la maggior parte degli articoli hardware e offrire servizi di abbinamento colori personalizzati per ordini più grandi.'
+    - question: 'Qual è il tempo di consegna per gli ordini di hardware?'
+      answer: 'Hardware standard in stock: 3-7 giorni. Colori o finiture personalizzati: 2-3 settimane. Hardware di marca personalizzato: 4-6 settimane. Confermiamo sempre le tempistiche esatte quando effettui il tuo ordine e possiamo accelerare per progetti urgenti.'
+    - question: "I vostri articoli hardware sono testati per l'uso in costumi da bagno?"
+      answer: 'Sì, tutto il nostro hardware è specificamente selezionato per applicazioni di costumi da bagno. Conduciamo test di resistenza al cloro, test di nebbia salina e test di esposizione UV per garantire durabilità. I rapporti di prova sono disponibili su richiesta.'
+    - question: "Potete aiutarmi a scegliere l'hardware giusto per il mio design?"
+      answer: 'Certo! Il nostro team ha una vasta esperienza nella selezione di hardware per costumi da bagno. Condividi i tuoi schizzi di design o pacchetti tecnici e possiamo raccomandare le opzioni di hardware più adatte in base a funzionalità, estetica e budget.'
+
+cta:
+  title: 'Pronto a Procurare il Tuo Hardware?'
+  description: 'Mettiti in contatto con i nostri specialisti hardware per discutere le tue esigenze. Possiamo fornire campioni, specifiche tecniche e prezzi per la tua prossima collezione di costumi da bagno.'
+  button: 'Richiedi Catalogo Hardware'
+  link: '/contact'

@@ -1,0 +1,111 @@
+title: 'Fabricant de Maillots de Bain pour Hommes'
+description: "Plus qu'un fournisseur — votre partenaire dans la construction de marque de maillots de bain."
+
+seo:
+  title: 'Fabricant de Maillots de Bain pour Hommes | TIDELINE SWIMWEAR'
+  description: 'Fabricant de maillots de bain pour hommes en gros offrant des shorts de bain haute performance, boardshorts et slips. Designs personnalisés, prix compétitifs, MOQ faible.'
+  keywords: 'fabricant maillots de bain hommes, shorts de bain en gros, fabricant boardshorts, fournisseur maillots de bain hommes, shorts de bain personnalisés, usine maillots de bain hommes'
+  ogTitle: 'Fabricant de Maillots de Bain pour Hommes | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricant professionnel de maillots de bain pour hommes. Shorts de bain, boardshorts, slips. Designs personnalisés, MOQ faible, prix de gros.'
+  ogType: 'website'
+  ogImage: '/catalog/men-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricant de Maillots de Bain pour Hommes | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabrication de maillots de bain pour hommes haute performance. Shorts, boardshorts, slips. Designs personnalisés disponibles.'
+
+# Hero section
+hero:
+  cta_text: 'Consultation'
+  cta_href: '/contact'
+  image_src: '/catalog/men-swimwear-bg.webp'
+  image_alt: 'Fabrication de Maillots de Bain pour Hommes'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Notre Mission'
+  paragraph1: "Chez TideLine Swimwear, nous savons que les maillots de bain pour hommes sont une catégorie de croissance clé pour les détaillants et les marques émergentes. Chaque saison, notre équipe d'usine développe des collections prêtes pour le marché qui combinent confort, durabilité et style—qu'il s'agisse de shorts classiques, de boardshorts fonctionnels ou de slips contemporains—offrant aux grossistes et propriétaires de marques des options polyvalentes pour répondre à la demande des consommateurs d'aujourd'hui."
+  whatsapp_link_text: 'Contactez-nous sur WhatsApp'
+
+# Statistics
+stats:
+  - label: "Expérience dans l'Industrie des Maillots de Bain"
+    value: '10 ans +'
+  - label: 'Commandes Exécutées'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'T-shirts de Natation'
+    href: '/category?type=men&subtype=swim-shirt'
+    imageSrc: '/men-swimwear/shirt/shirt-5.webp'
+    imageAlt: 'Collection de T-shirts de Natation pour Hommes'
+  - name: 'Slips'
+    href: '/category?type=men&subtype=briefs'
+    imageSrc: '/men-swimwear/san/san-1.webp'
+    imageAlt: 'Collection de Slips de Natation pour Hommes'
+  - name: 'Shorts'
+    href: '/category?type=men&subtype=trunks'
+    imageSrc: '/men-swimwear/ping/ping-4.webp'
+    imageAlt: 'Collection de Shorts de Natation pour Hommes'
+
+# Customization capabilities
+customization:
+  title: 'Capacités de Personnalisation'
+  description: 'Maillots de bain entièrement personnalisables—TideLine accepte tous les designs personnalisés, tissus, accessoires, logos et emballages pour donner vie à votre vision de marque.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Installation de Fabrication'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personnalisation de Style'
+      description: "Donnez vie à n'importe quel design de maillot de bain—choisissez votre style parfait et laissez-nous le créer pour votre marque."
+      link: '/contact'
+      cta_text: 'Consultation'
+    - name: 'Personnalisation de Tissu'
+      description: 'Choisissez parmi une large gamme de tissus pour créer des maillots de bain confortables à porter et beaux à voir.'
+      link: '/fabric'
+      cta_text: 'Tissu'
+    - name: "Personnalisation d'Accessoires"
+      description: "Personnalisez chaque détail—des boucles et anneaux aux fermetures éclair—nos options d'accessoires élèvent votre design."
+      link: '/hardware'
+      cta_text: 'Accessoires'
+    - name: 'Personnalisation de Logo'
+      description: 'Rendez-le vraiment vôtre—ajoutez votre logo à chaque pièce pour un look de marque professionnel.'
+    - name: "Personnalisation d'Emballage"
+      description: 'Complétez votre expérience de marque avec un emballage adapté à votre style et votre vision.'
+    - name: 'Contactez-nous'
+      description: 'Prêt ? Transformons vos idées de maillots de bain en réalité.'
+      link: '/contact'
+      cta_text: 'Contactez-nous'
+
+# Getting Started section
+getting_started:
+  title: 'Votre voyage dans les maillots de bain commence ici'
+  description: 'Que vous lanciez votre première collection ou que vous développiez votre marque, TideLine fournit des solutions de maillots de bain sur mesure pour répondre à vos besoins. Choisissez votre chemin et commencez.'
+  beginner_text: 'Commencer en tant que Débutant'
+  beginner_href: '/startup'
+  pro_text: 'Acheteur Expérimenté'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processus de Fabrication'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Questions Fréquemment Posées'
+  questions:
+    - id: 1
+      question: 'Quelle est la quantité minimum de commande pour les maillots de bain pour hommes en gros ?'
+      answer: 'Notre MOQ commence à 30 pièces par style et taille, permettant aux nouvelles marques de maillots de bain pour hommes en croissance de lancer des collections avec flexibilité.'
+    - id: 2
+      question: 'Puis-je personnaliser les styles et matériaux des maillots de bain pour hommes ?'
+      answer: 'Oui. Nous offrons une personnalisation complète pour les maillots de bain pour hommes—incluant shorts, boardshorts et slips—utilisant vos tissus, couleurs, logos et emballages préférés.'
+    - id: 3
+      question: 'Combien de temps prend la production pour les commandes en gros de maillots de bain pour hommes ?'
+      answer: 'Les échantillons sont généralement terminés en 10 jours, tandis que la production en gros est finie en 30 jours selon la taille de la commande et le niveau de personnalisation.'
+    - id: 4
+      question: 'Fournissez-vous des options de tissus durables pour les maillots de bain pour hommes ?'
+      answer: 'Absolument. Nous offrons des tissus écologiques tels que le polyester et nylon recyclés, donnant à votre marque un avantage durable sur le marché des maillots de bain pour hommes.'
+    - id: 5
+      question: 'Comment puis-je demander un devis pour les maillots de bain pour hommes en gros ?'
+      answer: "Partagez simplement vos designs, tailles et choix de tissus préférés avec notre équipe via WhatsApp ou email. Nous fournirons un devis détaillé, avec des échantillons de tissus et des recommandations d'experts."

@@ -1,0 +1,121 @@
+title: 'Fabricantes de Trajes de Baño Sostenibles'
+description: 'Más que un proveedor — tu socio en la construcción de marca de trajes de baño.'
+
+seo:
+  title: 'Fabricantes de Trajes de Baño Sostenibles | TIDELINE SWIMWEAR'
+  description: 'Fabricante de trajes de baño eco-amigables usando materiales reciclados y producción sostenible. Trajes de baño sostenibles al por mayor, procesos bajos en carbono, diseños personalizados.'
+  keywords: 'fabricante trajes de baño sostenibles, trajes de baño eco-amigables, proveedor trajes de baño reciclados, fábrica trajes de baño orgánicos, fabricación trajes de baño verdes, trajes de baño RPET'
+  ogTitle: 'Fabricantes de Trajes de Baño Sostenibles | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricante de trajes de baño eco-amigables. Materiales reciclados, producción sostenible, procesos bajos en carbono. Ayuda a tu marca a volverse verde.'
+  ogType: 'website'
+  ogImage: '/catalog/sustainable-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricantes de Trajes de Baño Sostenibles | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabricación de trajes de baño sostenibles. Materiales reciclados, producción eco-amigable, diseños personalizados.'
+
+# Hero section
+hero:
+  cta_text: 'Consulta'
+  cta_href: '/contact'
+  image_src: '/catalog/sustainable-swimwear-bg.webp'
+  image_alt: 'Fabricación de Trajes de Baño Sostenibles'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Nuestra Misión'
+  paragraph1: 'En TideLine Swimwear, estamos comprometidos a crear trajes de baño sostenibles que respeten tanto a las personas como al planeta. Nuestras colecciones eco-amigables usan telas recicladas y de origen responsable, combinadas con prácticas de producción conscientes, asegurando trajes de baño de alta calidad que minimizan el impacto ambiental mientras proporcionan comodidad y durabilidad.'
+  whatsapp_link_text: 'Contáctanos en WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experiencia en la Industria de Trajes de Baño'
+    value: '10 años +'
+  - label: 'Pedidos Cumplidos'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Bikinis Reciclados'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/recycled-bikini-1.webp'
+    imageAlt: 'Colección de Bikinis Reciclados'
+  - name: 'Una Pieza Eco'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/eco-onepiece-1.webp'
+    imageAlt: 'Colección de Una Pieza Eco'
+  - name: 'Trajes de Baño Orgánicos'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/organic-1.webp'
+    imageAlt: 'Colección de Trajes de Baño Orgánicos'
+  - name: 'Trajes Biodegradables'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/biodegradable-1.webp'
+    imageAlt: 'Colección de Trajes Biodegradables'
+
+# Customization capabilities
+customization:
+  title: 'Capacidades de Personalización'
+  description: 'Trajes de baño completamente personalizables—TideLine acepta todos los diseños personalizados, telas, herrajes, logos y empaques para dar vida a tu visión de marca.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Instalación de Fabricación'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalización de Estilo'
+      description: 'Da vida a cualquier diseño de traje de baño—elige tu estilo perfecto y déjanos crearlo para tu marca.'
+      link: '/contact'
+      cta_text: 'Consulta'
+    - name: 'Personalización de Tela'
+      description: 'Elige de una amplia gama de telas para crear trajes de baño cómodos de usar y hermosos de ver.'
+      link: '/fabric'
+      cta_text: 'Tela'
+    - name: 'Personalización de Herrajes'
+      description: 'Personaliza cada detalle—desde hebillas y anillos hasta cremalleras—nuestras opciones de herrajes elevan tu diseño.'
+      link: '/hardware'
+      cta_text: 'Herrajes'
+    - name: 'Personalización de Logo'
+      description: 'Hazlo verdaderamente tuyo—agrega tu logo a cada pieza para un look de marca profesional.'
+    - name: 'Personalización de Empaque'
+      description: 'Completa tu experiencia de marca con empaque adaptado a tu estilo y visión.'
+    - name: 'Contáctanos'
+      description: '¿Listo? Convirtamos tus ideas de trajes de baño en realidad.'
+      link: '/contact'
+      cta_text: 'Contáctanos'
+
+# Getting Started section
+getting_started:
+  title: 'Tu viaje en trajes de baño comienza aquí'
+  description: 'Ya sea que estés lanzando tu primera colección o escalando tu marca, TideLine proporciona soluciones de trajes de baño personalizadas para satisfacer tus necesidades. Elige tu camino y comienza.'
+  beginner_text: 'Comenzar como Principiante'
+  beginner_href: '/startup'
+  pro_text: 'Comprador Experimentado'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Proceso de Fabricación'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Preguntas Frecuentes'
+  questions:
+    - id: 1
+      question: '¿Qué son los trajes de baño sostenibles?'
+      answer: 'Los trajes de baño sostenibles están hechos de materiales eco-amigables y procesos de producción bajos en carbono, con el objetivo de reducir el impacto ambiental negativo. Típicamente usan fibras plásticas recicladas (como RPET), algodón orgánico, fibras naturales, y minimizan el consumo de agua y electricidad mientras evitan tintes dañinos para reducir la huella de carbono.'
+    - id: 2
+      question: '¿Qué materiales se usan en sus trajes de baño sostenibles?'
+      answer: 'Usamos una variedad de materiales eco-amigables para producir trajes de baño sostenibles, incluyendo fibras plásticas recicladas (RPET), fibras naturales de algas marinas, nylon biodegradable y algodón orgánico. Estos materiales ofrecen buena comodidad, durabilidad y elasticidad mientras ayudan a reducir la contaminación ambiental y el consumo de recursos.'
+    - id: 3
+      question: '¿Son los trajes de baño sostenibles más caros que los trajes de baño tradicionales?'
+      answer: 'Debido al uso de materiales eco-amigables y procesos de producción avanzados, los trajes de baño sostenibles tienden a ser más caros que los trajes de baño tradicionales. Sin embargo, a medida que las tendencias sostenibles continúan desarrollándose, los costos de obtener materiales eco-amigables y métodos de producción están disminuyendo gradualmente. Nos esforzamos por ofrecer precios competitivos mientras mantenemos estándares ambientales.'
+    - id: 4
+      question: '¿Cómo aseguran la calidad de los trajes de baño sostenibles?'
+      answer: 'Aunque usamos materiales eco-amigables, cada pieza de traje de baño sostenible se somete a un control de calidad estricto para asegurar que cumple con altos estándares de comodidad, durabilidad y funcionalidad. Las telas eco-amigables que seleccionamos son probadas para asegurar su rendimiento en agua, durabilidad y comodidad, igualando o superando la de materiales tradicionales.'
+    - id: 5
+      question: '¿Cuál es el proceso de producción para sus trajes de baño sostenibles?'
+      answer: 'Nuestros procesos de producción de trajes de baño sostenibles se enfocan en la fabricación baja en carbono y ahorro de recursos, minimizando el consumo de agua y electricidad. Seleccionamos cuidadosamente los tintes para asegurar que sean no tóxicos y eco-amigables, evitando químicos dañinos. Los materiales de desecho del proceso de producción son tratados y reciclados para minimizar el desperdicio.'
+    - id: 6
+      question: '¿Ofrecen trajes de baño sostenibles personalizados?'
+      answer: 'Sí, ofrecemos trajes de baño sostenibles completamente personalizados. Ya sea tela, diseño, color o logo de marca, podemos personalizar según sus requerimientos para asegurar que cada pieza de traje de baño se alinee con su filosofía de marca y compromisos ambientales.'
+    - id: 7
+      question: '¿Cómo deben mantenerse y limpiarse los trajes de baño sostenibles?'
+      answer: 'El mantenimiento de trajes de baño sostenibles es similar a los trajes de baño tradicionales. Recomendamos lavar a mano en agua fría y evitar blanqueador. Para extender la vida del traje de baño, evite la luz solar directa y secadoras, y extienda el traje de baño plano para secar. La limpieza regular y el cuidado apropiado ayudarán a mantener la comodidad y extender la vida útil del traje de baño.'

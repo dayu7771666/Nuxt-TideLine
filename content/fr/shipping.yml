@@ -1,0 +1,159 @@
+title: 'Politique de Livraison'
+description: 'Solutions de livraison mondiale fiables pour les besoins de votre entreprise de maillots de bain'
+
+seo:
+  title: 'Politique de Livraison | TIDELINE SWIMWEAR'
+  description: 'Solutions de livraison mondiale fiables pour les besoins de votre entreprise de maillots de bain. Options de livraison express et maritime, couverture mondiale dans plus de 150 pays, suivi en temps réel.'
+  keywords: 'livraison de maillots de bain, livraison mondiale, coursier express, fret maritime, fret aérien, DHL, FedEx, UPS, suivi de commande, livraison internationale, livraison de maillots de bain'
+  ogTitle: 'Politique de Livraison | TIDELINE SWIMWEAR'
+  ogDescription: 'Solutions de livraison mondiale fiables pour les besoins de votre entreprise de maillots de bain. Options de livraison express et maritime, couverture mondiale dans plus de 150 pays.'
+  ogType: 'website'
+  ogImage: '/shipping.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Politique de Livraison | TIDELINE SWIMWEAR'
+  twitterDescription: 'Solutions de livraison mondiale fiables pour les besoins de votre entreprise de maillots de bain. Options de livraison express et maritime, couverture mondiale dans plus de 150 pays.'
+
+hero:
+  image: '/shipping-banner.webp'
+
+orderTracking:
+  title: 'Suivi de Commande'
+  description: "Nous fournissons un suivi complet pour toutes les commandes afin de vous tenir informé de l'état de votre expédition à chaque étape."
+  features:
+    - "Les numéros de suivi sont envoyés par e-mail dans les 24 heures suivant l'expédition"
+    - 'Suivi en temps réel disponible sur notre site Web ou sur le site Web du transporteur'
+    - "Mises à jour régulières de l'état par e-mail pour les commandes de production"
+    - 'Gestionnaire de compte dédié pour les commandes supérieures à 10 000 $'
+  trackTitle: "Suivez Votre Commande : Entrez votre numéro de suivi ci-dessous pour vérifier l'état actuel de votre expédition."
+  trackPlaceholder: 'Entrez le numéro de suivi'
+  trackButton: 'Suivre'
+
+methods:
+  title: 'Méthodes de Livraison'
+  description: "Nous proposons différentes options de livraison en fonction de votre type de commande et de l'urgence pour répondre à vos besoins commerciaux spécifiques."
+  sample:
+    title: "Commande d'Échantillon"
+    description: "Pour les commandes d'échantillons, nous proposons une variété d'options de livraison pour vous aider à prendre des décisions rapides :"
+    options:
+      - name: 'Coursier Express'
+        description: 'DHL, FedEx, UPS (3-7 jours ouvrables)'
+      - name: 'Courrier Aérien Standard'
+        description: '(7-14 jours ouvrables)'
+      - name: 'Économique'
+        description: '(14-21 jours ouvrables)'
+  bulk:
+    title: 'Commandes de Production en Gros'
+    description: 'Pour les commandes de production en gros, nous proposons des solutions rentables :'
+    options:
+      - name: 'Fret Aérien'
+        description: '(7-15 jours ouvrables)'
+      - name: 'Fret Maritime'
+        description: '(30-45 jours ouvrables)'
+      - name: 'Aérien Express'
+        description: '(5-10 jours ouvrables)'
+  important:
+    title: 'Important'
+    note: "Les délais de production s'ajoutent aux délais de livraison. Veuillez nous contacter pour connaître les délais de production exacts en fonction de la quantité et de la complexité de votre commande."
+
+coverage:
+  title: 'Couverture de Livraison'
+  description: 'Nous fournissons des services de livraison dans plus de 150 pays dans le monde. Notre réseau de partenaires offre une livraison rapide dans le monde entier.'
+  globalOperationsTitle: 'Opérations Commerciales et Logistique Mondiales de Tideline'
+  businessRegions:
+    - title: 'Chine - Centre de Fabrication'
+      description: "Usine de vêtements moderne avec plus de 10 ans d'expérience en production et ventes."
+      icon: 'heroicons:building-office-20-solid'
+      color: 'red'
+    - title: 'États-Unis - Centre de Distribution'
+      description: "Entrepôt à l'étranger avec stock, livraison de 3 à 5 jours aux clients locaux."
+      icon: 'heroicons:building-storefront-20-solid'
+      color: 'blue'
+    - title: 'Europe et Australie'
+      description: 'Régions commerciales principales desservant divers types de clients.'
+      icon: 'heroicons:globe-europe-africa-20-solid'
+      color: 'green'
+    - title: 'Autre Région Commerciale'
+      description: 'Comme les maillots de bain modestes, adaptés aux clients et préférences locaux'
+      icon: 'heroicons:map-pin-20-solid'
+      color: 'purple'
+  mapTitle: 'TIDELINE SWIMWEAR EST LÀ OÙ SONT VOS CLIENTS'
+  mapSubtitle: 'Notre réseau de partenaires offre une livraison rapide dans le monde entier.'
+  regions:
+    - name: 'Amérique du Nord'
+      status: 'available'
+    - name: 'Union Européenne'
+      status: 'available'
+    - name: 'Asie'
+      status: 'available'
+    - name: 'Afrique'
+      status: 'limited'
+    - name: 'Amérique du Sud'
+      status: 'available'
+    - name: 'Australie et NZ'
+      status: 'available'
+  legend:
+    available: 'Disponible pour la Livraison'
+    limited: 'Service Limité/Aucun Service'
+  note:
+    title: 'Note'
+    text: 'Pour la disponibilité de pays spécifiques et toute restriction, veuillez contacter notre département de livraison : tidelineswim@swimsuitcustom.com'
+
+sidebar:
+  overview:
+    title: 'Aperçu de la Livraison'
+    description1: 'Chez TIDELINE SWIMWEAR, nous comprenons que la livraison dans les délais est cruciale pour votre entreprise. Nos solutions de livraison complètes sont conçues pour répondre aux divers besoins de nos clients B2B dans le monde entier.'
+    description2: 'Nous nous associons avec les principaux fournisseurs de logistique mondiaux pour garantir que vos commandes de maillots de bain vous parviennent en toute sécurité et à temps.'
+    keyFeatures: 'Caractéristiques Clés'
+    features: 'Couverture mondiale, options de livraison flexibles, suivi en temps réel et assistance douanière.'
+  contact:
+    title: "Besoin d'Aide pour la Livraison ?"
+    email: 'E-mail'
+    hours: "Heures d'Ouverture"
+    hoursTime: 'Lun-Ven : 9h-18h (EST)'
+    emergency: 'WhatsApp'
+  quickLinks:
+    title: 'Liens Rapides'
+    links:
+      - key: 'calculator'
+        text: 'Calculateur de Coût de Livraison'
+        href: 'https://wa.me/8618302407790'
+        external: true
+      - key: 'customs'
+        text: 'Guide des Douanes et Taxes'
+        href: '#'
+        external: false
+      - key: 'documentation'
+        text: 'Documentation Douanière'
+        href: '#'
+        external: false
+      - key: 'processing'
+        text: 'Info Temps de Traitement'
+        href: '#'
+        external: false
+      - key: 'packaging'
+        text: "Détails d'Emballage"
+        href: '#'
+        external: false
+      - key: 'returns'
+        text: 'Retours et Échanges'
+        href: '#'
+        external: false
+      - key: 'insurance'
+        text: 'Assurance Livraison'
+        href: '#'
+        external: false
+      - key: 'faq'
+        text: 'FAQ Livraison'
+        href: '#'
+        external: false
+      - key: 'policy'
+        text: 'Politique de Retour'
+        href: '#'
+        external: false
+  partners:
+    title: 'Nos Partenaires de Livraison'
+    description: 'Nous travaillons avec des fournisseurs de logistique mondiaux de confiance :'
+    list:
+      - 'DHL Express'
+      - 'FedEx'
+      - 'UPS'

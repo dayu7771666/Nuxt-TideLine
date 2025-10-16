@@ -1,0 +1,116 @@
+title: 'Fabricant de Maillots de Bain pour Femmes'
+description: "Plus qu'un fournisseur — votre partenaire dans la construction de marque de maillots de bain."
+
+seo:
+  title: 'Fabricant de Maillots de Bain pour Femmes | TIDELINE SWIMWEAR'
+  description: 'Fabricant professionnel de maillots de bain pour femmes offrant des bikinis personnalisés, des maillots une pièce et des tankinis. MOQ faible, haute qualité, prix de gros pour marques et détaillants.'
+  keywords: 'fabricant maillots de bain femmes, fabricant bikini, maillot une pièce en gros, maillots de bain personnalisés, fournisseur maillots de bain femmes, usine maillots de bain'
+  ogTitle: 'Fabricant de Maillots de Bain pour Femmes | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricant professionnel de maillots de bain pour femmes. Designs personnalisés, MOQ faible, prix de gros pour bikinis, maillots une pièce et tankinis.'
+  ogType: 'website'
+  ogImage: '/catalog/women-swimwear.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricant de Maillots de Bain pour Femmes | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabrication personnalisée de maillots de bain pour femmes. Bikinis, maillots une pièce, tankinis. MOQ faible, prix de gros.'
+
+# Hero section
+hero:
+  cta_text: 'Consultation'
+  cta_href: '/contact'
+  image_src: '/catalog/women-swimwear.webp'
+  image_alt: ''
+  image_width: '900px'
+
+# Mission section
+mission:
+  title: 'Notre Mission'
+  paragraph1: "Chez TideLine Swimwear, nous savons que les maillots de bain pour femmes sont l'une des catégories les plus dynamiques de la mode. Chaque année, notre équipe de design développe des collections fraîches et tendance qui reflètent les derniers styles mondiaux—qu'il s'agisse de maillots une pièce élégants, de bikinis chics ou de tankinis polyvalents."
+  paragraph2_with_link: "Prêt à commencer votre commande ou explorer notre catalogue complet ? {0} aujourd'hui et notre équipe fournira des recommandations personnalisées, des prix et des échantillons—rapidement et sans tracas."
+  whatsapp_link_text: 'Contactez-nous sur WhatsApp'
+
+# Statistics
+stats:
+  - label: "Expérience dans l'Industrie des Maillots de Bain"
+    value: '10 ans +'
+  - label: 'Commandes Réalisées'
+    value: '1,000,000+'
+
+# Product categories
+product_range:
+  title: 'Collections de Maillots de Bain pour Femmes'
+  description: 'Explorez Notre Collection de Maillots de Bain Soigneusement Sélectionnée'
+  more_text: 'Parcourir Tous les Produits'
+  categories:
+    - name: 'Bikinis'
+      href: '/category?type=women&subtype=bikini'
+      image_src: '/women-swimwear/bikinis/bikinis-1.webp'
+    - name: 'Maillot Une Pièce'
+      href: '/category?type=women&subtype=one-piece'
+      image_src: '/women-swimwear/one-piece/one-piece-1.webp'
+    - name: 'Tankini'
+      href: '/category?type=women&subtype=tankini'
+      image_src: '/women-swimwear/tankini/tankini-10.webp'
+    - name: 'Paréo de Plage'
+      href: '/category?type=women&subtype=cover-up'
+      image_src: '/women-swimwear/beach/beach-2.webp'
+
+# Customization capabilities
+customization:
+  title: 'Capacités de Personnalisation'
+  description: 'Maillots de bain entièrement personnalisables—TideLine accepte tous les designs personnalisés, tissus, accessoires, logos et emballages pour donner vie à votre vision de marque.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: ''
+  hero_image_width: '1000px'
+  features:
+    - name: 'Personnalisation de Style'
+      description: "Donnez vie à n'importe quel design de maillot de bain—choisissez votre style parfait et laissez-nous le créer pour votre marque."
+      link: '/contact'
+      cta_text: 'Consultation'
+    - name: 'Personnalisation de Tissu'
+      description: 'Choisissez parmi une large gamme de tissus pour créer des maillots de bain confortables à porter et beaux à voir.'
+      link: '/fabric'
+      cta_text: 'Tissu'
+    - name: "Personnalisation d'Accessoires"
+      description: "Personnalisez chaque détail—des boucles et anneaux aux fermetures éclair—nos options d'accessoires élèvent votre design."
+      link: '/hardware'
+      cta_text: 'Accessoires'
+    - name: 'Personnalisation de Logo'
+      description: 'Rendez-le vraiment vôtre—ajoutez votre logo à chaque pièce pour un look de marque professionnel.'
+    - name: "Personnalisation d'Emballage"
+      description: 'Complétez votre expérience de marque avec un emballage adapté à votre style et vision.'
+    - name: 'Contactez-nous'
+      description: 'Prêt ? Transformons vos idées de maillots de bain en réalité.'
+      link: '/contact'
+      cta_text: 'Contactez-nous'
+
+# Getting started section
+getting_started:
+  title: 'Votre voyage dans les maillots de bain commence ici'
+  description: 'Que vous lanciez votre première collection ou que vous développiez votre marque, TideLine fournit des solutions de maillots de bain sur mesure pour répondre à vos besoins. Choisissez votre chemin et commencez.'
+  beginner_text: 'Commencer en tant que Débutant'
+  beginner_href: '/startup'
+  pro_text: 'Acheteur Expérimenté'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: ''
+  image_width: '1000px'
+
+# FAQ section
+faq:
+  title: 'Questions fréquemment posées'
+  questions:
+    - id: 1
+      question: 'Quelle est la quantité minimum de commande pour les maillots de bain pour femmes en gros ?'
+      answer: 'Notre quantité minimum de commande (MOQ) commence à 30 pièces par style et taille, ce qui le rend flexible pour les marques de maillots de bain petites et moyennes.'
+    - id: 2
+      question: 'Puis-je personnaliser les designs et tissus des maillots de bain ?'
+      answer: 'Oui ! Nous offrons des maillots de bain entièrement personnalisables, y compris les designs, tissus, logos et emballages, pour aider votre marque à se démarquer sur le marché.'
+    - id: 3
+      question: 'Combien de temps faut-il pour produire des commandes de maillots de bain en gros ?'
+      answer: 'Typiquement, les échantillons sont prêts en 10 jours, et les commandes en gros sont expédiées en 30 jours, selon la quantité et les exigences de personnalisation.'
+    - id: 4
+      question: 'Offrez-vous des options de maillots de bain écologiques ou durables ?'
+      answer: 'Absolument. Nous fournissons une gamme de tissus écologiques et de méthodes de production durables pour les marques qui priorisent la responsabilité environnementale.'
+    - id: 5
+      question: 'Comment puis-je obtenir un devis détaillé pour les commandes en gros ?'
+      answer: 'Vous pouvez contacter notre équipe via WhatsApp ou email, fournir vos styles, tailles et tissus désirés, et nous enverrons un devis complet, un catalogue de tissus et des conseils professionnels.'

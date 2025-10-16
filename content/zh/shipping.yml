@@ -1,0 +1,159 @@
+title: '配送政策'
+description: '为您的泳装业务需求提供可靠的全球配送解决方案'
+
+seo:
+  title: '配送政策 | TIDELINE SWIMWEAR'
+  description: '为您的泳装业务需求提供可靠的全球配送解决方案。快递和海运选项，覆盖全球150多个国家，实时追踪。'
+  keywords: '泳装配送, 全球配送, 快递, 海运, 空运, DHL, FedEx, UPS, 订单追踪, 国际配送, 泳装交付'
+  ogTitle: '配送政策 | TIDELINE SWIMWEAR'
+  ogDescription: '为您的泳装业务需求提供可靠的全球配送解决方案。快递和海运选项，覆盖全球150多个国家。'
+  ogType: 'website'
+  ogImage: '/shipping.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '配送政策 | TIDELINE SWIMWEAR'
+  twitterDescription: '为您的泳装业务需求提供可靠的全球配送解决方案。快递和海运选项，覆盖全球150多个国家。'
+
+hero:
+  image: '/shipping-banner.webp'
+
+orderTracking:
+  title: '订单追踪'
+  description: '我们为所有订单提供全面的追踪服务，确保您在每个步骤都了解货运状态。'
+  features:
+    - '追踪号码在发货后24小时内通过电子邮件发送'
+    - '可在我们的网站或承运商网站上进行实时追踪'
+    - '生产订单通过电子邮件定期更新状态'
+    - '超过10,000美元的订单配备专属客户经理'
+  trackTitle: '追踪您的订单：在下方输入您的追踪号码以查看货运的当前状态。'
+  trackPlaceholder: '输入追踪号码'
+  trackButton: '追踪'
+
+methods:
+  title: '配送方式'
+  description: '我们根据您的订单类型和紧急程度提供不同的配送选项，以满足您的特定业务需求。'
+  sample:
+    title: '样品订单'
+    description: '对于样品订单，我们提供多种配送选项以帮助您快速做出决策：'
+    options:
+      - name: '快递'
+        description: 'DHL、FedEx、UPS（3-7个工作日）'
+      - name: '标准航空邮件'
+        description: '（7-14个工作日）'
+      - name: '经济型'
+        description: '（14-21个工作日）'
+  bulk:
+    title: '批量生产订单'
+    description: '对于批量生产订单，我们提供经济高效的解决方案：'
+    options:
+      - name: '空运'
+        description: '（7-15个工作日）'
+      - name: '海运'
+        description: '（30-45个工作日）'
+      - name: '快速空运'
+        description: '（5-10个工作日）'
+  important:
+    title: '重要提示'
+    note: '生产交付时间是配送时间之外的额外时间。请联系我们了解基于您订单数量和复杂度的确切生产时间表。'
+
+coverage:
+  title: '配送覆盖范围'
+  description: '我们向全球150多个国家提供配送服务。我们的合作伙伴网络在全球范围内提供快速配送。'
+  globalOperationsTitle: 'Tideline 全球业务运营与物流'
+  businessRegions:
+    - title: '中国 - 制造中心'
+      description: '拥有10年以上生产和销售经验的现代化服装工厂。'
+      icon: 'heroicons:building-office-20-solid'
+      color: 'red'
+    - title: '美国 - 履约中心'
+      description: '海外仓库备有库存，3-5天送达本地客户。'
+      icon: 'heroicons:building-storefront-20-solid'
+      color: 'blue'
+    - title: '欧洲和澳大利亚'
+      description: '服务于多种客户类型的主要业务区域。'
+      icon: 'heroicons:globe-europe-africa-20-solid'
+      color: 'green'
+    - title: '其他业务区域'
+      description: '如针对当地客户和偏好定制的保守泳装'
+      icon: 'heroicons:map-pin-20-solid'
+      color: 'purple'
+  mapTitle: 'TIDELINE SWIMWEAR 在您的客户所在之处'
+  mapSubtitle: '我们的合作伙伴网络在全球范围内提供快速配送。'
+  regions:
+    - name: '北美'
+      status: 'available'
+    - name: '欧盟'
+      status: 'available'
+    - name: '亚洲'
+      status: 'available'
+    - name: '非洲'
+      status: 'limited'
+    - name: '南美'
+      status: 'available'
+    - name: '澳大利亚和新西兰'
+      status: 'available'
+  legend:
+    available: '可配送'
+    limited: '有限/无服务'
+  note:
+    title: '注意'
+    text: '有关特定国家的可用性和任何限制，请联系我们的配送部门：tidelineswim@swimsuitcustom.com'
+
+sidebar:
+  overview:
+    title: '配送概览'
+    description1: '在 TIDELINE SWIMWEAR，我们理解及时配送对您的业务至关重要。我们的全面配送解决方案旨在满足全球 B2B 客户的多样化需求。'
+    description2: '我们与领先的全球物流供应商合作，确保您的泳装订单安全准时地送达。'
+    keyFeatures: '主要特点'
+    features: '全球覆盖、灵活的配送选项、实时追踪和海关协助。'
+  contact:
+    title: '需要配送帮助？'
+    email: '电子邮件'
+    hours: '营业时间'
+    hoursTime: '周一至周五：上午9点至下午6点（美国东部时间）'
+    emergency: 'WhatsApp'
+  quickLinks:
+    title: '快速链接'
+    links:
+      - key: 'calculator'
+        text: '配送费用计算器'
+        href: 'https://wa.me/8618302407790'
+        external: true
+      - key: 'customs'
+        text: '海关和税务指南'
+        href: '#'
+        external: false
+      - key: 'documentation'
+        text: '海关文件'
+        href: '#'
+        external: false
+      - key: 'processing'
+        text: '处理时间信息'
+        href: '#'
+        external: false
+      - key: 'packaging'
+        text: '包装详情'
+        href: '#'
+        external: false
+      - key: 'returns'
+        text: '退货和换货'
+        href: '#'
+        external: false
+      - key: 'insurance'
+        text: '配送保险'
+        href: '#'
+        external: false
+      - key: 'faq'
+        text: '配送常见问题'
+        href: '#'
+        external: false
+      - key: 'policy'
+        text: '退货政策'
+        href: '#'
+        external: false
+  partners:
+    title: '我们的配送合作伙伴'
+    description: '我们与值得信赖的全球物流供应商合作：'
+    list:
+      - 'DHL Express'
+      - 'FedEx'
+      - 'UPS'

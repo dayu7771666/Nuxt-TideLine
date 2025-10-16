@@ -1,0 +1,116 @@
+title: 'Fabricante de Roupas de Banho Femininas'
+description: 'Mais que um fornecedor — seu parceiro na construção da marca de roupas de banho.'
+
+seo:
+  title: 'Fabricante de Roupas de Banho Femininas | TIDELINE SWIMWEAR'
+  description: 'Fabricante profissional de roupas de banho femininas oferecendo biquínis personalizados, maiôs e tankinis. MOQ baixo, alta qualidade, preços atacado para marcas e varejistas.'
+  keywords: 'fabricante roupas de banho femininas, fabricante biquíni, maiô atacado, roupas de banho personalizadas, fornecedor roupas de banho femininas, fábrica roupas de banho'
+  ogTitle: 'Fabricante de Roupas de Banho Femininas | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricante profissional de roupas de banho femininas. Designs personalizados, MOQ baixo, preços atacado para biquínis, maiôs e tankinis.'
+  ogType: 'website'
+  ogImage: '/catalog/women-swimwear.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricante de Roupas de Banho Femininas | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabricação personalizada de roupas de banho femininas. Biquínis, maiôs, tankinis. MOQ baixo, preços atacado.'
+
+# Hero section
+hero:
+  cta_text: 'Consultoria'
+  cta_href: '/contact'
+  image_src: '/catalog/women-swimwear.webp'
+  image_alt: ''
+  image_width: '900px'
+
+# Mission section
+mission:
+  title: 'Nossa Missão'
+  paragraph1: 'Na TideLine Swimwear, sabemos que roupas de banho femininas são uma das categorias mais dinâmicas na moda. A cada ano, nossa equipe de design desenvolve coleções frescas e orientadas por tendências que refletem os últimos estilos globais—sejam maiôs elegantes, biquínis chiques ou tankinis versáteis.'
+  paragraph2_with_link: 'Pronto para iniciar seu pedido ou explorar nosso catálogo completo? {0} hoje e nossa equipe fornecerá recomendações personalizadas, preços e amostras—rápido e sem complicações.'
+  whatsapp_link_text: 'Entre em contato conosco no WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experiência na Indústria de Roupas de Banho'
+    value: '10 anos +'
+  - label: 'Pedidos Cumpridos'
+    value: '1,000,000+'
+
+# Product categories
+product_range:
+  title: 'Coleções de Roupas de Banho Femininas'
+  description: 'Explore Nossa Coleção de Roupas de Banho Cuidadosamente Selecionada'
+  more_text: 'Navegar Todos os Produtos'
+  categories:
+    - name: 'Biquínis'
+      href: '/category?type=women&subtype=bikini'
+      image_src: '/women-swimwear/bikinis/bikinis-1.webp'
+    - name: 'Maiô'
+      href: '/category?type=women&subtype=one-piece'
+      image_src: '/women-swimwear/one-piece/one-piece-1.webp'
+    - name: 'Tankini'
+      href: '/category?type=women&subtype=tankini'
+      image_src: '/women-swimwear/tankini/tankini-10.webp'
+    - name: 'Saída de Praia'
+      href: '/category?type=women&subtype=cover-up'
+      image_src: '/women-swimwear/beach/beach-2.webp'
+
+# Customization capabilities
+customization:
+  title: 'Capacidades de Personalização'
+  description: 'Roupas de banho totalmente personalizáveis—TideLine aceita todos os designs personalizados, tecidos, ferragens, logos e embalagens para dar vida à sua visão de marca.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: ''
+  hero_image_width: '1000px'
+  features:
+    - name: 'Personalização de Estilo'
+      description: 'Dê vida a qualquer design de roupa de banho—escolha seu estilo perfeito e deixe-nos criá-lo para sua marca.'
+      link: '/contact'
+      cta_text: 'Consultoria'
+    - name: 'Personalização de Tecido'
+      description: 'Escolha de uma ampla gama de tecidos para criar roupas de banho confortáveis de usar e bonitas de ver.'
+      link: '/fabric'
+      cta_text: 'Tecido'
+    - name: 'Personalização de Ferragens'
+      description: 'Personalize cada detalhe—de fivelas e anéis a zíperes—nossas opções de ferragens elevam seu design.'
+      link: '/hardware'
+      cta_text: 'Ferragens'
+    - name: 'Personalização de Logo'
+      description: 'Torne-o verdadeiramente seu—adicione seu logo a cada peça para um visual de marca profissional.'
+    - name: 'Personalização de Embalagem'
+      description: 'Complete sua experiência de marca com embalagem adaptada ao seu estilo e visão.'
+    - name: 'Entre em contato'
+      description: 'Pronto? Vamos transformar suas ideias de roupas de banho em realidade.'
+      link: '/contact'
+      cta_text: 'Entre em contato'
+
+# Getting started section
+getting_started:
+  title: 'Sua jornada de roupas de banho começa aqui'
+  description: 'Seja lançando sua primeira coleção ou expandindo sua marca, TideLine fornece soluções de roupas de banho sob medida para atender suas necessidades. Escolha seu caminho e comece.'
+  beginner_text: 'Começar como Iniciante'
+  beginner_href: '/startup'
+  pro_text: 'Comprador Experiente'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: ''
+  image_width: '1000px'
+
+# FAQ section
+faq:
+  title: 'Perguntas frequentes'
+  questions:
+    - id: 1
+      question: 'Qual é a quantidade mínima de pedido para roupas de banho femininas no atacado?'
+      answer: 'Nossa quantidade mínima de pedido (MOQ) começa em 30 peças por estilo e tamanho, tornando-a flexível para marcas de roupas de banho pequenas e médias.'
+    - id: 2
+      question: 'Posso personalizar os designs e tecidos das roupas de banho?'
+      answer: 'Sim! Oferecemos roupas de banho totalmente personalizáveis, incluindo designs, tecidos, logos e embalagens, para ajudar sua marca a se destacar no mercado.'
+    - id: 3
+      question: 'Quanto tempo leva para produzir pedidos de roupas de banho em grande quantidade?'
+      answer: 'Tipicamente, as amostras ficam prontas em 10 dias, e pedidos em grande quantidade são enviados em 30 dias, dependendo da quantidade e requisitos de personalização.'
+    - id: 4
+      question: 'Vocês oferecem opções de roupas de banho eco-friendly ou sustentáveis?'
+      answer: 'Absolutamente. Fornecemos uma gama de tecidos eco-friendly e métodos de produção sustentáveis para marcas que priorizam responsabilidade ambiental.'
+    - id: 5
+      question: 'Como posso obter uma cotação detalhada para pedidos no atacado?'
+      answer: 'Você pode entrar em contato com nossa equipe via WhatsApp ou email, fornecer seus estilos, tamanhos e tecidos desejados, e enviaremos uma cotação completa, catálogo de tecidos e orientação profissional.'

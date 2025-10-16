@@ -1,4 +1,6 @@
 // middleware/getDomain.js
+import { isDomainForLanguage } from '../../config/languages';
+
 export default defineNuxtRouteMiddleware((to, from) => {
   const userToken = useCookie('user_token', {
     path: '/', // 确保 Cookie 对整个域有效
@@ -32,87 +34,59 @@ export default defineNuxtRouteMiddleware((to, from) => {
   let siteID = '';
   let language = '';
   if (import.meta.server) {
-    // 显式判断每个条件
-    if (
-      domain.includes('www.swimsuitcustom.com') ||
-      domain.includes('enen.swimsuitcustom.com')
-    ) {
+    // 使用新的域名检查函数，支持测试和生产环境
+    const languageConfigs = [
+      { lang: 'en', baseURL: 'https://us-api.swimsuitcustom.com', siteID: '3' },
+      { lang: 'de', baseURL: 'https://de-api.swimsuitcustom.com', siteID: '5' },
+      { lang: 'es', baseURL: 'https://es-api.swimsuitcustom.com', siteID: '6' },
+      { lang: 'fr', baseURL: 'https://fr-api.swimsuitcustom.com', siteID: '7' },
+      { lang: 'ja', baseURL: 'https://ja-api.swimsuitcustom.com', siteID: '8' },
+      { lang: 'ru', baseURL: 'https://ru-api.swimsuitcustom.com', siteID: '9' },
+      {
+        lang: 'it',
+        baseURL: 'https://it-api.swimsuitcustom.com',
+        siteID: '10',
+      },
+      {
+        lang: 'pt',
+        baseURL: 'https://pt-api.swimsuitcustom.com',
+        siteID: '11',
+      },
+      {
+        lang: 'ar',
+        baseURL: 'https://ar-api.swimsuitcustom.com',
+        siteID: '12',
+      },
+      {
+        lang: 'hi',
+        baseURL: 'https://hi-api.swimsuitcustom.com',
+        siteID: '13',
+      },
+      {
+        lang: 'ko',
+        baseURL: 'https://ko-api.swimsuitcustom.com',
+        siteID: '14',
+      },
+      {
+        lang: 'zh',
+        baseURL: 'https://zh-api.swimsuitcustom.com',
+        siteID: '15',
+      },
+    ];
+
+    // 查找匹配的语言配置
+    const matchedConfig = languageConfigs.find(config =>
+      isDomainForLanguage(domain, config.lang)
+    );
+
+    if (matchedConfig) {
+      baseURL = matchedConfig.baseURL;
+      siteID = matchedConfig.siteID;
+      language = matchedConfig.lang;
+    } else {
+      // 默认使用英文配置
       baseURL = 'https://us-api.swimsuitcustom.com';
       siteID = '3';
-      language = 'en';
-    } else if (
-      domain.includes('de.swimsuitcustom.com') ||
-      domain.includes('dede.swimsuitcustom.com')
-    ) {
-      baseURL = 'https://de-api.swimsuitcustom.com';
-      siteID = '5';
-      language = 'de';
-    } else if (
-      domain.includes('es.swimsuitcustom.com') ||
-      domain.includes('eses.swimsuitcustom.com')
-    ) {
-      baseURL = 'https://es-api.swimsuitcustom.com';
-      siteID = '6';
-      language = 'es';
-    } else if (
-      domain.includes('fr.swimsuitcustom.com') ||
-      domain.includes('frfr.swimsuitcustom.com')
-    ) {
-      baseURL = 'https://fr-api.swimsuitcustom.com';
-      siteID = '7';
-      language = 'fr';
-    } else if (
-      domain.includes('ja.swimsuitcustom.com') ||
-      domain.includes('jaja.swimsuitcustom.com')
-    ) {
-      baseURL = 'https://ja-api.swimsuitcustom.com';
-      siteID = '8';
-      language = 'ja';
-    } else if (
-      domain.includes('ru.swimsuitcustom.com') ||
-      domain.includes('ruru.swimsuitcustom.com')
-    ) {
-      baseURL = 'https://ru-api.swimsuitcustom.com';
-      siteID = '9';
-      language = 'ru';
-    } else if (
-      domain.includes('it.swimsuitcustom.com') ||
-      domain.includes('itit.swimsuitcustom.com')
-    ) {
-      baseURL = 'https://it-api.swimsuitcustom.com';
-      siteID = '10';
-      language = 'it';
-    } else if (
-      domain.includes('pt.swimsuitcustom.com') ||
-      domain.includes('ptpt.swimsuitcustom.com')
-    ) {
-      baseURL = 'https://pt-api.swimsuitcustom.com';
-      siteID = '11';
-      language = 'pt';
-    } else if (
-      domain.includes('ar.swimsuitcustom.com') ||
-      domain.includes('arar.swimsuitcustom.com')
-    ) {
-      baseURL = 'https://ar-api.swimsuitcustom.com';
-      siteID = '12';
-      language = 'ar';
-    } else if (
-      domain.includes('hi.swimsuitcustom.com') ||
-      domain.includes('hihi.swimsuitcustom.com')
-    ) {
-      baseURL = 'https://hi-api.swimsuitcustom.com';
-      siteID = '13';
-      language = 'hi';
-    } else if (
-      domain.includes('ko.swimsuitcustom.com') ||
-      domain.includes('koko.swimsuitcustom.com')
-    ) {
-      baseURL = 'https://ko-api.swimsuitcustom.com';
-      siteID = '14';
-      language = 'ko';
-    } else {
-      baseURL = 'https://us-api.swimsuitcustom.com';
-      siteID = '3'; // 默认使用美国站点ID
       language = 'en';
     }
     // console.log(baseURL, 'baseURL');

@@ -1,0 +1,144 @@
+title: 'Bademodenfabrik-Services für Startups und Ladengeschäfte'
+description: 'Wir sind eine chinesische Bademodenfabrik mit einer vollständigen Lieferkette, die sich der Bereitstellung erstklassiger Services für Startups und Ladengeschäfte widmet. Unsere Mindestbestellmenge beträgt nur 30 Stück, was uns ideal für Kunden mit Kleinserien-Einkaufsbedürfnissen macht.'
+
+seo:
+  title: 'Bademodenfabrik-Services für Startups und Ladengeschäfte | TIDELINE SWIMWEAR'
+  description: 'Wir sind eine chinesische Bademodenfabrik mit einer vollständigen Lieferkette, die sich der Bereitstellung erstklassiger Services für Startups und Ladengeschäfte widmet. Unsere Mindestbestellmenge beträgt nur 30 Stück.'
+  keywords: 'Bademodenfabrik, Bademodenhersteller, Startup-Bademode, Kleinserien-Bademode, niedrige MOQ-Bademode, Badeanzugfabrik, maßgeschneiderte Bademoden-Produktion, Bademoden-Lieferant'
+  ogTitle: 'Bademodenfabrik-Services für Startups | TIDELINE SWIMWEAR'
+  ogDescription: 'Chinesische Bademodenfabrik mit vollständiger Lieferkette. Niedrige MOQ von 30 Stück, perfekt für Startups und Ladengeschäfte. 8+ Jahre Branchenerfahrung.'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Bademodenfabrik für Startups | TIDELINE SWIMWEAR'
+  twitterDescription: 'Niedrige MOQ-Bademoden-Herstellung für Startups. Mindestens 30 Stück, vollständige Lieferkette, 8+ Jahre Erfahrung.'
+
+# Hero section
+hero:
+  badge: 'Wir stellen vor'
+
+# Company information
+company:
+  introduction: 'Mit 8 Jahren Erfahrung in der Bademodenindustrie sind wir langfristige Lieferanten für renommierte Plattformen wie Alibaba, SHEIN und TikTok und gewährleisten Produktqualität und stabile Versorgung.'
+  benefits: 'Durch die Wahl von uns profitieren Sie von professioneller Teamunterstützung, effizienten Produktionsprozessen und flexiblen Kleinserien-Anpassungsservices, die Ihnen helfen, Ihr Bademoden-Geschäft schnell zu starten oder zu erweitern.'
+
+# Features list
+features:
+  - id: 1
+    title: 'Mindestbestellmenge von nur 30 Stück'
+    description: 'Perfekt für Startups und kleine Ladengeschäfte, um den Markt mit niedrigen Kosten zu testen.'
+  - id: 2
+    title: 'Wettbewerbsfähige Preise'
+    description: 'Im Vergleich zu internationalen Lieferanten sind unsere Preise niedriger bei gleichzeitiger Aufrechterhaltung hoher Qualitätsstandards.'
+  - id: 3
+    title: '8 Jahre Erfahrung in der Bademodenindustrie'
+    description: 'Wir verstehen Marktanforderungen und können Kunden helfen, Bestseller-Bademode zu kreieren.'
+
+# Success section
+success:
+  title: 'Von Null anfangen, Ihnen zum Erfolg verhelfen'
+  description: 'Ob Sie ein Startup sind, das gerade erst anfängt, oder ein Ladengeschäft, das einen zuverlässigen Lieferanten sucht, wir bieten maßgeschneiderte Lösungen, um Ihre Bedürfnisse zu erfüllen.'
+
+# Quote section
+quote:
+  text: 'Wir sind bestrebt, der bevorzugte Bademoden-Lieferant für Startups und Ladengeschäfte zu sein und Kunden zu helfen, leicht in den Markt einzutreten und schnell zu wachsen.'
+  company: 'TideLine'
+  role: 'Bademodenindustrie-Experten'
+  avatar: '/tidelinelogo-600.png'
+
+# Call to action
+cta:
+  text: 'Kontaktieren Sie uns'
+  description: 'Erfahren Sie mehr über unsere Services.'
+
+# Image section
+image:
+  src: '/manufacturer.jpg'
+  alt: 'Bademodenfabrik-Unterstützung für Startups'
+  caption: 'Starke Unterstützung für Startups und Ladengeschäfte'
+
+# Services section
+services:
+  title: 'Umfassende Services zur Erfüllung Ihrer Bedürfnisse'
+  description: 'Vom Design bis zur Produktion haben wir eine vollständige Lieferkette und bieten Kunden eine effiziente und zuverlässige Service-Erfahrung.'
+  cta: 'Kontaktieren Sie uns und lassen Sie uns ein neues Kapitel in Ihrem Bademoden-Geschäft beginnen!'
+
+# Contact form section
+contact:
+  title: 'Schließen Sie sich uns an'
+  form:
+    firstName: 'Vorname'
+    email: 'E-Mail'
+    message: 'Nachricht'
+    submit: 'Absenden'
+    terms:
+      text: 'Durch das Absenden dieses Formulars stimme ich den'
+      link: 'Allgemeinen Geschäftsbedingungen zu'
+
+# Testimonial section
+testimonial:
+  quote: 'Die Zukunft der Bademodenindustrie dreht sich um mutige Innovation und das Vorausbleiben von Trends – schließen Sie sich uns an, um das nächste große Ding zu gestalten, und lassen Sie uns gemeinsam etwas Unvergessliches schaffen!'
+  name: 'ChangShun'
+  title: 'CEO von TideLine Swimwear'
+  avatar: '/img/contactus.png'
+
+# Statistics
+stats:
+  - label: 'Erfahrung in der Bademodenindustrie'
+    value: '8 Jahre +'
+  - label: 'Erfüllte Bestellungen'
+    value: '100.000+'
+
+# Additional sections for potential expansion
+advantages:
+  title: 'Warum TideLine für Ihr Startup wählen'
+  items:
+    - title: 'Risikoarmer Einstieg'
+      description: 'Starten Sie mit nur 30 Stück Mindestbestellmenge'
+      icon: 'shield-check'
+    - title: 'Vollständige Lieferkette'
+      description: 'Vom Design bis zur Lieferung kümmern wir uns um alles'
+      icon: 'cog-6-tooth'
+    - title: 'Branchenerfahrung'
+      description: '8+ Jahre im Dienst globaler Marken und Plattformen'
+      icon: 'star'
+    - title: 'Flexible Anpassung'
+      description: 'Designs an Ihre Markenanforderungen anpassen'
+      icon: 'adjustments-horizontal'
+
+# Process steps
+process:
+  title: 'Wie wir Ihre Startup-Reise unterstützen'
+  steps:
+    - step: 1
+      title: 'Erstberatung'
+      description: 'Teilen Sie Ihre Vision und Anforderungen mit unserem Team'
+    - step: 2
+      title: 'Design & Musterung'
+      description: 'Wir erstellen Muster basierend auf Ihren Spezifikationen'
+    - step: 3
+      title: 'Kleinserien-Produktion'
+      description: 'Starten Sie mit mindestens 30 Stück, um Ihren Markt zu testen'
+    - step: 4
+      title: 'Skalieren & Wachsen'
+      description: 'Erweitern Sie die Produktion, während Ihr Geschäft wächst'
+
+# FAQ section
+faq:
+  title: 'Häufig gestellte Fragen'
+  questions:
+    - id: 1
+      question: 'Was unterscheidet TideLine von anderen Bademoden-Herstellern?'
+      answer: 'Wir sind spezialisiert auf die Unterstützung von Startups und kleinen Unternehmen mit niedrigen Mindestbestellmengen, wettbewerbsfähigen Preisen und umfassender Unterstützung vom Design bis zur Lieferung.'
+    - id: 2
+      question: 'Können Sie beim Design helfen, wenn ich nur ein Konzept habe?'
+      answer: 'Absolut! Unser erfahrenes Designteam kann helfen, Ihre Konzepte in produktionsreife Designs zu verwandeln und während des gesamten Entwicklungsprozesses Anleitung zu geben.'
+    - id: 3
+      question: 'Wie ist Ihr typischer Produktionszeitplan?'
+      answer: 'Die Musterproduktion dauert in der Regel 7-10 Tage, während die Massenproduktion je nach Bestellgröße und Komplexität 15-25 Tage dauert.'
+    - id: 4
+      question: 'Bieten Sie Unterstützung für die Markenentwicklung?'
+      answer: 'Ja, wir bieten umfassende Markenunterstützung einschließlich individueller Etikettierung, Verpackungsdesign und Marketing-Beratung, um Ihre Bademoden-Marke zu etablieren.'
+    - id: 5
+      question: 'Welche Qualitätsstandards halten Sie ein?'
+      answer: 'Wir pflegen strenge Qualitätskontrollprozesse und arbeiten mit etablierten Plattformen wie Alibaba, SHEIN und TikTok zusammen, um eine konstant hochwertige Produktion zu gewährleisten.'

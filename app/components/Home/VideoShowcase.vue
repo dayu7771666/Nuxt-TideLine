@@ -239,8 +239,8 @@
         <!-- 标题区域 -->
         <div class="mb-12 flex flex-col items-center">
           <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-              {{ title }}
-            </h2>
+            {{ title }}
+          </h2>
           <p class="text-lg text-gray-600 leading-relaxed max-w-3xl mx-auto">
             {{ description }}
           </p>
@@ -598,23 +598,3 @@
     }
   });
 </script>
-
-<style scoped>
-  /* 自定义视频控件样式 */
-  video::-webkit-media-controls-panel {
-    background-color: rgba(0, 0, 0, 0.8);
-  }
-
-  video::-webkit-media-controls-play-button,
-  video::-webkit-media-controls-volume-slider,
-  video::-webkit-media-controls-timeline {
-    filter: invert(1);
-  }
-
-  /* 响应式调整 */
-  @media (max-width: 1200px) {
-    .aspect-video {
-      aspect-ratio: 16 / 9;
-    }
-  }
-</style>

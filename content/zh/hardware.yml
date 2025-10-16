@@ -1,0 +1,154 @@
+title: '高级泳装五金件和饰边'
+description: '通过我们精选的高质量五金件和饰边提升您的泳装设计。从抗氯弹性材料到耐用的金属配件,在制作持久泳装时,每个细节都很重要。'
+
+seo:
+  title: '泳装五金件和饰边 | 高级品质配件 | Tideline Swim'
+  description: '使用高级五金件和饰边提升您的泳装设计。抗氯弹性材料、防锈金属配件、胸垫和定制品牌选项。经过质量认证的泳装组件。'
+  keywords: '泳装五金件, 泳装配件, 抗氯弹性材料, 金属扣, 胸垫, 泳装饰边, 钩眼, 可调节肩带, 泳装标签, 定制五金件'
+  ogTitle: '高级泳装五金件和饰边 | Tideline Swim'
+  ogDescription: '使用高级五金件和饰边提升您的泳装设计。抗氯弹性材料、防锈金属配件和定制品牌选项。'
+  ogType: 'website'
+  ogImage: '/hardware/hardware-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '高级泳装五金件和饰边 | Tideline Swim'
+  twitterDescription: '经过质量认证的泳装五金件和饰边。为您的设计提供抗氯、耐用且可定制的组件。'
+
+hero:
+  ctaButton: '浏览我们的五金件目录'
+
+gallery:
+  title: '我们的五金件系列'
+  description: '浏览我们针对泳装的广泛五金件和饰边系列,精心挑选以确保耐用性、功能性和美学吸引力。'
+  categories:
+    - name: '金属五金件'
+      description: '防锈扣环、圆环、滑块和装饰元素'
+      image: '/hardware/metal-hardware.webp'
+      items:
+        - 'D型环和O型环'
+        - '可调节滑块'
+        - '装饰扣环'
+        - '金属孔眼'
+    - name: '弹性材料和肩带'
+      description: '抗氯弹性材料和可调节肩带'
+      image: '/hardware/elastic-straps.webp'
+      items:
+        - '泳装弹性带'
+        - '可调节胸罩肩带'
+        - '装饰编织绳'
+        - '强力网布'
+    - name: '闭合件和紧固件'
+      description: '安全舒适的闭合系统'
+      image: '/hardware/closures-fasteners.webp'
+      items:
+        - '钩眼套装'
+        - '按扣'
+        - '塑料扣'
+        - '磁性闭合件'
+    - name: '胸部支撑'
+      description: '专业胸垫和支撑结构'
+      image: '/hardware/bust-support.webp'
+      items:
+        - '模制罩杯 (A-DD)'
+        - '泡沫衬垫'
+        - '钢圈通道'
+        - '可拆卸罩杯口袋'
+    - name: '标签和吊牌'
+      description: '定制品牌和护理标签'
+      image: '/hardware/labels-tags.webp'
+      items:
+        - '织唛标签'
+        - '印刷护理标签'
+        - '吊牌'
+        - '尺码标签'
+    - name: '装饰饰边'
+      description: '为您的设计增添独特风格'
+      image: '/hardware/decorative.webp'
+      items:
+        - '珠链'
+        - '亮片贴花'
+        - '刺绣贴布'
+        - '水钻细节'
+
+features:
+  title: '为什么选择我们的五金件?'
+  description: '我们只采购符合国际耐用性和安全标准的最高质量泳装专用五金件。'
+  items:
+    - title: '抗氯'
+      description: '我们所有的五金件都经过氯、盐水和紫外线暴露测试,以确保持久的性能。'
+      icon: 'ShieldCheckIcon'
+    - title: '无镍选项'
+      description: '我们为敏感肌肤提供低过敏性、无镍金属五金件选项,符合欧盟标准。'
+      icon: 'HeartIcon'
+    - title: '颜色匹配'
+      description: '广泛的色彩范围可完美匹配您的面料选择,并提供定制颜色匹配服务。'
+      icon: 'SwatchIcon'
+    - title: '质量认证'
+      description: '所有五金件均符合 OEKO-TEX® 和国际泳装安全标准。'
+      icon: 'CheckBadgeIcon'
+
+process:
+  title: '如何订购五金件'
+  description: '我们的简化流程使您可以轻松获得泳装生产所需的准确五金件。'
+  steps:
+    - number: 1
+      title: '浏览和选择'
+      description: '查看我们的五金件目录并选择您需要的物品。如需确保与您的设计完美匹配,可要求提供实物样品。'
+    - number: 2
+      title: '确认规格'
+      description: '提供有关数量、颜色和任何定制要求的详细信息。我们的团队将确认可用性和交货时间。'
+    - number: 3
+      title: '收到样品'
+      description: '对于大订单,我们可以在批量生产之前发送样品套装供您批准,以确保质量和合身度。'
+    - number: 4
+      title: '下单'
+      description: '获得批准后,以明确的 MOQ 和交货时间表下订单。我们处理采购和质量检验。'
+    - number: 5
+      title: '质量检查和交货'
+      description: '所有五金件在发货前都要经过严格的质量控制。我们根据您的生产时间表协调交货。'
+
+specifications:
+  title: '技术规格'
+  description: '了解五金件规格可确保与您的泳装设计完美集成。'
+  items:
+    - category: '金属五金件'
+      specs:
+        - '材料:不锈钢、黄铜或锌合金'
+        - '表面处理:抛光、拉丝或粉末涂层'
+        - '耐腐蚀性:盐雾测试 48 小时以上'
+        - '可用尺寸:10mm 至 50mm'
+    - category: '弹性材料和肩带'
+      specs:
+        - '材料:尼龙/氨纶混纺或聚酯纤维'
+        - '拉伸恢复:100 次循环后 95% 以上'
+        - '抗氯性:暴露 200 小时以上'
+        - '宽度范围:3mm 至 25mm'
+    - category: '闭合件'
+      specs:
+        - '钩强度:3-5 kg 拉力'
+        - '按扣耐用性:1000 次以上开合循环'
+        - '耐温性:-20°C 至 60°C'
+        - '提供无镍选项'
+
+faq:
+  title: '五金件常见问题'
+  items:
+    - question: '五金件的最小起订量(MOQ)是多少?'
+      answer: 'MOQ 因物品类型而异。标准五金件物品通常每种颜色/尺寸的 MOQ 为 100-500 件。对于定制五金件或特殊表面处理,MOQ 可能更高(1000 件以上)。请联系我们了解特定物品的 MOQ。'
+    - question: '我可以在批量购买之前订购五金件样品吗?'
+      answer: '可以!我们为大多数五金件物品提供样品套装。样品费用通常为每套 20-50 美元,可以抵扣您的批量订单。这使您可以在承诺大量订购之前测试质量、颜色匹配和合身度。'
+    - question: '你们提供带有我品牌标志的定制五金件吗?'
+      answer: '当然。我们可以通过雕刻或压花为您定制金属五金件(扣环、滑块、挂件)上的品牌标志。还提供定制标签和吊牌。定制物品的 MOQ 通常从 1000 件起。'
+    - question: '如何确保五金件颜色与我的面料匹配?'
+      answer: '我们建议同时订购面料样品和五金件样品以进行实物比较。我们还可以为大多数五金件物品提供 Pantone 颜色参考,并为大订单提供定制颜色匹配服务。'
+    - question: '五金件订单的交货时间是多久?'
+      answer: '库存标准五金件:3-7 天。定制颜色或表面处理:2-3 周。定制品牌五金件:4-6 周。我们在您下订单时始终确认准确的时间表,并可以为紧急项目加急处理。'
+    - question: '你们的五金件物品是否经过泳装使用测试?'
+      answer: '是的,我们所有的五金件都是专门为泳装应用选择的。我们进行抗氯测试、盐雾测试和紫外线暴露测试以确保耐用性。应要求可提供测试报告。'
+    - question: '你们能帮我选择适合我设计的五金件吗?'
+      answer: '当然!我们的团队在泳装五金件选择方面拥有丰富的经验。分享您的设计草图或技术包,我们可以根据功能性、美学和预算推荐最合适的五金件选项。'
+
+cta:
+  title: '准备好采购您的五金件了吗?'
+  description: '联系我们的五金件专家讨论您的需求。我们可以为您的下一个泳装系列提供样品、技术规格和定价。'
+  button: '索取五金件目录'
+  link: '/contact'

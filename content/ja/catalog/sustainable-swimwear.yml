@@ -1,0 +1,121 @@
+title: 'サステナブル水着メーカー'
+description: 'サプライヤー以上の存在 — あなたの水着ブランド構築パートナー。'
+
+seo:
+  title: 'サステナブル水着メーカー | TIDELINE SWIMWEAR'
+  description: 'リサイクル素材とサステナブル生産を使用したエコフレンドリー水着メーカー。卸売サステナブル水着、低炭素プロセス、カスタムデザイン。'
+  keywords: 'サステナブル水着メーカー, エコフレンドリー水着, リサイクル水着サプライヤー, オーガニック水着工場, グリーン水着製造, RPET水着'
+  ogTitle: 'サステナブル水着メーカー | TIDELINE SWIMWEAR'
+  ogDescription: 'エコフレンドリー水着メーカー。リサイクル素材、サステナブル生産、低炭素プロセス。あなたのブランドをグリーンにするお手伝い。'
+  ogType: 'website'
+  ogImage: '/catalog/sustainable-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'サステナブル水着メーカー | TIDELINE SWIMWEAR'
+  twitterDescription: 'サステナブル水着製造。リサイクル素材、エコフレンドリー生産、カスタムデザイン。'
+
+# Hero section
+hero:
+  cta_text: 'コンサルテーション'
+  cta_href: '/contact'
+  image_src: '/catalog/sustainable-swimwear-bg.webp'
+  image_alt: 'サステナブル水着製造'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: '私たちのミッション'
+  paragraph1: 'TideLine Swimwearでは、人と地球の両方を尊重するサステナブルな水着の製造に取り組んでいます。私たちのエコフレンドリーコレクションは、リサイクルされた責任ある調達の生地を使用し、思慮深い生産慣行と組み合わせることで、環境への影響を最小限に抑えながら快適さと耐久性を提供する高品質な水着を保証しています。'
+  whatsapp_link_text: 'WhatsAppでお問い合わせ'
+
+# Statistics
+stats:
+  - label: '水着業界での経験'
+    value: '10年以上'
+  - label: '完了した注文'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'リサイクルビキニ'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/recycled-bikini-1.webp'
+    imageAlt: 'リサイクルビキニコレクション'
+  - name: 'エコワンピース'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/eco-onepiece-1.webp'
+    imageAlt: 'エコワンピースコレクション'
+  - name: 'オーガニック水着'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/organic-1.webp'
+    imageAlt: 'オーガニック水着コレクション'
+  - name: '生分解性スーツ'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/biodegradable-1.webp'
+    imageAlt: '生分解性スーツコレクション'
+
+# Customization capabilities
+customization:
+  title: 'カスタマイゼーション機能'
+  description: '完全カスタマイズ可能な水着—TideLineはすべてのカスタムデザイン、生地、ハードウェア、ロゴ、パッケージングを受け入れ、あなたのブランドビジョンを実現します。'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: '製造施設'
+  hero_image_width: '1000'
+  features:
+    - name: 'スタイルカスタマイゼーション'
+      description: 'あらゆる水着デザインを実現—完璧なスタイルを選択し、あなたのブランドのために製作いたします。'
+      link: '/contact'
+      cta_text: 'コンサルテーション'
+    - name: '生地カスタマイゼーション'
+      description: '幅広い生地から選択して、着心地が良く美しい水着を作成します。'
+      link: '/fabric'
+      cta_text: '生地'
+    - name: 'ハードウェアカスタマイゼーション'
+      description: 'バックルやリングからジッパーまで、すべての詳細をカスタマイズ—私たちのハードウェアオプションがあなたのデザインを向上させます。'
+      link: '/hardware'
+      cta_text: 'ハードウェア'
+    - name: 'ロゴカスタマイゼーション'
+      description: '真にあなたのものに—プロフェッショナルなブランドルックのために各ピースにロゴを追加します。'
+    - name: 'パッケージングカスタマイゼーション'
+      description: 'あなたのスタイルとビジョンに合わせたパッケージングでブランド体験を完成させます。'
+    - name: 'お問い合わせ'
+      description: '準備はできましたか？あなたの水着アイデアを現実に変えましょう。'
+      link: '/contact'
+      cta_text: 'お問い合わせ'
+
+# Getting Started section
+getting_started:
+  title: 'あなたの水着ジャーニーはここから始まります'
+  description: '初回コレクションの立ち上げでも、ブランドの拡大でも、TideLineはあなたのニーズに合わせたオーダーメイドの水着ソリューションを提供します。あなたの道を選んで始めましょう。'
+  beginner_text: '初心者として始める'
+  beginner_href: '/startup'
+  pro_text: '経験豊富なバイヤー'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: '製造プロセス'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'よくある質問'
+  questions:
+    - id: 1
+      question: 'サステナブル水着とは何ですか？'
+      answer: 'サステナブル水着は、環境に優しい素材と低炭素生産プロセスで作られ、負の環境影響を減らすことを目的としています。通常、リサイクルプラスチック繊維（RPETなど）、オーガニックコットン、天然繊維を使用し、カーボンフットプリントを削減するために有害な染料を避けながら水と電力の消費を最小限に抑えます。'
+    - id: 2
+      question: 'あなたのサステナブル水着にはどのような素材が使われていますか？'
+      answer: 'サステナブル水着の生産には、リサイクルプラスチック繊維（RPET）、天然海藻繊維、生分解性ナイロン、オーガニックコットンなど、さまざまな環境に優しい素材を使用しています。これらの素材は良好な快適さ、耐久性、弾力性を提供し、環境汚染と資源消費の削減に役立ちます。'
+    - id: 3
+      question: 'サステナブル水着は従来の水着より高価ですか？'
+      answer: '環境に優しい素材と先進的な生産プロセスの使用により、サステナブル水着は従来の水着よりも高価になる傾向があります。しかし、サステナブルなトレンドが発展し続けるにつれて、環境に優しい素材と生産方法の調達コストは徐々に減少しています。私たちは環境基準を維持しながら競争力のある価格を提供するよう努めています。'
+    - id: 4
+      question: 'サステナブル水着の品質をどのように保証していますか？'
+      answer: '環境に優しい素材を使用していますが、サステナブル水着の各ピースは厳格な品質管理を受けて、快適さ、耐久性、機能性の高い基準を満たすことを保証しています。私たちが選択する環境に優しい生地は、水中での性能、耐久性、快適さを確保するためにテストされ、従来の素材と同等またはそれを上回る性能を発揮します。'
+    - id: 5
+      question: 'あなたのサステナブル水着の生産プロセスはどのようなものですか？'
+      answer: '私たちのサステナブル水着生産プロセスは、低炭素で資源節約型の製造に焦点を当て、水と電力の消費を最小限に抑えています。染料は無毒で環境に優しいことを確保するために慎重に選択し、有害な化学物質を避けています。生産プロセスからの廃棄物は処理・リサイクルされ、廃棄物を最小限に抑えています。'
+    - id: 6
+      question: 'カスタマイズされたサステナブル水着を提供していますか？'
+      answer: 'はい、完全にカスタマイズされたサステナブル水着を提供しています。生地、デザイン、色、ブランドロゴなど、お客様の要件に応じてカスタマイズし、各水着がお客様のブランド哲学と環境への取り組みに合致することを保証できます。'
+    - id: 7
+      question: 'サステナブル水着はどのように手入れ・洗浄すべきですか？'
+      answer: 'サステナブル水着の手入れは従来の水着と似ています。冷水での手洗いを推奨し、漂白剤は避けてください。水着の寿命を延ばすために、直射日光やタンブル乾燥は避け、水着を平らに置いて乾燥させてください。定期的な清掃と適切なケアは、快適さを維持し、水着の寿命を延ばすのに役立ちます。'

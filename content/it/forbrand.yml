@@ -1,0 +1,87 @@
+title: "Soluzioni all'ingrosso di costumi da bagno per marchi affermati ed emergenti"
+description: "In TideLine Swimwear, siamo specializzati nel fornire soluzioni all'ingrosso di costumi da bagno a servizio completo su misura per etichette indipendenti, marchi di designer e aziende globali di costumi da bagno. Che tu stia espandendo la tua collezione o lanciando una linea premium, la nostra esperienza nella produzione OEM e ODM, nelle previsioni delle tendenze e nello sviluppo del prodotto garantisce che il tuo marchio rimanga all'avanguardia."
+
+seo:
+  title: 'Produttore premium di costumi da bagno per marchi | Tideline'
+  description: 'Collabora con TideLine Swimwear per la produzione di costumi da bagno di alta qualità e scalabile. Fidato da marchi globali. OEM e ODM, design personalizzati, tempi di consegna rapidi.'
+  keywords: "produttore di costumi da bagno, costumi da bagno all'ingrosso, OEM costumi da bagno, ODM costumi da bagno, produzione per marchi, produzione personalizzata di costumi da bagno, fabbrica di costumi da bagno, costumi da bagno a marchio privato"
+  ogTitle: 'Produttore premium di costumi da bagno per marchi | Tideline'
+  ogDescription: 'Collabora con TideLine Swimwear per la produzione di costumi da bagno di alta qualità e scalabile. Fidato da marchi globali in tutto il mondo.'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Produttore premium di costumi da bagno per marchi | Tideline'
+  twitterDescription: 'Produzione di costumi da bagno di alta qualità e scalabile per marchi affermati ed emergenti. Servizi OEM e ODM.'
+
+hero:
+  badge: Produzione premium di costumi da bagno
+  subtitle: Produzione premium. Servizi su misura. Fidato da marchi in tutto il mondo.
+
+why_choose:
+  title: Perché i marchi scelgono TideLine Swimwear
+  items:
+    - id: 1
+      title: Esperienza comprovata con marchi globali di costumi da bagno
+      description: Abbiamo collaborato con dozzine di marchi affermati ed emergenti di costumi da bagno negli Stati Uniti, in Europa e in Australia. I nostri clienti spaziano da case di moda high-end a etichette di nicchia sostenibili, tutti alla ricerca della stessa cosa - qualità, affidabilità e flessibilità.
+    - id: 2
+      title: Servizio end-to-end dal concetto alla consegna
+      description: Il nostro team ti supporta in ogni fase - Assistenza al design e sviluppo del pacchetto tecnico, Approvvigionamento di tessuti inclusi materiali ecologici e di lusso, Prototipazione e produzione di campioni, Produzione all''ingrosso con MOQ flessibili, Controllo qualità e imballaggio, Coordinamento logistico e spedizione globale.
+    - id: 3
+      title: La personalizzazione incontra la scalabilità
+      description: Dai tagli distintivi alle stampe esclusive, diamo vita alla tua visione. Che tu abbia bisogno di 50 o 5.000 pezzi, offriamo una produzione scalabile senza compromettere la qualità.
+
+what_sets_apart:
+  title: Cosa ci distingue
+  features:
+    - icon: 🧵
+      name: Artigianato esperto
+      benefit: Oltre 10 anni di esperienza nella produzione di costumi da bagno premium
+    - icon: 🌍
+      name: Standard di qualità globali
+      benefit: Produzione certificata ISO e processi di controllo qualità rigorosi
+    - icon: ♻️
+      name: Opzioni sostenibili
+      benefit: Tessuti riciclati, imballaggi biodegradabili e approvvigionamento etico
+    - icon: 🔄
+      name: Campionatura rapida
+      benefit: Primi campioni pronti in 7-10 giorni
+    - icon: 📦
+      name: Tempi di consegna affidabili
+      benefit: Tempo medio di produzione 15-25 giorni
+    - icon: 💬
+      name: Supporto dedicato
+      benefit: Project manager di lingua inglese con esperienza nello sviluppo di marchi
+
+success_stories:
+  title: Storie di successo dei marchi
+  testimonials:
+    - id: 1
+      quote: TideLine ci ha aiutato ad espanderci nel mercato UE con una linea capsule di lusso. La loro attenzione ai dettagli e MOQ flessibile hanno reso tutto più facile.
+      author: Direttore Creativo, Etichetta premium di costumi da bagno con sede negli Stati Uniti
+      avatar: https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80
+    - id: 2
+      quote: Abbiamo lavorato con altri tre fornitori prima di trovare TideLine. Hanno finalmente capito la nostra visione e l'hanno realizzata impeccabilmente.
+      author: Fondatore, Marchio di costumi da bagno sostenibili in Australia
+      avatar: https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=facearea&w=1310&h=873&q=80&facepad=3
+
+how_we_work:
+  title: Come lavoriamo con i marchi
+  steps:
+    - id: 1
+      text: Inviaci i tuoi design o moodboard
+    - id: 2
+      text: Ricevi un preventivo e cronoprogramma del campione
+    - id: 3
+      text: Approva il campione → Inizia la produzione
+    - id: 4
+      text: Controllo qualità + Imballaggio → Spedizione globale
+
+partnership:
+  title: Inizia oggi la tua partnership all'ingrosso
+  description: Se stai costruendo un marchio che valorizza qualità, design e produzione affidabile, parliamone.
+  cta_text: Contattaci
+
+image:
+  src: /manufacturer.jpg
+  alt: Produzione di costumi da bagno
+  caption: La nostra struttura di produzione è specializzata nella produzione premium di costumi da bagno

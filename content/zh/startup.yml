@@ -1,0 +1,144 @@
+title: '为创业公司和实体店提供的泳装工厂服务'
+description: '我们是一家拥有完整供应链的中国泳装工厂，致力于为创业公司和实体店提供优质服务。我们的最小订单量仅为30件，非常适合有小批量采购需求的客户。'
+
+seo:
+  title: '为创业公司和实体店提供的泳装工厂服务 | TIDELINE SWIMWEAR'
+  description: '我们是一家拥有完整供应链的中国泳装工厂，致力于为创业公司和实体店提供优质服务。我们的最小订单量仅为30件。'
+  keywords: '泳装工厂, 泳装制造商, 创业泳装, 小批量泳装, 低MOQ泳装, 泳衣工厂, 定制泳装生产, 泳装供应商'
+  ogTitle: '为创业公司提供的泳装工厂服务 | TIDELINE SWIMWEAR'
+  ogDescription: '拥有完整供应链的中国泳装工厂。30件的低MOQ，非常适合创业公司和实体店。8年以上的行业经验。'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '为创业公司提供的泳装工厂 | TIDELINE SWIMWEAR'
+  twitterDescription: '为创业公司提供低MOQ泳装制造。最少30件，完整供应链，8年以上经验。'
+
+# Hero section
+hero:
+  badge: '介绍'
+
+# Company information
+company:
+  introduction: '在泳装行业拥有8年经验，我们是Alibaba、SHEIN和TikTok等知名平台的长期供应商，确保产品质量和稳定供应。'
+  benefits: '选择我们，您将受益于专业团队支持、高效的生产流程和灵活的小批量定制服务，帮助您快速启动或扩展泳装业务。'
+
+# Features list
+features:
+  - id: 1
+    title: '最小订单量仅为30件'
+    description: '非常适合创业公司和小型实体店以低成本测试市场。'
+  - id: 2
+    title: '具有竞争力的价格'
+    description: '与国际供应商相比，我们的价格更低，同时保持高质量标准。'
+  - id: 3
+    title: '泳装行业8年经验'
+    description: '我们了解市场需求，可以帮助客户创造畅销泳装。'
+
+# Success section
+success:
+  title: '从零开始，帮助您成功'
+  description: '无论您是刚起步的创业公司还是寻找可靠供应商的实体店，我们都提供量身定制的解决方案来满足您的需求。'
+
+# Quote section
+quote:
+  text: '我们致力于成为创业公司和实体店首选的泳装供应商，帮助客户轻松进入市场并快速成长。'
+  company: 'TideLine'
+  role: '泳装行业专家'
+  avatar: '/tidelinelogo-600.png'
+
+# Call to action
+cta:
+  text: '联系我们'
+  description: '了解更多关于我们的服务。'
+
+# Image section
+image:
+  src: '/manufacturer.jpg'
+  alt: '为创业公司提供的泳装工厂支持'
+  caption: '为创业公司和实体店提供强大支持'
+
+# Services section
+services:
+  title: '满足您需求的全面服务'
+  description: '从设计到生产，我们拥有完整的供应链，为客户提供高效可靠的服务体验。'
+  cta: '联系我们，让我们开启您泳装业务的新篇章！'
+
+# Contact form section
+contact:
+  title: '加入我们'
+  form:
+    firstName: '名字'
+    email: '电子邮件'
+    message: '留言'
+    submit: '提交'
+    terms:
+      text: '提交此表单即表示我同意'
+      link: '条款和条件'
+
+# Testimonial section
+testimonial:
+  quote: '泳装行业的未来在于大胆创新和引领潮流——加入我们，共同塑造下一个大事件，让我们一起创造难忘的东西！'
+  name: 'ChangShun'
+  title: 'TideLine Swimwear首席执行官'
+  avatar: '/img/contactus.png'
+
+# Statistics
+stats:
+  - label: '泳装行业经验'
+    value: '8年 +'
+  - label: '完成的订单'
+    value: '100,000+'
+
+# Additional sections for potential expansion
+advantages:
+  title: '为什么为您的创业公司选择TideLine'
+  items:
+    - title: '低风险进入'
+      description: '仅需30件最小订单量即可开始'
+      icon: 'shield-check'
+    - title: '完整供应链'
+      description: '从设计到交付，我们处理一切'
+      icon: 'cog-6-tooth'
+    - title: '行业经验'
+      description: '为全球品牌和平台服务8年以上'
+      icon: 'star'
+    - title: '灵活定制'
+      description: '根据您的品牌要求调整设计'
+      icon: 'adjustments-horizontal'
+
+# Process steps
+process:
+  title: '我们如何支持您的创业之旅'
+  steps:
+    - step: 1
+      title: '初步咨询'
+      description: '与我们的团队分享您的愿景和要求'
+    - step: 2
+      title: '设计和打样'
+      description: '我们根据您的规格创建样品'
+    - step: 3
+      title: '小批量生产'
+      description: '从最少30件开始测试您的市场'
+    - step: 4
+      title: '扩大和成长'
+      description: '随着业务增长扩大生产'
+
+# FAQ section
+faq:
+  title: '常见问题'
+  questions:
+    - id: 1
+      question: 'TideLine与其他泳装制造商有什么不同？'
+      answer: '我们专注于支持创业公司和小型企业，提供低最小订单量、有竞争力的价格以及从设计到交付的全面支持。'
+    - id: 2
+      question: '如果我只有一个概念，你们能帮助设计吗？'
+      answer: '当然可以！我们经验丰富的设计团队可以帮助将您的概念转化为可生产的设计，在整个开发过程中提供指导。'
+    - id: 3
+      question: '你们的典型生产时间表是什么？'
+      answer: '样品生产通常需要7-10天，而批量生产根据订单大小和复杂性需要15-25天。'
+    - id: 4
+      question: '你们提供品牌开发支持吗？'
+      answer: '是的，我们提供全面的品牌支持，包括定制标签、包装设计和营销指导，帮助建立您的泳装品牌。'
+    - id: 5
+      question: '你们保持什么质量标准？'
+      answer: '我们保持严格的质量控制流程，并与Alibaba、SHEIN和TikTok等知名平台合作，确保持续的高质量生产。'

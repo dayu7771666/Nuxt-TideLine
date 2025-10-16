@@ -1,0 +1,36 @@
+title: 'Estamos transformando a indústria de roupas de banho'
+description: 'Acreditamos que as marcas não são mais exclusivas das empresas. Qualquer pessoa pode construir sua própria marca de roupas de banho, e estamos comprometidos em fornecer suporte completo desde ideias criativas até a implementação do produto para empreendedores.'
+
+seo:
+  title: 'Sobre nós - Transformando a indústria de roupas de banho'
+  description: 'Acreditamos que as marcas não são mais exclusivas das empresas. Qualquer pessoa pode construir sua própria marca de roupas de banho. 10 anos de experiência na indústria chinesa de roupas de banho, fornecendo suporte completo desde ideias criativas até a implementação do produto para empreendedores.'
+  keywords: 'fabricante de roupas de banho, roupas de banho personalizadas, produção em pequenos lotes, fábrica de roupas de banho, roupas de banho da China, suporte de marca, OEM roupas de banho, personalização de maiôs, roupas de banho marca própria'
+  ogImage: '/og-image.jpg'
+  twitterCard: 'summary_large_image'
+
+quote:
+  text: 'Estamos profundamente enraizados no cinturão industrial de roupas de banho da China há 10 anos, acumulando rica experiência de produção que nos permite fornecer suporte de alta qualidade e entrega rápida para cada marca.'
+  author:
+    name: 'Equipe TideLine'
+    handle: '@tideline'
+    avatar: 'https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
+
+content:
+  intro: 'Somos uma excelente fábrica com uma cadeia de suprimentos forte, capaz de fornecer capacidades de produção estáveis e eficientes para cada marca.'
+
+  features:
+    - title: 'Serviço em pequenos lotes'
+      description: 'A partir de setembro de 2025, oferecemos oficialmente pedidos em pequenos lotes, permitindo que novas marcas entrem no mercado com baixo risco e resposta rápida.'
+      icon: 'CloudArrowUpIcon'
+    - title: 'Serviço personalizado'
+      description: 'Fornecemos serviços de personalização completos, desde estilos de roupas de banho, tecidos, logotipos até sacos de embalagem, garantindo que sua marca seja única em cada detalhe.'
+      icon: 'LockClosedIcon'
+    - title: 'Experiência e fundamento'
+      description: 'Estamos enraizados no cinturão industrial de roupas de banho da China há 10 anos, e nossa rica experiência de produção nos permite apoiar marcas globais de todos os tipos em seu crescimento.'
+      icon: 'ServerIcon'
+
+  mission: 'Nossa missão é ajudar todos com um sonho a transformar sua criatividade em uma marca viável de roupas de banho, fornecendo suporte completo para as marcas começarem pequenas e crescerem constantemente.'
+
+  commitment:
+    title: 'Nosso compromisso'
+    description: 'Estamos comprometidos em ajudar cada marca a se destacar no mercado e alcançar desenvolvimento de longo prazo através de produção profissional, serviços flexíveis e experiência rica.'

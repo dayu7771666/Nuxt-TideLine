@@ -46,7 +46,7 @@
             data-aos="zoom-in"
             v-for="(advantage, index) in whyUs.advantages"
             :key="index"
-            class="flex flex-col rounded-lg border border-gray-100 bg-gray-50 p-6 shadow-sm advantage-card"
+            class="flex flex-col rounded-lg border border-gray-100 bg-gray-50 p-6 shadow-sm cursor-default"
           >
             <dt
               class="flex items-center gap-x-3 text-lg font-semibold leading-7 text-gray-900"
@@ -56,7 +56,7 @@
               >
                 <component
                   :is="getIconComponent(advantage.icon)"
-                  class="h-6 w-6 text-gray-700 advantage-icon"
+                  class="h-6 w-6 text-blue-600 advantage-icon"
                 />
               </div>
               <span class="line-clamp-2">{{ advantage.name }}</span>
@@ -110,95 +110,3 @@
     return iconMap[iconName] || SwatchIcon;
   };
 </script>
-
-<style scoped>
-  .advantage-card {
-    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-    position: relative;
-    overflow: hidden;
-  }
-
-  .advantage-card::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: -100%;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(
-      90deg,
-      transparent,
-      rgba(59, 130, 246, 0.1),
-      transparent
-    );
-    transition: left 0.6s ease;
-  }
-
-  .advantage-card:hover {
-    transform: translateY(-8px);
-    box-shadow:
-      0 20px 25px -5px rgba(0, 0, 0, 0.1),
-      0 10px 10px -5px rgba(0, 0, 0, 0.04);
-    background-color: #fefefe;
-  }
-
-  .advantage-card:hover::before {
-    left: 100%;
-  }
-
-  .advantage-icon-container {
-    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-    position: relative;
-    overflow: hidden;
-  }
-
-  .advantage-icon {
-    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-    color: #3b82f6;
-  }
-
-  .advantage-card:hover .advantage-icon-container {
-    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
-    box-shadow: 0 4px 8px rgba(59, 130, 246, 0.3);
-    transform: rotate(5deg) scale(1.05);
-  }
-
-  .advantage-card:hover .advantage-icon {
-    transform: scale(1.15) rotate(-5deg);
-    color: #ffffff;
-  }
-
-  /* 标题文字悬停效果 */
-  .advantage-card dt span {
-    transition: color 0.3s ease;
-  }
-
-  .advantage-card:hover dt span {
-    color: #1d4ed8;
-  }
-
-  /* 描述文字悬停效果 */
-  .advantage-card dd p {
-    transition: color 0.3s ease;
-  }
-
-  .advantage-card:hover dd p {
-    color: #374151;
-  }
-
-  .scrollbar-hide {
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-  }
-
-  .scrollbar-hide::-webkit-scrollbar {
-    display: none;
-  }
-
-  /* 移动端卡片悬停效果（触摸设备） */
-  @media (hover: none) {
-    .advantage-card:active {
-      transform: translateY(-4px);
-    }
-  }
-</style>

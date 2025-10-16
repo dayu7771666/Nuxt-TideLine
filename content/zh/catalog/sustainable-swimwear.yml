@@ -1,0 +1,121 @@
+title: '可持续泳装制造商'
+description: '不仅仅是供应商——您的泳装品牌建设合作伙伴。'
+
+seo:
+  title: '可持续泳装制造商 | TIDELINE SWIMWEAR'
+  description: '使用回收材料和可持续生产的环保泳装制造商。批发可持续泳装，低碳工艺，定制设计。'
+  keywords: '可持续泳装制造商, 环保泳装, 回收泳装供应商, 有机泳装工厂, 绿色泳装制造, RPET泳装'
+  ogTitle: '可持续泳装制造商 | TIDELINE SWIMWEAR'
+  ogDescription: '环保泳装制造商。回收材料，可持续生产，低碳工艺。帮助您的品牌变绿色。'
+  ogType: 'website'
+  ogImage: '/catalog/sustainable-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '可持续泳装制造商 | TIDELINE SWIMWEAR'
+  twitterDescription: '可持续泳装制造。回收材料，环保生产，定制设计。'
+
+# Hero section
+hero:
+  cta_text: '咨询'
+  cta_href: '/contact'
+  image_src: '/catalog/sustainable-swimwear-bg.webp'
+  image_alt: '可持续泳装制造'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: '我们的使命'
+  paragraph1: '在TideLine Swimwear，我们致力于创造既尊重人类又尊重地球的可持续泳装。我们的环保系列使用回收和负责任采购的面料，结合深思熟虑的生产实践，确保高质量的泳装在最小化环境影响的同时提供舒适性和耐用性。'
+  whatsapp_link_text: '通过WhatsApp联系我们'
+
+# Statistics
+stats:
+  - label: '泳装行业经验'
+    value: '10年以上'
+  - label: '完成订单'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: '回收比基尼'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/recycled-bikini-1.webp'
+    imageAlt: '回收比基尼系列'
+  - name: '环保连体泳衣'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/eco-onepiece-1.webp'
+    imageAlt: '环保连体泳衣系列'
+  - name: '有机泳装'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/organic-1.webp'
+    imageAlt: '有机泳装系列'
+  - name: '可生物降解泳衣'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/biodegradable-1.webp'
+    imageAlt: '可生物降解泳衣系列'
+
+# Customization capabilities
+customization:
+  title: '定制能力'
+  description: '完全可定制的泳装——TideLine接受所有定制设计、面料、五金配件、标志和包装，让您的品牌愿景成为现实。'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: '制造设施'
+  hero_image_width: '1000'
+  features:
+    - name: '款式定制'
+      description: '实现任何泳装设计——选择您的完美款式，让我们为您的品牌制作。'
+      link: '/contact'
+      cta_text: '咨询'
+    - name: '面料定制'
+      description: '从广泛的面料中选择，创造穿着舒适、外观美丽的泳装。'
+      link: '/fabric'
+      cta_text: '面料'
+    - name: '五金配件定制'
+      description: '定制每个细节——从扣环和环扣到拉链——我们的五金配件选项提升您的设计。'
+      link: '/hardware'
+      cta_text: '五金配件'
+    - name: '标志定制'
+      description: '让它真正属于您——为每件产品添加您的标志，打造专业品牌外观。'
+    - name: '包装定制'
+      description: '用符合您风格和愿景的包装完善您的品牌体验。'
+    - name: '联系我们'
+      description: '准备好了吗？让我们将您的泳装想法变为现实。'
+      link: '/contact'
+      cta_text: '联系我们'
+
+# Getting Started section
+getting_started:
+  title: '您的泳装之旅从这里开始'
+  description: '无论您是推出第一个系列还是扩展品牌，TideLine都提供量身定制的泳装解决方案来满足您的需求。选择您的道路并开始。'
+  beginner_text: '作为初学者开始'
+  beginner_href: '/startup'
+  pro_text: '经验丰富的买家'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: '制造过程'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: '常见问题'
+  questions:
+    - id: 1
+      question: '什么是可持续泳装？'
+      answer: '可持续泳装由环保材料和低碳生产工艺制成，旨在减少负面环境影响。它通常使用回收塑料纤维（如RPET）、有机棉、天然纤维，并最小化水和电力消耗，同时避免有害染料以减少碳足迹。'
+    - id: 2
+      question: '您的可持续泳装使用什么材料？'
+      answer: '我们使用各种环保材料来生产可持续泳装，包括回收塑料纤维（RPET）、天然海藻纤维、可生物降解尼龙和有机棉。这些材料提供良好的舒适性、耐用性和弹性，同时有助于减少环境污染和资源消耗。'
+    - id: 3
+      question: '可持续泳装比传统泳装更贵吗？'
+      answer: '由于使用环保材料和先进的生产工艺，可持续泳装往往比传统泳装更昂贵。然而，随着可持续趋势的不断发展，采购环保材料和生产方法的成本正在逐渐降低。我们努力在保持环境标准的同时提供有竞争力的价格。'
+    - id: 4
+      question: '您如何确保可持续泳装的质量？'
+      answer: '尽管我们使用环保材料，但每件可持续泳装都经过严格的质量控制，以确保符合舒适性、耐用性和功能性的高标准。我们选择的环保面料经过测试，以确保其在水中的性能、耐用性和舒适性，达到或超过传统材料的水平。'
+    - id: 5
+      question: '您的可持续泳装生产工艺是什么？'
+      answer: '我们的可持续泳装生产工艺专注于低碳和资源节约制造，最小化水和电力消耗。我们精心选择染料以确保它们无毒且环保，避免有害化学物质。生产过程中的废料经过处理和回收，以最小化浪费。'
+    - id: 6
+      question: '您提供定制的可持续泳装吗？'
+      answer: '是的，我们提供完全定制的可持续泳装。无论是面料、设计、颜色还是品牌标志，我们都可以根据您的要求进行定制，确保每件泳装都符合您的品牌理念和环保承诺。'
+    - id: 7
+      question: '可持续泳装应该如何保养和清洁？'
+      answer: '可持续泳装的保养与传统泳装类似。我们建议用冷水手洗并避免漂白剂。为了延长泳装的使用寿命，避免直射阳光和烘干机，将泳装平放晾干。定期清洁和适当护理将有助于保持舒适性并延长泳装的使用寿命。'

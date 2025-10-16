@@ -1,0 +1,87 @@
+title: 'Solutions de maillots de bain en gros pour marques établies et émergentes'
+description: 'Chez TideLine Swimwear, nous sommes spécialisés dans la fourniture de solutions complètes de maillots de bain en gros adaptées aux labels indépendants, aux marques de créateurs et aux entreprises mondiales de maillots de bain. Que vous élargissiez votre collection ou lanciez une ligne premium, notre expérience dans la fabrication OEM & ODM, les prévisions de tendances et le développement de produits garantit que votre marque reste en avance.'
+
+seo:
+  title: 'Fabricant premium de maillots de bain pour marques | Tideline'
+  description: 'Associez-vous à TideLine Swimwear pour une fabrication de maillots de bain de haute qualité et évolutive. Approuvé par des marques mondiales. OEM & ODM, designs personnalisés, délais rapides.'
+  keywords: 'fabricant de maillots de bain, maillots de bain en gros, OEM maillots de bain, ODM maillots de bain, fabrication de marques, production personnalisée de maillots de bain, usine de maillots de bain, maillots de bain marque privée'
+  ogTitle: 'Fabricant premium de maillots de bain pour marques | Tideline'
+  ogDescription: 'Associez-vous à TideLine Swimwear pour une fabrication de maillots de bain de haute qualité et évolutive. Approuvé par des marques mondiales dans le monde entier.'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricant premium de maillots de bain pour marques | Tideline'
+  twitterDescription: 'Fabrication de maillots de bain de haute qualité et évolutive pour marques établies et émergentes. Services OEM & ODM.'
+
+hero:
+  badge: Fabrication premium de maillots de bain
+  subtitle: Fabrication premium. Services sur mesure. Approuvé par des marques dans le monde entier.
+
+why_choose:
+  title: Pourquoi les marques choisissent TideLine Swimwear
+  items:
+    - id: 1
+      title: Expérience éprouvée avec des marques mondiales de maillots de bain
+      description: 'Nous avons collaboré avec des dizaines de marques établies et émergentes de maillots de bain aux États-Unis, en Europe et en Australie. Nos clients vont des maisons de mode haut de gamme aux labels de niche durables, tous cherchant la même chose - qualité, fiabilité et flexibilité.'
+    - id: 2
+      title: Service de bout en bout du concept à la livraison
+      description: "Notre équipe vous soutient à chaque étape - Assistance à la conception et développement de pack technique, Approvisionnement en tissus incluant matériaux écologiques et de luxe, Prototypage et production d'échantillons, Fabrication en gros avec MOQ flexibles, Contrôle qualité et emballage, Coordination logistique et expédition mondiale."
+    - id: 3
+      title: La personnalisation rencontre l'évolutivité
+      description: 'Des coupes signature aux imprimés exclusifs, nous donnons vie à votre vision. Que vous ayez besoin de 50 ou 5 000 pièces, nous offrons une production évolutive sans compromettre la qualité.'
+
+what_sets_apart:
+  title: Ce qui nous distingue
+  features:
+    - icon: 🧵
+      name: Artisanat expert
+      benefit: Plus de 10 ans d'expérience de fabrication dans les maillots de bain premium
+    - icon: 🌍
+      name: Normes de qualité mondiales
+      benefit: Production certifiée ISO et processus de contrôle qualité stricts
+    - icon: ♻️
+      name: Options durables
+      benefit: Tissus recyclés, emballage biodégradable et approvisionnement éthique
+    - icon: 🔄
+      name: Échantillonnage rapide
+      benefit: Premiers échantillons prêts en 7-10 jours
+    - icon: 📦
+      name: Délais fiables
+      benefit: Délai de production moyen 15-25 jours
+    - icon: 💬
+      name: Support dédié
+      benefit: Chefs de projet anglophones avec expérience en développement de marques
+
+success_stories:
+  title: Histoires de succès de marques
+  testimonials:
+    - id: 1
+      quote: "TideLine nous a aidés à nous développer sur le marché de l'UE avec une ligne capsule de luxe. Leur attention aux détails et MOQ flexible ont tout rendu plus facile."
+      author: Directeur Créatif, Label premium de maillots de bain basé aux États-Unis
+      avatar: https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80
+    - id: 2
+      quote: Nous avons travaillé avec trois autres fournisseurs avant de trouver TideLine. Ils ont enfin compris notre vision et l'ont livrée impeccablement.
+      author: Fondateur, Marque de maillots de bain durables en Australie
+      avatar: https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=facearea&w=1310&h=873&q=80&facepad=3
+
+how_we_work:
+  title: Comment nous travaillons avec les marques
+  steps:
+    - id: 1
+      text: Envoyez-nous vos designs ou moodboard
+    - id: 2
+      text: Recevez un devis et calendrier d'échantillon
+    - id: 3
+      text: Approuver l'échantillon → Commencer la production
+    - id: 4
+      text: Contrôle qualité + Emballage → Expédition mondiale
+
+partnership:
+  title: Commencez votre partenariat en gros aujourd'hui
+  description: 'Si vous construisez une marque qui valorise la qualité, le design et une production fiable, parlons-en.'
+  cta_text: Contactez-nous
+
+image:
+  src: /manufacturer.jpg
+  alt: Fabrication de maillots de bain
+  caption: Notre installation de production est spécialisée dans la fabrication premium de maillots de bain

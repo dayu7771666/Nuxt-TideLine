@@ -1,0 +1,159 @@
+title: 'سياسة الشحن'
+description: 'حلول شحن عالمية موثوقة لاحتياجات أعمال ملابس السباحة الخاصة بك'
+
+seo:
+  title: 'سياسة الشحن | TIDELINE SWIMWEAR'
+  description: 'حلول شحن عالمية موثوقة لاحتياجات أعمال ملابس السباحة الخاصة بك. خيارات الشحن السريع والبحري، تغطية عالمية لأكثر من 150 دولة، تتبع في الوقت الفعلي.'
+  keywords: 'شحن ملابس السباحة، الشحن العالمي، البريد السريع، الشحن البحري، الشحن الجوي، DHL، FedEx، UPS، تتبع الطلبات، الشحن الدولي، توصيل ملابس السباحة'
+  ogTitle: 'سياسة الشحن | TIDELINE SWIMWEAR'
+  ogDescription: 'حلول شحن عالمية موثوقة لاحتياجات أعمال ملابس السباحة الخاصة بك. خيارات الشحن السريع والبحري، تغطية عالمية لأكثر من 150 دولة.'
+  ogType: 'website'
+  ogImage: '/shipping.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'سياسة الشحن | TIDELINE SWIMWEAR'
+  twitterDescription: 'حلول شحن عالمية موثوقة لاحتياجات أعمال ملابس السباحة الخاصة بك. خيارات الشحن السريع والبحري، تغطية عالمية لأكثر من 150 دولة.'
+
+hero:
+  image: '/shipping-banner.webp'
+
+orderTracking:
+  title: 'تتبع الطلب'
+  description: 'نوفر تتبعًا شاملاً لجميع الطلبات لضمان بقائك على اطلاع بحالة شحنتك في كل خطوة.'
+  features:
+    - 'يتم إرسال أرقام التتبع عبر البريد الإلكتروني خلال 24 ساعة من الشحن'
+    - 'التتبع في الوقت الفعلي متاح على موقعنا الإلكتروني أو موقع الناقل'
+    - 'تحديثات منتظمة للحالة عبر البريد الإلكتروني لطلبات الإنتاج'
+    - 'مدير حساب مخصص للطلبات التي تزيد عن 10,000 دولار'
+  trackTitle: 'تتبع طلبك: أدخل رقم التتبع الخاص بك أدناه للتحقق من الحالة الحالية لشحنتك.'
+  trackPlaceholder: 'أدخل رقم التتبع'
+  trackButton: 'تتبع'
+
+methods:
+  title: 'طرق الشحن'
+  description: 'نقدم خيارات شحن مختلفة بناءً على نوع طلبك ومدى الاستعجال لتلبية متطلبات عملك المحددة.'
+  sample:
+    title: 'طلب العينة'
+    description: 'لطلب العينة، نوفر مجموعة متنوعة من خيارات الشحن لمساعدتك على اتخاذ قرارات سريعة:'
+    options:
+      - name: 'البريد السريع'
+        description: 'DHL، FedEx، UPS (3-7 أيام عمل)'
+      - name: 'البريد الجوي القياسي'
+        description: '(7-14 يوم عمل)'
+      - name: 'الاقتصادي'
+        description: '(14-21 يوم عمل)'
+  bulk:
+    title: 'طلبات الإنتاج بالجملة'
+    description: 'لطلب الإنتاج بالجملة، نقدم حلولاً فعالة من حيث التكلفة:'
+    options:
+      - name: 'الشحن الجوي'
+        description: '(7-15 يوم عمل)'
+      - name: 'الشحن البحري'
+        description: '(30-45 يوم عمل)'
+      - name: 'الجوي السريع'
+        description: '(5-10 أيام عمل)'
+  important:
+    title: 'مهم'
+    note: 'أوقات الإنتاج الرئيسية إضافية إلى أوقات الشحن. يرجى الاتصال بنا للحصول على جداول زمنية دقيقة للإنتاج بناءً على كمية طلبك وتعقيده.'
+
+coverage:
+  title: 'تغطية الشحن'
+  description: 'نوفر خدمات الشحن إلى أكثر من 150 دولة في جميع أنحاء العالم. تقدم شبكة شركائنا توصيلاً سريعًا في جميع أنحاء العالم.'
+  globalOperationsTitle: 'عمليات الأعمال والخدمات اللوجستية العالمية لـ Tideline'
+  businessRegions:
+    - title: 'الصين - مركز التصنيع'
+      description: 'مصنع ملابس حديث مع أكثر من 10 سنوات من الخبرة في الإنتاج والمبيعات.'
+      icon: 'heroicons:building-office-20-solid'
+      color: 'red'
+    - title: 'الولايات المتحدة - مركز التنفيذ'
+      description: 'مستودع خارجي مع مخزون، توصيل من 3-5 أيام للعملاء المحليين.'
+      icon: 'heroicons:building-storefront-20-solid'
+      color: 'blue'
+    - title: 'أوروبا وأستراليا'
+      description: 'مناطق الأعمال الرئيسية التي تخدم أنواعًا متنوعة من العملاء.'
+      icon: 'heroicons:globe-europe-africa-20-solid'
+      color: 'green'
+    - title: 'منطقة أعمال أخرى'
+      description: 'مثل ملابس السباحة المحتشمة، المصممة خصيصًا للعملاء والتفضيلات المحلية'
+      icon: 'heroicons:map-pin-20-solid'
+      color: 'purple'
+  mapTitle: 'TIDELINE SWIMWEAR موجودة حيث يوجد عملاؤك'
+  mapSubtitle: 'تقدم شبكة شركائنا توصيلاً سريعًا في جميع أنحاء العالم.'
+  regions:
+    - name: 'أمريكا الشمالية'
+      status: 'available'
+    - name: 'الاتحاد الأوروبي'
+      status: 'available'
+    - name: 'آسيا'
+      status: 'available'
+    - name: 'أفريقيا'
+      status: 'limited'
+    - name: 'أمريكا الجنوبية'
+      status: 'available'
+    - name: 'أستراليا ونيوزيلندا'
+      status: 'available'
+  legend:
+    available: 'متاح للشحن'
+    limited: 'خدمة محدودة/غير متوفرة'
+  note:
+    title: 'ملاحظة'
+    text: 'لمعرفة توفر دولة معينة وأي قيود، يرجى الاتصال بقسم الشحن لدينا: tidelineswim@swimsuitcustom.com'
+
+sidebar:
+  overview:
+    title: 'نظرة عامة على الشحن'
+    description1: 'في TIDELINE SWIMWEAR، نفهم أن التسليم في الوقت المناسب أمر بالغ الأهمية لعملك. تم تصميم حلول الشحن الشاملة لدينا لتلبية الاحتياجات المتنوعة لعملائنا من الشركات في جميع أنحاء العالم.'
+    description2: 'نتعاون مع مزودي الخدمات اللوجستية العالميين الرائدين لضمان وصول طلبات ملابس السباحة الخاصة بك إليك بأمان وفي الوقت المحدد.'
+    keyFeatures: 'الميزات الرئيسية'
+    features: 'تغطية عالمية، خيارات شحن مرنة، تتبع في الوقت الفعلي، ومساعدة جمركية.'
+  contact:
+    title: 'هل تحتاج إلى مساعدة في الشحن؟'
+    email: 'البريد الإلكتروني'
+    hours: 'ساعات العمل'
+    hoursTime: 'الإثنين-الجمعة: 9 صباحًا - 6 مساءً (بتوقيت شرق الولايات المتحدة)'
+    emergency: 'واتساب'
+  quickLinks:
+    title: 'روابط سريعة'
+    links:
+      - key: 'calculator'
+        text: 'حاسبة تكلفة الشحن'
+        href: 'https://wa.me/8618302407790'
+        external: true
+      - key: 'customs'
+        text: 'دليل الجمارك والضرائب'
+        href: '#'
+        external: false
+      - key: 'documentation'
+        text: 'الوثائق الجمركية'
+        href: '#'
+        external: false
+      - key: 'processing'
+        text: 'معلومات وقت المعالجة'
+        href: '#'
+        external: false
+      - key: 'packaging'
+        text: 'تفاصيل التعبئة'
+        href: '#'
+        external: false
+      - key: 'returns'
+        text: 'المرتجعات والاستبدالات'
+        href: '#'
+        external: false
+      - key: 'insurance'
+        text: 'تأمين الشحن'
+        href: '#'
+        external: false
+      - key: 'faq'
+        text: 'الأسئلة الشائعة حول الشحن'
+        href: '#'
+        external: false
+      - key: 'policy'
+        text: 'سياسة الإرجاع'
+        href: '#'
+        external: false
+  partners:
+    title: 'شركاء الشحن لدينا'
+    description: 'نعمل مع مزودي الخدمات اللوجستية العالميين الموثوقين:'
+    list:
+      - 'DHL Express'
+      - 'FedEx'
+      - 'UPS'

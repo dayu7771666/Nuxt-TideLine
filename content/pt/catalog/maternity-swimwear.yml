@@ -1,0 +1,121 @@
+title: 'Fornecedores de Roupas de Banho para Gestantes'
+description: 'Mais do que um fornecedor - seu parceiro na construção de marcas de roupas de banho.'
+
+seo:
+  title: 'Fornecedores de Roupas de Banho para Gestantes | TIDELINE SWIMWEAR'
+  description: 'Fabricante de alta qualidade de roupas de banho para gestantes oferecendo designs confortáveis e de suporte para futuras mães. Roupas de banho para gestantes personalizadas, preços de atacado, MOQ baixo.'
+  keywords: 'fabricante roupas de banho gestantes, fornecedor roupas de banho gravidez, roupas de banho amamentação, tankini gestante, roupas de banho gestantes atacado, fábrica roupas de banho maternidade'
+  ogTitle: 'Fornecedores de Roupas de Banho para Gestantes | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricante de roupas de banho para gestantes confortáveis. Designs de suporte para futuras mães. Opções personalizadas, preços de atacado.'
+  ogType: 'website'
+  ogImage: '/catalog/maternity-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fornecedores de Roupas de Banho para Gestantes | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabricação de roupas de banho para gestantes. Designs confortáveis e de suporte para gravidez. Opções personalizadas disponíveis.'
+
+# Hero section
+hero:
+  cta_text: 'Consulta'
+  cta_href: '/contact'
+  image_src: '/catalog/maternity-swimwear-bg.webp'
+  image_alt: 'Fabricação de Roupas de Banho para Gestantes'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Nossa Missão'
+  paragraph1: 'Na TideLine Swimwear, sabemos que as roupas de banho para gestantes requerem o equilíbrio perfeito entre conforto e suporte para futuras mães. A cada temporada, nossa equipe de fábrica desenvolve coleções projetadas com tecidos macios e flexíveis e ajustes cuidadosos, oferecendo aos atacadistas e proprietários de marcas opções prontas para o mercado que ajudam as mulheres a se sentirem confiantes e confortáveis durante cada estágio da gravidez.'
+  whatsapp_link_text: 'Entre em contato conosco no WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experiência na Indústria de Roupas de Banho'
+    value: '10 anos +'
+  - label: 'Pedidos Atendidos'
+    value: '1.000.000+'
+
+# Product categories
+categories:
+  - name: 'Maiô Uma Peça Gestante'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/one-piece-1.webp'
+    imageAlt: 'Coleção de Maiôs Uma Peça para Gestantes'
+  - name: 'Tankinis Gestante'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/tankini-1.webp'
+    imageAlt: 'Coleção de Tankinis para Gestantes'
+  - name: 'Roupas de Banho para Amamentação'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/nursing-1.webp'
+    imageAlt: 'Coleção de Roupas de Banho para Amamentação'
+  - name: 'Saídas de Praia Gestante'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/cover-up-1.webp'
+    imageAlt: 'Coleção de Saídas de Praia para Gestantes'
+
+# Customization capabilities
+customization:
+  title: 'Capacidades de Personalização'
+  description: 'Roupas de banho totalmente personalizáveis - TideLine aceita todos os designs, tecidos, ferragens, logos e embalagens personalizados para dar vida à visão da sua marca.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Instalação de Fabricação'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalização de Estilo'
+      description: 'Dê vida a qualquer design de roupa de banho - escolha seu estilo perfeito e deixe-nos criá-lo para sua marca.'
+      link: '/contact'
+      cta_text: 'Consulta'
+    - name: 'Personalização de Tecido'
+      description: 'Escolha entre uma ampla gama de tecidos para criar roupas de banho confortáveis de usar e bonitas de ver.'
+      link: '/fabric'
+      cta_text: 'Tecido'
+    - name: 'Personalização de Ferragens'
+      description: 'Personalize cada detalhe - de fivelas e argolas a zíperes - nossas opções de ferragens elevam seu design.'
+      link: '/hardware'
+      cta_text: 'Ferragens'
+    - name: 'Personalização de Logo'
+      description: 'Torne-o verdadeiramente seu - adicione seu logo a cada peça para um visual de marca profissional.'
+    - name: 'Personalização de Embalagem'
+      description: 'Complete a experiência da sua marca com embalagens adaptadas ao seu estilo e visão.'
+    - name: 'Entre em Contato'
+      description: 'Pronto? Vamos transformar suas ideias de roupas de banho em realidade.'
+      link: '/contact'
+      cta_text: 'Entre em Contato'
+
+# Getting Started section
+getting_started:
+  title: 'Sua jornada de roupas de banho começa aqui'
+  description: 'Seja lançando sua primeira coleção ou expandindo sua marca, TideLine fornece soluções de roupas de banho personalizadas para atender às suas necessidades. Escolha seu caminho e comece.'
+  beginner_text: 'Começar como Iniciante'
+  beginner_href: '/startup'
+  pro_text: 'Comprador Experiente'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processo de Fabricação'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Perguntas Frequentes'
+  questions:
+    - id: 1
+      question: 'Quais são os requisitos de design especiais para roupas de banho para gestantes?'
+      answer: 'Os requisitos de design para roupas de banho para gestantes concentram-se principalmente em conforto, suporte e adaptabilidade. Elas geralmente usam tecidos altamente elásticos que podem se ajustar à forma mutável do corpo de uma mulher durante a gravidez. O design também deve fornecer suporte para o abdômen, alças sem pressão e designs de entrepernas confortáveis para garantir o conforto da mulher grávida ao se mover na água.'
+    - id: 2
+      question: 'Quais materiais são usados em roupas de banho para gestantes?'
+      answer: 'As roupas de banho para gestantes são tipicamente feitas de tecidos altamente elásticos e respiráveis como Lycra, nylon e spandex. Esses tecidos têm excelente elasticidade, adaptando-se às mudanças corporais durante a gravidez enquanto garantem conforto e suporte. Também garantimos que os materiais usados sejam não tóxicos e seguros para pele sensível.'
+    - id: 3
+      question: 'As roupas de banho para gestantes precisam fornecer proteção solar?'
+      answer: 'Sim, é melhor que as roupas de banho para gestantes tenham proteção UV (UPF), especialmente quando usadas em piscinas ao ar livre ou na praia. Nossos designs de roupas de banho para gestantes consideram isso ao usar tecidos com proteção solar para proteger a pele das futuras mães dos raios UV nocivos.'
+    - id: 4
+      question: 'Como a segurança e o conforto das roupas de banho para gestantes são garantidos?'
+      answer: 'As roupas de banho para gestantes são projetadas com forte foco em segurança e conforto. Usamos tecidos não tóxicos e ecológicos e garantimos que os cortes e designs não apliquem pressão, especialmente nas áreas do abdômen e peito. O design de suporte também leva em conta as mudanças que ocorrem durante a gravidez, fornecendo suporte completo.'
+    - id: 5
+      question: 'As roupas de banho para gestantes são adequadas para uso pós-parto?'
+      answer: 'Sim, muitos designs de roupas de banho para gestantes também são adequados para uso pós-parto. Como usam tecidos altamente elásticos, podem se adaptar ao período de recuperação e oferecer um ajuste confortável. Para mães que precisam amamentar, também oferecemos estilos especialmente projetados para amamentação que facilitam a amamentação.'
+    - id: 6
+      question: 'As roupas de banho para gestantes podem ser personalizadas?'
+      answer: 'Sim, oferecemos serviços de personalização e podemos fabricar roupas de banho para gestantes de acordo com as necessidades da sua marca e ideias de design. Você pode escolher o estilo, cor, tecido e até imprimir logos ou designs nas roupas de banho para garantir que seus produtos sejam únicos e atendam à demanda do mercado.'
+    - id: 7
+      question: 'Qual é a quantidade mínima de pedido para roupas de banho para gestantes?'
+      answer: 'A quantidade mínima de pedido (MOQ) para roupas de banho para gestantes varia dependendo do design e materiais usados. Em geral, oferecemos opções de produção flexíveis para clientes com pequenas quantidades de pedido ou aqueles em fase inicial. O MOQ geralmente varia de 100 a 500 peças, mas a quantidade exata pode ser ajustada de acordo com suas necessidades.'

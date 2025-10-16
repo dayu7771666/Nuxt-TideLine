@@ -1,0 +1,125 @@
+title: '定制泳装制造商'
+description: '不仅仅是供应商——您的泳装品牌建设合作伙伴。'
+
+seo:
+  title: '定制泳装制造商 | TIDELINE SWIMWEAR'
+  description: '专业定制泳装制造服务。从设计到生产，我们以优质品质和个性化服务将您独特的泳装愿景变为现实。'
+  keywords: '定制泳装制造商, 私人品牌泳装, 定制比基尼制造商, 泳装设计服务, OEM泳装, 定制泳衣生产'
+  ogTitle: '定制泳装制造商 | TIDELINE SWIMWEAR'
+  ogDescription: '全方位定制泳装制造。设计开发、打版、批量生产。将您的泳装愿景变为现实。'
+  ogType: 'website'
+  ogImage: '/catalog/custom-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '定制泳装制造商 | TIDELINE SWIMWEAR'
+  twitterDescription: '从概念到创作的定制泳装制造。设计服务、打版、批量生产。'
+
+# Hero section
+hero:
+  cta_text: '开始您的定制设计'
+  cta_href: '/contact'
+  image_src: '/catalog/custom-swimwear-bg.webp'
+  image_alt: '定制泳装制造'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: '我们的使命'
+  paragraph1: '在TideLine Swimwear，我们专注于将您独特的泳装愿景变为现实。我们的定制制造服务涵盖生产的各个方面——从最初的设计概念到最终包装——确保您的品牌以独特、高品质的泳装脱颖而出，完美反映您的风格和价值观。'
+  whatsapp_link_text: '在WhatsApp上联系我们'
+
+# Statistics
+stats:
+  - label: '泳装行业经验'
+    value: '10年 +'
+  - label: '完成的定制订单'
+    value: '50,000+'
+
+# Product categories
+categories:
+  - name: '定制比基尼'
+    href: '/category?type=custom&subtype=bikini'
+    imageSrc: '/custom-swimwear/custom-bikini-1.webp'
+    imageAlt: '定制比基尼系列'
+  - name: '定制连体泳衣'
+    href: '/category?type=custom&subtype=one-piece'
+    imageSrc: '/custom-swimwear/custom-onepiece-1.webp'
+    imageAlt: '定制连体泳衣系列'
+  - name: '定制坦基尼'
+    href: '/category?type=custom&subtype=tankini'
+    imageSrc: '/custom-swimwear/custom-tankini-1.webp'
+    imageAlt: '定制坦基尼系列'
+  - name: '定制罩衫'
+    href: '/category?type=custom&subtype=cover-up'
+    imageSrc: '/custom-swimwear/custom-coverup-1.webp'
+    imageAlt: '定制罩衫系列'
+
+# Customization capabilities
+customization:
+  title: '完整的定制服务'
+  description: '从概念到创作——TideLine提供全面的定制泳装制造服务，根据您的确切规格和品牌要求量身定制。'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: '制造设施'
+  hero_image_width: '1000'
+  features:
+    - name: '设计开发'
+      description: '我们的设计团队与您合作开发独特的泳装概念，从草图到技术规格。'
+      link: '/contact'
+      cta_text: '设计咨询'
+    - name: '打版制作'
+      description: '专业的打版服务，确保您的定制设计具有完美的合身度和结构。'
+      link: '/contact'
+      cta_text: '打版服务'
+    - name: '面料选择'
+      description: '从我们丰富的面料库中选择，或采购特定材料以匹配您的设计愿景。'
+      link: '/fabric'
+      cta_text: '面料选项'
+    - name: '样品生产'
+      description: '生产高质量样品，在批量生产前验证设计、合身度和结构。'
+      link: '/contact'
+      cta_text: '样品申请'
+    - name: '批量制造'
+      description: '可扩展的生产能力，从小批量到大订单，具有一致的质量控制。'
+      link: '/contact'
+      cta_text: '生产报价'
+    - name: '私人品牌'
+      description: '完整的品牌服务，包括定制标签、吊牌和包装解决方案。'
+      link: '/contact'
+      cta_text: '品牌服务'
+
+# Getting Started section
+getting_started:
+  title: '开始您的定制泳装之旅'
+  description: '准备好创建您独特的泳装系列了吗？我们的定制制造流程旨在支持各个阶段的品牌，从初创概念到成熟系列。'
+  beginner_text: '定制制造新手'
+  beginner_href: '/startup'
+  pro_text: '经验丰富的品牌所有者'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: '定制制造流程'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: '常见问题'
+  questions:
+    - id: 1
+      question: '定制泳装的最小订单量是多少？'
+      answer: '我们定制泳装的最小订单量因复杂程度而异，通常从每款50-100件开始。我们与初创企业和成熟品牌合作，找到符合您预算和时间表的灵活解决方案。'
+    - id: 2
+      question: '定制泳装开发流程需要多长时间？'
+      answer: '时间表取决于设计复杂性和定制水平。一般来说，初始样品需要2-3周，样品批准后批量生产需要4-6周。可以通过额外规划来满足加急订单。'
+    - id: 3
+      question: '如果我只有一个概念，你们能帮助设计泳装吗？'
+      answer: '当然可以！我们的设计团队专门将概念转化为可生产的设计。我们提供草图绘制、技术设计、打版和合身度开发服务，将您的愿景变为现实。'
+    - id: 4
+      question: '面料和材料有哪些定制选项？'
+      answer: '我们提供广泛的面料定制，包括性能材料、环保选项、印花、纹理和特殊整理。您可以从我们的面料库中选择，或采购特定材料以满足您的品牌要求。'
+    - id: 5
+      question: '你们在整个过程中提供设计和技术支持吗？'
+      answer: '是的，我们经验丰富的团队在整个开发和生产过程中提供全面支持，包括设计咨询、技术指导、合身度优化和质量保证。'
+    - id: 6
+      question: '你们能制造具有特殊功能或性能要求的泳装吗？'
+      answer: '当然可以！我们专门提供定制功能，包括UV防护、抗氯、压缩区、可拆卸衬垫、可调节肩带以及基于您规格的其他性能或美学增强。'
+    - id: 7
+      question: '定制泳装制造涉及哪些成本？'
+      answer: '成本因设计复杂性、材料、数量和定制水平而异。我们提供详细报价，包括开发费用、样品成本和生产定价。请联系我们，根据您的具体要求获取个性化估价。'

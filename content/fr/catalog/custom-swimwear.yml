@@ -1,0 +1,125 @@
+title: 'Fabricant de Maillots de Bain Personnalisés'
+description: "Plus qu'un fournisseur - votre partenaire dans la construction de votre marque de maillots de bain."
+
+seo:
+  title: 'Fabricant de Maillots de Bain Personnalisés | TIDELINE SWIMWEAR'
+  description: 'Services professionnels de fabrication de maillots de bain personnalisés. De la conception à la production, nous donnons vie à votre vision unique de maillots de bain avec une qualité premium et un service personnalisé.'
+  keywords: 'fabricant de maillots de bain personnalisés, maillots de bain marque privée, fabricant de bikinis personnalisés, services de conception de maillots de bain, OEM maillots de bain, production de maillots de bain personnalisés'
+  ogTitle: 'Fabricant de Maillots de Bain Personnalisés | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabrication de maillots de bain personnalisés à service complet. Développement de conception, création de patrons, production en gros. Donnez vie à votre vision de maillots de bain.'
+  ogType: 'website'
+  ogImage: '/catalog/custom-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricant de Maillots de Bain Personnalisés | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabrication de maillots de bain personnalisés du concept à la création. Services de conception, création de patrons, production en gros.'
+
+# Hero section
+hero:
+  cta_text: 'Commencez Votre Conception Personnalisée'
+  cta_href: '/contact'
+  image_src: '/catalog/custom-swimwear-bg.webp'
+  image_alt: 'Fabrication de Maillots de Bain Personnalisés'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Notre Mission'
+  paragraph1: "Chez TideLine Swimwear, nous nous spécialisons dans la concrétisation de votre vision unique de maillots de bain. Nos services de fabrication personnalisée couvrent tous les aspects de la production - des concepts de conception initiaux à l'emballage final - garantissant que votre marque se démarque avec des maillots de bain distinctifs et de haute qualité qui reflètent parfaitement votre style et vos valeurs."
+  whatsapp_link_text: 'Contactez-nous sur WhatsApp'
+
+# Statistics
+stats:
+  - label: "Expérience dans l'Industrie des Maillots de Bain"
+    value: '10 ans +'
+  - label: 'Commandes Personnalisées Réalisées'
+    value: '50,000+'
+
+# Product categories
+categories:
+  - name: 'Bikinis Personnalisés'
+    href: '/category?type=custom&subtype=bikini'
+    imageSrc: '/custom-swimwear/custom-bikini-1.webp'
+    imageAlt: 'Collection de Bikinis Personnalisés'
+  - name: 'Une Pièce Personnalisée'
+    href: '/category?type=custom&subtype=one-piece'
+    imageSrc: '/custom-swimwear/custom-onepiece-1.webp'
+    imageAlt: 'Collection Une Pièce Personnalisée'
+  - name: 'Tankinis Personnalisés'
+    href: '/category?type=custom&subtype=tankini'
+    imageSrc: '/custom-swimwear/custom-tankini-1.webp'
+    imageAlt: 'Collection de Tankinis Personnalisés'
+  - name: 'Paréos Personnalisés'
+    href: '/category?type=custom&subtype=cover-up'
+    imageSrc: '/custom-swimwear/custom-coverup-1.webp'
+    imageAlt: 'Collection de Paréos Personnalisés'
+
+# Customization capabilities
+customization:
+  title: 'Services de Personnalisation Complets'
+  description: 'Du concept à la création - TideLine offre des services complets de fabrication de maillots de bain personnalisés adaptés à vos spécifications exactes et aux exigences de votre marque.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Installation de Fabrication'
+  hero_image_width: '1000'
+  features:
+    - name: 'Développement de Conception'
+      description: 'Notre équipe de conception travaille avec vous pour développer des concepts uniques de maillots de bain, des croquis aux spécifications techniques.'
+      link: '/contact'
+      cta_text: 'Consultation de Conception'
+    - name: 'Création de Patrons'
+      description: 'Services professionnels de création de patrons pour assurer un ajustement et une construction parfaits pour vos conceptions personnalisées.'
+      link: '/contact'
+      cta_text: 'Services de Patrons'
+    - name: 'Sélection de Tissus'
+      description: 'Choisissez parmi notre vaste bibliothèque de tissus ou sourcez des matériaux spécifiques pour correspondre à votre vision de conception.'
+      link: '/fabric'
+      cta_text: 'Options de Tissus'
+    - name: "Production d'Échantillons"
+      description: "Échantillons de haute qualité produits pour valider la conception, l'ajustement et la construction avant la production en gros."
+      link: '/contact'
+      cta_text: "Demande d'Échantillon"
+    - name: 'Fabrication en Gros'
+      description: 'Capacités de production évolutives des petits lots aux grandes commandes avec un contrôle qualité cohérent.'
+      link: '/contact'
+      cta_text: 'Devis de Production'
+    - name: 'Étiquetage Privé'
+      description: "Services de marque complets incluant des étiquettes personnalisées, des tags et des solutions d'emballage."
+      link: '/contact'
+      cta_text: 'Services de Marque'
+
+# Getting Started section
+getting_started:
+  title: 'Commencez Votre Voyage de Maillots de Bain Personnalisés'
+  description: 'Prêt à créer votre ligne unique de maillots de bain ? Notre processus de fabrication personnalisée est conçu pour soutenir les marques à chaque étape, des concepts de startup aux collections établies.'
+  beginner_text: 'Nouveau dans la Fabrication Personnalisée'
+  beginner_href: '/startup'
+  pro_text: 'Propriétaire de Marque Expérimenté'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processus de Fabrication Personnalisée'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Questions Fréquemment Posées'
+  questions:
+    - id: 1
+      question: 'Quelle est la quantité minimale de commande pour les maillots de bain personnalisés ?'
+      answer: 'Notre quantité minimale de commande pour les maillots de bain personnalisés varie selon la complexité, commençant généralement à 50-100 pièces par style. Nous travaillons avec les startups et les marques établies pour trouver des solutions flexibles qui correspondent à votre budget et à votre calendrier.'
+    - id: 2
+      question: 'Combien de temps dure le processus de développement de maillots de bain personnalisés ?'
+      answer: "Le calendrier dépend de la complexité de la conception et du niveau de personnalisation. Généralement, les échantillons initiaux prennent 2-3 semaines, la production en gros nécessitant 4-6 semaines après l'approbation de l'échantillon. Les commandes urgentes peuvent être accommodées avec une planification supplémentaire."
+    - id: 3
+      question: "Pouvez-vous aider avec la conception de maillots de bain si je n'ai qu'un concept ?"
+      answer: "Absolument ! Notre équipe de conception se spécialise dans la transformation de concepts en conceptions prêtes pour la production. Nous fournissons des services d'esquisse, de conception technique, de création de patrons et de développement d'ajustement pour donner vie à votre vision."
+    - id: 4
+      question: 'Quelles options de personnalisation sont disponibles pour les tissus et les matériaux ?'
+      answer: 'Nous offrons une personnalisation extensive des tissus incluant des matériaux de performance, des options écologiques, des imprimés, des textures et des finitions spéciales. Vous pouvez choisir dans notre bibliothèque de tissus ou sourcer des matériaux spécifiques pour correspondre aux exigences de votre marque.'
+    - id: 5
+      question: 'Fournissez-vous un soutien en conception et technique tout au long du processus ?'
+      answer: "Oui, notre équipe expérimentée fournit un soutien complet incluant la consultation en conception, l'orientation technique, l'optimisation de l'ajustement et l'assurance qualité tout au long du processus de développement et de production."
+    - id: 6
+      question: 'Pouvez-vous fabriquer des maillots de bain avec des caractéristiques spéciales ou des exigences de performance ?'
+      answer: "Certainement ! Nous nous spécialisons dans les caractéristiques personnalisées incluant la protection UV, la résistance au chlore, les zones de compression, le rembourrage amovible, les bretelles ajustables et d'autres améliorations de performance ou esthétiques basées sur vos spécifications."
+    - id: 7
+      question: 'Quels sont les coûts impliqués dans la fabrication de maillots de bain personnalisés ?'
+      answer: "Les coûts varient en fonction de la complexité de la conception, des matériaux, des quantités et du niveau de personnalisation. Nous fournissons des devis détaillés incluant les frais de développement, les coûts d'échantillons et les prix de production. Contactez-nous pour une estimation personnalisée basée sur vos exigences spécifiques."

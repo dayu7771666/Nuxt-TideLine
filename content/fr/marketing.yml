@@ -1,0 +1,12 @@
+title: 'Essentiels pour Créateurs : Collections Prêtes à Devenir Virales'
+description: "Des designs tendance parfaits pour la création de contenu sur les réseaux sociaux et les campagnes de marketing d'influenceurs."
+items:
+  - title: 'Prêt pour Instagram'
+    description: 'Styles Prêts pour Instagram - Conçus pour un impact visuel maximal sur les plateformes de médias sociaux.'
+    image: '/api/placeholder/300/200'
+  - title: 'Tendance TikTok'
+    description: "Collection Tendance TikTok - Des designs viraux qui capturent l'attention dans les vidéos courtes."
+    image: '/api/placeholder/300/200'
+  - title: 'Collection YouTube'
+    description: 'Collection Contenu YouTube - Parfaite pour les vidéos de haul et la création de contenu mode.'
+    image: '/api/placeholder/300/200'

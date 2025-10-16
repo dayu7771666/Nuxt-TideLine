@@ -1,0 +1,69 @@
+# Bulk Production Page Content
+title: 'Uma abordagem sistemática para a excelência em roupas de banho'
+description: 'Do conceito à realidade comercial'
+
+seo:
+  title: 'Processo de produção - Tideline'
+  description: 'Descubra como as roupas de banho Tideline se transformam do conceito ao produto acabado através de artesanato meticuloso'
+  keywords: 'fabricação de roupas de banho, produção em massa, roupas de banho sustentáveis, fábrica de roupas de banho, processo de produção, garantia de qualidade'
+  ogTitle: 'Processo de produção - Tideline'
+  ogDescription: 'Uma abordagem sistemática para a excelência em roupas de banho do conceito à realidade comercial'
+  ogType: 'website'
+  twitterCard: 'summary_large_image'
+
+hero:
+  image: '/bulkproduct.webp'
+
+intro:
+  text: 'Uma vez que você faça parceria com a Tideline, você pode testemunhar a jornada colaborativa e orientada aos detalhes que seus designs empreendem. Este processo transparente, construído sobre comunicação clara e execução precisa em cada etapa (do conceito à realidade comercial), é projetado para garantir que sua visão seja perfeitamente realizada na produção em grande escala.'
+
+process:
+  title: 'Os pilares da excelência: estágios fundamentais no processo de fabricação da Tideline'
+  steps:
+    - icon: 'fas fa-pencil-alt'
+      title: 'Design e desenvolvimento'
+      description: 'Nosso processo de design funde tendências estéticas com dados de desempenho, criando estilos testados para >90% de satisfação do cliente no ajuste. Aproveitamos a prototipagem de design 3D para acelerar o desenvolvimento, reduzindo os ciclos de amostragem em 30% e garantindo que os estilos sejam comercialmente viáveis e funcionalmente superiores.'
+
+    - icon: 'fas fa-ruler-combined'
+      title: 'Criação de moldes e prototipagem'
+      description: 'Utilizamos padronização de precisão digital para projetar um ajuste impecável desde o início. Cada protótipo passa por um teste de ajuste de 5 pontos em vários tipos de corpo, com ajustes feitos em áreas-chave como busto, cintura e quadris. Este processo rigoroso garante uma taxa de consistência de tamanho de 98% em todos os lotes de produção.'
+
+    - icon: 'fas fa-cut'
+      title: 'Fornecimento de tecidos e sustentabilidade'
+      description: 'Mais de 80% de nossos tecidos são provenientes de fábricas líderes com consciência ecológica. Todos os materiais oferecem proteção UPF e são testados em laboratório para suportar exposição UV e cloro sem degradação significativa.'
+
+    - icon: 'fas fa-industry'
+      title: 'Fabricação e garantia de qualidade'
+      description: 'Da densidade da costura à tensão elástica, cada detalhe é medido contra padrões rigorosos. Isso resulta em uma taxa de defeitos de produto inferior a 0,5%, garantindo que sua marca receba pedidos em massa que sejam consistentemente de alta qualidade e prontos para o mercado.'
+
+sustainability:
+  title: 'Nosso compromisso com a sustentabilidade'
+  description: 'Acreditamos que roupas de banho bonitas não devem custar nosso planeta. É por isso que a sustentabilidade está tecida em cada aspecto de nosso processo de produção.'
+  features:
+    - icon: 'fas fa-leaf'
+      title: 'Materiais ecológicos'
+      description: 'Priorizamos tecidos feitos de materiais reciclados e fontes sustentáveis. Nossa embalagem é 100% reciclável e estamos continuamente explorando materiais inovadores.'
+
+    - icon: 'fas fa-hands-helping'
+      title: 'Produção ética'
+      description: 'Fazemos parceria com fabricantes que compartilham nosso compromisso com práticas de trabalho justas. Nossos artesãos trabalham em ambientes seguros e recebem salários justos.'
+
+    - icon: 'fas fa-recycle'
+      title: 'Redução de resíduos'
+      description: 'Através de corte eficiente de moldes e planejamento de produção, minimizamos o desperdício têxtil. Quaisquer materiais restantes são reutilizados ou reciclados sempre que possível.'
+
+cta:
+  title: 'Explore nossas coleções'
+  description: 'Seja o primeiro a descobrir nossas novas coleções de roupas de banho sustentáveis e receba atualizações exclusivas.'
+  form:
+    nameLabel: 'Primeiro nome'
+    namePlaceholder: 'Seu primeiro nome'
+    emailLabel: 'Endereço de e-mail'
+    emailPlaceholder: 'seu.email@exemplo.com'
+    messageLabel: 'Mensagem'
+    messagePlaceholder: 'Por favor, descreva brevemente seus requisitos...'
+    consentText: 'Concordo em receber atualizações da Tideline sobre novas coleções e iniciativas de sustentabilidade. Posso cancelar a inscrição a qualquer momento.'
+    submitButton: 'Enviar'
+    successMessage: 'Obrigado! Adicionamos você à nossa lista e enviaremos atualizações sobre nossas últimas coleções.'
+    browseText: 'Prefere navegar agora?'
+    browseLink: 'Ver nossas coleções atuais'

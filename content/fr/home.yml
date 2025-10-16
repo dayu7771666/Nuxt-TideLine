@@ -1,0 +1,147 @@
+title: "Tideline : Plus qu'un fournisseur, votre partenaire pour construire votre marque de maillots de bain."
+description: 'Nous offrons une fabrication de maillots de bain personnalisés de haute qualité, de bout en bout, du design à la livraison.'
+
+seo:
+  title: 'Fabricant Premium de Maillots de Bain : Maillots de Bain & Bikinis de Haute Qualité | Tideline Swim'
+  description: 'Tideline Swim est un fabricant premium de maillots de bain basé en Chine, spécialisé dans les maillots de bain personnalisés de haute qualité, les bikinis et la production en marque blanche. Nous nous associons avec des marques et des designers exigeants du monde entier, offrant une fabrication durable, un savoir-faire méticuleux et un service exceptionnel pour donner vie à votre vision de maillots de bain de luxe.'
+  keywords: 'fabricant premium de maillots de bain, usine de maillots de bain de luxe, fabricant de bikinis personnalisés, maillots de bain de haute qualité, maillots de bain marque blanche, production de maillots de bain écologique, maillots de bain durables, fabricant de maillots de bain design, OEM maillots de bain, fournisseur de maillots de bain, Tideline Swim'
+  ogImage: '/og-image.jpg'
+  twitterCard: 'summary_large_image'
+  ogType: 'website'
+  ogSiteName: 'Tideline Swim'
+  twitterSite: '@TidelineSwim'
+  robots: 'index, follow'
+  canonical: 'https://tidelineswim.com/fr'
+
+hero:
+  src: /hero_banner.webp
+  alt: 'Construisez votre ligne premium de maillots de bain'
+  ctaButton: 'Demander un échantillon'
+  features:
+    - text: 'MOQ aussi bas que 60 pièces'
+      href: '/bulkproduction'
+    - text: 'Production rapide en 15 jours'
+      href: '/bulkproduction'
+    - text: 'Support de design gratuit'
+      href: '/sampling'
+
+videoShowcase:
+  title: 'Explorez notre processus de fabrication de maillots de bain'
+  description: 'Cette vidéo montre le parcours de création de vos maillots de bain personnalisés de haute qualité, soutenus par un design professionnel et une fabrication de précision.'
+  ctaText: 'En savoir plus'
+  videoSrc: 'https://www.youtube.com/watch?v=sSPf81Vexwc'
+  videoDuration: '5:32'
+  youtubeWatchText: 'Regarder sur YouTube'
+
+howWorks:
+  title: "De l'idée aux maillots de bain en 5 étapes simples"
+  description: 'Rationalisez votre processus de création de marque. Concentrez-vous sur la créativité et le marketing.'
+  cta: 'Commencez votre parcours de marque'
+  steps:
+    - title: 'Consultation'
+      description: 'Partagez votre concept de marque et vos exigences par téléphone, e-mail ou via notre formulaire en ligne.'
+      icon: 'ChatBubbleLeftRightIcon'
+    - title: 'Design & Échantillonnage'
+      description: 'Tideline crée des designs professionnels et produit des échantillons pour vous.'
+      icon: 'PencilSquareIcon'
+    - title: 'Confirmation & Commande'
+      description: "Finalisez les détails et approuvez la commande de production après examen de l'échantillon."
+      icon: 'CheckCircleIcon'
+    - title: 'Production & Expédition'
+      description: 'Tideline gère la fabrication de haute qualité et organise une logistique fiable.'
+      icon: 'TruckIcon'
+    - title: 'Support de croissance'
+      description: 'Tideline fournit des conseils techniques et marketing continus pour le développement de marque à long terme.'
+      icon: 'ChartBarIcon'
+
+whyUs:
+  title: "Besoin d'un fournisseur qui comprend le branding ?"
+  description: 'Associez-vous à Tideline pour une expertise stratégique qui transforme les produits en une marque puissante.'
+  cta: 'En savoir plus sur nos avantages'
+  advantages:
+    - name: "Prix d'usine directs & Communication"
+      description: "En tant qu'usine directe, Tideline élimine les coûts intermédiaires pour offrir des prix plus compétitifs et garantir une communication efficace et transparente."
+      icon: 'SwatchIcon'
+    - name: 'Bibliothèque étendue de matériaux & composants'
+      description: "Tideline fournit une sélection diversifiée de tissus et d'accessoires - du nylon écologique aux composites haute élasticité - pour répondre à divers besoins de style et fonctionnels."
+      icon: 'BuildingOfficeIcon'
+    - name: 'Support flexible pour petits volumes & échantillonnage'
+      description: "Commencez avec des commandes en petits lots (MOQ 60 pièces) pour tester le marché avec un risque minimal. Bénéficiez d'un service d'échantillonnage rapide, avec des prototypes livrés en aussi peu que 3 jours."
+      icon: 'LightBulbIcon'
+    - name: 'Contrôle qualité rigoureux'
+      description: "Notre système d'inspection strict en quatre étapes - des matières premières aux produits finis - garantit que chaque vêtement répond aux normes de qualité internationales."
+      icon: 'ShieldCheckIcon'
+
+indexCta:
+  title: "Vous n'êtes qu'à une décision de votre propre marque de maillots de bain"
+  description: 'Obtenez une consultation personnalisée gratuite en tête-à-tête. Notre équipe professionnelle fournira un soutien complet dans la création de marque et la production pour démarrer votre parcours de maillots de bain.'
+  cta: 'Obtenir une consultation gratuite'
+  image:
+    src: '/home/indexcta.webp'
+    alt: 'Consultation de marque de maillots de bain'
+
+products:
+  title: 'Collections de produits'
+  description: 'Renforcez votre marque avec des tissus premium et des designs ciblés'
+  learnMoreText: 'Explorer'
+  quoteText: 'Demander un devis'
+  quoteLink: '/contact'
+  items:
+    - id: 1
+      name: 'Collections de maillots de bain'
+      href: '/collections/swimwear'
+      description: 'Supporte la personnalisation complète des motifs, couleurs, logo et tailles pour répondre aux besoins de votre marque'
+      imageSrc: '/home/homeserver-1.avif'
+      imageAlt: 'Ensemble bikini premium dans diverses couleurs disposé sur un décor de plage.'
+    - id: 2
+      name: 'Collections de vêtements de sport'
+      href: '/collections/activewear'
+      description: "Des commandes d'essai en petits lots à la production à grande échelle, nous fournissons des solutions de production flexibles"
+      imageSrc: '/home/homeserver-2.avif'
+      imageAlt: 'Maillot de bain une-pièce athlétique au design noir élégant.'
+    - id: 3
+      name: 'Collections Tan Through'
+      href: '/collections/tan-through'
+      description: 'Équipe logistique professionnelle garantit que vos commandes sont livrées à temps dans le monde entier'
+      imageSrc: '/home/homeserver-3.avif'
+      imageAlt: 'Ensemble tankini design au design blanc sophistiqué.'
+    - id: 4
+      name: "Collections d'accessoires"
+      href: '/collections/accessories'
+      description: 'Fournir un soutien professionnel complet de la consultation en design au service après-vente'
+      imageSrc: '/home/homeserver-4.avif'
+      imageAlt: 'Cache-maillot élégant aux tons neutres.'
+
+serviceAdvantages:
+  title: 'Avantages du service'
+  description: "Associez-vous à nous pour améliorer votre collection et simplifier votre chaîne d'approvisionnement"
+  advantages:
+    - id: 1
+      title: 'Design personnalisé'
+      description: 'Équipe de design professionnelle crée des styles de maillots de bain uniques adaptés à votre marque et aux besoins de vos clients.'
+      icon: 'CogIcon'
+    - id: 2
+      title: 'Production rapide'
+      description: 'Processus de production efficace avec livraison rapide en 15 jours pour répondre à vos demandes urgentes du marché.'
+      icon: 'ClockIcon'
+    - id: 3
+      title: 'Assurance qualité'
+      description: 'Système de contrôle qualité strict garantit que chaque pièce répond aux normes internationales et aux attentes des clients.'
+      icon: 'ShieldCheckIcon'
+    - id: 4
+      title: 'Service professionnel'
+      description: 'Équipe de service client dédiée fournit un support complet du design à la livraison.'
+      icon: 'UserGroupIcon'
+
+contactForm:
+  modalTitle: 'Contactez-nous'
+  nameLabel: 'Nom complet'
+  namePlaceholder: 'Entrez votre nom complet'
+  emailLabel: 'Adresse e-mail'
+  emailPlaceholder: 'Entrez votre adresse e-mail'
+  messageLabel: 'Message'
+  messagePlaceholder: 'Parlez-nous de vos exigences de projet...'
+  consentText: "J'accepte de recevoir des mises à jour et des communications de Tideline."
+  submitButton: 'Soumettre'
+  successMessage: 'Merci ! Nous vous contacterons bientôt.'
+  errorMessage: "Échec de la soumission. Veuillez réessayer ou contacter notre équipe d'assistance."

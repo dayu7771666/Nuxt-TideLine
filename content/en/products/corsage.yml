@@ -1,0 +1,70 @@
+hero:
+  title: 'Corsage & Boutonniere Collection'
+  description: 'Elegant corsage and boutonniere sets for weddings, proms, and formal events. Featuring fresh roses, premium ribbons, and pearl accents. Perfect for creating memorable moments with sophisticated floral accessories.'
+
+seo:
+  title: 'Corsage & Boutonniere Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale corsage & boutonniere sets - wedding corsages, prom boutonnieres, formal event flowers. Fresh roses, pearl accents, custom designs available.'
+  keywords: 'corsage, boutonniere, wedding corsage, prom corsage, wrist corsage, lapel pin, formal flowers, wholesale corsage, custom corsage, pearl bracelet corsage'
+  ogTitle: 'Corsage & Boutonniere Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale corsage & boutonniere sets. Elegant formal event floral accessories.'
+  ogType: 'website'
+  ogImage: '/products/corsage-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Corsage & Boutonniere Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Corsage & boutonniere wholesale. Elegant floral accessories for special occasions.'
+
+products:
+  - id: 1
+    name: 'Deluxe Navy & Burgundy Rose Corsage & Boutonniere Set'
+    description: 'Luxurious formal event set featuring rich burgundy roses with gold accents and navy ribbon on a sophisticated navy suit jacket, paired with a matching wrist corsage adorned with pearl details for an elegant touch.'
+    imageSrc: '/products/corsage/AC01.png'
+    imageAlt: 'Navy and burgundy rose corsage and boutonniere set with gold accents and pearl wrist corsage for formal events'
+
+  - id: 2
+    name: 'Classic White Rose Wedding Boutonniere & Wrist Corsage Duo'
+    description: 'Timeless wedding set showcasing pure white roses and fresh greenery, featuring a boutonniere with silver ribbon accent on a gray suit, paired with a delicate wrist corsage enhanced with gold berry accents.'
+    imageSrc: '/products/corsage/AC02.png'
+    imageAlt: 'Classic white rose wedding corsage and boutonniere set with silver ribbon and gold berry accents'
+
+  - id: 3
+    name: 'Dusky Rose Boutonniere & Pearl Wrist Corsage Matching Set'
+    description: 'Romantic matching set featuring dusty rose/mauve colored roses with small red berries and greenery, the corsage elegantly secured with a strand of pearls as a sophisticated wristlet.'
+    imageSrc: '/products/corsage/AC03.png'
+    imageAlt: 'Dusky rose corsage and boutonniere set with pearl wristlet and red berry accents for semi-formal events'
+
+  - id: 4
+    name: 'Ivory White Rose & Eucalyptus Boutonniere and Corsage Set'
+    description: 'Versatile natural pairing of ivory roses and light eucalyptus greenery, featuring a rustic jute-wrapped stem for the boutonniere and a simple ribbon wristlet for the corsage, perfect for garden weddings.'
+    imageSrc: '/products/corsage/AC04.png'
+    imageAlt: 'Ivory white rose and eucalyptus corsage set with natural jute wrap for garden weddings'
+
+  - id: 5
+    name: "Blushing Pink Rose & Carnation Lapel Corsage for Women's Suit"
+    description: "Elegant lapel corsage featuring a single blush pink rose and small carnations accented with long pink ribbons, designed as a sophisticated lapel pin for formal women's attire and special occasions."
+    imageSrc: '/products/corsage/AC05.png'
+    imageAlt: "Blushing pink rose and carnation lapel corsage with long pink ribbons for women's formal suits"
+
+  - id: 6
+    name: 'Vibrant Sunflower Boutonniere & Pearl Wrist Corsage Set'
+    description: 'Bright and cheerful set featuring vibrant sunflowers with sheer white ribbon accents, the wrist corsage beautifully attached to a pearl bracelet, perfect for summer weddings and joyful celebrations.'
+    imageSrc: '/products/corsage/AC06.png'
+    imageAlt: 'Vibrant sunflower corsage and boutonniere set with pearl bracelet and sheer white ribbon'
+
+  - id: 7
+    name: 'Sunset Orange & Cream Rose Corsage & Boutonniere Wedding Set'
+    description: 'Warm and romantic wedding set featuring a rich blend of orange and cream roses with yellow accents and cream ribbon, creating a lush autumn aesthetic perfect for fall weddings and celebrations.'
+    imageSrc: '/products/corsage/AC07.png'
+    imageAlt: 'Sunset orange and cream rose wedding corsage set with yellow accents for fall celebrations'
+
+  - id: 8
+    name: 'Dusty Pink Rose Boutonniere & Pearl Bracelet Corsage Ensemble'
+    description: 'Soft and romantic ensemble presenting dusty pink roses and small white filler flowers, the boutonniere styled on a gray blazer with the matching wrist corsage secured by a delicate pearl bracelet.'
+    imageSrc: '/products/corsage/AC08.png'
+    imageAlt: 'Dusty pink rose corsage ensemble with pearl bracelet and white filler flowers for romantic occasions'
+
+  - id: 9
+    name: 'Dusty Blue Rose & Carnation Corsage & Boutonniere Duo'
+    description: 'Modern cool-toned set featuring dusty blue roses and smaller blue carnations, beautifully accentuated with blue satin ribbons, perfect for contemporary weddings with subtle, sophisticated color themes.'
+    imageSrc: '/products/corsage/AC09.png'
+    imageAlt: 'Dusty blue rose and carnation corsage duo with satin ribbon for modern contemporary weddings'

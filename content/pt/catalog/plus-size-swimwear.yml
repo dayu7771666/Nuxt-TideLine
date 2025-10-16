@@ -1,0 +1,121 @@
+title: 'Fábrica de Roupas de Banho Plus Size no Atacado'
+description: 'Mais que um fornecedor — seu parceiro na construção da marca de roupas de banho.'
+
+seo:
+  title: 'Fábrica de Roupas de Banho Plus Size no Atacado | TIDELINE SWIMWEAR'
+  description: 'Fabricante premium de roupas de banho plus size oferecendo designs personalizados, conforto excepcional e caimento perfeito para todos os tipos de corpo. Preços atacado, tamanhos XL-6XL, MOQ baixo.'
+  keywords: 'fabricante roupas de banho plus size, biquíni plus size atacado, fornecedor roupas de banho curvy, fábrica roupas de banho plus size, roupas de banho tamanhos estendidos, roupas de banho plus size atacado'
+  ogTitle: 'Fábrica de Roupas de Banho Plus Size no Atacado | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricante de roupas de banho plus size. Designs personalizados, tamanhos XL-6XL, conforto e caimento excepcionais. Preços atacado disponíveis.'
+  ogType: 'website'
+  ogImage: '/catalog/plus-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fábrica de Roupas de Banho Plus Size no Atacado | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabricação de roupas de banho plus size. Tamanhos XL-6XL, designs personalizados, caimento perfeito para todos os tipos de corpo.'
+
+# Hero section
+hero:
+  cta_text: 'Consultoria'
+  cta_href: '/contact'
+  image_src: '/catalog/plus-swimwear-bg.webp'
+  image_alt: 'Fabricação de Roupas de Banho Plus Size'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Nossa Missão'
+  paragraph1: 'Na TideLine Swimwear, sabemos que roupas de banho plus size são uma categoria essencial para o mercado da moda atual. A cada temporada, nossa equipe de design cria coleções especificamente adaptadas para tipos de corpo mais curvilíneos—com caimentos de suporte, silhuetas lisonjeiras e tecidos duráveis—para que cada cliente possa desfrutar tanto do conforto quanto da confiança na piscina ou na praia.'
+  whatsapp_link_text: 'Entre em contato conosco no WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experiência na Indústria de Roupas de Banho'
+    value: '10 anos +'
+  - label: 'Pedidos Cumpridos'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Biquínis'
+    href: '/category?type=plus-size&subtype=bikini'
+    imageSrc: '/plus-swimwear/bikinis/bikini-1.webp'
+    imageAlt: 'Coleção de Biquínis Plus Size'
+  - name: 'Maiôs de Uma Peça'
+    href: '/category?type=plus-size&subtype=one-piece'
+    imageSrc: '/plus-swimwear/one-piece/one-piece-1.webp'
+    imageAlt: 'Coleção de Uma Peça Plus Size'
+  - name: 'Tankinis'
+    href: '/category?type=plus-size&subtype=tankini'
+    imageSrc: '/plus-swimwear/tankini/tankini-1.webp'
+    imageAlt: 'Coleção de Tankinis Plus Size'
+  - name: 'Saídas de Praia'
+    href: '/category?type=plus-size&subtype=cover-up'
+    imageSrc: '/plus-swimwear/beach/beach-2.webp'
+    imageAlt: 'Coleção de Saídas de Praia Plus Size'
+
+# Customization capabilities
+customization:
+  title: 'Capacidades de Personalização'
+  description: 'Roupas de banho totalmente personalizáveis—TideLine aceita todos os designs personalizados, tecidos, ferragens, logos e embalagens para dar vida à sua visão de marca.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Instalação de Fabricação'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalização de Estilo'
+      description: 'Dê vida a qualquer design de roupa de banho—escolha seu estilo perfeito e deixe-nos criá-lo para sua marca.'
+      link: '/contact'
+      cta_text: 'Consultoria'
+    - name: 'Personalização de Tecido'
+      description: 'Escolha de uma ampla gama de tecidos para criar roupas de banho confortáveis de usar e bonitas de ver.'
+      link: '/fabric'
+      cta_text: 'Tecido'
+    - name: 'Personalização de Ferragens'
+      description: 'Personalize cada detalhe—de fivelas e anéis a zíperes—nossas opções de ferragens elevam seu design.'
+      link: '/hardware'
+      cta_text: 'Ferragens'
+    - name: 'Personalização de Logo'
+      description: 'Torne-o verdadeiramente seu—adicione seu logo a cada peça para um visual de marca profissional.'
+    - name: 'Personalização de Embalagem'
+      description: 'Complete sua experiência de marca com embalagem adaptada ao seu estilo e visão.'
+    - name: 'Entre em contato'
+      description: 'Pronto? Vamos transformar suas ideias de roupas de banho em realidade.'
+      link: '/contact'
+      cta_text: 'Entre em contato'
+
+# Getting Started section
+getting_started:
+  title: 'Sua jornada de roupas de banho começa aqui'
+  description: 'Seja lançando sua primeira coleção ou expandindo sua marca, TideLine fornece soluções de roupas de banho sob medida para atender suas necessidades. Escolha seu caminho e comece.'
+  beginner_text: 'Começar como Iniciante'
+  beginner_href: '/startup'
+  pro_text: 'Comprador Experiente'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processo de Fabricação'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Perguntas Frequentes'
+  questions:
+    - id: 1
+      question: 'Vocês oferecem estilos de roupas de banho plus size para atacado?'
+      answer: 'Sim, oferecemos uma ampla gama de opções de roupas de banho plus size, incluindo estilos modernos e clássicos, disponíveis para pedidos no atacado a preços competitivos.'
+    - id: 2
+      question: 'Qual é a quantidade mínima de pedido para roupas de banho plus size?'
+      answer: 'Nossa quantidade mínima de pedido (MOQ) para roupas de banho plus size é de 30 peças por estilo, com um mínimo de 10 peças por tamanho. Visamos tornar os pedidos em massa fáceis e flexíveis para seu negócio.'
+    - id: 3
+      question: 'Posso personalizar os designs para roupas de banho plus size?'
+      answer: 'Absolutamente! Fornecemos opções de personalização completas para roupas de banho plus size, incluindo impressão de logo, escolhas de tecidos, cores e até embalagem para combinar com a identidade da sua marca.'
+    - id: 4
+      question: 'Quais tamanhos estão disponíveis na sua coleção de roupas de banho plus size?'
+      answer: 'Oferecemos uma ampla gama de tamanhos, de XL a 6XL, garantindo que você possa atender às necessidades de sua base diversificada de clientes. Nossas tabelas de tamanhos estão disponíveis para medições precisas.'
+    - id: 5
+      question: 'Quais materiais são usados nas suas roupas de banho plus size?'
+      answer: 'Nossas roupas de banho plus size são feitas de tecidos de alta qualidade e elásticos como spandex e nylon, garantindo conforto, durabilidade e um caimento lisonjeiro para todos os tipos de corpo.'
+    - id: 6
+      question: 'Quanto tempo levará para cumprir um pedido de roupas de banho plus size?'
+      answer: 'Tipicamente, nosso tempo de produção para roupas de banho plus size é de 7-15 dias dependendo do tamanho do pedido e requisitos de personalização. Os tempos de envio podem variar com base na sua localização.'
+    - id: 7
+      question: 'Vocês oferecem serviços de dropshipping para roupas de banho plus size?'
+      answer: 'Sim, apoiamos dropshipping para roupas de banho plus size. Isso significa que podemos enviar diretamente para seus clientes, incluindo embalagem personalizada com sua marca, sem você precisar manter estoque.'

@@ -1,0 +1,121 @@
+title: '스포츠 수영복 제조업체'
+description: '단순한 공급업체 이상 — 당신의 수영복 브랜드 구축 파트너.'
+
+seo:
+  title: '스포츠 수영복 제조업체 | TIDELINE SWIMWEAR'
+  description: '경기 및 훈련용 고성능 스포츠 수영복 제조업체. 경기용 수영복, 훈련용 수영복, 수구복. 맞춤 디자인, 도매 가격.'
+  keywords: '스포츠 수영복 제조업체, 경기용 수영복 공급업체, 경쟁 수영복, 훈련 수영복 도매, 성능 수영복 공장, 운동 수영복 제조업체'
+  ogTitle: '스포츠 수영복 제조업체 | TIDELINE SWIMWEAR'
+  ogDescription: '전문 스포츠 수영복 제조업체. 경기용 수영복, 훈련 장비, 경쟁 수영복. 고성능 디자인.'
+  ogType: 'website'
+  ogImage: '/catalog/sports-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '스포츠 수영복 제조업체 | TIDELINE SWIMWEAR'
+  twitterDescription: '고성능 스포츠 수영복. 경기 및 훈련 장비. 운동선수를 위한 맞춤 디자인.'
+
+# Hero section
+hero:
+  cta_text: '상담'
+  cta_href: '/contact'
+  image_src: '/catalog/sports-swimwear-bg.webp'
+  image_alt: '스포츠 수영복 제조'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: '우리의 미션'
+  paragraph1: 'TideLine Swimwear에서는 스포츠 및 성능 수영복이 경쟁적이고 활동적인 소비자들에게 필수적인 카테고리라는 것을 알고 있습니다. 매 시즌, 우리 디자인 팀은 기능적 성능, 내구성 있는 원단, 편안한 핏을 결합한 컬렉션을 개발합니다—유선형 원피스부터 성능 수영 브리프까지—도매업체와 브랜드 소유자들에게 운동선수와 활동적인 수영자들의 요구를 충족하는 다양한 옵션을 제공합니다.'
+  whatsapp_link_text: 'WhatsApp으로 문의하기'
+
+# Statistics
+stats:
+  - label: '수영복 업계 경험'
+    value: '10년 이상'
+  - label: '완료된 주문'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: '경기용 수영복'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/racing-1.webp'
+    imageAlt: '경기용 수영복 컬렉션'
+  - name: '훈련용 수영복'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/training-1.webp'
+    imageAlt: '훈련용 수영복 컬렉션'
+  - name: '수구복'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/water-polo-1.webp'
+    imageAlt: '수구복 컬렉션'
+  - name: '트라이애슬론복'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/triathlon-1.webp'
+    imageAlt: '트라이애슬론복 컬렉션'
+
+# Customization capabilities
+customization:
+  title: '맞춤화 기능'
+  description: '완전 맞춤형 수영복—TideLine은 모든 맞춤 디자인, 원단, 하드웨어, 로고, 포장을 받아들여 당신의 브랜드 비전을 실현합니다.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: '제조 시설'
+  hero_image_width: '1000'
+  features:
+    - name: '스타일 맞춤화'
+      description: '어떤 수영복 디자인이든 실현—완벽한 스타일을 선택하고 당신의 브랜드를 위해 제작하게 하세요.'
+      link: '/contact'
+      cta_text: '상담'
+    - name: '원단 맞춤화'
+      description: '다양한 원단 중에서 선택하여 착용하기 편안하고 아름다운 수영복을 만드세요.'
+      link: '/fabric'
+      cta_text: '원단'
+    - name: '하드웨어 맞춤화'
+      description: '버클과 링부터 지퍼까지 모든 세부사항을 맞춤화—우리의 하드웨어 옵션이 당신의 디자인을 향상시킵니다.'
+      link: '/hardware'
+      cta_text: '하드웨어'
+    - name: '로고 맞춤화'
+      description: '진정으로 당신만의 것으로—전문적인 브랜드 룩을 위해 각 제품에 로고를 추가하세요.'
+    - name: '포장 맞춤화'
+      description: '당신의 스타일과 비전에 맞춘 포장으로 브랜드 경험을 완성하세요.'
+    - name: '문의하기'
+      description: '준비되셨나요? 당신의 수영복 아이디어를 현실로 만들어보세요.'
+      link: '/contact'
+      cta_text: '문의하기'
+
+# Getting Started section
+getting_started:
+  title: '당신의 수영복 여정이 여기서 시작됩니다'
+  description: '첫 번째 컬렉션을 출시하든 브랜드를 확장하든, TideLine은 당신의 필요에 맞는 맞춤형 수영복 솔루션을 제공합니다. 당신의 길을 선택하고 시작하세요.'
+  beginner_text: '초보자로 시작하기'
+  beginner_href: '/startup'
+  pro_text: '경험있는 구매자'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: '제조 과정'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: '자주 묻는 질문'
+  questions:
+    - id: 1
+      question: '스포츠 수영복과 일반 수영복의 차이점은 무엇인가요?'
+      answer: '스포츠 수영복은 고강도 활동을 위해 특별히 설계되어 더 큰 탄성, 지지력, 내구성을 제공합니다. 일반적으로 물의 저항을 줄이기 위해 더 압축적인 원단을 사용하여 운동선수들이 속도와 성능을 향상시키는 데 도움을 줍니다. 일반 수영복과 비교하여, 스포츠 수영복은 편안함과 핏에 더 중점을 두어 운동선수들이 수영하는 동안 더 나은 움직임의 자유와 지지를 받을 수 있도록 보장합니다.'
+    - id: 2
+      question: '경쟁 수영에 가장 좋은 원단은 무엇인가요?'
+      answer: '경쟁용 수영복은 일반적으로 폴리에스터, 스판덱스(엘라스테인), 나일론, 탄성 섬유와 같은 고성능 소재로 만들어집니다. 이러한 소재들은 우수한 탄성, 강도, 내수성을 제공하여 마찰과 물의 저항을 효과적으로 줄여 수영 효율성을 향상시킵니다. 최근에는 재활용 플라스틱 섬유(RPET)로 만든 친환경 수영복이 등장하여 좋은 성능과 지속가능성을 제공하고 있습니다.'
+    - id: 3
+      question: '스포츠 수영복의 올바른 사이즈를 어떻게 선택하나요?'
+      answer: '스포츠 수영복을 선택할 때 올바른 사이즈는 매우 중요합니다. 수영복이 적절한 지지와 유선형 모양을 제공하기 위해 꽉 맞아야 하기 때문입니다. 잘 맞지만 너무 헐렁하지 않은 수영복을 선택하는 것이 좋으며, 움직임을 제한하지 않으면서 편안함을 보장합니다. 많은 브랜드가 체형에 따라 올바른 사이즈를 선택하는 데 도움이 되는 사이즈 차트를 제공하거나, 특정 사이즈 권장사항에 대해 브랜드에 문의할 수 있습니다.'
+    - id: 4
+      question: '스포츠 수영복의 염소 저항성은 어느 정도인가요?'
+      answer: '스포츠 수영복은 종종 폴리에스터 섬유와 PBT(폴리부틸렌 테레프탈레이트)와 같은 염소 저항성 소재로 만들어져 전통적인 라이크라 원단보다 더 나은 염소 저항성을 제공합니다. 이러한 소재들은 수영장의 염소의 유해한 영향으로부터 수영복을 보호하는 데 도움을 주어 수트의 수명을 연장합니다. 내구성을 보장하기 위해 강한 염소 저항성을 가진 수영복을 선택하는 것이 중요합니다.'
+    - id: 5
+      question: '스포츠 수영복의 편안함은 어떻게 보장되나요?'
+      answer: '스포츠 수영복의 편안함은 주로 과학적 디자인과 고성능 원단을 통해 보장됩니다. 스포츠 수영복은 종종 심리스 디자인이나 정밀한 커팅 기술을 사용하여 몸과 수영복 사이의 마찰을 줄여 운동 중 불편함을 방지합니다. 또한 격렬한 훈련 중에 운동선수들을 건조하고 편안하게 유지하기 위해 통기성 있는 소재가 사용됩니다.'
+    - id: 6
+      question: '스포츠 수영복을 어떻게 세탁하고 관리하나요?'
+      answer: '스포츠 수영복의 수명을 연장하기 위해 손세탁이나 찬물에서 기계세탁을 권장하며 표백제가 포함된 세제는 피하세요. 세탁 후 수영복은 평평하게 놓고 말려야 하며, 직사광선이나 건조기 사용은 피해야 합니다. 수영복을 깨끗하고 건조하게 유지하는 것은 원단 손상을 방지하고 성능과 탄성을 보존하는 데 도움이 됩니다.'
+    - id: 7
+      question: '친환경 소재로 만든 스포츠 수영복이 있나요?'
+      answer: '네, 점점 더 많은 스포츠 수영복 브랜드들이 재활용 플라스틱 섬유(RPET)와 천연 섬유 같은 친환경 소재를 사용하고 있습니다. 이러한 소재들은 뛰어난 성능을 제공할 뿐만 아니라 지속가능성과 환경 보호 기준도 충족합니다. 당신의 브랜드가 환경을 고려한다면, 친환경 기준을 충족하고 브랜드 이미지를 향상시키는 맞춤형 스포츠 수영복을 제공할 수 있습니다.'

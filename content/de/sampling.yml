@@ -1,0 +1,85 @@
+title: 'Qualität erleben, vor dem Volumen.'
+description: 'Mit Vertrauen starten. Unser optimierter Sampling-Prozess ermöglicht es Ihnen, Designs ohne Risiko zu testen und zu verfeinern und gewährleistet marktreife Exzellenz für Ihre Bademodenlinie.'
+
+seo:
+  title: 'Bademode-Sampling-Services | Experten-Prototypenentwicklung | Tideline Swim'
+  description: 'Mit Vertrauen starten. Unser optimierter Sampling-Prozess ermöglicht es Ihnen, Bademode-Designs ohne Risiko zu testen und zu verfeinern. Expertengeführte Prototypenentwicklung, Stoffbeschaffung und Passformanalyse für marktreife Exzellenz.'
+  keywords: 'Bademode-Sampling, Prototypenentwicklung, Badeanzug-Muster, Bademode-Designtests, Stoffbeschaffung, Passformanalyse, Schwimmkleidungs-Engineering, Musterherstellung'
+  ogTitle: 'Bademode-Sampling-Services | Experten-Prototypenentwicklung | Tideline Swim'
+  ogDescription: 'Mit Vertrauen starten. Unser optimierter Sampling-Prozess ermöglicht es Ihnen, Bademode-Designs ohne Risiko zu testen und zu verfeinern. Expertengeführte Prototypenentwicklung und Passformanalyse.'
+  ogType: 'website'
+  ogImage: '/sampling.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Bademode-Sampling-Services | Tideline Swim'
+  twitterDescription: 'Expertengeführtes Bademode-Sampling. Testen und verfeinern Sie Designs ohne Risiko. Professionelle Prototypenentwicklung und Passformanalyse.'
+
+hero:
+  ctaButton: 'Starten Sie Ihr Musterprojekt'
+  ctaLink: '#cta'
+
+comparison:
+  title: 'Warum unseren Experten-Sampling-Service wählen?'
+  description: 'Sehen Sie, wie sich unser expertengeführter Sampling-Ansatz im Vergleich zu Standardprozessen verhält'
+  criteria:
+    - name: 'MOQ & Budget'
+      standard: 'Feste, unflexible Preisgestaltung.'
+      expert: 'Verhandelbar und auf Ihren Umfang zugeschnitten.'
+    - name: 'Lieferzeit'
+      standard: 'Geschätzt 2-4 Wochen'
+      expert: 'Priorisiert und mit Ihren Terminen im Hinterkopf definiert.'
+    - name: 'Stoff- & Zubehörbeschaffung'
+      standard: 'Selbstbedienung aus einem Katalog'
+      expert: 'Kuratierte Empfehlungen für Qualität und Kosten.'
+    - name: 'Bekleidungs-Engineering'
+      standard: 'Folgt Standardprotokollen'
+      expert: 'Expertenprüfung zur Vermeidung von Passform- und Produktionsproblemen'
+    - name: 'Prototypenqualität'
+      standard: 'Ein Muster.'
+      expert: 'Ein funktionsfähiger Produktprototyp.'
+
+process:
+  title: 'Wie unser Sampling-Prozess funktioniert'
+  description: 'Unser optimierter 6-Schritte-Prozess stellt sicher, dass Sie mit klaren Ergebnissen in jeder Phase maximalen Nutzen aus Ihrem Bademode-Sampling-Projekt ziehen.'
+  steps:
+    - number: 1
+      title: 'Design- & Passformstrategie-Überprüfung'
+      description: 'Wir analysieren Ihr Tech Pack und Ihre Designs, um den grundlegenden Passformblock, Zielmarktmessungen festzulegen und wichtige schwimmspezifische Konstruktionstechniken zu besprechen (z. B. Flachnaht, Futter, Gummiband-Anwendung).'
+    - number: 2
+      title: 'Stoff- & Zubehörkuratierung'
+      description: 'Wir präsentieren und beschaffen genehmigte schwimmspezifische Stoffe (z. B. Nylon-Spandex-Mischungen, recycelte Materialien) und wichtige Zubehörteile (z. B. chlorbeständige Gummibänder, BH-Cups, Hardware) basierend auf Ihren Leistungs- und Ästhetikanforderungen.'
+    - number: 3
+      title: 'Schnittmuster-Engineering & Mock-up'
+      description: 'Unsere Techniker entwerfen das erste präzise Bademode-Schnittmuster unter Berücksichtigung der Stoffdehnung und -erholung. Ein vorläufiges Nesselmodell oder digitales Mock-up wird oft erstellt, um die Passform auf einer Form zu validieren, bevor der endgültige Stoff geschnitten wird.'
+    - number: 4
+      title: 'Erste Artikelzusammenstellung & Interne Anprobe'
+      description: 'Das erste physische Muster wird konstruiert. Wir führen eine strenge interne Anprobe an einem lebenden Model oder einer Schaufensterpuppe durch und prüfen auf Kleidungsspannung, Lücken und Beweglichkeit, um eventuelle Konstruktionsanpassungen zu identifizieren.'
+    - number: 5
+      title: 'Musterveredelung & Qualitätskontrolle'
+      description: 'Das Muster wird einer abschließenden Veredelung unterzogen (z. B. Haken- und Ösenanbringung, Etikettennähen) und einer strengen Qualitätsprüfung auf Nahtintegrität, Nahtflachheit und Zubehörplatzierung gemäß Ihren Spezifikationen.'
+    - number: 6
+      title: 'Feedback-Integration & Produktionsweg'
+      description: 'Sie erhalten das Muster zur Bewertung. Wir konsolidieren Ihr Feedback zu Passform, Stoffgefühl und Gesamtästhetik, um den Prototyp zu verfeinern und einen klaren Fahrplan zur Produktion zu präsentieren, einschließlich Abstufungsregeln für Ihre Größenreihe.'
+
+faq:
+  title: 'Häufig gestellte Fragen'
+  items:
+    - question: 'Was ist typischerweise in Ihrem Sampling-Service enthalten und was sind die Kosten?'
+      answer: 'Unser Sampling-Service ist ein umfassendes Paket, das Schnittmuster-Engineering, Beschaffung genehmigter Stoffe und Zubehör, Konstruktion eines physischen Prototyps und eine interne Passformanalyse umfasst. Die Kosten sind projektspezifisch und variieren je nach Designkomplexität, gewählten Materialien und Zubehördetails. Wir bieten ein transparentes Angebot nach unserer ersten Beratung an, um uns auf den Umfang abzustimmen.'
+    - question: 'Was ist die typische Bearbeitungszeit für ein Muster?'
+      answer: 'Der Standardzeitrahmen für einen ersten Prototyp beträgt 2-3 Wochen. Dieser Zeitraum umfasst Materialbeschaffung, Schnittmusterentwicklung und sorgfältige Konstruktion. Wir können beschleunigte Optionen für dringende Projekte besprechen, und Zeitpläne werden immer im Voraus bestätigt.'
+    - question: 'Muss ich ein vollständiges Tech Pack bereitstellen oder können Sie mit meinem Designkonzept arbeiten?'
+      answer: 'Wir können mit beidem arbeiten. Ein detailliertes Tech Pack ermöglicht den genauesten und effizientesten Prozess. Wenn Sie jedoch ein Designkonzept oder Inspiration haben, kann unser Team Ihnen helfen, es in eine produktionsreife Spezifikation zu entwickeln, einschließlich Empfehlungen für Passform, Stoff und Konstruktion.'
+    - question: 'Wie gehen Sie mit Passform und Größenbestimmung für Muster um?'
+      answer: 'Wir beginnen damit, uns auf einen Basis-Passformblock und spezifische Abstufungsregeln für Ihren Zielmarkt abzustimmen. Das erste Muster wird nach diesen präzisen Spezifikationen konstruiert und intern an einer Standard-Schneiderpuppe bewertet. Wir empfehlen Ihnen dringend, auch Ihre eigene Anprobe an einem lebenden Model durchzuführen, das den Maßen Ihres Zielkunden entspricht.'
+    - question: 'Können Sie spezifische oder nachhaltige Stoffe für mein Muster beschaffen?'
+      answer: 'Absolut. Wir haben etablierte Beziehungen zu Mühlen, die eine breite Palette von Leistungs- und nachhaltigen Stoffen anbieten (z. B. recyceltes Nylon, OEKO-TEX®-zertifizierte Materialien). Wir kuratieren Optionen basierend auf Ihren ästhetischen, Leistungs- und Nachhaltigkeitszielen und stellen Muster für Ihre Genehmigung bereit.'
+    - question: 'Was passiert, wenn das Muster nach der Lieferung Anpassungen erfordert?'
+      answer: 'Iteration ist ein Kernbestandteil des Sampling-Prozesses. Wir beinhalten eine Runde detaillierter Feedback-Konsolidierung, nachdem Sie Ihr erstes Muster erhalten haben. Wir analysieren Ihre Notizen zu Passform und Konstruktion und präsentieren einen klaren Plan für Überarbeitungen, einschließlich eventuell verbundener Kosten und Zeitplan für einen zweiten Prototyp bei Bedarf.'
+    - question: 'Wie geht der Sampling-Prozess in die Massenproduktion über?'
+      answer: 'Das endgültige, genehmigte Muster dient als "Goldstandard" für die Produktion. Wir verwenden die verfeinerten Schnittmuster, bestätigten Materialien und Konstruktionsdetails aus der Sampling-Phase, um einen nahtlosen Produktionsfahrplan zu erstellen und Ihnen ein festes Angebot für Ihre Massenbestellung basierend auf Ihren erforderlichen Mengen zu unterbreiten.'
+
+cta:
+  title: 'Bereit für risikofreies Sampling?'
+  description: 'Kontaktieren Sie noch heute unsere Experten für eine kostenlose Beratung, um Ihr Projekt zu besprechen und wie unser Sampling-Service Ihnen helfen kann, Ihre Idee mit minimalem Investment zu validieren.'
+  button: 'Planen Sie Ihre kostenlose Beratung'
+  link: '#'

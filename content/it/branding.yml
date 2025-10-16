@@ -1,0 +1,193 @@
+title: 'Etichette di marca personalizzate e imballaggio'
+description: "Eleva il tuo marchio di costumi da bagno con etichette personalizzate premium e soluzioni di imballaggio ecologiche. Dall'eleganza ricamata ai materiali sostenibili, diamo vita alla tua visione di marca."
+
+seo:
+  title: 'Etichette di marca personalizzate e imballaggio | Tideline Swimwear'
+  description: 'Etichette personalizzate premium e soluzioni di imballaggio ecologiche per marchi di costumi da bagno. Scegli tra etichette ricamate, stampate, tessute, PVC, in pelle e altro. Opzioni di imballaggio sostenibile disponibili.'
+  keywords: 'etichette personalizzate, branding costumi da bagno, etichette ricamate, imballaggio ecologico, imballaggio sostenibile, identità di marca, etichette tessute, etichette PVC, etichette in pelle'
+  ogTitle: 'Etichette di marca personalizzate e imballaggio | Tideline Swimwear'
+  ogDescription: 'Eleva il tuo marchio di costumi da bagno con etichette personalizzate premium e soluzioni di imballaggio sostenibili.'
+  ogType: 'website'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Etichette di marca personalizzate e imballaggio | Tideline Swimwear'
+  twitterDescription: 'Etichette personalizzate premium e imballaggio ecologico per marchi di costumi da bagno.'
+
+hero:
+  image: '/sampling.webp'
+  alt: 'Etichette di marca personalizzate e imballaggio'
+
+introduction:
+  title: 'Perché il branding personalizzato è importante'
+  description: 'La tua etichetta e il tuo imballaggio sono i primi punti di contatto con i tuoi clienti. Rendili significativi con le nostre soluzioni di branding complete che combinano qualità, sostenibilità e stile.'
+  features:
+    - title: 'Identità di marca'
+      description: "Crea un'impressione duratura con etichette personalizzate che riflettono la personalità unica del tuo marchio"
+      icon: 'sparkles'
+      gradient: 'blue'
+    - title: 'Qualità premium'
+      description: 'Etichette durevoli e di lunga durata che mantengono il loro aspetto anche dopo numerosi lavaggi'
+      icon: 'shield'
+      gradient: 'green'
+    - title: 'Ecologico'
+      description: 'Materiali e processi sostenibili che si allineano con i valori ambientali moderni'
+      icon: 'globe'
+      gradient: 'purple'
+
+labels:
+  title: '10 opzioni di etichette premium'
+  description: 'Scegli dalla nostra gamma diversificata di soluzioni di etichettatura, ciascuna progettata per esigenze specifiche di marca e segmenti di mercato'
+  types:
+    - id: 1
+      name: 'Etichette ricamate'
+      icon: 'scissors'
+      gradient: 'purple'
+      technology: 'Tecnica di ricamo a macchina o a mano per cucire nomi di marchi o loghi sul tessuto.'
+      advantages: 'Alta durata, texture premium, perfetto per marchi di costumi da bagno di fascia alta.'
+      bestFor: 'Marchi di lusso e premium che enfatizzano la qualità.'
+
+    - id: 2
+      name: 'Etichette stampate'
+      icon: 'printer'
+      gradient: 'blue'
+      technology: 'Metodi di serigrafia, trasferimento termico o stampa UV.'
+      advantages: 'Conveniente, supporta design complessi, ideale per la produzione di massa.'
+      bestFor: 'Marchi di costumi da bagno di fascia media o mercato di massa.'
+
+    - id: 3
+      name: 'Etichette a trasferimento termico'
+      icon: 'fire'
+      gradient: 'orange'
+      technology: 'La tecnologia di pressatura a caldo trasferisce i design sulle etichette, comunemente su poliestere o nylon.'
+      advantages: 'Resistente allo sbiadimento, sensazione morbida e confortevole.'
+      bestFor: 'Costumi da bagno atletici e funzionali leggeri.'
+
+    - id: 4
+      name: 'Etichette tessute'
+      icon: 'swatch'
+      gradient: 'indigo'
+      technology: "La macchina tessile integra i loghi del marchio direttamente nelle fibre dell'etichetta utilizzando nylon o poliestere."
+      advantages: 'Alta qualità, durevole, sensazione premium.'
+      bestFor: 'Marchi di fascia alta o costumi da bagno a lungo termine.'
+
+    - id: 5
+      name: 'Etichette PVC'
+      icon: 'cube'
+      gradient: 'cyan'
+      technology: 'Etichette in plastica PVC stampata con superficie spruzzata o stampata.'
+      advantages: "Impermeabile, resistente all'umidità, aspetto moderno e alla moda."
+      bestFor: 'Marchi giovani e alla moda, specialmente costumi da bagno outdoor o atletici.'
+
+    - id: 6
+      name: 'Etichette in pelle'
+      icon: 'star'
+      gradient: 'amber'
+      technology: 'Pelle genuina o sintetica con loghi impressi o marchiati.'
+      advantages: 'Sensazione lussuosa e di fascia alta con forte impatto visivo.'
+      bestFor: 'Marchi di lusso che cercano di elevare il prestigio del marchio.'
+
+    - id: 7
+      name: 'Cartellini di carta'
+      icon: 'document'
+      gradient: 'green'
+      technology: 'Carta o cartoncino ecologico con tecniche di stampa (stampa a caldo, serigrafia).'
+      advantages: "Basso costo, facile produzione di massa, rispettoso dell'ambiente."
+      bestFor: "Marchi di costumi da bagno attenti al budget o focalizzati sull'ecologia."
+
+    - id: 8
+      name: 'Design senza etichetta'
+      icon: 'heart'
+      gradient: 'pink'
+      technology: "Il trasferimento termico o il ricamo stampa le informazioni del marchio direttamente all'interno del capo, nessuna etichetta fisica."
+      advantages: 'Comfort migliorato, nessuna irritazione della pelle, ideale per pelli sensibili.'
+      bestFor: 'Marchi atletici e costumi da bagno focalizzati sul comfort.'
+
+    - id: 9
+      name: 'Etichette tagliate al laser'
+      icon: 'bolt'
+      gradient: 'violet'
+      technology: 'Il taglio laser crea motivi intricati su pelle, tessuto o materiali sintetici.'
+      advantages: 'Preciso, efficiente, capace di design complessi.'
+      bestFor: 'Marchi moderni con attenzione ai dettagli, costumi da bagno di fascia alta.'
+
+    - id: 10
+      name: 'Etichette riflettenti'
+      icon: 'lightbulb'
+      gradient: 'yellow'
+      technology: 'I materiali riflettenti migliorano la visibilità e la sicurezza del marchio.'
+      advantages: 'Migliora la sicurezza notturna, aggiunge un tocco di moda.'
+      bestFor: 'Marchi di costumi da bagno atletici e outdoor che danno priorità alla funzionalità.'
+
+packaging:
+  badge: 'Scelta sostenibile'
+  title: 'Soluzioni di imballaggio ecologiche'
+  description: "Proteggi i tuoi prodotti e il pianeta con le nostre opzioni di imballaggio sostenibile. Realizzati con materiali riciclati e biodegradabili che riflettono l'impegno ambientale del tuo marchio."
+
+  features:
+    - title: '100% materiali riciclati'
+      description: "I nostri sacchetti di imballaggio sono realizzati con plastiche riciclate post-consumo, riducendo i rifiuti e l'impatto ambientale."
+      icon: 'arrowPath'
+      gradient: 'green'
+
+    - title: 'Opzioni biodegradabili'
+      description: "Scegli tra materiali compostabili che si decompongono naturalmente senza danneggiare l'ambiente."
+      icon: 'checkCircle'
+      gradient: 'emerald'
+
+    - title: 'Spedizione a impatto zero'
+      description: 'Il nostro imballaggio è progettato per ridurre al minimo il peso e il volume di spedizione, riducendo le emissioni di carbonio.'
+      icon: 'globe'
+      gradient: 'teal'
+
+    - title: 'Carta certificata FSC'
+      description: 'Tutti i materiali cartacei provengono da foreste gestite responsabilmente con certificazione FSC.'
+      icon: 'shield'
+      gradient: 'green'
+
+    - title: 'Branding personalizzato'
+      description: 'Completamente personalizzabile con il tuo logo e i colori del marchio utilizzando inchiostri e metodi di stampa ecologici.'
+      icon: 'sparkles'
+      gradient: 'emerald'
+
+    - title: 'Qualità premium'
+      description: 'Ecologico non significa compromettere la qualità. I nostri sacchetti sono durevoli, impermeabili e proteggono i tuoi prodotti.'
+      icon: 'checkBadge'
+      gradient: 'teal'
+
+  types:
+    - title: 'Buste poli riciclate'
+      description: "Sacchetti resistenti all'acqua e allo strappo realizzati con 100% plastica riciclata. Disponibili in più dimensioni con stampa personalizzata."
+      icon: 'archive'
+      gradient: 'green'
+
+    - title: 'Buste di carta Kraft'
+      description: 'Sacchetti di carta biodegradabili con manici rinforzati. Perfetti per imballaggio al dettaglio e in negozio.'
+      icon: 'document'
+      gradient: 'emerald'
+
+    - title: 'Buste compostabili'
+      description: 'Imballaggio a base vegetale che si decompone completamente negli impianti di compostaggio industriale entro 180 giorni.'
+      icon: 'sparkles'
+      gradient: 'teal'
+
+    - title: 'Borse di stoffa riutilizzabili'
+      description: 'Borse premium in cotone o tessuto riciclato che i clienti possono riutilizzare, estendendo la portata del tuo marchio.'
+      icon: 'arrowPath'
+      gradient: 'cyan'
+
+  impact:
+    title: 'Crea un impatto positivo'
+    description: 'Scegliendo il nostro imballaggio ecologico, non stai solo proteggendo i tuoi prodotti - stai proteggendo il pianeta e mostrando ai tuoi clienti che la sostenibilità conta.'
+    stats:
+      - value: '100%'
+        label: 'Riciclabile o compostabile'
+      - value: '-60%'
+        label: 'Emissioni di carbonio'
+      - value: '0'
+        label: 'Plastiche vergini utilizzate'
+
+cta:
+  title: 'Pronto a elevare il tuo marchio?'
+  description: 'Contattaci oggi per discutere delle tue esigenze di etichette e imballaggi personalizzati. Il nostro team ti aiuterà a creare la soluzione di branding perfetta che riflette la tua identità unica.'
+  button: 'Inizia'
+  link: '/contact'
+  variant: 'blue'

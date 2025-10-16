@@ -1,0 +1,201 @@
+# TideHeader 导航数据配置
+tideHeader:
+  categories:
+    - id: 'product'
+      name: 'Produits'
+      featured:
+        - name: 'Vous voulez démarrer votre propre entreprise de maillots de bain ? Commencez maintenant !'
+          href: '/catalog/custom-swimwear'
+          imageSrc: '/nav/products.avif'
+          imageAlt: 'Modèles assises dos à dos, portant un Basic Tee en noir et beige.'
+      sections:
+        - id: 'swimwear'
+          name: 'MAILLOTS DE BAIN'
+          breadcrumb:
+            name: 'Maillots de Bain'
+            href: '/collections/swimwear'
+          items:
+            - name: 'Voir Tout'
+              href: '/collections/swimwear'
+            - name: 'Tankinis'
+              href: '/products/tankinis'
+            - name: 'Hauts de Bikini'
+              href: '/products/bikini-tops'
+            - name: 'Bas de Bikini'
+              href: '/products/bikini-bottoms'
+            - name: 'Paréos'
+              href: '/products/cover-ups'
+            - name: 'Maillots de Bain Grande Taille'
+              href: '/products/plus-size-swimwear'
+            - name: 'Pantalons de Natation'
+              href: '/products/swim-pants'
+            - name: 'Monokinis'
+              href: '/products/monokinis'
+            - name: 'Maillots de Bain Homme'
+              href: '/products/swim-trunks'
+            - name: 'Shorts de Surf'
+              href: '/products/swim-board-shorts'
+            - name: 'Shorts de Natation Ajustés'
+              href: '/products/swim-fitted-shorts'
+            - name: 'Slips de Bain'
+              href: '/products/swim-briefs'
+            - name: 'Maillots de Bain Enfants'
+              href: '/products/kids-swimwear'
+        - id: 'accessories'
+          name: 'VÊTEMENTS DE SPORT'
+          breadcrumb:
+            name: 'Vêtements de Sport'
+            href: '/collections/activewear'
+          items:
+            - name: 'Voir Tout'
+              href: '/collections/activewear'
+        - id: 'TAN TRHOUGH'
+          name: 'TAN THROUGH'
+          breadcrumb:
+            name: 'Tan Through'
+            href: '/collections/tan-through'
+          items:
+            - name: 'Voir Tout'
+              href: '/collections/tan-through'
+        - id: 'ACCESSORIES'
+          name: 'ACCESSOIRES'
+          breadcrumb:
+            name: 'Accessoires'
+            href: '/collections/accessories'
+          items:
+            - name: 'Voir Tout'
+              href: '/collections/accessories'
+    - id: 'Services'
+      name: 'Services'
+      featured:
+        - name: 'Développez votre entreprise de maillots de bain—commencez par des échantillons !'
+          href: '/sampling'
+          imageSrc: '/hardware.webp'
+          imageAlt: 'Haut à cordon avec fermeture à boucle élastique et rembourrage intérieur texturé.'
+      sections:
+        - id: 'Sampling'
+          name: 'Échantillonnage'
+          items:
+            - name: 'Échantillonnage'
+              href: '/sampling'
+        - id: 'Bulk Production'
+          name: 'Production en Masse'
+          items:
+            - name: 'Production en Masse'
+              href: '/bulkproduction'
+        - id: 'Custom Service'
+          name: 'Service Personnalisé'
+          items:
+            - name: 'Textiles pour Maillots de Bain'
+              href: '/fabric'
+            - name: 'Matériel'
+              href: '/hardware'
+            - name: 'Étiquette et Emballage'
+              href: '/custom-brand-label-packaing'
+    - id: 'solutions'
+      name: 'Solutions'
+      featured:
+        - name: 'Contactez-nous pour obtenir votre solution de marque personnalisée.'
+          href: '/contact'
+          imageSrc: '/nav/solutions.webp'
+          imageAlt: 'Haut à cordon avec fermeture à boucle élastique et rembourrage intérieur texturé.'
+      sections:
+        - id: 'Audience coverage'
+          name: 'Couverture du Public'
+          items:
+            - name: 'Maillots de Bain Femmes'
+              href: '/catalog/women-swimwear'
+            - name: 'Maillots de Bain Hommes'
+              href: '/catalog/men-swimwear'
+            - name: 'Maillots de Bain Enfants'
+              href: '/catalog/kids-swimwear'
+            - name: 'Maillots de Bain Maternité'
+              href: '/catalog/maternity-swimwear'
+            - name: 'Maillots de Bain Grande Taille'
+              href: '/catalog/plus-size-swimwear'
+            - name: 'Maillots de Bain Sport'
+              href: '/catalog/sports-swimwear'
+            - name: 'Maillots de Bain Durables'
+              href: '/catalog/sustainable-swimwear'
+            - name: 'Maillots de Bain Personnalisés'
+              href: '/catalog/custom-swimwear'
+  pages:
+    - name: 'Tarifs'
+      href: '/pricing'
+    - name: 'Blog'
+      href: '/blog'
+    - id: 'support'
+      name: 'Support'
+      featured:
+        - name: "Vous voulez obtenir plus d'informations sur l'industrie ? N'hésitez pas à nous consulter gratuitement !"
+          href: '/contact'
+          imageSrc: '/nav/support.webp'
+          imageAlt: "Vous voulez obtenir plus d'informations sur l'industrie ? N'hésitez pas à nous consulter gratuitement !"
+      sections:
+        - id: 'Customer Service'
+          name: 'Service Client'
+          items:
+            - name: 'Expédition'
+              href: '/shipping'
+            - name: 'Guide des Tailles'
+              href: '/sizeguide'
+            - name: 'FAQ'
+              href: '/faq'
+            - name: 'À propos'
+              href: '/about'
+# Footer数据配置
+footer:
+  banner: 'Construisez Votre Ligne de Maillots de Bain Premium'
+  contact:
+    whatsapp: '+(86)18302407790'
+    emailLabel: 'Email'
+    email: 'tidelineswim@swimsuitcustom.com'
+    addressLabel: 'Adresse'
+    address: 'Xingcheng, Huludao, Liaoning, Chine'
+  sections:
+    solutions:
+      title: 'Solutions'
+      items:
+        - title: 'Maillots de Bain'
+          href: '/collections/swimwear'
+        - title: 'Vêtements de Sport'
+          href: '/collections/activewear'
+        - title: 'Tan Through'
+          href: '/collections/tan-through'
+        - title: 'Accessoires'
+          href: '/collections/accessories'
+    Services:
+      title: 'Services'
+      items:
+        - title: 'Échantillonnage'
+          href: '/sampling'
+        - title: 'Production en Masse'
+          href: '/bulkproduction'
+        - title: 'Textiles pour Maillots de Bain'
+          href: '/fabric'
+        - title: 'Matériel'
+          href: '/hardware'
+        - title: 'Étiquette et Emballage'
+          href: '/custom-brand-label-packaing'
+    Solutions:
+      title: 'Solutions'
+      items:
+        - title: 'Tarifs'
+          href: '/pricing'
+        - title: 'Blog'
+          href: '/blog'
+        - title: 'Conditions'
+          href: '/terms'
+        - title: 'À Propos de Nous'
+          href: '/about'
+    Support:
+      title: 'Support'
+      items:
+        - title: 'Expédition'
+          href: '/shipping'
+        - title: 'Guide des Tailles'
+          href: '/sizeguide'
+        - title: 'FAQ'
+          href: '/faq'
+  slogan: 'Rendez-le réel.'
+  copyright: 'Tous droits réservés.'

@@ -1,0 +1,121 @@
+title: '도매 플러스 사이즈 수영복 공장'
+description: '단순한 공급업체 이상 — 당신의 수영복 브랜드 구축 파트너.'
+
+seo:
+  title: '도매 플러스 사이즈 수영복 공장 | TIDELINE SWIMWEAR'
+  description: '맞춤 디자인, 뛰어난 편안함, 모든 체형에 완벽한 핏을 제공하는 프리미엄 플러스 사이즈 수영복 제조업체. 도매 가격, 사이즈 XL-6XL, 낮은 MOQ.'
+  keywords: '플러스 사이즈 수영복 제조업체, 플러스 사이즈 비키니 도매, 곡선미 수영복 공급업체, 플러스 사이즈 수영복 공장, 확장 사이즈 수영복, 플러스 사이즈 수영복 도매'
+  ogTitle: '도매 플러스 사이즈 수영복 공장 | TIDELINE SWIMWEAR'
+  ogDescription: '플러스 사이즈 수영복 제조업체. 맞춤 디자인, 사이즈 XL-6XL, 뛰어난 편안함과 핏. 도매 가격 이용 가능.'
+  ogType: 'website'
+  ogImage: '/catalog/plus-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '도매 플러스 사이즈 수영복 공장 | TIDELINE SWIMWEAR'
+  twitterDescription: '플러스 사이즈 수영복 제조. 사이즈 XL-6XL, 맞춤 디자인, 모든 체형에 완벽한 핏.'
+
+# Hero section
+hero:
+  cta_text: '상담'
+  cta_href: '/contact'
+  image_src: '/catalog/plus-swimwear-bg.webp'
+  image_alt: '플러스 사이즈 수영복 제조'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: '우리의 미션'
+  paragraph1: 'TideLine Swimwear에서는 플러스 사이즈 수영복이 오늘날 패션 시장의 필수 카테고리라는 것을 알고 있습니다. 매 시즌, 우리 디자인 팀은 더 풍만한 체형을 위해 특별히 맞춤 제작된 컬렉션을 만듭니다—지지력 있는 핏, 아름다운 실루엣, 내구성 있는 원단을 특징으로—모든 고객이 수영장이나 해변에서 편안함과 자신감을 모두 즐길 수 있도록 합니다.'
+  whatsapp_link_text: 'WhatsApp으로 문의하기'
+
+# Statistics
+stats:
+  - label: '수영복 업계 경험'
+    value: '10년 이상'
+  - label: '완료된 주문'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: '비키니'
+    href: '/category?type=plus-size&subtype=bikini'
+    imageSrc: '/plus-swimwear/bikinis/bikini-1.webp'
+    imageAlt: '플러스 사이즈 비키니 컬렉션'
+  - name: '원피스 수영복'
+    href: '/category?type=plus-size&subtype=one-piece'
+    imageSrc: '/plus-swimwear/one-piece/one-piece-1.webp'
+    imageAlt: '플러스 사이즈 원피스 컬렉션'
+  - name: '탱키니'
+    href: '/category?type=plus-size&subtype=tankini'
+    imageSrc: '/plus-swimwear/tankini/tankini-1.webp'
+    imageAlt: '플러스 사이즈 탱키니 컬렉션'
+  - name: '비치 커버업'
+    href: '/category?type=plus-size&subtype=cover-up'
+    imageSrc: '/plus-swimwear/beach/beach-2.webp'
+    imageAlt: '플러스 사이즈 비치 커버업 컬렉션'
+
+# Customization capabilities
+customization:
+  title: '맞춤화 기능'
+  description: '완전 맞춤형 수영복—TideLine은 모든 맞춤 디자인, 원단, 하드웨어, 로고, 포장을 받아들여 당신의 브랜드 비전을 실현합니다.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: '제조 시설'
+  hero_image_width: '1000'
+  features:
+    - name: '스타일 맞춤화'
+      description: '어떤 수영복 디자인이든 실현—완벽한 스타일을 선택하고 당신의 브랜드를 위해 제작하게 하세요.'
+      link: '/contact'
+      cta_text: '상담'
+    - name: '원단 맞춤화'
+      description: '다양한 원단 중에서 선택하여 착용하기 편안하고 아름다운 수영복을 만드세요.'
+      link: '/fabric'
+      cta_text: '원단'
+    - name: '하드웨어 맞춤화'
+      description: '버클과 링부터 지퍼까지 모든 세부사항을 맞춤화—우리의 하드웨어 옵션이 당신의 디자인을 향상시킵니다.'
+      link: '/hardware'
+      cta_text: '하드웨어'
+    - name: '로고 맞춤화'
+      description: '진정으로 당신만의 것으로—전문적인 브랜드 룩을 위해 각 제품에 로고를 추가하세요.'
+    - name: '포장 맞춤화'
+      description: '당신의 스타일과 비전에 맞춘 포장으로 브랜드 경험을 완성하세요.'
+    - name: '문의하기'
+      description: '준비되셨나요? 당신의 수영복 아이디어를 현실로 만들어보세요.'
+      link: '/contact'
+      cta_text: '문의하기'
+
+# Getting Started section
+getting_started:
+  title: '당신의 수영복 여정이 여기서 시작됩니다'
+  description: '첫 번째 컬렉션을 출시하든 브랜드를 확장하든, TideLine은 당신의 필요에 맞는 맞춤형 수영복 솔루션을 제공합니다. 당신의 길을 선택하고 시작하세요.'
+  beginner_text: '초보자로 시작하기'
+  beginner_href: '/startup'
+  pro_text: '경험있는 구매자'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: '제조 과정'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: '자주 묻는 질문'
+  questions:
+    - id: 1
+      question: '도매용 플러스 사이즈 수영복 스타일을 제공하나요?'
+      answer: '네, 트렌디하고 클래식한 스타일을 포함한 다양한 플러스 사이즈 수영복 옵션을 경쟁력 있는 가격으로 도매 주문에 제공합니다.'
+    - id: 2
+      question: '플러스 사이즈 수영복의 최소 주문 수량은 얼마인가요?'
+      answer: '플러스 사이즈 수영복의 최소 주문 수량(MOQ)은 스타일당 30개, 사이즈당 최소 10개입니다. 귀하의 비즈니스를 위해 대량 주문을 쉽고 유연하게 만드는 것을 목표로 합니다.'
+    - id: 3
+      question: '플러스 사이즈 수영복의 디자인을 맞춤화할 수 있나요?'
+      answer: '물론입니다! 플러스 사이즈 수영복에 대한 완전한 맞춤화 옵션을 제공하며, 로고 인쇄, 원단 선택, 색상, 심지어 브랜드 아이덴티티에 맞는 포장까지 포함됩니다.'
+    - id: 4
+      question: '플러스 사이즈 수영복 컬렉션에서 어떤 사이즈를 이용할 수 있나요?'
+      answer: 'XL부터 6XL까지 다양한 사이즈를 제공하여, 다양한 고객층의 요구를 충족할 수 있습니다. 정확한 측정을 위한 사이즈 차트를 제공합니다.'
+    - id: 5
+      question: '플러스 사이즈 수영복에는 어떤 소재가 사용되나요?'
+      answer: '플러스 사이즈 수영복은 스판덱스와 나일론 같은 고품질의 신축성 있는 원단으로 제작되어, 모든 체형에 편안함, 내구성, 아름다운 핏을 보장합니다.'
+    - id: 6
+      question: '플러스 사이즈 수영복 주문을 완료하는 데 얼마나 걸리나요?'
+      answer: '일반적으로 플러스 사이즈 수영복의 생산 시간은 주문 크기와 맞춤화 요구사항에 따라 7-15일입니다. 배송 시간은 위치에 따라 달라질 수 있습니다.'
+    - id: 7
+      question: '플러스 사이즈 수영복에 대한 드롭시핑 서비스를 제공하나요?'
+      answer: '네, 플러스 사이즈 수영복에 대한 드롭시핑을 지원합니다. 이는 재고를 보유할 필요 없이 브랜딩이 포함된 맞춤 포장으로 고객에게 직접 배송할 수 있다는 의미입니다.'

@@ -1,0 +1,147 @@
+title: 'Tideline：単なるサプライヤー以上、あなたの水着ブランド構築パートナー。'
+description: 'デザインから納品まで、高品質なエンドツーエンドのカスタム水着製造を提供します。'
+
+seo:
+  title: 'プレミアム水着メーカー：高品質水着＆ビキニ | Tideline Swim'
+  description: 'Tideline Swimは中国に拠点を置くプレミアム水着メーカーで、高品質なカスタム水着、ビキニ、プライベートラベル生産を専門としています。私たちは世界中の目の肥えたブランドやデザイナーと提携し、持続可能な製造、細心の職人技、そして優れたサービスを提供して、あなたのラグジュアリー水着ビジョンを実現します。'
+  keywords: 'プレミアム水着メーカー, 高級水着工場, カスタムビキニメーカー, 高品質水着, プライベートラベル水着, 環境に優しい水着生産, 持続可能な水着, デザイナー水着メーカー, OEM水着, 水着サプライヤー, Tideline Swim'
+  ogImage: '/og-image.jpg'
+  twitterCard: 'summary_large_image'
+  ogType: 'website'
+  ogSiteName: 'Tideline Swim'
+  twitterSite: '@TidelineSwim'
+  robots: 'index, follow'
+  canonical: 'https://tidelineswim.com/ja'
+
+hero:
+  src: /hero_banner.webp
+  alt: 'プレミアム水着ラインを構築しましょう'
+  ctaButton: 'サンプルをリクエスト'
+  features:
+    - text: 'MOQはわずか60個から'
+      href: '/bulkproduction'
+    - text: '15日間の迅速な生産'
+      href: '/bulkproduction'
+    - text: '無料デザインサポート'
+      href: '/sampling'
+
+videoShowcase:
+  title: '水着製造プロセスをご覧ください'
+  description: 'このビデオは、プロフェッショナルなデザインと精密な製造に支えられた、高品質なカスタム水着を作成する旅を示しています。'
+  ctaText: '詳細を見る'
+  videoSrc: 'https://www.youtube.com/watch?v=sSPf81Vexwc'
+  videoDuration: '5:32'
+  youtubeWatchText: 'YouTubeで見る'
+
+howWorks:
+  title: 'アイデアから水着まで5つの簡単なステップ'
+  description: 'ブランド作成プロセスを合理化します。創造性とマーケティングに集中してください。'
+  cta: 'ブランドの旅を始める'
+  steps:
+    - title: '相談'
+      description: '電話、メール、またはオンラインフォームでブランドコンセプトと要件を共有してください。'
+      icon: 'ChatBubbleLeftRightIcon'
+    - title: 'デザインとサンプリング'
+      description: 'Tidelineはプロフェッショナルなデザインを作成し、サンプルを製作します。'
+      icon: 'PencilSquareIcon'
+    - title: '確認と注文'
+      description: 'サンプルレビュー後、詳細を確定し、生産注文を承認します。'
+      icon: 'CheckCircleIcon'
+    - title: '生産と出荷'
+      description: 'Tidelineは高水準の製造を処理し、信頼できる物流を手配します。'
+      icon: 'TruckIcon'
+    - title: '成長サポート'
+      description: 'Tidelineは長期的なブランド開発のために継続的な技術およびマーケティングアドバイスを提供します。'
+      icon: 'ChartBarIcon'
+
+whyUs:
+  title: 'ブランディングを理解するサプライヤーが必要ですか？'
+  description: 'Tidelineと提携して、製品を強力なブランドに変える戦略的専門知識を活用してください。'
+  cta: '当社の利点について詳しく見る'
+  advantages:
+    - name: '直接工場価格とコミュニケーション'
+      description: '直接工場として、Tidelineは仲介業者のコストを排除し、より競争力のある価格を提供し、効率的で透明なコミュニケーションを保証します。'
+      icon: 'SwatchIcon'
+    - name: '豊富な素材＆コンポーネントライブラリ'
+      description: 'Tidelineは、環境に優しいナイロンから高弾性複合材まで、さまざまなスタイルと機能のニーズに合わせた多様な生地とアクセサリーの選択肢を提供します。'
+      icon: 'BuildingOfficeIcon'
+    - name: '柔軟な小ロット＆サンプリングサポート'
+      description: '小ロット注文（MOQ 60個）から始めて、最小限のリスクで市場をテストしてください。わずか3日でプロトタイプを提供する迅速なサンプリングサービスを利用してください。'
+      icon: 'LightBulbIcon'
+    - name: '厳格な品質管理'
+      description: '原材料から完成品まで、厳格な4段階の検査システムにより、すべての衣服が国際品質基準を満たすことを保証します。'
+      icon: 'ShieldCheckIcon'
+
+indexCta:
+  title: 'あなた自身の水着ブランドまであと一つの決断だけです'
+  description: '無料の1対1カスタム相談を受けてください。私たちのプロフェッショナルチームは、あなたの水着の旅を始めるためのブランド作成と生産において完全なサポートを提供します。'
+  cta: '無料相談を受ける'
+  image:
+    src: '/home/indexcta.webp'
+    alt: '水着ブランド相談'
+
+products:
+  title: '製品コレクション'
+  description: 'プレミアム素材とターゲットを絞ったデザインであなたのブランドを強化します'
+  learnMoreText: '探索する'
+  quoteText: '見積もりをリクエスト'
+  quoteLink: '/contact'
+  items:
+    - id: 1
+      name: '水着コレクション'
+      href: '/collections/swimwear'
+      description: 'ブランドのニーズに合わせて、パターン、色、ロゴ、サイズの完全なカスタマイズをサポートします'
+      imageSrc: '/home/homeserver-1.avif'
+      imageAlt: 'ビーチの設定に配置されたさまざまな色のプレミアムビキニセット。'
+    - id: 2
+      name: 'アクティブウェアコレクション'
+      href: '/collections/activewear'
+      description: '小ロットの試験注文から大規模生産まで、柔軟な生産ソリューションを提供します'
+      imageSrc: '/home/homeserver-2.avif'
+      imageAlt: '洗練された黒のデザインのアスレチックワンピース水着。'
+    - id: 3
+      name: 'タンスルーコレクション'
+      href: '/collections/tan-through'
+      description: 'プロフェッショナルな物流チームが、世界中で注文が時間通りに配達されることを保証します'
+      imageSrc: '/home/homeserver-3.avif'
+      imageAlt: '洗練された白いデザインのデザイナータンキニセット。'
+    - id: 4
+      name: 'アクセサリーコレクション'
+      href: '/collections/accessories'
+      description: 'デザイン相談からアフターサービスまで、包括的なプロフェッショナルサポートを提供します'
+      imageSrc: '/home/homeserver-4.avif'
+      imageAlt: 'ニュートラルトーンのスタイリッシュなビーチカバーアップ。'
+
+serviceAdvantages:
+  title: 'サービスの利点'
+  description: '私たちと提携して、コレクションを向上させ、サプライチェーンを簡素化してください'
+  advantages:
+    - id: 1
+      title: 'カスタムデザイン'
+      description: 'プロフェッショナルなデザインチームが、ブランドと顧客のニーズに合わせた独自の水着スタイルを作成します。'
+      icon: 'CogIcon'
+    - id: 2
+      title: '迅速な生産'
+      description: '緊急の市場需要に応えるために、15日間の迅速な配送を備えた効率的な生産プロセス。'
+      icon: 'ClockIcon'
+    - id: 3
+      title: '品質保証'
+      description: '厳格な品質管理システムにより、すべての製品が国際基準と顧客の期待を満たすことを保証します。'
+      icon: 'ShieldCheckIcon'
+    - id: 4
+      title: 'プロフェッショナルサービス'
+      description: '専任のカスタマーサービスチームが、デザインから配送まで包括的なサポートを提供します。'
+      icon: 'UserGroupIcon'
+
+contactForm:
+  modalTitle: 'お問い合わせ'
+  nameLabel: 'フルネーム'
+  namePlaceholder: 'フルネームを入力してください'
+  emailLabel: 'メールアドレス'
+  emailPlaceholder: 'メールアドレスを入力してください'
+  messageLabel: 'メッセージ'
+  messagePlaceholder: 'プロジェクトの要件についてお聞かせください...'
+  consentText: 'Tidelineからの更新と通信を受け取ることに同意します。'
+  submitButton: '送信'
+  successMessage: 'ありがとうございます！すぐにご連絡いたします。'
+  errorMessage: '送信に失敗しました。もう一度お試しいただくか、サポートチームにお問い合わせください。'

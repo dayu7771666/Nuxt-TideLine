@@ -1,0 +1,202 @@
+title: 'Guide des Prix de Fabrication B2B'
+description: 'Prix transparents et flexibles pour les marques de maillots de bain émergentes. Lancez votre collection avec seulement 60 pièces.'
+
+seo:
+  title: 'Prix de Fabrication de Maillots de Bain B2B - Transparent et Flexible | Tideline'
+  description: 'Prix de fabrication de maillots de bain B2B transparents. Commencez avec seulement 60 pièces. Obtenez des devis personnalisés pour votre marque de maillots de bain avec des options de commande flexibles.'
+  keywords: "prix de fabrication de maillots de bain, coûts B2B de maillots de bain, MOQ de maillots de bain, prix personnalisés de maillots de bain, coûts de production de maillots de bain, prix de gros de maillots de bain, coûts d'échantillonnage de maillots de bain"
+  ogTitle: 'Prix de Fabrication de Maillots de Bain B2B - Transparent et Flexible | Tideline'
+  ogDescription: 'Prix de fabrication de maillots de bain B2B transparents. Commencez avec seulement 60 pièces. Obtenez des devis personnalisés pour votre marque.'
+  ogType: 'website'
+  ogImage: '/img/pricing-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Prix de Fabrication de Maillots de Bain B2B | Tideline'
+  twitterDescription: 'Prix transparents pour les marques de maillots de bain. Commencez avec seulement 60 pièces. Options de commande flexibles disponibles.'
+
+hero:
+  image: '/img/pricing-hero.webp'
+
+initialCosts:
+  title: 'Coûts Initiaux Uniques'
+  description: "Investissement initial pour le développement de produit et l'échantillonnage"
+  cards:
+    - id: 1
+      icon: '/pricing/sampling.avif'
+      title: 'Développement et Échantillonnage'
+      items:
+        - name: 'Service de Développement de Design'
+          cost: '$69 / style'
+        - name: "Ensemble d'Échantillons Complet"
+          cost: '$50 - $200 / style'
+      note: "50% des frais d'échantillon crédités lors de la commande en gros répondant au MOQ"
+    - id: 2
+      icon: '/pricing/tooling.avif'
+      title: "Frais d'Outillage et de Moule"
+      items:
+        - name: 'Kit de Décoration Standard'
+          cost: '$50 / élément'
+        - name: 'Moule de Doublure Hygiénique'
+          cost: '$30 / style'
+        - name: "Moule d'Étiquette de Soin"
+          cost: '$30 - $50 / style'
+    - id: 3
+      icon: '/pricing/fabric.avif'
+      title: 'Tissu et Échantillons'
+      items:
+        - name: 'Cartes de Couleur / Petits Échantillons'
+          cost: 'GRATUIT'
+        - name: "Échantillon d'Impression Numérique A4"
+          cost: 'GRATUIT'
+        - name: 'Échantillon de Tissu de 1+ Mètre'
+          cost: '$10 / mètre'
+      note: 'Expédition non incluse pour les échantillons de tissu'
+
+process:
+  title: 'Notre Processus de Fabrication'
+  description: 'Processus simple en 5 étapes du concept à la livraison'
+  steps:
+    - id: 1
+      title: 'Consultation et Design'
+      description: 'Nous discutons de votre vision et fournissons des conseils de design'
+    - id: 2
+      title: "Développement d'Échantillons"
+      description: 'Créez des échantillons physiques pour votre approbation'
+    - id: 3
+      title: 'Révisions et Finalisation'
+      description: 'Affinez les échantillons en fonction de vos commentaires'
+    - id: 4
+      title: 'Production en Gros'
+      description: 'Fabrication de votre commande complète'
+    - id: 5
+      title: 'Contrôle Qualité et Expédition'
+      description: 'Inspectez chaque pièce et organisez la livraison'
+
+productionCosts:
+  title: 'Coûts de Production par Unité'
+  description: 'Coûts appliqués à chaque pièce de votre commande en gros'
+  cards:
+    - id: 1
+      icon: '/pricing/base.webp'
+      title: 'Coût de Base du Produit'
+      items:
+        - name: 'Complexité du Design'
+          cost: 'Varie selon le style'
+        - name: 'Sélection de Tissu'
+          cost: 'Premium vs. standard'
+        - name: 'Quantité de Commande'
+          cost: 'Remises sur volume applicables'
+        - name: 'Personnalisé vs. Catalogue'
+          cost: 'Premium de design personnalisé'
+      note: 'Contactez-nous pour des prix détaillés basés sur vos exigences spécifiques'
+    - id: 2
+      icon: '/pricing/brand.webp'
+      title: 'Branding et Emballage'
+      items:
+        - name: 'Étiquette de Soin'
+          cost: '~ $0.15 / unité'
+        - name: 'Doublure Hygiénique'
+          cost: '~ $0.15 / unité'
+        - name: 'Étiquette Suspendue'
+          cost: '~ $0.15 / unité'
+        - name: 'Boîte Cadeau / Emballage'
+          cost: '~ $1.00 / unité'
+        - name: 'Garnitures et Accessoires Spéciaux'
+          cost: '~ $0.10 - $0.70 / unité'
+      note: "Les coûts d'outillage sont absorbés dans les prix par unité"
+
+flexibility:
+  title: 'Options de Commande Flexibles'
+  description: 'Nous nous adaptons aux besoins de votre entreprise avec plusieurs options flexibles'
+  items:
+    - id: 1
+      icon: 'heroicons:cube'
+      title: 'Commande Minimum Mixte'
+      description: "Commencez avec seulement 60 pièces au total sur les styles, couleurs et tailles. Pas besoin de commander de grandes quantités d'un seul article."
+    - id: 2
+      icon: 'heroicons:currency-dollar'
+      title: "Crédit de Frais d'Échantillon"
+      description: "Récupérez 50% de vos coûts d'échantillon lorsque vous passez une commande en gros. Nous investissons dans votre succès."
+    - id: 3
+      icon: 'heroicons:wrench-screwdriver'
+      title: "Pas de Frais d'Outillage Cachés"
+      description: 'Nous absorbons les coûts de moule dans les prix par unité pour la simplicité et la transparence.'
+    - id: 4
+      icon: 'heroicons:chart-bar-square'
+      title: 'Production Évolutive'
+      description: 'Augmentez facilement les quantités à mesure que votre entreprise se développe. Nous acceptons les commandes de 60 à 60 000 pièces.'
+    - id: 5
+      icon: 'heroicons:swatch'
+      title: 'Correspondance de Couleur Personnalisée'
+      description: 'Correspondance de couleur précise sans minimum. Créez vos couleurs de marque uniques sans grands engagements.'
+    - id: 6
+      icon: 'heroicons:truck'
+      title: 'Expédition Flexible'
+      description: "Choisissez votre méthode d'expédition et votre calendrier préférés. Nous travaillons avec les principaux transporteurs du monde entier."
+
+budgetExample:
+  title: 'Exemple de Budget'
+  description: "Lancement d'une collection de 2 styles avec 100 pièces au total"
+  chartData:
+    - name: 'Développement Initial'
+      amount: 388
+      percentage: 17
+      color: 'bg-gradient-to-r from-blue-600 to-blue-400'
+    - name: 'Production en Gros'
+      amount: 1800
+      percentage: 81
+      color: 'bg-gradient-to-r from-orange-500 to-orange-400'
+    - name: 'Branding'
+      amount: 30
+      percentage: 2
+      color: 'bg-gradient-to-r from-green-500 to-green-400'
+  tableData:
+    - stage: 'Développement Initial'
+      item: 'Développement de Design ($69 × 2 styles)'
+      cost: '$138'
+      rowspan: 3
+    - item: "Ensembles d'Échantillons ($125 × 2 styles)"
+      cost: '$250'
+    - item: 'Sous-total'
+      cost: '$388'
+      isSubtotal: true
+    - stage: 'Production en Gros'
+      item: 'Coût de Base du Produit ($18 × 100 unités)'
+      cost: '$1,800'
+      rowspan: 3
+    - item: 'Branding (Étiquettes Suspendues + Étiquettes de Soin)'
+      cost: '$30'
+    - item: 'Sous-total'
+      cost: '$1,830'
+      isSubtotal: true
+    - stage: ''
+      item: 'Investissement Total Estimé'
+      cost: '$2,218'
+      isSubtotal: true
+  note: "Remarque : Les commandes ultérieures seront nettement inférieures car les frais de développement et d'échantillon sont des coûts uniques."
+
+cta:
+  title: 'Prêt à Lancer Votre Ligne de Maillots de Bain ?'
+  description: 'Notre équipe est prête à vous aider à donner vie à vos designs avec des prix transparents et des options flexibles adaptées à votre marque.'
+  buttons:
+    - text: 'Demander un Devis Personnalisé'
+      primary: true
+
+contact:
+  title: 'Obtenez Votre Devis Personnalisé'
+  subtitle: 'Parlez-nous de votre projet et nous fournirons des prix détaillés'
+  formLabels:
+    nameLabel: 'Nom Complet'
+    namePlaceholder: 'Entrez votre nom complet'
+    emailLabel: 'Adresse E-mail'
+    emailPlaceholder: 'Entrez votre adresse e-mail'
+    messageLabel: 'Détails du Projet'
+    messagePlaceholder: 'Parlez-nous de votre projet de ligne de maillots de bain, quantités, calendrier et exigences spécifiques...'
+    submitButton: 'Demander un Devis'
+    successMessage: 'Merci ! Nous vous enverrons un devis détaillé dans les 24 heures.'
+  guideTitle: 'Que Inclure dans Votre Message :'
+  guideItems:
+    - 'Nombre de styles que vous planifiez'
+    - 'Quantités estimées par style'
+    - 'Votre calendrier de lancement cible'
+    - 'Exigences de design spécifiques'
+    - "Votre fourchette budgétaire (si vous êtes à l'aise de la partager)"

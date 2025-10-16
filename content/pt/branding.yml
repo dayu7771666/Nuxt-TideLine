@@ -1,0 +1,193 @@
+title: 'Etiquetas de marca personalizadas e embalagem'
+description: 'Eleve sua marca de roupas de banho com etiquetas personalizadas premium e soluções de embalagem ecológicas. Da elegância bordada a materiais sustentáveis, damos vida à sua visão de marca.'
+
+seo:
+  title: 'Etiquetas de marca personalizadas e embalagem | Tideline Swimwear'
+  description: 'Etiquetas personalizadas premium e soluções de embalagem ecológicas para marcas de roupas de banho. Escolha entre etiquetas bordadas, impressas, tecidas, PVC, de couro e mais. Opções de embalagem sustentável disponíveis.'
+  keywords: 'etiquetas personalizadas, branding de roupas de banho, etiquetas bordadas, embalagem ecológica, embalagem sustentável, identidade de marca, etiquetas tecidas, etiquetas PVC, etiquetas de couro'
+  ogTitle: 'Etiquetas de marca personalizadas e embalagem | Tideline Swimwear'
+  ogDescription: 'Eleve sua marca de roupas de banho com etiquetas personalizadas premium e soluções de embalagem sustentáveis.'
+  ogType: 'website'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Etiquetas de marca personalizadas e embalagem | Tideline Swimwear'
+  twitterDescription: 'Etiquetas personalizadas premium e embalagem ecológica para marcas de roupas de banho.'
+
+hero:
+  image: '/sampling.webp'
+  alt: 'Etiquetas de marca personalizadas e embalagem'
+
+introduction:
+  title: 'Por que o branding personalizado é importante'
+  description: 'Sua etiqueta e embalagem são os primeiros pontos de contato com seus clientes. Faça-os valer a pena com nossas soluções abrangentes de branding que combinam qualidade, sustentabilidade e estilo.'
+  features:
+    - title: 'Identidade de marca'
+      description: 'Crie uma impressão duradoura com etiquetas personalizadas que refletem a personalidade única da sua marca'
+      icon: 'sparkles'
+      gradient: 'blue'
+    - title: 'Qualidade premium'
+      description: 'Etiquetas duráveis e de longa duração que mantêm sua aparência mesmo após múltiplas lavagens'
+      icon: 'shield'
+      gradient: 'green'
+    - title: 'Ecológico'
+      description: 'Materiais e processos sustentáveis que se alinham com valores ambientais modernos'
+      icon: 'globe'
+      gradient: 'purple'
+
+labels:
+  title: '10 opções de etiquetas premium'
+  description: 'Escolha de nossa gama diversificada de soluções de etiquetagem, cada uma projetada para necessidades específicas de marca e segmentos de mercado'
+  types:
+    - id: 1
+      name: 'Etiquetas bordadas'
+      icon: 'scissors'
+      gradient: 'purple'
+      technology: 'Técnica de bordado à máquina ou à mão para costurar nomes de marca ou logotipos em tecido.'
+      advantages: 'Alta durabilidade, textura premium, perfeita para marcas de roupas de banho de alta qualidade.'
+      bestFor: 'Marcas de luxo e premium que enfatizam a qualidade.'
+
+    - id: 2
+      name: 'Etiquetas impressas'
+      icon: 'printer'
+      gradient: 'blue'
+      technology: 'Métodos de serigrafia, transferência térmica ou impressão UV.'
+      advantages: 'Custo-benefício, suporta designs complexos, ideal para produção em massa.'
+      bestFor: 'Marcas de roupas de banho de gama média ou mercado de massa.'
+
+    - id: 3
+      name: 'Etiquetas de transferência térmica'
+      icon: 'fire'
+      gradient: 'orange'
+      technology: 'A tecnologia de prensa térmica transfere designs para etiquetas, comumente em poliéster ou nylon.'
+      advantages: 'Resistente ao desbotamento, sensação suave e confortável.'
+      bestFor: 'Roupas de banho atléticas e funcionais leves.'
+
+    - id: 4
+      name: 'Etiquetas tecidas'
+      icon: 'swatch'
+      gradient: 'indigo'
+      technology: 'A máquina de tecer integra logotipos de marca diretamente nas fibras da etiqueta usando nylon ou poliéster.'
+      advantages: 'Alta qualidade, durável, sensação premium.'
+      bestFor: 'Marcas de alta qualidade ou roupas de banho de uso prolongado.'
+
+    - id: 5
+      name: 'Etiquetas PVC'
+      icon: 'cube'
+      gradient: 'cyan'
+      technology: 'Etiquetas de plástico PVC moldadas com superfície pulverizada ou impressa.'
+      advantages: "À prova d'água, resistente à umidade, aparência moderna e na moda."
+      bestFor: 'Marcas jovens e da moda, especialmente roupas de banho ao ar livre ou atléticas.'
+
+    - id: 6
+      name: 'Etiquetas de couro'
+      icon: 'star'
+      gradient: 'amber'
+      technology: 'Couro genuíno ou sintético com logotipos em relevo ou marcados.'
+      advantages: 'Sensação luxuosa e de alta qualidade com forte impacto visual.'
+      bestFor: 'Marcas de luxo que buscam elevar o prestígio da marca.'
+
+    - id: 7
+      name: 'Etiquetas de papel'
+      icon: 'document'
+      gradient: 'green'
+      technology: 'Papel ou cartão ecológico com técnicas de impressão (estampagem em folha, serigrafia).'
+      advantages: 'Baixo custo, fácil produção em massa, ecologicamente correto.'
+      bestFor: 'Marcas de roupas de banho conscientes do orçamento ou focadas em ecologia.'
+
+    - id: 8
+      name: 'Design sem etiqueta'
+      icon: 'heart'
+      gradient: 'pink'
+      technology: 'Transferência térmica ou bordado imprime informações da marca diretamente dentro da peça, sem etiqueta física.'
+      advantages: 'Conforto aprimorado, sem irritação na pele, ideal para pele sensível.'
+      bestFor: 'Marcas atléticas e roupas de banho focadas em conforto.'
+
+    - id: 9
+      name: 'Etiquetas cortadas a laser'
+      icon: 'bolt'
+      gradient: 'violet'
+      technology: 'O corte a laser cria padrões intrincados em couro, tecido ou materiais sintéticos.'
+      advantages: 'Preciso, eficiente, capaz de designs complexos.'
+      bestFor: 'Marcas modernas com atenção aos detalhes, roupas de banho de alta qualidade.'
+
+    - id: 10
+      name: 'Etiquetas refletivas'
+      icon: 'lightbulb'
+      gradient: 'yellow'
+      technology: 'Materiais refletivos aumentam a visibilidade e segurança da marca.'
+      advantages: 'Melhora a segurança noturna, adiciona toque fashion.'
+      bestFor: 'Marcas de roupas de banho atléticas e ao ar livre que priorizam funcionalidade.'
+
+packaging:
+  badge: 'Escolha sustentável'
+  title: 'Soluções de embalagem ecológicas'
+  description: 'Proteja seus produtos e o planeta com nossas opções de embalagem sustentável. Feitas de materiais reciclados e biodegradáveis que refletem o compromisso ambiental da sua marca.'
+
+  features:
+    - title: '100% materiais reciclados'
+      description: 'Nossos sacos de embalagem são feitos de plásticos reciclados pós-consumo, reduzindo o desperdício e o impacto ambiental.'
+      icon: 'arrowPath'
+      gradient: 'green'
+
+    - title: 'Opções biodegradáveis'
+      description: 'Escolha entre materiais compostáveis que se decompõem naturalmente sem prejudicar o meio ambiente.'
+      icon: 'checkCircle'
+      gradient: 'emerald'
+
+    - title: 'Envio neutro em carbono'
+      description: 'Nossa embalagem é projetada para minimizar o peso e volume de envio, reduzindo as emissões de carbono.'
+      icon: 'globe'
+      gradient: 'teal'
+
+    - title: 'Papel certificado FSC'
+      description: 'Todos os materiais de papel são provenientes de florestas gerenciadas responsavelmente com certificação FSC.'
+      icon: 'shield'
+      gradient: 'green'
+
+    - title: 'Branding personalizado'
+      description: 'Totalmente personalizável com seu logotipo e cores de marca usando tintas e métodos de impressão ecológicos.'
+      icon: 'sparkles'
+      gradient: 'emerald'
+
+    - title: 'Qualidade premium'
+      description: "Ecológico não significa comprometer a qualidade. Nossos sacos são duráveis, à prova d'água e protegem seus produtos."
+      icon: 'checkBadge'
+      gradient: 'teal'
+
+  types:
+    - title: 'Malas de poli recicladas'
+      description: 'Sacos resistentes à água e rasgos feitos de 100% plástico reciclado. Disponíveis em vários tamanhos com impressão personalizada.'
+      icon: 'archive'
+      gradient: 'green'
+
+    - title: 'Sacos de papel Kraft'
+      description: 'Sacos de papel biodegradáveis com alças reforçadas. Perfeitos para embalagem de varejo e em loja.'
+      icon: 'document'
+      gradient: 'emerald'
+
+    - title: 'Malas compostáveis'
+      description: 'Embalagem à base de plantas que se decompõe completamente em instalações de compostagem industrial em 180 dias.'
+      icon: 'sparkles'
+      gradient: 'teal'
+
+    - title: 'Sacos de tecido reutilizáveis'
+      description: 'Sacos premium de algodão ou tecido reciclado que os clientes podem reutilizar, estendendo o alcance da sua marca.'
+      icon: 'arrowPath'
+      gradient: 'cyan'
+
+  impact:
+    title: 'Faça um impacto positivo'
+    description: 'Ao escolher nossa embalagem ecológica, você não está apenas protegendo seus produtos - está protegendo o planeta e mostrando aos seus clientes que a sustentabilidade importa.'
+    stats:
+      - value: '100%'
+        label: 'Reciclável ou compostável'
+      - value: '-60%'
+        label: 'Emissões de carbono'
+      - value: '0'
+        label: 'Plásticos virgens usados'
+
+cta:
+  title: 'Pronto para elevar sua marca?'
+  description: 'Entre em contato conosco hoje para discutir suas necessidades de etiquetas e embalagens personalizadas. Nossa equipe ajudará você a criar a solução de branding perfeita que reflete sua identidade única.'
+  button: 'Começar'
+  link: '/contact'
+  variant: 'blue'

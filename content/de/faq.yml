@@ -1,0 +1,38 @@
+title: 'Häufig gestellte Fragen'
+description: 'Finden Sie Antworten auf häufig gestellte Fragen zu unserer Bademode-Herstellung, Musterservice und Produktionsdienstleistungen. Erhalten Sie die Informationen, die Sie benötigen, um fundierte Entscheidungen zu treffen.'
+
+seo:
+  title: 'FAQ - Häufig gestellte Fragen | Tideline Bademode-Herstellung'
+  description: 'Erhalten Sie Antworten auf häufige Fragen zur Bademode-Herstellung, Musterservice, Preisgestaltung, Durchlaufzeiten und Produktionsprozessen.'
+  keywords: 'Bademode-Herstellung FAQ, Musterfragen, Produktionsprozess, Durchlaufzeit, Bademode-Preise, Tech Pack, Stoffbeschaffung'
+  ogTitle: 'FAQ - Ihre Fragen beantwortet | Tideline'
+  ogDescription: 'Finden Sie detaillierte Antworten zu unseren Bademode-Herstellungsdienstleistungen, von Mustern bis zur Massenproduktion.'
+  ogType: 'website'
+  ogImage: '/faq-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'FAQ - Bademode-Herstellungsfragen | Tideline'
+  twitterDescription: 'Erhalten Sie Antworten auf häufige Fragen zu unserer Bademode-Herstellung und Musterservice.'
+
+faq:
+  title: 'Häufige Fragen zu unseren Dienstleistungen'
+  items:
+    - question: 'Was ist normalerweise in Ihrem Musterservice enthalten und wie hoch sind die Kosten?'
+      answer: 'Unser Musterservice ist ein umfassendes Paket, das Schnittmuster-Engineering, Beschaffung genehmigter Stoffe und Zubehör, Konstruktion eines physischen Prototyps und eine interne Passformanalyse umfasst. Die Kosten sind projektspezifisch und variieren je nach Komplexität des Designs, gewählten Materialien und Zubehördetails. Wir bieten ein transparentes Angebot nach unserer ersten Beratung, um den Umfang abzustimmen.'
+    - question: 'Was ist die typische Durchlaufzeit für ein Muster?'
+      answer: 'Der Standardzeitraum für einen ersten Prototyp beträgt 2-3 Wochen. Dieser Zeitraum umfasst Materialbeschaffung, Schnittmusterentwicklung und sorgfältige Konstruktion. Wir können beschleunigte Optionen für dringende Projekte besprechen, und Zeitpläne werden immer im Voraus bestätigt.'
+    - question: 'Muss ich ein vollständiges Tech Pack bereitstellen, oder können Sie mit meinem Designkonzept arbeiten?'
+      answer: 'Wir können mit beidem arbeiten. Ein detailliertes Tech Pack ermöglicht den genauesten und effizientesten Prozess. Wenn Sie jedoch ein Designkonzept oder Inspiration haben, kann unser Team Ihnen helfen, es in eine produktionsreife Spezifikation zu entwickeln, einschließlich Passform, Stoff und Konstruktionsempfehlungen.'
+    - question: 'Wie gehen Sie mit Passform und Größen für Muster um?'
+      answer: 'Wir beginnen damit, uns auf einen Basis-Passformblock und spezifische Gradierungsregeln für Ihren Zielmarkt abzustimmen. Das erste Muster wird nach diesen präzisen Spezifikationen konstruiert und intern an einer Standard-Schneiderpuppe bewertet. Wir empfehlen dringend, dass Sie auch Ihre eigene Anprobe an einem Live-Modell durchführen, das den Maßen Ihres Zielkunden entspricht.'
+    - question: 'Können Sie spezifische oder nachhaltige Stoffe für mein Muster beschaffen?'
+      answer: 'Absolut. Wir haben etablierte Beziehungen zu Mühlen, die eine breite Palette von Leistungs- und nachhaltigen Stoffen anbieten (z.B. recyceltes Nylon, OEKO-TEX® zertifizierte Materialien). Wir werden Optionen basierend auf Ihren ästhetischen, Leistungs- und Nachhaltigkeitszielen kuratieren und Muster für Ihre Genehmigung bereitstellen.'
+    - question: 'Was passiert, wenn das Muster nach der Lieferung Anpassungen erfordert?'
+      answer: 'Iteration ist ein zentraler Bestandteil des Musterprozesses. Wir schließen eine Runde detaillierter Feedback-Konsolidierung ein, nachdem Sie Ihr erstes Muster erhalten haben. Wir analysieren Ihre Anmerkungen zu Passform und Konstruktion und präsentieren einen klaren Plan für Überarbeitungen, einschließlich aller damit verbundenen Kosten und Zeitplan für einen zweiten Prototyp, falls erforderlich.'
+    - question: 'Wie geht der Musterprozess in die Massenproduktion über?'
+      answer: 'Das endgültige, genehmigte Muster dient als "Goldstandard" für die Produktion. Wir verwenden die verfeinerten Schnittmuster, bestätigten Materialien und Konstruktionsdetails aus der Musterphase, um eine nahtlose Produktions-Roadmap zu erstellen und Ihnen ein festes Angebot für Ihre Großbestellung basierend auf Ihren erforderlichen Mengen zu geben.'
+
+cta:
+  title: 'Haben Sie noch Fragen?'
+  description: 'Unser Team ist hier, um zu helfen. Kontaktieren Sie uns noch heute für personalisierte Antworten und fachkundige Beratung zu Ihrem Bademode-Herstellungsprojekt.'
+  button: 'Unsere Experten kontaktieren'
+  link: '/contact'

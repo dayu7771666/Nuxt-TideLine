@@ -1,0 +1,248 @@
+title: 'Solutions Professionnelles de Tailles de Maillots de Bain'
+description: "Guides de tailles complets et outils d'optimisation e-commerce pour partenaires B2B et détaillants en ligne"
+
+seo:
+  title: 'Guide Professionnel des Tailles de Maillots de Bain | TIDELINE SWIMWEAR'
+  description: "Guides de tailles complets et outils d'optimisation e-commerce pour partenaires B2B et détaillants en ligne. Guides de mesure experts, identification du type de corps et stratégies de tailles spécifiques à la plateforme."
+  keywords: 'guide des tailles de maillots de bain, tailles de maillots de bain, tableau des tailles de bikini, tailles une pièce, mesures corporelles, guide des tailles de bonnet, outils de tailles e-commerce, tailles TikTok shop, tableau des tailles Shopify, tailles de maillots de bain femme'
+  ogTitle: 'Guide Professionnel des Tailles de Maillots de Bain | TIDELINE SWIMWEAR'
+  ogDescription: "Guides de tailles complets et outils d'optimisation e-commerce pour partenaires B2B et détaillants en ligne. Guides de mesure experts et stratégies de tailles."
+  ogType: 'website'
+  ogImage: '/sizeguide/sizeguide-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Guide Professionnel des Tailles de Maillots de Bain | TIDELINE SWIMWEAR'
+  twitterDescription: 'Guides de mesure experts, identification du type de corps et stratégies de tailles spécifiques à la plateforme pour détaillants de maillots de bain.'
+
+hero:
+  image: '/sizeguide/sizeguide-hero.webp'
+  alt: 'Solutions Professionnelles de Tailles de Maillots de Bain'
+  ctaButton: "Obtenir une Consultation d'Expert en Tailles"
+  ctaLink: '#consultation'
+
+measurementGuide:
+  title: 'Comment Mesurer Correctement'
+  description: 'Utilisez un ruban à mesurer et maintenez le ruban fermement autour des points clés pour des mesures précises.'
+  measurements:
+    - icon: 'fas fa-tshirt'
+      title: 'Poitrine'
+      description: 'Mesurez sur la zone la plus pleine de la poitrine et directement autour du dos.'
+    - icon: 'fas fa-arrows-alt-v'
+      title: 'Sous-Poitrine'
+      description: 'Mesurez directement sous la poitrine et directement autour du dos.'
+    - icon: 'fas fa-minus'
+      title: 'Taille'
+      description: "La taille se situe sous l'abdomen entre la cage thoracique et les hanches."
+    - icon: 'fas fa-arrows-alt-h'
+      title: 'Hanche'
+      description: 'Mesurez la partie la plus pleine de la hanche en vous assurant que le ruban est droit autour du corps.'
+  tip:
+    title: "Conseil Professionnel d'Ajustement"
+    description: "Les tissus de maillots de bain ont généralement 15-20% d'élasticité. Nous recommandons de sélectionner la taille en fonction de la mesure la plus grande entre la poitrine et les hanches. Si vous êtes entre deux tailles, choisissez la plus grande pour le confort et une meilleure couverture."
+
+bodyTypes:
+  title: 'Trouvez Votre Ajustement Parfait'
+  description: 'Voyez comment mesurer correctement différents types de corps avec nos guides de mesure interactifs.'
+  types:
+    - name: 'Silhouette en Sablier'
+      description: 'Poitrine et hanches équilibrées avec taille définie'
+      gradient: 'from-pink-200 to-pink-300'
+      borderRadius: '40% 40% 50% 50%'
+      measurements:
+        bust: '36" (91cm)'
+        underbust: '31" (79cm)'
+        waist: '28" (71cm)'
+        hips: '38" (97cm)'
+      recommendedSize: 'Moyen'
+      cupSize: 'C'
+    - name: 'Forme de Poire'
+      description: 'Épaules étroites, hanches plus larges'
+      gradient: 'from-blue-200 to-blue-300'
+      borderRadius: '35% 35% 55% 55%'
+      measurements:
+        bust: '34" (86cm)'
+        underbust: '29" (74cm)'
+        waist: '30" (76cm)'
+        hips: '40" (102cm)'
+      recommendedSize: 'Moyen (haut)<br>Grand (bas)'
+      cupSize: 'B'
+    - name: 'Forme Rectangulaire'
+      description: 'Silhouette droite avec définition minimale de la taille'
+      gradient: 'from-green-200 to-green-300'
+      borderRadius: '40% 40% 45% 45%'
+      measurements:
+        bust: '35" (89cm)'
+        underbust: '30" (76cm)'
+        waist: '32" (81cm)'
+        hips: '36" (91cm)'
+      recommendedSize: 'Petit'
+      cupSize: 'B'
+  tip:
+    title: 'Instructions de Mesure'
+    description: 'Passez la souris sur les points de mesure sur chaque type de corps pour voir les emplacements de mesure corrects et les mesures typiques pour cette forme corporelle. Utilisez-les comme référence lors de vos mesures ou celles de vos clients.'
+
+bodyTypeIdentification:
+  title: 'Comment identifier la forme de votre corps ?'
+  image: '/sizeguide/sizeguide-type.webp'
+  imageAlt: 'Guide du Type de Corps'
+  description: 'Pour identifier la forme de votre corps, prenez ces mesures :'
+  measurements:
+    - label: 'Taille'
+      description: 'Mesurez à la partie la plus étroite, juste au-dessus de votre nombril.'
+    - label: 'Hanches'
+      description: "Mesurez autour de la partie la plus pleine, en dessous de l'os de la hanche."
+    - label: 'Poitrine'
+      description: 'Mesurez autour de la partie la plus pleine de votre poitrine.'
+    - label: 'Épaules'
+      description: 'Mesurez à travers le haut de vos omoplates.'
+  note:
+    title: 'Note'
+    description: 'Comparez les proportions de ces mesures pour identifier votre type de corps. Pour confirmation, vous pouvez également utiliser un calculateur de forme corporelle en ligne en entrant vos chiffres.'
+
+sizeGuides:
+  title: 'Guides de Tailles par Catégorie'
+  description: "Sélectionnez une catégorie ci-dessous pour voir les tableaux de tailles détaillés et les recommandations d'ajustement."
+  tabs:
+    - id: 'womens-swim'
+      name: 'Maillots de Bain Femme'
+      icon: 'fas fa-female'
+    - id: 'mens-swim'
+      name: 'Maillots de Bain Homme'
+      icon: 'fas fa-male'
+    - id: 'girls-swim'
+      name: 'Maillots de Bain Fille'
+      icon: 'fas fa-child'
+    - id: 'womens-active'
+      name: 'Vêtements Actifs Femme'
+      icon: 'fas fa-running'
+  womensSwim:
+    title: 'Tailles de Maillots de Bain Femme'
+    description: 'Guide de tailles complet pour notre collection de maillots de bain femme, y compris les maillots une pièce, bikinis et tankinis.'
+    sizeChart:
+      headers:
+        - 'Taille'
+        - 'Poitrine (cm/po)'
+        - 'Sous-Poitrine (cm/po)'
+        - 'Bonnet'
+        - 'Taille (cm/po)'
+        - 'Hanches (cm/po)'
+        - 'US'
+        - 'AU/UK'
+      sizes:
+        - size: 'S'
+          bust: '82-86 / 32-34'
+          underbust: '68-72 / 27-28'
+          cup: 'A-B'
+          waist: '64-68 / 25-27'
+          hips: '88-92 / 34.5-36'
+          us: '4-6'
+          ukAu: '8-10'
+        - size: 'M'
+          bust: '87-91 / 34-36'
+          underbust: '73-77 / 29-30'
+          cup: 'B-C'
+          waist: '69-73 / 27-29'
+          hips: '93-97 / 36.5-38'
+          us: '8-10'
+          ukAu: '12-14'
+        - size: 'L'
+          bust: '92-96 / 36-38'
+          underbust: '78-82 / 31-32'
+          cup: 'C-D'
+          waist: '74-78 / 29-31'
+          hips: '98-102 / 38.5-40'
+          us: '12-14'
+          ukAu: '16-18'
+        - size: 'XL'
+          bust: '97-101 / 38-40'
+          underbust: '83-87 / 33-34'
+          cup: 'D-DD'
+          waist: '79-83 / 31-33'
+          hips: '103-107 / 40.5-42'
+          us: '16-18'
+          ukAu: '20-22'
+    cupSizeGuide:
+      title: 'Guide des Tailles de Bonnet'
+      headers:
+        - 'Taille de Bonnet'
+        - 'Différence Poitrine - Sous-Poitrine (cm)'
+        - 'Différence Poitrine - Sous-Poitrine (pouces)'
+      sizes:
+        - cup: 'A'
+          diffCm: '10-12 cm'
+          diffInch: '4-5 pouces'
+        - cup: 'B'
+          diffCm: '13-14 cm'
+          diffInch: '5-5.5 pouces'
+        - cup: 'C'
+          diffCm: '15-16 cm'
+          diffInch: '6-6.5 pouces'
+        - cup: 'D'
+          diffCm: '17-18 cm'
+          diffInch: '7-7.5 pouces'
+        - cup: 'DD/E'
+          diffCm: '19-20 cm'
+          diffInch: '8-8.5 pouces'
+
+platformOptimization:
+  title: "Stratégies et Outils d'Optimisation de Plateforme"
+  description: "Maximisez vos ventes avec nos outils et stratégies d'optimisation de tailles spécifiques à la plateforme."
+  platforms:
+    - name: 'TikTok Shop'
+      subtitle: 'Optimisation des Ventes en Direct'
+      icon: 'fab fa-tiktok'
+      description: 'Maîtrisez les ventes en direct TikTok avec nos stratégies de tailles éprouvées.'
+      features:
+        - 'Scripts de tailles pour diffusion en direct'
+        - 'Modèles de comparaison visuelle des tailles'
+        - 'Modèles de réponse aux commentaires'
+        - 'Idées de contenu vidéo axées sur les tailles'
+      ctaText: 'Obtenir les Outils TikTok'
+      ctaLink: '#'
+    - name: 'Shopify'
+      subtitle: 'Applications de Recommandation de Tailles'
+      icon: 'fab fa-shopify'
+      description: 'Améliorez votre boutique Shopify avec des solutions de tailles interactives.'
+      features:
+        - "Intégration d'application de recommandation de tailles"
+        - 'Widgets de tableau de tailles personnalisés'
+        - 'Interfaces de tailles optimisées pour mobile'
+        - 'Optimisation du filtre de tailles'
+      ctaText: 'Obtenir les Outils Shopify'
+      ctaLink: '#'
+    - name: 'Multi-Canal'
+      subtitle: 'Solutions Multi-Plateformes'
+      icon: 'fas fa-store'
+      description: 'Expérience de tailles cohérente sur tous vos canaux de vente.'
+      features:
+        - 'Système de tableau de tailles unifié'
+        - 'Modèles de téléchargement en masse'
+        - 'Intégration API pour données de tailles'
+        - 'Guides de tailles multilingues'
+      ctaText: 'Obtenir les Outils Multi-Canal'
+      ctaLink: '#'
+  tip:
+    title: "Conseil d'Optimisation de Plateforme"
+    description: "Optimisez la rentabilité et l'efficacité opérationnelle : Notre solution de tailles sur mesure s'attaque directement aux principaux défis de l'industrie des maillots de bain, minimisant les retours coûteux et les dépréciations de stock dus aux problèmes de tailles."
+
+consultation:
+  title: 'Besoin de Solutions de Tailles Personnalisées ?'
+  description: 'Nos experts en tailles peuvent vous aider à optimiser les listes de produits, créer des tableaux de tailles personnalisés ou développer des stratégies de tailles adaptées à votre marché spécifique.'
+  image: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'
+  primaryButton:
+    text: 'Obtenir une Consultation Professionnelle en Tailles'
+    link: ''
+  secondaryButton:
+    text: 'Demander des Outils de Tailles Personnalisés'
+    link: '#'
+  contact:
+    email: 'tidelineswim@swimsuitcustom.com'
+  features:
+    - icon: 'fas fa-user-tie'
+      title: "Consultation d'Expert"
+      description: 'Guidance personnalisée de nos spécialistes en tailles'
+    - icon: 'fas fa-edit'
+      title: 'Tableaux de Tailles Personnalisés'
+      description: 'Solutions de tailles adaptées à votre public spécifique'
+    - icon: 'fas fa-images'
+      title: 'Actifs Marketing'
+      description: 'Images professionnelles de tailles et guides de mesure'

@@ -1,0 +1,89 @@
+title: 'Termini e Condizioni'
+description: "Operiamo come produttore B2B e tutti gli acquisti effettuati tramite il nostro negozio sono all'ingrosso, non per B2C. Accettiamo solo resi o rimborsi per prodotti difettosi secondo i nostri termini. I campioni vengono forniti per aiutarti a valutare qualità, vestibilità e design prima di impegnarti in ordini all'ingrosso. Qualsiasi modifica apportata ai campioni sarà considerata come personalizzazione, che può essere organizzata tramite il nostro servizio di personalizzazione online."
+
+seo:
+  title: 'Termini e Condizioni | TIDELINE SWIMWEAR'
+  description: "Termini e condizioni del produttore di costumi da bagno B2B. Acquisti all'ingrosso, termini di pagamento, politiche di spedizione, accordi di riservatezza e termini commerciali per ordini di costumi da bagno."
+  keywords: "termini e condizioni costumi da bagno, termini B2B, termini costumi da bagno all'ingrosso, termini produttore, termini commerciali costumi da bagno, accordo di riservatezza, termini di pagamento, termini di spedizione"
+  ogTitle: 'Termini e Condizioni | TIDELINE SWIMWEAR'
+  ogDescription: "Termini e condizioni del produttore di costumi da bagno B2B. Acquisti all'ingrosso, termini di pagamento, politiche di spedizione e accordi di riservatezza."
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Termini e Condizioni | TIDELINE SWIMWEAR'
+  twitterDescription: "Termini del produttore di costumi da bagno B2B: acquisti all'ingrosso, termini di pagamento, politiche di spedizione e accordi di riservatezza."
+
+sections:
+  contract_formation:
+    title: 'Formazione del Contratto'
+    content: 'Un ordine diventa un contratto vincolante una volta confermato. Qualsiasi modifica richiede il consenso scritto reciproco.'
+
+  payment_terms:
+    title: 'Termini di Pagamento'
+    content: |
+      È richiesto un deposito del 50% per tutti gli ordini, con il saldo dovuto prima della spedizione.
+
+      Per i clienti alla prima esperienza, è necessario un deposito del 100%.
+
+  shipping:
+    title: 'Spedizione'
+    content: "I tempi di consegna dipendono dal tipo di ordine (campioni o all'ingrosso) e dal metodo di spedizione. Forniremo la documentazione di spedizione completa per lo sdoganamento, che sarà gestito dall'acquirente."
+
+  cancellations:
+    title: 'Cancellazioni'
+    content: "Gli ordini non possono essere cancellati dopo il completamento. Viene applicata una commissione del 25% per qualsiasi cancellazione o modifica dell'ordine dopo il pagamento finale."
+
+  pricing:
+    title: 'Prezzi'
+    content: 'I prezzi unitari includono tessuto, manodopera e controlli di qualità standard, ma escludono elementi aggiuntivi come cartellini appesi o imballaggi personalizzati.'
+
+  bulk_orders:
+    title: "Ordini all'Ingrosso"
+    content: "Richiediamo un pacchetto tecnico finale e l'approvazione del campione prima della produzione in serie. Eventuali modifiche dopo il pagamento possono comportare costi aggiuntivi."
+
+  claims_returns:
+    title: 'Reclami e Resi'
+    content: "Per articoli difettosi all'ingrosso, i reclami devono essere presentati entro 14 giorni dal ricevimento della merce. I rimborsi o le sostituzioni saranno basati sulla nostra valutazione del difetto."
+
+  confidentiality:
+    title: 'Riservatezza'
+    subsections:
+      definition:
+        title: 'Definizione di Informazioni Riservate'
+        content: 'Specificare che le "Informazioni Riservate" comprendono tutte le informazioni non pubbliche divulgate dal cliente, inclusi ma non limitati a piani aziendali, design, dati tecnici, strategie di marketing, dettagli finanziari, elenchi clienti e qualsiasi altra informazione proprietaria.'
+
+      obligations:
+        title: 'Obblighi di Riservatezza'
+        content: |
+          Impegnarsi a utilizzare le Informazioni Riservate esclusivamente per gli scopi delineati nell'accordo e vietare la divulgazione a terzi senza il previo consenso scritto del cliente.
+          Garantire che l'accesso alle Informazioni Riservate sia limitato ai dipendenti o partner che necessitano di conoscere tali informazioni per adempiere all'accordo e richiedere che aderiscano a obblighi di riservatezza equivalenti.
+
+      protection:
+        title: 'Misure di Protezione'
+        content: "Implementare ragionevoli salvaguardie tecniche e organizzative per prevenire l'accesso, l'uso o la divulgazione non autorizzati delle Informazioni Riservate."
+
+      duration:
+        title: 'Durata della Riservatezza'
+        content: "Specificare che gli obblighi di riservatezza rimangono in vigore durante il termine dell'accordo e per un periodo specificato (ad esempio, due anni) dopo la sua cessazione."
+
+      exceptions:
+        title: 'Eccezioni alla Riservatezza'
+        content: |
+          Chiarire che gli obblighi di riservatezza non si applicano alle informazioni che:
+
+          Sono o diventano pubblicamente disponibili senza violazione dell'accordo;
+          Erano già in possesso della parte ricevente senza obbligo di riservatezza;
+          Sono divulgate alla parte ricevente da un terzo legalmente autorizzato a fare tale divulgazione;
+          Sono sviluppate indipendentemente dalla parte ricevente senza uso delle Informazioni Riservate della parte divulgante;
+          Devono essere divulgate per legge o ordine governativo, a condizione che la parte divulgante sia prontamente informata e abbia l'opportunità di richiedere un ordine di protezione.
+
+      breach:
+        title: 'Violazione e Rimedi'
+        content: 'Dichiarare che qualsiasi violazione della riservatezza può causare un danno irreparabile al cliente e dargli diritto a richiedere un provvedimento ingiuntivo oltre a qualsiasi altro rimedio legale.'
+
+      return_destruction:
+        title: 'Restituzione o Distruzione delle Informazioni'
+        content: "Alla cessazione dell'accordo o su richiesta del cliente, obbligare la restituzione o la distruzione certificata di tutti i materiali contenenti Informazioni Riservate."
+
+footer:
+  consultation: 'Se sei interessato ai nostri servizi o hai domande, offriamo Consulenza gratuita.'

@@ -1,0 +1,193 @@
+title: 'カスタムブランドラベルとパッケージング'
+description: 'プレミアムカスタムラベルと環境に優しいパッケージングソリューションであなたの水着ブランドを高めましょう。刺繍の優雅さから持続可能な素材まで、あなたのブランドビジョンを実現します。'
+
+seo:
+  title: 'カスタムブランドラベルとパッケージング | Tideline Swimwear'
+  description: '水着ブランド向けのプレミアムカスタムラベルと環境に優しいパッケージングソリューション。刺繍、印刷、織り、PVC、レザーラベルなどから選択できます。持続可能なパッケージングオプションが利用可能です。'
+  keywords: 'カスタムラベル, 水着ブランディング, 刺繍ラベル, エコフレンドリーパッケージング, 持続可能なパッケージング, ブランドアイデンティティ, 織りラベル, PVCラベル, レザーラベル'
+  ogTitle: 'カスタムブランドラベルとパッケージング | Tideline Swimwear'
+  ogDescription: 'プレミアムカスタムラベルと持続可能なパッケージングソリューションであなたの水着ブランドを高めましょう。'
+  ogType: 'website'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'カスタムブランドラベルとパッケージング | Tideline Swimwear'
+  twitterDescription: '水着ブランド向けのプレミアムカスタムラベルと環境に優しいパッケージング。'
+
+hero:
+  image: '/sampling.webp'
+  alt: 'カスタムブランドラベルとパッケージング'
+
+introduction:
+  title: 'カスタムブランディングが重要な理由'
+  description: 'あなたのラベルとパッケージングは、顧客との最初の接点です。品質、持続可能性、スタイルを組み合わせた包括的なブランディングソリューションで、それらを重要なものにしましょう。'
+  features:
+    - title: 'ブランドアイデンティティ'
+      description: 'あなたのユニークなブランドパーソナリティを反映するカスタムラベルで lasting impression を作成します'
+      icon: 'sparkles'
+      gradient: 'blue'
+    - title: 'プレミアム品質'
+      description: '複数回の洗濯後も外観を維持する耐久性のある長持ちするラベル'
+      icon: 'shield'
+      gradient: 'green'
+    - title: 'エコフレンドリー'
+      description: '現代の環境価値に合致する持続可能な材料とプロセス'
+      icon: 'globe'
+      gradient: 'purple'
+
+labels:
+  title: '10のプレミアムラベルオプション'
+  description: '特定のブランドニーズと市場セグメント向けに設計された、多様なラベリングソリューションの範囲から選択してください'
+  types:
+    - id: 1
+      name: '刺繍ラベル'
+      icon: 'scissors'
+      gradient: 'purple'
+      technology: '生地にブランド名やロゴを縫い付ける機械または手刺繍技術。'
+      advantages: '高い耐久性、プレミアムテクスチャ、ハイエンド水着ブランドに最適。'
+      bestFor: '品質を重視する高級およびプレミアムブランド。'
+
+    - id: 2
+      name: '印刷ラベル'
+      icon: 'printer'
+      gradient: 'blue'
+      technology: 'スクリーン印刷、熱転写、またはUV印刷方法。'
+      advantages: '費用対効果が高く、複雑なデザインをサポートし、大量生産に最適。'
+      bestFor: 'ミッドレンジまたはマスマーケット水着ブランド。'
+
+    - id: 3
+      name: '熱転写ラベル'
+      icon: 'fire'
+      gradient: 'orange'
+      technology: '熱プレス技術がラベルにデザインを転写、一般的にポリエステルまたはナイロンに。'
+      advantages: '色褪せに強く、柔らかく快適な感触。'
+      bestFor: 'アスレチックで軽量な機能的水着。'
+
+    - id: 4
+      name: '織りラベル'
+      icon: 'swatch'
+      gradient: 'indigo'
+      technology: '織機がナイロンまたはポリエステルを使用してブランドロゴを直接ラベル繊維に統合。'
+      advantages: '高品質、耐久性、プレミアムな感触。'
+      bestFor: 'ハイエンドブランドまたは長期使用水着。'
+
+    - id: 5
+      name: 'PVCラベル'
+      icon: 'cube'
+      gradient: 'cyan'
+      technology: 'スプレーまたは印刷された表面を持つ成形PVCプラスチックラベル。'
+      advantages: '防水、防湿、モダンでファッショナブルな外観。'
+      bestFor: '若くてトレンディなブランド、特にアウトドアまたはアスレチック水着。'
+
+    - id: 6
+      name: 'レザーラベル'
+      icon: 'star'
+      gradient: 'amber'
+      technology: 'エンボスまたはブランドロゴ付きの本革または合成皮革。'
+      advantages: '強い視覚的インパクトを持つ豪華でハイエンドな感触。'
+      bestFor: 'ブランドの威信を高めようとする高級ブランド。'
+
+    - id: 7
+      name: '紙タグ'
+      icon: 'document'
+      gradient: 'green'
+      technology: '印刷技術（箔押し、スクリーン印刷）を使用した環境に優しい紙またはボール紙。'
+      advantages: '低コスト、簡単な大量生産、環境に優しい。'
+      bestFor: '予算意識的またはエコ重視の水着ブランド。'
+
+    - id: 8
+      name: 'タグレスデザイン'
+      icon: 'heart'
+      gradient: 'pink'
+      technology: '熱転写または刺繍が衣服内に直接ブランド情報を印刷、物理的なタグなし。'
+      advantages: '快適性の向上、肌への刺激なし、敏感肌に最適。'
+      bestFor: 'アスレチックブランドと快適性重視の水着。'
+
+    - id: 9
+      name: 'レーザーカットラベル'
+      icon: 'bolt'
+      gradient: 'violet'
+      technology: 'レーザーカットが革、布、または合成材料に複雑なパターンを作成。'
+      advantages: '精密、効率的、複雑なデザインが可能。'
+      bestFor: '細部にこだわる現代的なブランド、ハイエンド水着。'
+
+    - id: 10
+      name: '反射ラベル'
+      icon: 'lightbulb'
+      gradient: 'yellow'
+      technology: '反射材料がブランドの可視性と安全性を向上させます。'
+      advantages: '夜間の安全性を向上させ、ファッショナブルなタッチを追加。'
+      bestFor: '機能性を優先するアスレチックおよびアウトドア水着ブランド。'
+
+packaging:
+  badge: '持続可能な選択'
+  title: '環境に優しいパッケージングソリューション'
+  description: '持続可能なパッケージングオプションで製品と地球を保護しましょう。ブランドの環境へのコミットメントを反映するリサイクル可能で生分解性の材料で作られています。'
+
+  features:
+    - title: '100%リサイクル材料'
+      description: '当社のパッケージングバッグは消費後リサイクルプラスチックから作られ、廃棄物と環境への影響を削減します。'
+      icon: 'arrowPath'
+      gradient: 'green'
+
+    - title: '生分解性オプション'
+      description: '環境を害することなく自然に分解される堆肥化可能な材料から選択できます。'
+      icon: 'checkCircle'
+      gradient: 'emerald'
+
+    - title: 'カーボンニュートラル配送'
+      description: '当社のパッケージングは配送重量と体積を最小限に抑えるよう設計されており、炭素排出を削減します。'
+      icon: 'globe'
+      gradient: 'teal'
+
+    - title: 'FSC認証紙'
+      description: 'すべての紙材料はFSC認証を受けた責任を持って管理された森林から調達されています。'
+      icon: 'shield'
+      gradient: 'green'
+
+    - title: 'カスタムブランディング'
+      description: '環境に優しいインクと印刷方法を使用して、ロゴとブランドカラーで完全にカスタマイズ可能。'
+      icon: 'sparkles'
+      gradient: 'emerald'
+
+    - title: 'プレミアム品質'
+      description: '環境に優しいことは品質を犠牲にすることを意味しません。当社のバッグは耐久性があり、防水性があり、製品を保護します。'
+      icon: 'checkBadge'
+      gradient: 'teal'
+
+  types:
+    - title: 'リサイクルポリメーラー'
+      description: '100%リサイクルプラスチックから作られた耐水性、破れ防止バッグ。カスタム印刷で複数のサイズで利用可能。'
+      icon: 'archive'
+      gradient: 'green'
+
+    - title: 'クラフト紙バッグ'
+      description: '補強されたハンドル付きの生分解性紙バッグ。小売および店内パッケージングに最適。'
+      icon: 'document'
+      gradient: 'emerald'
+
+    - title: '堆肥化可能メーラー'
+      description: '180日以内に産業堆肥化施設で完全に分解される植物ベースのパッケージング。'
+      icon: 'sparkles'
+      gradient: 'teal'
+
+    - title: '再利用可能な布バッグ'
+      description: '顧客が再利用でき、ブランドリーチを拡大するプレミアムコットンまたはリサイクル布バッグ。'
+      icon: 'arrowPath'
+      gradient: 'cyan'
+
+  impact:
+    title: 'ポジティブな影響を生み出す'
+    description: '当社の環境に優しいパッケージングを選択することで、製品を保護するだけでなく、地球を保護し、持続可能性が重要であることを顧客に示しています。'
+    stats:
+      - value: '100%'
+        label: 'リサイクル可能または堆肥化可能'
+      - value: '-60%'
+        label: '炭素排出量'
+      - value: '0'
+        label: '使用されたバージンプラスチック'
+
+cta:
+  title: 'ブランドを高める準備はできていますか？'
+  description: 'カスタムラベルとパッケージングのニーズについて話し合うために、今日お問い合わせください。私たちのチームは、あなたのユニークなアイデンティティを反映する完璧なブランディングソリューションを作成するお手伝いをします。'
+  button: '始める'
+  link: '/contact'
+  variant: 'blue'

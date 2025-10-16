@@ -1,0 +1,121 @@
+title: "Fabbrica Costumi da Bagno Taglie Forti all'Ingrosso"
+description: 'Più di un fornitore — il tuo partner nella costruzione del brand di costumi da bagno.'
+
+seo:
+  title: "Fabbrica Costumi da Bagno Taglie Forti all'Ingrosso | TIDELINE SWIMWEAR"
+  description: "Produttore premium di costumi da bagno taglie forti che offre design personalizzati, comfort eccezionale e vestibilità perfetta per tutti i tipi di corpo. Prezzi all'ingrosso, taglie XL-6XL, MOQ basso."
+  keywords: 'produttore costumi da bagno taglie forti, bikini taglie forti ingrosso, fornitore costumi da bagno curvy, fabbrica costumi da bagno taglie forti, costumi da bagno taglie estese, costumi da bagno taglie forti ingrosso'
+  ogTitle: "Fabbrica Costumi da Bagno Taglie Forti all'Ingrosso | TIDELINE SWIMWEAR"
+  ogDescription: "Produttore costumi da bagno taglie forti. Design personalizzati, taglie XL-6XL, comfort e vestibilità eccezionali. Prezzi all'ingrosso disponibili."
+  ogType: 'website'
+  ogImage: '/catalog/plus-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: "Fabbrica Costumi da Bagno Taglie Forti all'Ingrosso | TIDELINE SWIMWEAR"
+  twitterDescription: 'Produzione costumi da bagno taglie forti. Taglie XL-6XL, design personalizzati, vestibilità perfetta per tutti i tipi di corpo.'
+
+# Hero section
+hero:
+  cta_text: 'Consulenza'
+  cta_href: '/contact'
+  image_src: '/catalog/plus-swimwear-bg.webp'
+  image_alt: 'Produzione Costumi da Bagno Taglie Forti'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'La Nostra Missione'
+  paragraph1: 'In TideLine Swimwear, sappiamo che i costumi da bagno taglie forti sono una categoria essenziale per il mercato della moda di oggi. Ogni stagione, il nostro team di design crea collezioni specificamente adattate per tipi di corpo più formosi—con vestibilità di supporto, silhouette lusinghiere e tessuti durevoli—così ogni cliente può godere sia del comfort che della fiducia a bordo piscina o in spiaggia.'
+  whatsapp_link_text: 'Contattaci su WhatsApp'
+
+# Statistics
+stats:
+  - label: "Esperienza nell'Industria dei Costumi da Bagno"
+    value: '10 anni +'
+  - label: 'Ordini Completati'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Bikini'
+    href: '/category?type=plus-size&subtype=bikini'
+    imageSrc: '/plus-swimwear/bikinis/bikini-1.webp'
+    imageAlt: 'Collezione Bikini Taglie Forti'
+  - name: 'Costumi Interi'
+    href: '/category?type=plus-size&subtype=one-piece'
+    imageSrc: '/plus-swimwear/one-piece/one-piece-1.webp'
+    imageAlt: 'Collezione Costumi Interi Taglie Forti'
+  - name: 'Tankini'
+    href: '/category?type=plus-size&subtype=tankini'
+    imageSrc: '/plus-swimwear/tankini/tankini-1.webp'
+    imageAlt: 'Collezione Tankini Taglie Forti'
+  - name: 'Copricostumi da Spiaggia'
+    href: '/category?type=plus-size&subtype=cover-up'
+    imageSrc: '/plus-swimwear/beach/beach-2.webp'
+    imageAlt: 'Collezione Copricostumi da Spiaggia Taglie Forti'
+
+# Customization capabilities
+customization:
+  title: 'Capacità di Personalizzazione'
+  description: 'Costumi da bagno completamente personalizzabili—TideLine accetta tutti i design personalizzati, tessuti, hardware, loghi e packaging per dare vita alla tua visione del brand.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Struttura di Produzione'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalizzazione dello Stile'
+      description: 'Dai vita a qualsiasi design di costume da bagno—scegli il tuo stile perfetto e lascia che lo realizziamo per il tuo brand.'
+      link: '/contact'
+      cta_text: 'Consulenza'
+    - name: 'Personalizzazione del Tessuto'
+      description: 'Scegli da una vasta gamma di tessuti per creare costumi da bagno comodi da indossare e belli da vedere.'
+      link: '/fabric'
+      cta_text: 'Tessuto'
+    - name: 'Personalizzazione Hardware'
+      description: 'Personalizza ogni dettaglio—da fibbie e anelli a cerniere—le nostre opzioni hardware elevano il tuo design.'
+      link: '/hardware'
+      cta_text: 'Hardware'
+    - name: 'Personalizzazione Logo'
+      description: 'Rendilo veramente tuo—aggiungi il tuo logo a ogni pezzo per un look di brand professionale.'
+    - name: 'Personalizzazione Packaging'
+      description: 'Completa la tua esperienza di brand con packaging su misura per il tuo stile e visione.'
+    - name: 'Contattaci'
+      description: 'Pronto? Trasformiamo le tue idee di costumi da bagno in realtà.'
+      link: '/contact'
+      cta_text: 'Contattaci'
+
+# Getting Started section
+getting_started:
+  title: 'Il tuo viaggio nei costumi da bagno inizia qui'
+  description: 'Che tu stia lanciando la tua prima collezione o scalando il tuo brand, TideLine fornisce soluzioni di costumi da bagno su misura per soddisfare le tue esigenze. Scegli il tuo percorso e inizia.'
+  beginner_text: 'Inizia come Principiante'
+  beginner_href: '/startup'
+  pro_text: 'Acquirente Esperto'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processo di Produzione'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Domande Frequenti'
+  questions:
+    - id: 1
+      question: "Offrite stili di costumi da bagno taglie forti per l'ingrosso?"
+      answer: "Sì, offriamo una vasta gamma di opzioni di costumi da bagno taglie forti, inclusi stili trendy e classici, disponibili per ordini all'ingrosso a prezzi competitivi."
+    - id: 2
+      question: "Qual è la quantità minima d'ordine per i costumi da bagno taglie forti?"
+      answer: "La nostra quantità minima d'ordine (MOQ) per i costumi da bagno taglie forti è di 30 pezzi per stile, con un minimo di 10 pezzi per taglia. Miriamo a rendere gli ordini all'ingrosso facili e flessibili per la tua attività."
+    - id: 3
+      question: 'Posso personalizzare i design per i costumi da bagno taglie forti?'
+      answer: "Assolutamente! Forniamo opzioni di personalizzazione complete per i costumi da bagno taglie forti, inclusa la stampa del logo, scelte di tessuti, colori e persino packaging per abbinare l'identità del tuo brand."
+    - id: 4
+      question: 'Quali taglie sono disponibili nella vostra collezione di costumi da bagno taglie forti?'
+      answer: 'Offriamo una vasta gamma di taglie, dalla XL alla 6XL, assicurando che tu possa soddisfare le esigenze della tua clientela diversificata. Le nostre tabelle taglie sono disponibili per misurazioni accurate.'
+    - id: 5
+      question: 'Quali materiali sono utilizzati nei vostri costumi da bagno taglie forti?'
+      answer: 'I nostri costumi da bagno taglie forti sono realizzati con tessuti di alta qualità ed elastici come spandex e nylon, garantendo comfort, durata e una vestibilità lusinghiera per tutti i tipi di corpo.'
+    - id: 6
+      question: 'Quanto tempo ci vorrà per completare un ordine di costumi da bagno taglie forti?'
+      answer: "Tipicamente, il nostro tempo di produzione per i costumi da bagno taglie forti è di 7-15 giorni a seconda delle dimensioni dell'ordine e dei requisiti di personalizzazione. I tempi di spedizione possono variare in base alla tua posizione."
+    - id: 7
+      question: 'Offrite servizi di dropshipping per i costumi da bagno taglie forti?'
+      answer: 'Sì, supportiamo il dropshipping per i costumi da bagno taglie forti. Questo significa che possiamo spedire direttamente ai tuoi clienti, incluso packaging personalizzato con il tuo branding, senza che tu debba tenere inventario.'

@@ -1,0 +1,111 @@
+title: 'Herren-Bademode Hersteller'
+description: 'Mehr als ein Lieferant — Ihr Partner beim Aufbau Ihrer Bademode-Marke.'
+
+seo:
+  title: 'Herren-Bademode Hersteller | TIDELINE SWIMWEAR'
+  description: 'Großhandel Herren-Bademode Hersteller bietet hochleistungsfähige Badehosen, Boardshorts und Slips. Individuelle Designs, wettbewerbsfähige Preise, niedrige MOQ.'
+  keywords: 'Herren-Bademode Hersteller, Badehosen Großhandel, Boardshorts Hersteller, Herren-Bademode Lieferant, individuelle Badehosen, Herren-Bademode Fabrik'
+  ogTitle: 'Herren-Bademode Hersteller | TIDELINE SWIMWEAR'
+  ogDescription: 'Professioneller Herren-Bademode Hersteller. Badehosen, Boardshorts, Slips. Individuelle Designs, niedrige MOQ, Großhandelspreise.'
+  ogType: 'website'
+  ogImage: '/catalog/men-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Herren-Bademode Hersteller | TIDELINE SWIMWEAR'
+  twitterDescription: 'Hochleistungs-Herren-Bademode Herstellung. Badehosen, Boardshorts, Slips. Individuelle Designs verfügbar.'
+
+# Hero section
+hero:
+  cta_text: 'Beratung'
+  cta_href: '/contact'
+  image_src: '/catalog/men-swimwear-bg.webp'
+  image_alt: 'Herren-Bademode Herstellung'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Unsere Mission'
+  paragraph1: 'Bei TideLine Swimwear wissen wir, dass Herren-Bademode eine wichtige Wachstumskategorie für Einzelhändler und aufstrebende Marken ist. Jede Saison entwickelt unser Fabrikteam marktreife Kollektionen, die Komfort, Haltbarkeit und Stil kombinieren—ob klassische Badehosen, funktionale Boardshorts oder zeitgemäße Slips—und bietet Großhändlern und Markeninhabern vielseitige Optionen, um die heutige Verbrauchernachfrage zu erfüllen.'
+  whatsapp_link_text: 'Kontaktieren Sie uns auf WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Erfahrung in der Bademode-Industrie'
+    value: '10 Jahre +'
+  - label: 'Erfüllte Bestellungen'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Schwimmshirts'
+    href: '/category?type=men&subtype=swim-shirt'
+    imageSrc: '/men-swimwear/shirt/shirt-5.webp'
+    imageAlt: 'Herren-Schwimmshirts Kollektion'
+  - name: 'Slips'
+    href: '/category?type=men&subtype=briefs'
+    imageSrc: '/men-swimwear/san/san-1.webp'
+    imageAlt: 'Herren-Schwimmslips Kollektion'
+  - name: 'Badehosen'
+    href: '/category?type=men&subtype=trunks'
+    imageSrc: '/men-swimwear/ping/ping-4.webp'
+    imageAlt: 'Herren-Badehosen Kollektion'
+
+# Customization capabilities
+customization:
+  title: 'Anpassungsmöglichkeiten'
+  description: 'Vollständig anpassbare Bademode—TideLine akzeptiert alle individuellen Designs, Stoffe, Hardware, Logos und Verpackungen, um Ihre Markenvision zum Leben zu erwecken.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Produktionsanlage'
+  hero_image_width: '1000'
+  features:
+    - name: 'Stil-Anpassung'
+      description: 'Erwecken Sie jedes Bademode-Design zum Leben—wählen Sie Ihren perfekten Stil und lassen Sie uns ihn für Ihre Marke fertigen.'
+      link: '/contact'
+      cta_text: 'Beratung'
+    - name: 'Stoff-Anpassung'
+      description: 'Wählen Sie aus einer breiten Palette von Stoffen, um Bademode zu schaffen, die bequem zu tragen und schön anzusehen ist.'
+      link: '/fabric'
+      cta_text: 'Stoff'
+    - name: 'Hardware-Anpassung'
+      description: 'Passen Sie jedes Detail an—von Schnallen und Ringen bis zu Reißverschlüssen—unsere Hardware-Optionen werten Ihr Design auf.'
+      link: '/hardware'
+      cta_text: 'Hardware'
+    - name: 'Logo-Anpassung'
+      description: 'Machen Sie es wirklich zu Ihrem—fügen Sie Ihr Logo zu jedem Stück für einen professionellen Marken-Look hinzu.'
+    - name: 'Verpackungs-Anpassung'
+      description: 'Vervollständigen Sie Ihr Markenerlebnis mit Verpackungen, die auf Ihren Stil und Ihre Vision zugeschnitten sind.'
+    - name: 'Kontaktieren Sie uns'
+      description: 'Bereit? Lassen Sie uns Ihre Bademode-Ideen in die Realität umsetzen.'
+      link: '/contact'
+      cta_text: 'Kontaktieren Sie uns'
+
+# Getting Started section
+getting_started:
+  title: 'Ihre Bademode-Reise beginnt hier'
+  description: 'Ob Sie Ihre erste Kollektion starten oder Ihre Marke skalieren, TideLine bietet maßgeschneiderte Bademode-Lösungen für Ihre Bedürfnisse. Wählen Sie Ihren Weg und legen Sie los.'
+  beginner_text: 'Als Anfänger starten'
+  beginner_href: '/startup'
+  pro_text: 'Erfahrener Käufer'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Herstellungsprozess'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Häufig gestellte Fragen'
+  questions:
+    - id: 1
+      question: 'Was ist die Mindestbestellmenge für Herren-Bademode im Großhandel?'
+      answer: 'Unsere MOQ beginnt bei 30 Stück pro Stil und Größe, was neuen und wachsenden Herren-Bademode-Marken ermöglicht, Kollektionen mit Flexibilität zu starten.'
+    - id: 2
+      question: 'Kann ich Herren-Bademode-Stile und -Materialien anpassen?'
+      answer: 'Ja. Wir bieten vollständige Anpassung für Herren-Bademode—einschließlich Badehosen, Boardshorts und Slips—mit Ihren bevorzugten Stoffen, Farben, Logos und Verpackungen.'
+    - id: 3
+      question: 'Wie lange dauert die Produktion für Großbestellungen von Herren-Bademode?'
+      answer: 'Muster werden normalerweise innerhalb von 10 Tagen fertiggestellt, während die Großproduktion innerhalb von 30 Tagen abgeschlossen ist, abhängig von der Bestellgröße und dem Anpassungsgrad.'
+    - id: 4
+      question: 'Bieten Sie nachhaltige Stoffoptionen für Herren-Bademode an?'
+      answer: 'Absolut. Wir bieten umweltfreundliche Stoffe wie recyceltes Polyester und Nylon an, die Ihrer Marke einen nachhaltigen Vorteil im Herren-Bademode-Markt verschaffen.'
+    - id: 5
+      question: 'Wie kann ich ein Angebot für Herren-Bademode im Großhandel anfordern?'
+      answer: 'Teilen Sie einfach Ihre bevorzugten Designs, Größen und Stoffauswahl mit unserem Team über WhatsApp oder E-Mail. Wir erstellen ein detailliertes Angebot mit Stoffmustern und Expertenempfehlungen.'

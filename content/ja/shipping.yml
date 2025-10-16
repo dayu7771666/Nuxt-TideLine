@@ -1,0 +1,159 @@
+title: '配送ポリシー'
+description: '水着ビジネスのニーズに対応する信頼性の高いグローバル配送ソリューション'
+
+seo:
+  title: '配送ポリシー | TIDELINE SWIMWEAR'
+  description: '水着ビジネスのニーズに対応する信頼性の高いグローバル配送ソリューション。エクスプレスおよび海上輸送オプション、150カ国以上への世界的カバレッジ、リアルタイム追跡。'
+  keywords: '水着配送、グローバル配送、エクスプレス宅配便、海上輸送、航空輸送、DHL、FedEx、UPS、注文追跡、国際配送、水着配達'
+  ogTitle: '配送ポリシー | TIDELINE SWIMWEAR'
+  ogDescription: '水着ビジネスのニーズに対応する信頼性の高いグローバル配送ソリューション。エクスプレスおよび海上輸送オプション、150カ国以上への世界的カバレッジ。'
+  ogType: 'website'
+  ogImage: '/shipping.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '配送ポリシー | TIDELINE SWIMWEAR'
+  twitterDescription: '水着ビジネスのニーズに対応する信頼性の高いグローバル配送ソリューション。エクスプレスおよび海上輸送オプション、150カ国以上への世界的カバレッジ。'
+
+hero:
+  image: '/shipping-banner.webp'
+
+orderTracking:
+  title: '注文追跡'
+  description: 'すべての注文に対して包括的な追跡を提供し、各ステップで配送状況を常に把握できるようにします。'
+  features:
+    - '追跡番号は発送後24時間以内にメールで送信されます'
+    - '当社のウェブサイトまたは運送業者のウェブサイトでリアルタイム追跡が可能'
+    - '生産注文に対するメールによる定期的なステータス更新'
+    - '$10,000以上の注文には専任のアカウントマネージャー'
+  trackTitle: '注文を追跡: 配送の現在の状況を確認するには、以下に追跡番号を入力してください。'
+  trackPlaceholder: '追跡番号を入力'
+  trackButton: '追跡'
+
+methods:
+  title: '配送方法'
+  description: '特定のビジネス要件を満たすために、注文タイプと緊急性に基づいてさまざまな配送オプションを提供しています。'
+  sample:
+    title: 'サンプル注文'
+    description: 'サンプル注文の場合、迅速な意思決定を支援するためにさまざまな配送オプションを提供しています:'
+    options:
+      - name: 'エクスプレス宅配便'
+        description: 'DHL、FedEx、UPS（3〜7営業日）'
+      - name: '標準航空便'
+        description: '（7〜14営業日）'
+      - name: 'エコノミー'
+        description: '（14〜21営業日）'
+  bulk:
+    title: '大量生産注文'
+    description: '大量生産注文の場合、費用対効果の高いソリューションを提供しています:'
+    options:
+      - name: '航空輸送'
+        description: '（7〜15営業日）'
+      - name: '海上輸送'
+        description: '（30〜45営業日）'
+      - name: 'エクスプレス航空'
+        description: '（5〜10営業日）'
+  important:
+    title: '重要'
+    note: '生産リードタイムは配送時間に追加されます。注文数量と複雑さに基づく正確な生産スケジュールについては、お問い合わせください。'
+
+coverage:
+  title: '配送カバレッジ'
+  description: '世界150カ国以上に配送サービスを提供しています。当社のパートナーネットワークは、世界中で迅速な配送を提供します。'
+  globalOperationsTitle: 'Tidelineグローバルビジネスオペレーションと物流'
+  businessRegions:
+    - title: '中国 - 製造拠点'
+      description: '生産と販売で10年以上の経験を持つ最新の衣料品工場。'
+      icon: 'heroicons:building-office-20-solid'
+      color: 'red'
+    - title: 'アメリカ - フルフィルメントセンター'
+      description: '在庫のある海外倉庫、地元の顧客への3〜5日配送。'
+      icon: 'heroicons:building-storefront-20-solid'
+      color: 'blue'
+    - title: 'ヨーロッパとオーストラリア'
+      description: '多様な顧客タイプにサービスを提供する主要なビジネス地域。'
+      icon: 'heroicons:globe-europe-africa-20-solid'
+      color: 'green'
+    - title: 'その他のビジネス地域'
+      description: '地元の顧客や好みに合わせた控えめな水着など'
+      icon: 'heroicons:map-pin-20-solid'
+      color: 'purple'
+  mapTitle: 'TIDELINE SWIMWEARはあなたの顧客がいる場所にあります'
+  mapSubtitle: '当社のパートナーネットワークは、世界中で迅速な配送を提供します。'
+  regions:
+    - name: '北米'
+      status: 'available'
+    - name: '欧州連合'
+      status: 'available'
+    - name: 'アジア'
+      status: 'available'
+    - name: 'アフリカ'
+      status: 'limited'
+    - name: '南米'
+      status: 'available'
+    - name: 'オーストラリアとNZ'
+      status: 'available'
+  legend:
+    available: '配送可能'
+    limited: '限定/サービスなし'
+  note:
+    title: '注意'
+    text: '特定の国の利用可能性や制限については、配送部門にお問い合わせください: tidelineswim@swimsuitcustom.com'
+
+sidebar:
+  overview:
+    title: '配送概要'
+    description1: 'TIDELINE SWIMWEARでは、タイムリーな配送がビジネスにとって重要であることを理解しています。当社の包括的な配送ソリューションは、世界中のB2Bクライアントの多様なニーズを満たすように設計されています。'
+    description2: '水着の注文が安全かつ時間通りに届くよう、主要なグローバル物流プロバイダーと提携しています。'
+    keyFeatures: '主な機能'
+    features: 'グローバルカバレッジ、柔軟な配送オプション、リアルタイム追跡、税関サポート。'
+  contact:
+    title: '配送についてのヘルプが必要ですか？'
+    email: 'メール'
+    hours: '営業時間'
+    hoursTime: '月〜金: 9AM-6PM (EST)'
+    emergency: 'WhatsApp'
+  quickLinks:
+    title: 'クイックリンク'
+    links:
+      - key: 'calculator'
+        text: '配送料金計算機'
+        href: 'https://wa.me/8618302407790'
+        external: true
+      - key: 'customs'
+        text: '税関と税金ガイド'
+        href: '#'
+        external: false
+      - key: 'documentation'
+        text: '税関書類'
+        href: '#'
+        external: false
+      - key: 'processing'
+        text: '処理時間情報'
+        href: '#'
+        external: false
+      - key: 'packaging'
+        text: '梱包詳細'
+        href: '#'
+        external: false
+      - key: 'returns'
+        text: '返品と交換'
+        href: '#'
+        external: false
+      - key: 'insurance'
+        text: '配送保険'
+        href: '#'
+        external: false
+      - key: 'faq'
+        text: '配送FAQ'
+        href: '#'
+        external: false
+      - key: 'policy'
+        text: '返品ポリシー'
+        href: '#'
+        external: false
+  partners:
+    title: '当社の配送パートナー'
+    description: '信頼できるグローバル物流プロバイダーと協力しています:'
+    list:
+      - 'DHL Express'
+      - 'FedEx'
+      - 'UPS'

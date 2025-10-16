@@ -1,0 +1,121 @@
+title: 'Fabricantes de Trajes de Baño para Niños'
+description: 'Más que un proveedor: su socio en la construcción de marcas de trajes de baño.'
+
+seo:
+  title: 'Fabricantes de Trajes de Baño para Niños | TIDELINE SWIMWEAR'
+  description: 'Fabricante confiable de trajes de baño para niños que ofrece trajes de baño duraderos con protección UV. Diseños personalizados para niños y niñas, precios mayoristas, MOQ bajo.'
+  keywords: 'fabricante trajes de baño niños, proveedor trajes de baño infantiles, trajes de baño protección UV, shorts de baño niños, fabricante trajes de baño niñas, fábrica trajes de baño infantiles'
+  ogTitle: 'Fabricantes de Trajes de Baño para Niños | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricante de trajes de baño para niños de alta calidad. Diseños duraderos con protección UV para niños. Opciones personalizadas disponibles.'
+  ogType: 'website'
+  ogImage: '/catalog/kids-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricantes de Trajes de Baño para Niños | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabricación de trajes de baño infantiles seguros y cómodos. Protección UV, diseños personalizados, precios mayoristas.'
+
+# Hero section
+hero:
+  cta_text: 'Consulta'
+  cta_href: '/contact'
+  image_src: '/catalog/kids-swimwear-bg.webp'
+  image_alt: 'Fabricación de Trajes de Baño para Niños'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Nuestra Misión'
+  paragraph1: 'En TideLine Swimwear, sabemos que los trajes de baño para niños son una categoría vibrante y en crecimiento para minoristas y familias jóvenes. Cada temporada, nuestro equipo de diseño desarrolla colecciones divertidas, cómodas y duraderas, desde trajes de baño de una pieza juguetones hasta shorts de baño deportivos, brindando a mayoristas y propietarios de marcas opciones versátiles para satisfacer las necesidades de niños activos.'
+  whatsapp_link_text: 'Contáctenos en WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experiencia en la Industria de Trajes de Baño'
+    value: '10 años +'
+  - label: 'Pedidos Cumplidos'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Una Pieza para Niñas'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-1.webp'
+    imageAlt: 'Colección de Trajes de Baño Una Pieza para Niñas'
+  - name: 'Shorts de Baño para Niños'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-5.webp'
+    imageAlt: 'Colección de Shorts de Baño para Niños'
+  - name: 'Trajes de Baño para Bebés'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-3.webp'
+    imageAlt: 'Colección de Trajes de Baño para Bebés'
+  - name: 'Camisetas Protectoras'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-4.webp'
+    imageAlt: 'Colección de Camisetas Protectoras para Niños'
+
+# Customization capabilities
+customization:
+  title: 'Capacidades de Personalización'
+  description: 'Trajes de baño totalmente personalizables: TideLine acepta todos los diseños, telas, herrajes, logos y empaques personalizados para dar vida a la visión de su marca.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Instalación de Fabricación'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalización de Estilo'
+      description: 'Dale vida a cualquier diseño de traje de baño: elige tu estilo perfecto y déjanos crearlo para tu marca.'
+      link: '/contact'
+      cta_text: 'Consulta'
+    - name: 'Personalización de Tela'
+      description: 'Elige entre una amplia gama de telas para crear trajes de baño cómodos de usar y hermosos a la vista.'
+      link: '/fabric'
+      cta_text: 'Tela'
+    - name: 'Personalización de Herrajes'
+      description: 'Personaliza cada detalle, desde hebillas y anillos hasta cremalleras: nuestras opciones de herrajes elevan tu diseño.'
+      link: '/hardware'
+      cta_text: 'Herrajes'
+    - name: 'Personalización de Logo'
+      description: 'Hazlo verdaderamente tuyo: agrega tu logo a cada pieza para un aspecto de marca profesional.'
+    - name: 'Personalización de Empaque'
+      description: 'Completa la experiencia de tu marca con empaques adaptados a tu estilo y visión.'
+    - name: 'Contáctenos'
+      description: '¿Listo? Convirtamos tus ideas de trajes de baño en realidad.'
+      link: '/contact'
+      cta_text: 'Contáctenos'
+
+# Getting Started section
+getting_started:
+  title: 'Tu viaje de trajes de baño comienza aquí'
+  description: 'Ya sea que estés lanzando tu primera colección o escalando tu marca, TideLine proporciona soluciones de trajes de baño personalizadas para satisfacer tus necesidades. Elige tu camino y comienza.'
+  beginner_text: 'Comenzar como Principiante'
+  beginner_href: '/startup'
+  pro_text: 'Comprador Experimentado'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Proceso de Fabricación'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Preguntas Frecuentes'
+  questions:
+    - id: 1
+      question: '¿Cuál es la mejor tela para trajes de baño infantiles?'
+      answer: 'Las mejores telas para trajes de baño infantiles son aquellas que son suaves, elásticas y duraderas, como mezclas de nylon o poliéster con spandex. Busca materiales que ofrezcan protección solar UPF 50+ y sean resistentes al cloro para un uso más duradero.'
+    - id: 2
+      question: '¿Cómo elijo la talla correcta para mi hijo?'
+      answer: 'Para encontrar la talla correcta, consulta la tabla de tallas de la marca y mide el pecho, la cintura y las caderas de tu hijo. Si tu hijo está entre tallas, opta por la talla más grande para asegurar comodidad y espacio para crecer.'
+    - id: 3
+      question: '¿Hay diseños específicos de trajes de baño para bebés?'
+      answer: 'Sí, para bebés, considera trajes de baño con características adicionales como pañales de natación incorporados, tirantes ajustables o cremalleras para cambios fáciles. Los conjuntos de camisetas protectoras proporcionan protección solar adicional y son populares entre los padres.'
+    - id: 4
+      question: '¿Cómo cuido el traje de baño de mi hijo?'
+      answer: 'Enjuaga el traje de baño con agua dulce inmediatamente después de usarlo para eliminar el cloro o la sal. Lava a mano con detergente suave y déjalo secar al aire en posición plana. Evita retorcer la tela, lavar a máquina o usar secadoras para mantener su elasticidad y color.'
+    - id: 5
+      question: '¿Los trajes de baño para niños necesitan protección UV?'
+      answer: 'Absolutamente. La piel de los niños es más sensible a los rayos UV, por lo que los trajes de baño con protección UPF 50+ ayudan a bloquear hasta el 98% de los rayos solares dañinos. Combínalo con protector solar para una cobertura completa.'
+    - id: 6
+      question: '¿Se pueden usar los trajes de baño para niños tanto en piscinas como en el océano?'
+      answer: 'Sí, pero los trajes de baño expuestos regularmente al cloro o agua salada deben estar hechos de telas resistentes al cloro y a la decoloración para garantizar durabilidad. Los materiales de secado rápido también son beneficiosos para uso en el océano.'
+    - id: 7
+      question: '¿Cuál es la diferencia entre un traje de baño y una camiseta protectora?'
+      answer: 'Un traje de baño es una pieza tradicional de una o dos piezas diseñada para nadar, mientras que una camiseta protectora es una prenda superior hecha de tela elástica con protección UV. Las camisetas protectoras a menudo se combinan con shorts de baño o partes inferiores y proporcionan protección solar adicional, especialmente para deportes acuáticos o exposición prolongada al sol.'

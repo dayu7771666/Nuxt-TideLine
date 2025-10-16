@@ -1,0 +1,111 @@
+title: 'Fabricante de Roupas de Banho Masculinas'
+description: 'Mais que um fornecedor — seu parceiro na construção da marca de roupas de banho.'
+
+seo:
+  title: 'Fabricante de Roupas de Banho Masculinas | TIDELINE SWIMWEAR'
+  description: 'Fabricante atacadista de roupas de banho masculinas oferecendo sungas de alto desempenho, boardshorts e cuecas. Designs personalizados, preços competitivos, MOQ baixo.'
+  keywords: 'fabricante roupas de banho masculinas, sungas atacado, fabricante boardshorts, fornecedor roupas de banho masculinas, sungas personalizadas, fábrica roupas de banho masculinas'
+  ogTitle: 'Fabricante de Roupas de Banho Masculinas | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricante profissional de roupas de banho masculinas. Sungas, boardshorts, cuecas. Designs personalizados, MOQ baixo, preços atacado.'
+  ogType: 'website'
+  ogImage: '/catalog/men-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricante de Roupas de Banho Masculinas | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabricação de roupas de banho masculinas de alto desempenho. Sungas, boardshorts, cuecas. Designs personalizados disponíveis.'
+
+# Hero section
+hero:
+  cta_text: 'Consultoria'
+  cta_href: '/contact'
+  image_src: '/catalog/men-swimwear-bg.webp'
+  image_alt: 'Fabricação de Roupas de Banho Masculinas'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Nossa Missão'
+  paragraph1: 'Na TideLine Swimwear, sabemos que roupas de banho masculinas são uma categoria de crescimento chave para varejistas e marcas emergentes. A cada temporada, nossa equipe de fábrica desenvolve coleções prontas para o mercado que combinam conforto, durabilidade e estilo—sejam sungas clássicas, boardshorts funcionais ou cuecas contemporâneas—oferecendo aos atacadistas e proprietários de marcas opções versáteis para atender a demanda do consumidor atual.'
+  whatsapp_link_text: 'Entre em contato conosco no WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experiência na Indústria de Roupas de Banho'
+    value: '10 anos +'
+  - label: 'Pedidos Cumpridos'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Camisetas de Natação'
+    href: '/category?type=men&subtype=swim-shirt'
+    imageSrc: '/men-swimwear/shirt/shirt-5.webp'
+    imageAlt: 'Coleção de Camisetas de Natação Masculinas'
+  - name: 'Cuecas'
+    href: '/category?type=men&subtype=briefs'
+    imageSrc: '/men-swimwear/san/san-1.webp'
+    imageAlt: 'Coleção de Cuecas de Natação Masculinas'
+  - name: 'Sungas'
+    href: '/category?type=men&subtype=trunks'
+    imageSrc: '/men-swimwear/ping/ping-4.webp'
+    imageAlt: 'Coleção de Sungas de Natação Masculinas'
+
+# Customization capabilities
+customization:
+  title: 'Capacidades de Personalização'
+  description: 'Roupas de banho totalmente personalizáveis—TideLine aceita todos os designs personalizados, tecidos, ferragens, logos e embalagens para dar vida à sua visão de marca.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Instalação de Fabricação'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalização de Estilo'
+      description: 'Dê vida a qualquer design de roupa de banho—escolha seu estilo perfeito e deixe-nos criá-lo para sua marca.'
+      link: '/contact'
+      cta_text: 'Consultoria'
+    - name: 'Personalização de Tecido'
+      description: 'Escolha de uma ampla gama de tecidos para criar roupas de banho confortáveis de usar e bonitas de ver.'
+      link: '/fabric'
+      cta_text: 'Tecido'
+    - name: 'Personalização de Ferragens'
+      description: 'Personalize cada detalhe—de fivelas e anéis a zíperes—nossas opções de ferragens elevam seu design.'
+      link: '/hardware'
+      cta_text: 'Ferragens'
+    - name: 'Personalização de Logo'
+      description: 'Torne-o verdadeiramente seu—adicione seu logo a cada peça para um visual de marca profissional.'
+    - name: 'Personalização de Embalagem'
+      description: 'Complete sua experiência de marca com embalagem adaptada ao seu estilo e visão.'
+    - name: 'Entre em contato'
+      description: 'Pronto? Vamos transformar suas ideias de roupas de banho em realidade.'
+      link: '/contact'
+      cta_text: 'Entre em contato'
+
+# Getting Started section
+getting_started:
+  title: 'Sua jornada de roupas de banho começa aqui'
+  description: 'Seja lançando sua primeira coleção ou expandindo sua marca, TideLine fornece soluções de roupas de banho sob medida para atender suas necessidades. Escolha seu caminho e comece.'
+  beginner_text: 'Começar como Iniciante'
+  beginner_href: '/startup'
+  pro_text: 'Comprador Experiente'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processo de Fabricação'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Perguntas Frequentes'
+  questions:
+    - id: 1
+      question: 'Qual é a quantidade mínima de pedido para roupas de banho masculinas no atacado?'
+      answer: 'Nosso MOQ começa em 30 peças por estilo e tamanho, permitindo que marcas novas e em crescimento de roupas de banho masculinas lancem coleções com flexibilidade.'
+    - id: 2
+      question: 'Posso personalizar estilos e materiais de roupas de banho masculinas?'
+      answer: 'Sim. Oferecemos personalização completa para roupas de banho masculinas—incluindo sungas, boardshorts e cuecas—usando seus tecidos, cores, logos e embalagens preferidos.'
+    - id: 3
+      question: 'Quanto tempo leva a produção para pedidos em massa de roupas de banho masculinas?'
+      answer: 'Amostras são geralmente concluídas em 10 dias, enquanto a produção em massa é finalizada em 30 dias dependendo do tamanho do pedido e nível de personalização.'
+    - id: 4
+      question: 'Vocês fornecem opções de tecidos sustentáveis para roupas de banho masculinas?'
+      answer: 'Absolutamente. Oferecemos tecidos ecológicos como poliéster e nylon reciclados, dando à sua marca uma vantagem sustentável no mercado de roupas de banho masculinas.'
+    - id: 5
+      question: 'Como posso solicitar uma cotação para roupas de banho masculinas no atacado?'
+      answer: 'Simplesmente compartilhe seus designs preferidos, tamanhos e escolhas de tecidos com nossa equipe através do WhatsApp ou email. Forneceremos uma cotação detalhada, junto com amostras de tecidos e recomendações de especialistas.'

@@ -1,0 +1,121 @@
+title: 'Lieferanten für Umstandsbademode'
+description: 'Mehr als ein Lieferant – Ihr Partner beim Aufbau Ihrer Bademode-Marke.'
+
+seo:
+  title: 'Lieferanten für Umstandsbademode | TIDELINE SWIMWEAR'
+  description: 'Hochwertiger Hersteller von Umstandsbademode mit bequemen, unterstützenden Designs für werdende Mütter. Individuelle Umstandsbadeanzüge, Großhandelspreise, niedrige MOQ.'
+  keywords: 'Umstandsbademode Hersteller, Schwangerschaftsbadeanzug Lieferant, Stillbademode, Umstands-Tankini, Umstandsbademode Großhandel, Umstandsbadeanzug Fabrik'
+  ogTitle: 'Lieferanten für Umstandsbademode | TIDELINE SWIMWEAR'
+  ogDescription: 'Bequeme Umstandsbademode Herstellung. Unterstützende Designs für werdende Mütter. Individuelle Optionen, Großhandelspreise.'
+  ogType: 'website'
+  ogImage: '/catalog/maternity-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Lieferanten für Umstandsbademode | TIDELINE SWIMWEAR'
+  twitterDescription: 'Umstandsbademode Herstellung. Bequeme, unterstützende Designs für die Schwangerschaft. Individuelle Optionen verfügbar.'
+
+# Hero section
+hero:
+  cta_text: 'Beratung'
+  cta_href: '/contact'
+  image_src: '/catalog/maternity-swimwear-bg.webp'
+  image_alt: 'Umstandsbademode Herstellung'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Unsere Mission'
+  paragraph1: 'Bei TideLine Swimwear wissen wir, dass Umstandsbademode die perfekte Balance zwischen Komfort und Unterstützung für werdende Mütter erfordert. Jede Saison entwickelt unser Fabrikteam Kollektionen, die mit weichen, flexiblen Stoffen und durchdachten Passformen entworfen wurden – und bietet Großhändlern und Markeninhabern marktreife Optionen, die Frauen helfen, sich während jeder Phase der Schwangerschaft selbstbewusst und komfortabel zu fühlen.'
+  whatsapp_link_text: 'Kontaktieren Sie uns auf WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Erfahrung in der Bademode-Industrie'
+    value: '10 Jahre +'
+  - label: 'Erfüllte Bestellungen'
+    value: '1.000.000+'
+
+# Product categories
+categories:
+  - name: 'Umstands-Einteiler'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/one-piece-1.webp'
+    imageAlt: 'Umstands-Einteiler Bademode Kollektion'
+  - name: 'Umstands-Tankinis'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/tankini-1.webp'
+    imageAlt: 'Umstands-Tankinis Kollektion'
+  - name: 'Stillbademode'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/nursing-1.webp'
+    imageAlt: 'Stillbademode Kollektion'
+  - name: 'Umstands-Überwürfe'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/cover-up-1.webp'
+    imageAlt: 'Umstands-Überwürfe Kollektion'
+
+# Customization capabilities
+customization:
+  title: 'Anpassungsmöglichkeiten'
+  description: 'Vollständig anpassbare Bademode – TideLine akzeptiert alle individuellen Designs, Stoffe, Hardware, Logos und Verpackungen, um Ihre Markenvision zum Leben zu erwecken.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Produktionsstätte'
+  hero_image_width: '1000'
+  features:
+    - name: 'Stil-Anpassung'
+      description: 'Erwecken Sie jedes Bademode-Design zum Leben – wählen Sie Ihren perfekten Stil und lassen Sie uns ihn für Ihre Marke fertigen.'
+      link: '/contact'
+      cta_text: 'Beratung'
+    - name: 'Stoff-Anpassung'
+      description: 'Wählen Sie aus einer breiten Palette von Stoffen, um Bademode zu kreieren, die bequem zu tragen ist und schön aussieht.'
+      link: '/fabric'
+      cta_text: 'Stoff'
+    - name: 'Hardware-Anpassung'
+      description: 'Passen Sie jedes Detail an – von Schnallen und Ringen bis zu Reißverschlüssen – unsere Hardware-Optionen werten Ihr Design auf.'
+      link: '/hardware'
+      cta_text: 'Hardware'
+    - name: 'Logo-Anpassung'
+      description: 'Machen Sie es wirklich zu Ihrem – fügen Sie Ihr Logo zu jedem Stück für einen professionellen Marken-Look hinzu.'
+    - name: 'Verpackungs-Anpassung'
+      description: 'Vervollständigen Sie Ihr Markenerlebnis mit Verpackungen, die auf Ihren Stil und Ihre Vision zugeschnitten sind.'
+    - name: 'Kontaktieren Sie uns'
+      description: 'Bereit? Lassen Sie uns Ihre Bademode-Ideen in die Realität umsetzen.'
+      link: '/contact'
+      cta_text: 'Kontaktieren Sie uns'
+
+# Getting Started section
+getting_started:
+  title: 'Ihre Bademode-Reise beginnt hier'
+  description: 'Ob Sie Ihre erste Kollektion starten oder Ihre Marke skalieren, TideLine bietet maßgeschneiderte Bademode-Lösungen, um Ihre Bedürfnisse zu erfüllen. Wählen Sie Ihren Weg und legen Sie los.'
+  beginner_text: 'Als Anfänger starten'
+  beginner_href: '/startup'
+  pro_text: 'Erfahrener Käufer'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Herstellungsprozess'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Häufig gestellte Fragen'
+  questions:
+    - id: 1
+      question: 'Was sind die besonderen Designanforderungen für Umstandsbademode?'
+      answer: 'Die Designanforderungen für Umstandsbademode konzentrieren sich hauptsächlich auf Komfort, Unterstützung und Anpassungsfähigkeit. Sie verwenden typischerweise hochelastische Stoffe, die sich an die sich verändernde Körperform einer Frau während der Schwangerschaft anpassen können. Das Design sollte auch Unterstützung für den Bauch bieten, druckfreie Schulterträger und bequeme Schritt-Designs, um den Komfort der schwangeren Frau bei Bewegungen im Wasser zu gewährleisten.'
+    - id: 2
+      question: 'Welche Materialien werden in Umstandsbademode verwendet?'
+      answer: 'Umstandsbademode wird typischerweise aus hochelastischen, atmungsaktiven Stoffen wie Lycra, Nylon und Spandex hergestellt. Diese Stoffe haben eine ausgezeichnete Dehnbarkeit und passen sich den Körperveränderungen während der Schwangerschaft an, während sie gleichzeitig Komfort und Unterstützung gewährleisten. Wir stellen auch sicher, dass die verwendeten Materialien ungiftig und sicher für empfindliche Haut sind.'
+    - id: 3
+      question: 'Muss Umstandsbademode Sonnenschutz bieten?'
+      answer: 'Ja, es ist am besten, wenn Umstandsbademode UV-Schutz (UPF) hat, besonders wenn sie in Außenpools oder am Strand verwendet wird. Unsere Umstandsbademode-Designs berücksichtigen dies, indem sie Stoffe mit Sonnenschutz verwenden, um die Haut werdender Mütter vor schädlichen UV-Strahlen zu schützen.'
+    - id: 4
+      question: 'Wie wird die Sicherheit und der Komfort von Umstandsbademode gewährleistet?'
+      answer: 'Umstandsbademode wird mit einem starken Fokus auf Sicherheit und Komfort entworfen. Wir verwenden ungiftige, umweltfreundliche Stoffe und stellen sicher, dass die Schnitte und Designs keinen Druck ausüben, insbesondere im Bauch- und Brustbereich. Das unterstützende Design berücksichtigt auch die Veränderungen, die während der Schwangerschaft auftreten, und bietet volle Unterstützung.'
+    - id: 5
+      question: 'Ist Umstandsbademode für die Verwendung nach der Geburt geeignet?'
+      answer: 'Ja, viele Umstandsbademode-Designs sind auch für die Verwendung nach der Geburt geeignet. Da sie hochelastische Stoffe verwenden, können sie sich an die Erholungsphase anpassen und bieten eine bequeme Passform. Für Mütter, die stillen müssen, bieten wir auch speziell entworfene Still-Stile an, die das Stillen erleichtern.'
+    - id: 6
+      question: 'Kann Umstandsbademode angepasst werden?'
+      answer: 'Ja, wir bieten Anpassungsdienste an und können Umstandsbademode nach Ihren Markenanforderungen und Designideen herstellen. Sie können Stil, Farbe, Stoff wählen und sogar Logos oder Designs auf die Bademode drucken, um sicherzustellen, dass Ihre Produkte einzigartig sind und die Marktnachfrage erfüllen.'
+    - id: 7
+      question: 'Was ist die Mindestbestellmenge für Umstandsbademode?'
+      answer: 'Die Mindestbestellmenge (MOQ) für Umstandsbademode variiert je nach Design und verwendeten Materialien. Im Allgemeinen bieten wir flexible Produktionsoptionen für Kunden mit kleinen Bestellmengen oder solche in der Startphase. Die MOQ liegt typischerweise zwischen 100 und 500 Stück, aber die genaue Menge kann nach Ihren Bedürfnissen angepasst werden.'

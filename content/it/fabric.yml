@@ -1,0 +1,104 @@
+title: 'Selezione di tessuti premium per costumi da bagno superiori'
+description: 'Scopri la nostra collezione curata di tessuti ad alte prestazioni progettati specificamente per i costumi da bagno. Dai materiali sostenibili ai tessuti con protezione UV, procuriamo solo i tessuti della migliore qualità per il tuo marchio.'
+
+seo:
+  title: 'Tessuti premium per costumi da bagno | Materiali ad alte prestazioni | Tideline'
+  description: 'Sfoglia la nostra collezione completa di tessuti premium per costumi da bagno inclusi mescole di poliestere, materiali sostenibili e tessuti con protezione UV. Scarica cataloghi di tessuti e specifiche tecniche.'
+  keywords: 'tessuti per costumi da bagno, tessuti ad alte prestazioni, materiali sostenibili per costumi da bagno, tessuto con protezione UV, tessuto ECONYL, poliestere riciclato, tessili per costumi da bagno'
+  ogTitle: 'Tessuti e materiali premium per costumi da bagno | Tideline'
+  ogDescription: 'Scopri tessuti ad alte prestazioni per la produzione di costumi da bagno. Opzioni sostenibili, protezione UV e specifiche tecniche disponibili.'
+  ogType: 'website'
+  ogImage: '/fabric-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Tessuti premium per costumi da bagno | Tideline'
+  twitterDescription: 'Sfoglia la nostra collezione completa di tessuti premium per costumi da bagno per la produzione.'
+
+hero:
+  alt: 'Tessuti premium per costumi da bagno'
+  ctaButton: 'Esplora il nostro catalogo tessuti'
+  ctaLink: '#catalog'
+
+features:
+  title: 'Perché i nostri tessuti si distinguono'
+  description: 'Collaboriamo con mulini leader in tutto il mondo per portarti tessuti innovativi e di alta qualità che soddisfano i requisiti esigenti della produzione di costumi da bagno.'
+  items:
+    - id: 1
+      title: 'Testati per le prestazioni'
+      description: 'Ogni tessuto viene sottoposto a rigorosi test di resistenza al cloro, protezione UV, solidità del colore e recupero dello stiramento per garantire una qualità duratura.'
+      icon: 'ShieldCheckIcon'
+    - id: 2
+      title: 'Opzioni sostenibili'
+      description: "Scegli tra materiali eco-friendly tra cui nylon riciclato, ECONYL® e tessuti certificati OEKO-TEX® che riducono l'impatto ambientale senza compromettere le prestazioni."
+      icon: 'SparklesIcon'
+    - id: 3
+      title: 'Specifiche tecniche'
+      description: 'Schede dati tecniche dettagliate per ogni tessuto incluse composizione, peso, percentuale di stiramento e istruzioni per la cura per aiutarti a prendere decisioni informate.'
+      icon: 'DocumentTextIcon'
+
+catalog:
+  title: 'Sfoglia le nostre collezioni di tessuti'
+  description: 'Scarica i nostri cataloghi di tessuti completi per esplorare specifiche dettagliate, gamme di colori e proprietà tecniche. Ogni catalogo include campioni e dati sulle prestazioni.'
+  viewButtonText: 'Visualizza catalogo'
+  note: 'Hai bisogno di campioni fisici o sviluppo di tessuti personalizzati? Contatta i nostri specialisti dei tessuti per assistenza personalizzata.'
+  pdfs:
+    - title: 'Collezione tessuti in poliestere'
+      description: 'Mescole di poliestere ad alte prestazioni perfette per costumi da bagno attivi, che offrono eccellente ritenzione della forma e proprietà ad asciugatura rapida.'
+      file: '/pdf/tideline-polyester-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'Tecnologia ad asciugatura rapida'
+        - 'Eccellente ritenzione della forma'
+        - 'Resistente al cloro'
+      gradient: 'bg-gradient-to-br from-blue-500/10 to-cyan-500/10'
+      iconBg: 'bg-gradient-to-br from-blue-600 to-cyan-600'
+      buttonClass: 'bg-blue-600 text-white hover:bg-blue-700'
+      accentLine: 'bg-gradient-to-r from-blue-600 to-cyan-600'
+
+    - title: 'Collezione tessuti sostenibili'
+      description: 'Materiali eco-consapevoli inclusi poliestere riciclato e nylon rigenerato ECONYL®, combinando sostenibilità con prestazioni.'
+      file: '/pdf/tideline-sustainable-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'Materiali riciclati'
+        - 'Certificato OEKO-TEX®'
+        - 'Impronta di carbonio ridotta'
+      gradient: 'bg-gradient-to-br from-green-500/10 to-emerald-500/10'
+      iconBg: 'bg-gradient-to-br from-green-600 to-emerald-600'
+      buttonClass: 'bg-green-600 text-white hover:bg-green-700'
+      accentLine: 'bg-gradient-to-r from-green-600 to-emerald-600'
+
+    - title: 'Collezione tessuti con protezione UV'
+      description: 'Tessuti avanzati che bloccano i raggi UV con protezione UPF 50+, ideali per costumi da bagno performanti e indumenti di protezione solare.'
+      file: '/pdf/tideline-uv-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'Protezione UPF 50+'
+        - 'Resistente allo sbiadimento'
+        - 'Traspirante'
+      gradient: 'bg-gradient-to-br from-purple-500/10 to-pink-500/10'
+      iconBg: 'bg-gradient-to-br from-purple-600 to-pink-600'
+      buttonClass: 'bg-purple-600 text-white hover:bg-purple-700'
+      accentLine: 'bg-gradient-to-r from-purple-600 to-pink-600'
+
+whyChoose:
+  title: 'Perché scegliere la nostra selezione di tessuti?'
+  description: 'Il nostro processo di approvvigionamento dei tessuti è progettato per garantire che tu riceva materiali che soddisfano i più alti standard per la produzione di costumi da bagno.'
+  reasons:
+    - title: 'Partenariati diretti con i mulini'
+      description: 'Lavoriamo direttamente con mulini certificati, eliminando gli intermediari per offrire prezzi competitivi senza compromettere la qualità.'
+    - title: 'Garanzia di qualità'
+      description: 'Ogni lotto di tessuto viene ispezionato e testato per soddisfare rigorosi standard di qualità per la produzione di costumi da bagno.'
+    - title: 'Tempi di consegna rapidi'
+      description: "Con una gestione strategica dell'inventario e catene di approvvigionamento affidabili, garantiamo consegne tempestive per il tuo programma di produzione."
+    - title: 'Supporto tecnico'
+      description: 'I nostri specialisti dei tessuti forniscono consulenza esperta sulla selezione dei materiali, compatibilità con i tuoi design e requisiti di produzione.'
+    - title: "Flessibilità dell'ordine minimo"
+      description: 'Sia che tu abbia bisogno di piccole quantità per campioni o grandi volumi per la produzione, accogliamo varie dimensioni di ordine.'
+    - title: 'Personalizzazione del colore'
+      description: 'Accesso a ampie librerie di colori e servizi di tintura personalizzati per abbinare le tue specifiche esatte del marchio.'
+
+cta:
+  title: 'Pronto a selezionare i tuoi tessuti?'
+  description: 'Lascia che i nostri esperti di tessuti ti aiutino a scegliere i materiali perfetti per la tua collezione di costumi da bagno. Richiedi campioni, dati tecnici o programma una consulenza.'
+  button: 'Contatta gli specialisti dei tessuti'
+  link: '/contact'

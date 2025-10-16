@@ -222,22 +222,60 @@
 
 <script setup>
   const { t, tm } = useI18n();
+  const route = useRoute();
 
-  const posts = ref();
-  const loading = ref(false);
+  // 从URL查询参数初始化状态
   const searchParams = ref({
-    pageNo: 1,
+    pageNo: parseInt(route.query.page) || 1,
     pageSize: 12,
-    classify_id: '1', // 默认分类ID
-    tags: '', // 选中的标签
+    classify_id: route.query.category || '1',
+    tags: route.query.tags || '',
   });
-  const total = ref();
 
   // 选中状态
-  const selectedCategoryId = ref('1'); // 默认选中第一个分类
-  const selectedTag = ref(''); // 选中的标签
+  const selectedCategoryId = ref(searchParams.value.classify_id);
+  const selectedTag = ref(searchParams.value.tags);
 
   const blogTags = tm('blog.blogTags');
+
+  // 构建查询参数
+  const queryParams = computed(() => {
+    const params = {
+      page: searchParams.value.pageNo,
+      size: searchParams.value.pageSize,
+      classify_id: searchParams.value.classify_id,
+    };
+
+    // 只有当tags不为空时才添加tags参数
+    if (searchParams.value.tags) {
+      params.tags = searchParams.value.tags;
+    }
+
+    return params;
+  });
+
+  // 使用 useFetch 实现SSR数据获取
+  const {
+    data: postsData,
+    pending: loading,
+    refresh: refreshPosts,
+  } = await useFetch('/api/article/index', {
+    baseURL: useState('baseURL').value,
+    query: queryParams,
+    server: true,
+    onRequest({ options }) {
+      const siteID = useState('siteID');
+      options.headers = {
+        'X-LANG': useState('language').value || 'en',
+        'X-SITE-ID': siteID.value || '',
+        ...options.headers,
+      };
+    },
+  });
+
+  // 计算属性获取文章列表和总数
+  const posts = computed(() => postsData.value?.data?.rows || []);
+  const total = computed(() => postsData.value?.data?.total || 0);
 
   // 格式化日期函数
   const formatDate = (dateString, format = 'display') => {
@@ -315,29 +353,48 @@
     return pages;
   };
 
-  const getPageNo = newPageNo => {
+  const getPageNo = async newPageNo => {
     // 边界检查
     if (newPageNo < 1 || newPageNo > totalPages.value) {
       return;
     }
 
     searchParams.value.pageNo = newPageNo;
-    getPostsList();
+
+    // 更新URL查询参数
+    await navigateTo({
+      path: route.path,
+      query: {
+        ...route.query,
+        page: newPageNo === 1 ? undefined : newPageNo, // 第一页不显示page参数
+      },
+    });
 
     // 滚动到页面顶部
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    if (typeof window !== 'undefined') {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
   };
 
   // 选择分类
-  const selectCategory = categoryId => {
+  const selectCategory = async categoryId => {
     selectedCategoryId.value = categoryId.toString();
     searchParams.value.classify_id = categoryId.toString();
     searchParams.value.pageNo = 1; // 重置到第一页
-    getPostsList();
+
+    // 更新URL查询参数
+    await navigateTo({
+      path: route.path,
+      query: {
+        ...route.query,
+        category: categoryId === '1' ? undefined : categoryId, // 默认分类不显示category参数
+        page: undefined, // 重置页码
+      },
+    });
   };
 
   // 选择标签
-  const selectTag = tagKey => {
+  const selectTag = async tagKey => {
     if (selectedTag.value === tagKey) {
       // 如果点击的是已选中的标签，则取消选择
       selectedTag.value = '';
@@ -348,50 +405,40 @@
       searchParams.value.tags = tagKey;
     }
     searchParams.value.pageNo = 1; // 重置到第一页
-    getPostsList();
-  };
 
-  const getPostsList = async () => {
-    loading.value = true;
-    try {
-      const queryParams = {
-        page: searchParams.value.pageNo,
-        size: searchParams.value.pageSize,
-        classify_id: searchParams.value.classify_id,
-      };
-
-      // 只有当tags不为空时才添加tags参数
-      if (searchParams.value.tags) {
-        queryParams.tags = searchParams.value.tags;
-      }
-
-      let res = await GetApi('/api/article/index', {
-        query: queryParams,
-      });
-      if (res.code === 200) {
-        posts.value = res.data.rows;
-        total.value = res.data.total;
-      }
-    } finally {
-      loading.value = false;
-    }
-  };
-
-  getPostsList();
-
-  const category = ref();
-  const getCategoryList = async () => {
-    let res = await GetApi('/api/article/cate', {
+    // 更新URL查询参数
+    await navigateTo({
+      path: route.path,
       query: {
-        pid: 1,
+        ...route.query,
+        tags: searchParams.value.tags || undefined, // 空标签不显示tags参数
+        page: undefined, // 重置页码
       },
     });
-    if (res.code === 200) {
-      // 隐藏第一个分类
-      category.value = res.data.slice(1);
-    }
   };
-  getCategoryList();
+
+  // 获取分类列表 - 使用SSR
+  const { data: categoryData } = await useFetch('/api/article/cate', {
+    baseURL: useState('baseURL').value,
+    query: { pid: 1 },
+    server: true,
+    onRequest({ options }) {
+      const siteID = useState('siteID');
+      options.headers = {
+        'X-LANG': useState('language').value || 'en',
+        'X-SITE-ID': siteID.value || '',
+        ...options.headers,
+      };
+    },
+  });
+
+  // 计算属性获取分类列表（隐藏第一个分类）
+  const category = computed(() => {
+    if (categoryData.value?.code === 200) {
+      return categoryData.value.data.slice(1);
+    }
+    return [];
+  });
 
   // SEO Meta
   useSeoMeta({

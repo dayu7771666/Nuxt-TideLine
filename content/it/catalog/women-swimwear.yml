@@ -1,0 +1,116 @@
+title: 'Produttore Costumi da Bagno Donna'
+description: 'Più di un fornitore — il tuo partner nella costruzione del brand di costumi da bagno.'
+
+seo:
+  title: 'Produttore Costumi da Bagno Donna | TIDELINE SWIMWEAR'
+  description: "Produttore professionale di costumi da bagno donna offrendo bikini personalizzati, costumi interi e tankini. MOQ basso, alta qualità, prezzi all'ingrosso per brand e rivenditori."
+  keywords: "produttore costumi da bagno donna, produttore bikini, costume intero all'ingrosso, costumi da bagno personalizzati, fornitore costumi da bagno donna, fabbrica costumi da bagno"
+  ogTitle: 'Produttore Costumi da Bagno Donna | TIDELINE SWIMWEAR'
+  ogDescription: "Produttore professionale di costumi da bagno donna. Design personalizzati, MOQ basso, prezzi all'ingrosso per bikini, costumi interi e tankini."
+  ogType: 'website'
+  ogImage: '/catalog/women-swimwear.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Produttore Costumi da Bagno Donna | TIDELINE SWIMWEAR'
+  twitterDescription: "Produzione personalizzata costumi da bagno donna. Bikini, costumi interi, tankini. MOQ basso, prezzi all'ingrosso."
+
+# Hero section
+hero:
+  cta_text: 'Consulenza'
+  cta_href: '/contact'
+  image_src: '/catalog/women-swimwear.webp'
+  image_alt: ''
+  image_width: '900px'
+
+# Mission section
+mission:
+  title: 'La Nostra Missione'
+  paragraph1: 'In TideLine Swimwear, sappiamo che i costumi da bagno donna sono una delle categorie più dinamiche nella moda. Ogni anno, il nostro team di design sviluppa collezioni fresche e orientate alle tendenze che riflettono gli ultimi stili globali—che si tratti di eleganti costumi interi, bikini chic o tankini versatili.'
+  paragraph2_with_link: 'Pronto a iniziare il tuo ordine o esplorare il nostro catalogo completo? {0} oggi e il nostro team fornirà raccomandazioni personalizzate, prezzi e campioni—velocemente e senza problemi.'
+  whatsapp_link_text: 'Contattaci su WhatsApp'
+
+# Statistics
+stats:
+  - label: "Esperienza nell'Industria dei Costumi da Bagno"
+    value: '10 anni +'
+  - label: 'Ordini Completati'
+    value: '1,000,000+'
+
+# Product categories
+product_range:
+  title: 'Collezioni Costumi da Bagno Donna'
+  description: 'Esplora la Nostra Collezione di Costumi da Bagno Accuratamente Selezionata'
+  more_text: 'Sfoglia Tutti i Prodotti'
+  categories:
+    - name: 'Bikini'
+      href: '/category?type=women&subtype=bikini'
+      image_src: '/women-swimwear/bikinis/bikinis-1.webp'
+    - name: 'Costume Intero'
+      href: '/category?type=women&subtype=one-piece'
+      image_src: '/women-swimwear/one-piece/one-piece-1.webp'
+    - name: 'Tankini'
+      href: '/category?type=women&subtype=tankini'
+      image_src: '/women-swimwear/tankini/tankini-10.webp'
+    - name: 'Copricostume da Spiaggia'
+      href: '/category?type=women&subtype=cover-up'
+      image_src: '/women-swimwear/beach/beach-2.webp'
+
+# Customization capabilities
+customization:
+  title: 'Capacità di Personalizzazione'
+  description: 'Costumi da bagno completamente personalizzabili—TideLine accetta tutti i design personalizzati, tessuti, hardware, loghi e packaging per dare vita alla tua visione del brand.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: ''
+  hero_image_width: '1000px'
+  features:
+    - name: 'Personalizzazione dello Stile'
+      description: 'Dai vita a qualsiasi design di costume da bagno—scegli il tuo stile perfetto e lascia che lo realizziamo per il tuo brand.'
+      link: '/contact'
+      cta_text: 'Consulenza'
+    - name: 'Personalizzazione del Tessuto'
+      description: 'Scegli da una vasta gamma di tessuti per creare costumi da bagno comodi da indossare e belli da vedere.'
+      link: '/fabric'
+      cta_text: 'Tessuto'
+    - name: 'Personalizzazione Hardware'
+      description: 'Personalizza ogni dettaglio—da fibbie e anelli a cerniere—le nostre opzioni hardware elevano il tuo design.'
+      link: '/hardware'
+      cta_text: 'Hardware'
+    - name: 'Personalizzazione Logo'
+      description: 'Rendilo veramente tuo—aggiungi il tuo logo a ogni pezzo per un look di brand professionale.'
+    - name: 'Personalizzazione Packaging'
+      description: 'Completa la tua esperienza di brand con packaging su misura per il tuo stile e visione.'
+    - name: 'Contattaci'
+      description: 'Pronto? Trasformiamo le tue idee di costumi da bagno in realtà.'
+      link: '/contact'
+      cta_text: 'Contattaci'
+
+# Getting started section
+getting_started:
+  title: 'Il tuo viaggio nei costumi da bagno inizia qui'
+  description: 'Che tu stia lanciando la tua prima collezione o scalando il tuo brand, TideLine fornisce soluzioni di costumi da bagno su misura per soddisfare le tue esigenze. Scegli il tuo percorso e inizia.'
+  beginner_text: 'Inizia come Principiante'
+  beginner_href: '/startup'
+  pro_text: 'Acquirente Esperto'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: ''
+  image_width: '1000px'
+
+# FAQ section
+faq:
+  title: 'Domande frequenti'
+  questions:
+    - id: 1
+      question: "Qual è la quantità minima d'ordine per costumi da bagno donna all'ingrosso?"
+      answer: "La nostra quantità minima d'ordine (MOQ) inizia da 30 pezzi per stile e taglia, rendendola flessibile per brand di costumi da bagno piccoli e medi."
+    - id: 2
+      question: 'Posso personalizzare i design e i tessuti dei costumi da bagno?'
+      answer: 'Sì! Offriamo costumi da bagno completamente personalizzabili, inclusi design, tessuti, loghi e packaging, per aiutare il tuo brand a distinguersi nel mercato.'
+    - id: 3
+      question: 'Quanto tempo ci vuole per produrre ordini di costumi da bagno in grandi quantità?'
+      answer: 'Tipicamente, i campioni sono pronti entro 10 giorni, e gli ordini in grandi quantità vengono spediti entro 30 giorni, a seconda della quantità e dei requisiti di personalizzazione.'
+    - id: 4
+      question: 'Offrite opzioni di costumi da bagno eco-friendly o sostenibili?'
+      answer: 'Assolutamente. Forniamo una gamma di tessuti eco-friendly e metodi di produzione sostenibili per brand che danno priorità alla responsabilità ambientale.'
+    - id: 5
+      question: "Come posso ottenere un preventivo dettagliato per ordini all'ingrosso?"
+      answer: 'Puoi contattare il nostro team via WhatsApp o email, fornire i tuoi stili, taglie e tessuti desiderati, e invieremo un preventivo completo, catalogo tessuti e guida professionale.'

@@ -1,0 +1,159 @@
+title: 'Política de Envío'
+description: 'Soluciones de envío global confiables para las necesidades de su negocio de trajes de baño'
+
+seo:
+  title: 'Política de Envío | TIDELINE SWIMWEAR'
+  description: 'Soluciones de envío global confiables para las necesidades de su negocio de trajes de baño. Opciones de envío exprés y marítimo, cobertura mundial a más de 150 países, seguimiento en tiempo real.'
+  keywords: 'envío de trajes de baño, envío global, mensajería exprés, flete marítimo, flete aéreo, DHL, FedEx, UPS, seguimiento de pedidos, envío internacional, entrega de trajes de baño'
+  ogTitle: 'Política de Envío | TIDELINE SWIMWEAR'
+  ogDescription: 'Soluciones de envío global confiables para las necesidades de su negocio de trajes de baño. Opciones de envío exprés y marítimo, cobertura mundial a más de 150 países.'
+  ogType: 'website'
+  ogImage: '/shipping.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Política de Envío | TIDELINE SWIMWEAR'
+  twitterDescription: 'Soluciones de envío global confiables para las necesidades de su negocio de trajes de baño. Opciones de envío exprés y marítimo, cobertura mundial a más de 150 países.'
+
+hero:
+  image: '/shipping-banner.webp'
+
+orderTracking:
+  title: 'Seguimiento de Pedidos'
+  description: 'Proporcionamos seguimiento completo para todos los pedidos para asegurar que esté informado sobre el estado de su envío en cada paso.'
+  features:
+    - 'Los números de seguimiento se envían por correo electrónico dentro de las 24 horas del envío'
+    - 'Seguimiento en tiempo real disponible en nuestro sitio web o en el sitio web del transportista'
+    - 'Actualizaciones regulares de estado por correo electrónico para pedidos de producción'
+    - 'Gerente de cuenta dedicado para pedidos superiores a $10,000'
+  trackTitle: 'Rastree su Pedido: Ingrese su número de seguimiento a continuación para verificar el estado actual de su envío.'
+  trackPlaceholder: 'Ingrese número de seguimiento'
+  trackButton: 'Rastrear'
+
+methods:
+  title: 'Métodos de Envío'
+  description: 'Ofrecemos diferentes opciones de envío según su tipo de pedido y urgencia para satisfacer sus requisitos comerciales específicos.'
+  sample:
+    title: 'Pedido de Muestra'
+    description: 'Para pedidos de muestra, proporcionamos una variedad de opciones de envío para ayudarlo a tomar decisiones rápidas:'
+    options:
+      - name: 'Mensajería Exprés'
+        description: 'DHL, FedEx, UPS (3-7 días hábiles)'
+      - name: 'Correo Aéreo Estándar'
+        description: '(7-14 días hábiles)'
+      - name: 'Económico'
+        description: '(14-21 días hábiles)'
+  bulk:
+    title: 'Pedidos de Producción en Masa'
+    description: 'Para pedidos de producción en masa, ofrecemos soluciones rentables:'
+    options:
+      - name: 'Flete Aéreo'
+        description: '(7-15 días hábiles)'
+      - name: 'Flete Marítimo'
+        description: '(30-45 días hábiles)'
+      - name: 'Aéreo Exprés'
+        description: '(5-10 días hábiles)'
+  important:
+    title: 'Importante'
+    note: 'Los tiempos de producción son adicionales a los tiempos de envío. Póngase en contacto con nosotros para conocer los plazos de producción exactos según la cantidad y complejidad de su pedido.'
+
+coverage:
+  title: 'Cobertura de Envío'
+  description: 'Proporcionamos servicios de envío a más de 150 países en todo el mundo. Nuestra red de socios ofrece entrega rápida en todo el mundo.'
+  globalOperationsTitle: 'Operaciones Comerciales y Logística Global de Tideline'
+  businessRegions:
+    - title: 'China - Centro de Fabricación'
+      description: 'Fábrica de prendas moderna con más de 10 años de experiencia en producción y ventas.'
+      icon: 'heroicons:building-office-20-solid'
+      color: 'red'
+    - title: 'EE.UU. - Centro de Cumplimiento'
+      description: 'Almacén en el extranjero con stock, entrega de 3-5 días a clientes locales.'
+      icon: 'heroicons:building-storefront-20-solid'
+      color: 'blue'
+    - title: 'Europa y Australia'
+      description: 'Regiones comerciales principales que atienden diversos tipos de clientes.'
+      icon: 'heroicons:globe-europe-africa-20-solid'
+      color: 'green'
+    - title: 'Otra Región Comercial'
+      description: 'Como trajes de baño modestos, adaptados a los clientes y preferencias locales'
+      icon: 'heroicons:map-pin-20-solid'
+      color: 'purple'
+  mapTitle: 'TIDELINE SWIMWEAR ESTÁ DONDE ESTÁN TUS CLIENTES'
+  mapSubtitle: 'Nuestra red de socios ofrece entrega rápida en todo el mundo.'
+  regions:
+    - name: 'América del Norte'
+      status: 'available'
+    - name: 'Unión Europea'
+      status: 'available'
+    - name: 'Asia'
+      status: 'available'
+    - name: 'África'
+      status: 'limited'
+    - name: 'América del Sur'
+      status: 'available'
+    - name: 'Australia y NZ'
+      status: 'available'
+  legend:
+    available: 'Disponible para Envío'
+    limited: 'Servicio Limitado/Sin Servicio'
+  note:
+    title: 'Nota'
+    text: 'Para disponibilidad de países específicos y cualquier restricción, póngase en contacto con nuestro departamento de envíos: tidelineswim@swimsuitcustom.com'
+
+sidebar:
+  overview:
+    title: 'Resumen de Envío'
+    description1: 'En TIDELINE SWIMWEAR, entendemos que la entrega oportuna es crucial para su negocio. Nuestras soluciones integrales de envío están diseñadas para satisfacer las diversas necesidades de nuestros clientes B2B en todo el mundo.'
+    description2: 'Nos asociamos con proveedores líderes de logística global para garantizar que sus pedidos de trajes de baño lleguen de manera segura y a tiempo.'
+    keyFeatures: 'Características Clave'
+    features: 'Cobertura global, opciones de envío flexibles, seguimiento en tiempo real y asistencia aduanera.'
+  contact:
+    title: '¿Necesita Ayuda con el Envío?'
+    email: 'Correo Electrónico'
+    hours: 'Horario Comercial'
+    hoursTime: 'Lun-Vie: 9AM-6PM (EST)'
+    emergency: 'WhatsApp'
+  quickLinks:
+    title: 'Enlaces Rápidos'
+    links:
+      - key: 'calculator'
+        text: 'Calculadora de Costo de Envío'
+        href: 'https://wa.me/8618302407790'
+        external: true
+      - key: 'customs'
+        text: 'Guía de Aduanas e Impuestos'
+        href: '#'
+        external: false
+      - key: 'documentation'
+        text: 'Documentación Aduanera'
+        href: '#'
+        external: false
+      - key: 'processing'
+        text: 'Información de Tiempo de Procesamiento'
+        href: '#'
+        external: false
+      - key: 'packaging'
+        text: 'Detalles de Embalaje'
+        href: '#'
+        external: false
+      - key: 'returns'
+        text: 'Devoluciones e Intercambios'
+        href: '#'
+        external: false
+      - key: 'insurance'
+        text: 'Seguro de Envío'
+        href: '#'
+        external: false
+      - key: 'faq'
+        text: 'Preguntas Frecuentes sobre Envío'
+        href: '#'
+        external: false
+      - key: 'policy'
+        text: 'Política de Devolución'
+        href: '#'
+        external: false
+  partners:
+    title: 'Nuestros Socios de Envío'
+    description: 'Trabajamos con proveedores de logística global confiables:'
+    list:
+      - 'DHL Express'
+      - 'FedEx'
+      - 'UPS'

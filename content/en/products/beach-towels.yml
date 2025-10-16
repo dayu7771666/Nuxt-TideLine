@@ -1,0 +1,70 @@
+hero:
+  title: 'Beach Towels & Throw Collection'
+  description: 'Premium beach towels and throws designed for comfort, absorbency, and style. From quick-dry microfiber to plush terry cloth, featuring vibrant patterns, character prints, and oversized designs for the perfect beach day experience.'
+
+seo:
+  title: 'Beach Towels & Throw Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale beach towels & throws - microfiber, terry cloth, striped, ombre, character prints. Quick-dry technology, oversized designs. Custom branding available.'
+  keywords: 'beach towels, microfiber towels, terry cloth towels, striped beach towels, ombre towels, character towels, oversized beach towels, wholesale beach towels'
+  ogTitle: 'Beach Towels & Throw Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale beach towels & throws. Premium materials, vibrant designs, quick-dry technology.'
+  ogType: 'website'
+  ogImage: '/products/beach-towels-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Beach Towels & Throw Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Beach towels & throws wholesale. Premium quality, diverse patterns, quick-dry options.'
+
+products:
+  - id: 1
+    name: 'Ikat Print Woven Throw Blanket'
+    description: 'Soft oversized throw blanket featuring an intricate vibrant blue and green ikat pattern with decorative fringe border, perfect for beach lounging, picnics, or home décor with its contemporary woven design.'
+    imageSrc: '/products/beach-towels/ABT01.png'
+    imageAlt: 'Blue and green ikat patterned oversized throw blanket with fringe border on white sofa'
+
+  - id: 2
+    name: 'Mario & Friends Character Beach Towel'
+    description: 'Light blue terry cloth beach towel featuring colorful prints of iconic Nintendo characters including Mario, Luigi, Princess Peach, and Toad, ideal for kids and gaming fans with vibrant character graphics.'
+    imageSrc: '/products/beach-towels/ABT02.png'
+    imageAlt: 'Bright blue Super Mario character print beach towel with Nintendo gaming characters'
+
+  - id: 3
+    name: 'Bold Blue and White Striped Terry Towel'
+    description: 'Thick traditional terry cloth towel featuring bold wide horizontal blue and white stripes, offering superior absorbency and classic beach style with durable construction for long-lasting use.'
+    imageSrc: '/products/beach-towels/ABT03.png'
+    imageAlt: 'Wide royal blue and white striped terry cloth beach towel with classic horizontal stripes'
+
+  - id: 4
+    name: 'Tropical Fruit Graphic Hand Towel'
+    description: 'Vivid artistic hand towel with dense colorful pattern of tropical fruits including dragon fruit, watermelon, and bananas, framed by blue border for vibrant beach and poolside use.'
+    imageSrc: '/products/beach-towels/ABT04.png'
+    imageAlt: 'Pink towel with vibrant graphic tropical fruit pattern featuring exotic fruits and blue border'
+
+  - id: 5
+    name: 'Pink and Purple Ombre Microfiber Mat'
+    description: 'Large lightweight microfiber towel mat with smooth texture featuring seamless gradient fade from vibrant pink to deep purple, offering quick-dry technology and compact portability for beach and travel.'
+    imageSrc: '/products/beach-towels/ABT05.png'
+    imageAlt: 'Seamless pink to purple gradient microfiber beach mat with sunglasses and flip-flops'
+
+  - id: 6
+    name: 'Ombre Fade Microfiber Beach Towel'
+    description: 'Quick-drying microfiber beach towel with dramatic blue-to-light-blue vertical ombre effect, featuring lightweight construction and superior absorbency for active beach and poolside activities.'
+    imageSrc: '/products/beach-towels/ABT06.png'
+    imageAlt: 'Deep blue to light blue ombre microfiber towel with vertical gradient fade effect'
+
+  - id: 7
+    name: 'Striped Beach Towel with Coral Accents'
+    description: 'Bold vertical coral and white striped beach towel with vibrant coral accent colors, designed for summer beach outings with generous size and soft terry construction for comfort and style.'
+    imageSrc: '/products/beach-towels/ABT07.png'
+    imageAlt: 'Coral and white striped beach towel with bold vertical stripes and summer colors'
+
+  - id: 8
+    name: 'Nautical Thin Striped Lounger Towel'
+    description: 'Classic thin horizontal black and white striped towel with nautical design, perfectly sized for outdoor chaise loungers and beach chairs with timeless maritime style and practical functionality.'
+    imageSrc: '/products/beach-towels/ABT08.png'
+    imageAlt: 'Thin black and white striped nautical towel with classic horizontal maritime stripes'
+
+  - id: 9
+    name: 'Teal and White Striped Resort Towel'
+    description: 'Oversized plush resort towel with wide vertical teal and white stripes, offering luxurious comfort and elegant design perfect for upscale beach resorts and poolside relaxation.'
+    imageSrc: '/products/beach-towels/ABT09.png'
+    imageAlt: 'Wide teal and white striped resort towel with vertical stripes and plush construction'

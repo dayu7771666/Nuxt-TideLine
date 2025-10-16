@@ -1,0 +1,202 @@
+title: 'Guida ai Prezzi di Produzione B2B'
+description: 'Prezzi trasparenti e flessibili per marchi emergenti di costumi da bagno. Lancia la tua collezione con appena 60 pezzi.'
+
+seo:
+  title: 'Prezzi di Produzione Costumi da Bagno B2B - Trasparente e Flessibile | Tideline'
+  description: 'Prezzi trasparenti di produzione costumi da bagno B2B. Inizia con solo 60 pezzi. Ottieni preventivi personalizzati per il tuo marchio di costumi da bagno con opzioni di ordinazione flessibili.'
+  keywords: "prezzi di produzione costumi da bagno, costi B2B costumi da bagno, MOQ costumi da bagno, prezzi personalizzati costumi da bagno, costi di produzione costumi da bagno, prezzi all'ingrosso costumi da bagno, costi di campionatura costumi da bagno"
+  ogTitle: 'Prezzi di Produzione Costumi da Bagno B2B - Trasparente e Flessibile | Tideline'
+  ogDescription: 'Prezzi trasparenti di produzione costumi da bagno B2B. Inizia con solo 60 pezzi. Ottieni preventivi personalizzati per il tuo marchio.'
+  ogType: 'website'
+  ogImage: '/img/pricing-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Prezzi di Produzione Costumi da Bagno B2B | Tideline'
+  twitterDescription: 'Prezzi trasparenti per marchi di costumi da bagno. Inizia con solo 60 pezzi. Opzioni di ordinazione flessibili disponibili.'
+
+hero:
+  image: '/img/pricing-hero.webp'
+
+initialCosts:
+  title: 'Costi Iniziali Una Tantum'
+  description: 'Investimento iniziale per sviluppo prodotto e campionatura'
+  cards:
+    - id: 1
+      icon: '/pricing/sampling.avif'
+      title: 'Sviluppo e Campionatura'
+      items:
+        - name: 'Servizio di Sviluppo Design'
+          cost: '$69 / stile'
+        - name: 'Set di Campioni Completo'
+          cost: '$50 - $200 / stile'
+      note: "Il 50% della tariffa campioni viene accreditato quando l'ordine all'ingrosso soddisfa il MOQ"
+    - id: 2
+      icon: '/pricing/tooling.avif'
+      title: 'Tariffe Utensili e Stampi'
+      items:
+        - name: 'Kit Decorazione Standard'
+          cost: '$50 / elemento'
+        - name: 'Stampo Fodera Igienica'
+          cost: '$30 / stile'
+        - name: 'Stampo Etichetta di Cura'
+          cost: '$30 - $50 / stile'
+    - id: 3
+      icon: '/pricing/fabric.avif'
+      title: 'Tessuto e Campioni'
+      items:
+        - name: 'Cartelle Colore / Piccoli Campioni'
+          cost: 'GRATUITO'
+        - name: 'Campione Stampa Digitale A4'
+          cost: 'GRATUITO'
+        - name: 'Campione di Tessuto da 1+ Metro'
+          cost: '$10 / metro'
+      note: 'Spedizione non inclusa per campioni di tessuto'
+
+process:
+  title: 'Il Nostro Processo di Produzione'
+  description: 'Processo semplice in 5 fasi dal concetto alla consegna'
+  steps:
+    - id: 1
+      title: 'Consulenza e Design'
+      description: 'Discutiamo la tua visione e forniamo guida al design'
+    - id: 2
+      title: 'Sviluppo Campioni'
+      description: 'Creiamo campioni fisici per la tua approvazione'
+    - id: 3
+      title: 'Revisioni e Finalizzazione'
+      description: 'Rifinisci i campioni in base al tuo feedback'
+    - id: 4
+      title: "Produzione all'Ingrosso"
+      description: 'Produci il tuo ordine completo'
+    - id: 5
+      title: 'Controllo Qualità e Spedizione'
+      description: 'Ispeziona ogni pezzo e organizza la consegna'
+
+productionCosts:
+  title: 'Costi di Produzione per Unità'
+  description: "Costi applicati a ogni pezzo nel tuo ordine all'ingrosso"
+  cards:
+    - id: 1
+      icon: '/pricing/base.webp'
+      title: 'Costo Base del Prodotto'
+      items:
+        - name: 'Complessità del Design'
+          cost: 'Varia per stile'
+        - name: 'Selezione del Tessuto'
+          cost: 'Premium vs. standard'
+        - name: "Quantità dell'Ordine"
+          cost: 'Si applicano sconti sul volume'
+        - name: 'Personalizzato vs. Catalogo'
+          cost: 'Premium design personalizzato'
+      note: 'Contattaci per prezzi dettagliati in base ai tuoi requisiti specifici'
+    - id: 2
+      icon: '/pricing/brand.webp'
+      title: 'Branding e Confezione'
+      items:
+        - name: 'Etichetta di Cura'
+          cost: '~ $0.15 / unità'
+        - name: 'Fodera Igienica'
+          cost: '~ $0.15 / unità'
+        - name: 'Cartellino'
+          cost: '~ $0.15 / unità'
+        - name: 'Scatola Regalo / Confezione'
+          cost: '~ $1.00 / unità'
+        - name: 'Rifiniture e Accessori Speciali'
+          cost: '~ $0.10 - $0.70 / unità'
+      note: 'I costi degli utensili vengono assorbiti nei prezzi per unità'
+
+flexibility:
+  title: 'Opzioni di Ordinazione Flessibili'
+  description: 'Ci adattiamo alle tue esigenze aziendali con molteplici opzioni flessibili'
+  items:
+    - id: 1
+      icon: 'heroicons:cube'
+      title: 'Ordine Minimo Misto'
+      description: 'Inizia con solo 60 pezzi totali tra stili, colori e taglie. Non è necessario ordinare grandi quantità di un singolo articolo.'
+    - id: 2
+      icon: 'heroicons:currency-dollar'
+      title: 'Credito Tariffa Campioni'
+      description: "Recupera il 50% dei costi dei campioni quando effettui un ordine all'ingrosso. Investiamo nel tuo successo."
+    - id: 3
+      icon: 'heroicons:wrench-screwdriver'
+      title: 'Nessuna Tariffa di Utensili Nascosta'
+      description: 'Assorbiamo i costi degli stampi nei prezzi per unità per semplicità e trasparenza.'
+    - id: 4
+      icon: 'heroicons:chart-bar-square'
+      title: 'Produzione Scalabile'
+      description: 'Aumenta facilmente le quantità man mano che la tua attività cresce. Gestiamo ordini da 60 a 60.000 pezzi.'
+    - id: 5
+      icon: 'heroicons:swatch'
+      title: 'Abbinamento Colori Personalizzato'
+      description: 'Abbinamento colori preciso senza minimi. Crea i tuoi colori di marca unici senza grandi impegni.'
+    - id: 6
+      icon: 'heroicons:truck'
+      title: 'Spedizione Flessibile'
+      description: 'Scegli il metodo di spedizione e la tempistica preferiti. Lavoriamo con i principali corrieri in tutto il mondo.'
+
+budgetExample:
+  title: 'Esempio di Budget'
+  description: 'Lancio di una collezione di 2 stili con 100 pezzi totali'
+  chartData:
+    - name: 'Sviluppo Iniziale'
+      amount: 388
+      percentage: 17
+      color: 'bg-gradient-to-r from-blue-600 to-blue-400'
+    - name: "Produzione all'Ingrosso"
+      amount: 1800
+      percentage: 81
+      color: 'bg-gradient-to-r from-orange-500 to-orange-400'
+    - name: 'Branding'
+      amount: 30
+      percentage: 2
+      color: 'bg-gradient-to-r from-green-500 to-green-400'
+  tableData:
+    - stage: 'Sviluppo Iniziale'
+      item: 'Sviluppo Design ($69 × 2 stili)'
+      cost: '$138'
+      rowspan: 3
+    - item: 'Set di Campioni ($125 × 2 stili)'
+      cost: '$250'
+    - item: 'Subtotale'
+      cost: '$388'
+      isSubtotal: true
+    - stage: "Produzione all'Ingrosso"
+      item: 'Costo Base del Prodotto ($18 × 100 unità)'
+      cost: '$1,800'
+      rowspan: 3
+    - item: 'Branding (Cartellini + Etichette di Cura)'
+      cost: '$30'
+    - item: 'Subtotale'
+      cost: '$1,830'
+      isSubtotal: true
+    - stage: ''
+      item: 'Investimento Totale Stimato'
+      cost: '$2,218'
+      isSubtotal: true
+  note: 'Nota: Gli ordini successivi saranno significativamente più bassi poiché le tariffe di sviluppo e campioni sono costi una tantum.'
+
+cta:
+  title: 'Pronto a Lanciare la Tua Linea di Costumi da Bagno?'
+  description: 'Il nostro team è pronto ad aiutarti a dare vita ai tuoi design con prezzi trasparenti e opzioni flessibili su misura per il tuo marchio.'
+  buttons:
+    - text: 'Richiedi Preventivo Personalizzato'
+      primary: true
+
+contact:
+  title: 'Ottieni il Tuo Preventivo Personalizzato'
+  subtitle: 'Parlaci del tuo progetto e forniremo prezzi dettagliati'
+  formLabels:
+    nameLabel: 'Nome Completo'
+    namePlaceholder: 'Inserisci il tuo nome completo'
+    emailLabel: 'Indirizzo Email'
+    emailPlaceholder: 'Inserisci il tuo indirizzo email'
+    messageLabel: 'Dettagli del Progetto'
+    messagePlaceholder: 'Parlaci del tuo progetto di linea di costumi da bagno, quantità, tempistiche e requisiti specifici...'
+    submitButton: 'Richiedi Preventivo'
+    successMessage: 'Grazie! Ti invieremo un preventivo dettagliato entro 24 ore.'
+  guideTitle: 'Cosa Includere nel Tuo Messaggio:'
+  guideItems:
+    - 'Numero di stili che stai pianificando'
+    - 'Quantità stimate per stile'
+    - 'La tua tempistica di lancio obiettivo'
+    - 'Eventuali requisiti di design specifici'
+    - 'La tua fascia di budget (se ti senti a tuo agio a condividerla)'

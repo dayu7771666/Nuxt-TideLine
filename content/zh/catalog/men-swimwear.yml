@@ -1,0 +1,111 @@
+title: '男士泳装制造商'
+description: '不仅仅是供应商——您的泳装品牌建设合作伙伴。'
+
+seo:
+  title: '男士泳装制造商 | TIDELINE SWIMWEAR'
+  description: '批发男士泳装制造商，提供高性能泳裤、冲浪短裤和三角裤。定制设计，有竞争力的价格，低起订量。'
+  keywords: '男士泳装制造商, 泳裤批发, 冲浪短裤制造商, 男士泳装供应商, 定制泳裤, 男士泳装工厂'
+  ogTitle: '男士泳装制造商 | TIDELINE SWIMWEAR'
+  ogDescription: '专业男士泳装制造商。泳裤、冲浪短裤、三角裤。定制设计，低起订量，批发价格。'
+  ogType: 'website'
+  ogImage: '/catalog/men-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '男士泳装制造商 | TIDELINE SWIMWEAR'
+  twitterDescription: '高性能男士泳装制造。泳裤、冲浪短裤、三角裤。提供定制设计。'
+
+# Hero section
+hero:
+  cta_text: '咨询'
+  cta_href: '/contact'
+  image_src: '/catalog/men-swimwear-bg.webp'
+  image_alt: '男士泳装制造'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: '我们的使命'
+  paragraph1: '在TideLine Swimwear，我们知道男士泳装是零售商和新兴品牌的关键增长类别。每个季节，我们的工厂团队都会开发结合舒适性、耐用性和时尚性的市场就绪系列——无论是经典泳裤、功能性冲浪短裤还是现代三角裤——为批发商和品牌所有者提供多样化选择，以满足当今消费者的需求。'
+  whatsapp_link_text: '通过WhatsApp联系我们'
+
+# Statistics
+stats:
+  - label: '泳装行业经验'
+    value: '10年以上'
+  - label: '完成订单'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: '泳衣上衣'
+    href: '/category?type=men&subtype=swim-shirt'
+    imageSrc: '/men-swimwear/shirt/shirt-5.webp'
+    imageAlt: '男士泳衣上衣系列'
+  - name: '三角裤'
+    href: '/category?type=men&subtype=briefs'
+    imageSrc: '/men-swimwear/san/san-1.webp'
+    imageAlt: '男士游泳三角裤系列'
+  - name: '泳裤'
+    href: '/category?type=men&subtype=trunks'
+    imageSrc: '/men-swimwear/ping/ping-4.webp'
+    imageAlt: '男士游泳裤系列'
+
+# Customization capabilities
+customization:
+  title: '定制能力'
+  description: '完全可定制的泳装——TideLine接受所有定制设计、面料、五金配件、标志和包装，让您的品牌愿景成为现实。'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: '制造设施'
+  hero_image_width: '1000'
+  features:
+    - name: '款式定制'
+      description: '实现任何泳装设计——选择您的完美款式，让我们为您的品牌制作。'
+      link: '/contact'
+      cta_text: '咨询'
+    - name: '面料定制'
+      description: '从广泛的面料中选择，创造穿着舒适、外观美丽的泳装。'
+      link: '/fabric'
+      cta_text: '面料'
+    - name: '五金配件定制'
+      description: '定制每个细节——从扣环和环扣到拉链——我们的五金配件选项提升您的设计。'
+      link: '/hardware'
+      cta_text: '五金配件'
+    - name: '标志定制'
+      description: '让它真正属于您——为每件产品添加您的标志，打造专业品牌外观。'
+    - name: '包装定制'
+      description: '用符合您风格和愿景的包装完善您的品牌体验。'
+    - name: '联系我们'
+      description: '准备好了吗？让我们将您的泳装想法变为现实。'
+      link: '/contact'
+      cta_text: '联系我们'
+
+# Getting Started section
+getting_started:
+  title: '您的泳装之旅从这里开始'
+  description: '无论您是推出第一个系列还是扩展品牌，TideLine都提供量身定制的泳装解决方案来满足您的需求。选择您的道路并开始。'
+  beginner_text: '作为初学者开始'
+  beginner_href: '/startup'
+  pro_text: '经验丰富的买家'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: '制造过程'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: '常见问题'
+  questions:
+    - id: 1
+      question: '男士泳装批发的最小订购量是多少？'
+      answer: '我们的起订量从每个款式和尺寸30件开始，让新兴和成长中的男士泳装品牌能够灵活地推出系列。'
+    - id: 2
+      question: '我可以定制男士泳装的款式和材料吗？'
+      answer: '是的。我们为男士泳装提供完整的定制服务——包括泳裤、冲浪短裤和三角裤——使用您偏好的面料、颜色、标志和包装。'
+    - id: 3
+      question: '男士泳装批量订单的生产需要多长时间？'
+      answer: '样品通常在10天内完成，而批量生产根据订单大小和定制程度在30天内完成。'
+    - id: 4
+      question: '您们为男士泳装提供可持续面料选择吗？'
+      answer: '当然。我们提供环保面料，如再生聚酯和尼龙，为您的品牌在男士泳装市场提供可持续优势。'
+    - id: 5
+      question: '我如何申请男士泳装批发报价？'
+      answer: '只需通过WhatsApp或电子邮件与我们的团队分享您偏好的设计、尺寸和面料选择。我们将提供详细报价，以及面料样品和专家建议。'

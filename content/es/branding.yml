@@ -1,0 +1,193 @@
+title: 'Etiquetas de Marca Personalizadas y Embalaje'
+description: 'Eleve su marca de trajes de baño con etiquetas personalizadas premium y soluciones de embalaje ecológicas. Desde elegancia bordada hasta materiales sostenibles, damos vida a su visión de marca.'
+
+seo:
+  title: 'Etiquetas de Marca Personalizadas y Embalaje | Tideline Swimwear'
+  description: 'Etiquetas personalizadas premium y soluciones de embalaje ecológicas para marcas de trajes de baño. Elija entre etiquetas bordadas, impresas, tejidas, PVC, de cuero y más. Opciones de embalaje sostenible disponibles.'
+  keywords: 'etiquetas personalizadas, branding de trajes de baño, etiquetas bordadas, embalaje ecológico, embalaje sostenible, identidad de marca, etiquetas tejidas, etiquetas PVC, etiquetas de cuero'
+  ogTitle: 'Etiquetas de Marca Personalizadas y Embalaje | Tideline Swimwear'
+  ogDescription: 'Eleve su marca de trajes de baño con etiquetas personalizadas premium y soluciones de embalaje sostenibles.'
+  ogType: 'website'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Etiquetas de Marca Personalizadas y Embalaje | Tideline Swimwear'
+  twitterDescription: 'Etiquetas personalizadas premium y embalaje ecológico para marcas de trajes de baño.'
+
+hero:
+  image: '/sampling.webp'
+  alt: 'Etiquetas de Marca Personalizadas y Embalaje'
+
+introduction:
+  title: 'Por qué importa el branding personalizado'
+  description: 'Su etiqueta y embalaje son los primeros puntos de contacto con sus clientes. Hágalos contar con nuestras soluciones integrales de branding que combinan calidad, sostenibilidad y estilo.'
+  features:
+    - title: 'Identidad de marca'
+      description: 'Cree una impresión duradera con etiquetas personalizadas que reflejen la personalidad única de su marca'
+      icon: 'sparkles'
+      gradient: 'blue'
+    - title: 'Calidad premium'
+      description: 'Etiquetas duraderas y de larga duración que mantienen su apariencia incluso después de múltiples lavados'
+      icon: 'shield'
+      gradient: 'green'
+    - title: 'Ecológico'
+      description: 'Materiales y procesos sostenibles que se alinean con los valores ambientales modernos'
+      icon: 'globe'
+      gradient: 'purple'
+
+labels:
+  title: '10 Opciones de Etiquetas Premium'
+  description: 'Elija de nuestra diversa gama de soluciones de etiquetado, cada una diseñada para necesidades específicas de marca y segmentos de mercado'
+  types:
+    - id: 1
+      name: 'Etiquetas bordadas'
+      icon: 'scissors'
+      gradient: 'purple'
+      technology: 'Técnica de bordado a máquina o a mano para coser nombres de marca o logotipos en tela.'
+      advantages: 'Alta durabilidad, textura premium, perfecta para marcas de trajes de baño de alta gama.'
+      bestFor: 'Marcas de lujo y premium que enfatizan la calidad.'
+
+    - id: 2
+      name: 'Etiquetas impresas'
+      icon: 'printer'
+      gradient: 'blue'
+      technology: 'Métodos de serigrafía, transferencia térmica o impresión UV.'
+      advantages: 'Rentable, admite diseños complejos, ideal para producción en masa.'
+      bestFor: 'Marcas de trajes de baño de gama media o mercado masivo.'
+
+    - id: 3
+      name: 'Etiquetas de transferencia térmica'
+      icon: 'fire'
+      gradient: 'orange'
+      technology: 'La tecnología de prensado en caliente transfiere diseños a etiquetas, comúnmente en poliéster o nylon.'
+      advantages: 'Resistente a la decoloración, tacto suave y cómodo.'
+      bestFor: 'Trajes de baño atléticos y funcionales ligeros.'
+
+    - id: 4
+      name: 'Etiquetas tejidas'
+      icon: 'swatch'
+      gradient: 'indigo'
+      technology: 'La máquina de tejer integra logotipos de marca directamente en las fibras de la etiqueta usando nylon o poliéster.'
+      advantages: 'Alta calidad, duradero, sensación premium.'
+      bestFor: 'Marcas de alta gama o trajes de baño de uso prolongado.'
+
+    - id: 5
+      name: 'Etiquetas PVC'
+      icon: 'cube'
+      gradient: 'cyan'
+      technology: 'Etiquetas de plástico PVC moldeadas con superficie rociada o impresa.'
+      advantages: 'Resistente al agua, resistente a la humedad, apariencia moderna y de moda.'
+      bestFor: 'Marcas jóvenes y modernas, especialmente trajes de baño al aire libre o atléticos.'
+
+    - id: 6
+      name: 'Etiquetas de cuero'
+      icon: 'star'
+      gradient: 'amber'
+      technology: 'Cuero genuino o sintético con logotipos en relieve o marcados.'
+      advantages: 'Sensación lujosa y de alta gama con fuerte impacto visual.'
+      bestFor: 'Marcas de lujo que buscan elevar el prestigio de la marca.'
+
+    - id: 7
+      name: 'Etiquetas de papel'
+      icon: 'document'
+      gradient: 'green'
+      technology: 'Papel o cartón ecológico con técnicas de impresión (estampado en lámina, serigrafía).'
+      advantages: 'Bajo costo, fácil producción en masa, respetuoso con el medio ambiente.'
+      bestFor: 'Marcas de trajes de baño conscientes del presupuesto o enfocadas en lo ecológico.'
+
+    - id: 8
+      name: 'Diseño sin etiqueta'
+      icon: 'heart'
+      gradient: 'pink'
+      technology: 'Transferencia térmica o bordado imprime información de marca directamente dentro de la prenda, sin etiqueta física.'
+      advantages: 'Comodidad mejorada, sin irritación de la piel, ideal para piel sensible.'
+      bestFor: 'Marcas atléticas y trajes de baño enfocados en la comodidad.'
+
+    - id: 9
+      name: 'Etiquetas cortadas con láser'
+      icon: 'bolt'
+      gradient: 'violet'
+      technology: 'El corte láser crea patrones intrincados en cuero, tela o materiales sintéticos.'
+      advantages: 'Preciso, eficiente, capaz de diseños complejos.'
+      bestFor: 'Marcas modernas con atención al detalle, trajes de baño de alta gama.'
+
+    - id: 10
+      name: 'Etiquetas reflectantes'
+      icon: 'lightbulb'
+      gradient: 'yellow'
+      technology: 'Los materiales reflectantes mejoran la visibilidad y seguridad de la marca.'
+      advantages: 'Mejora la seguridad nocturna, agrega un toque de moda.'
+      bestFor: 'Marcas de trajes de baño atléticos y al aire libre que priorizan la funcionalidad.'
+
+packaging:
+  badge: 'Opción sostenible'
+  title: 'Soluciones de embalaje ecológicas'
+  description: 'Proteja sus productos y el planeta con nuestras opciones de embalaje sostenible. Hechos de materiales reciclados y biodegradables que reflejan el compromiso ambiental de su marca.'
+
+  features:
+    - title: '100% materiales reciclados'
+      description: 'Nuestras bolsas de embalaje están hechas de plásticos reciclados post-consumo, reduciendo los residuos y el impacto ambiental.'
+      icon: 'arrowPath'
+      gradient: 'green'
+
+    - title: 'Opciones biodegradables'
+      description: 'Elija materiales compostables que se descomponen naturalmente sin dañar el medio ambiente.'
+      icon: 'checkCircle'
+      gradient: 'emerald'
+
+    - title: 'Envío carbono neutral'
+      description: 'Nuestro embalaje está diseñado para minimizar el peso y volumen de envío, reduciendo las emisiones de carbono.'
+      icon: 'globe'
+      gradient: 'teal'
+
+    - title: 'Papel certificado FSC'
+      description: 'Todos los materiales de papel provienen de bosques gestionados responsablemente con certificación FSC.'
+      icon: 'shield'
+      gradient: 'green'
+
+    - title: 'Branding personalizado'
+      description: 'Totalmente personalizable con su logotipo y colores de marca utilizando tintas y métodos de impresión ecológicos.'
+      icon: 'sparkles'
+      gradient: 'emerald'
+
+    - title: 'Calidad premium'
+      description: 'Ecológico no significa comprometer la calidad. Nuestras bolsas son duraderas, impermeables y protegen sus productos.'
+      icon: 'checkBadge'
+      gradient: 'teal'
+
+  types:
+    - title: 'Sobres de poli reciclado'
+      description: 'Bolsas resistentes al agua y al desgarro hechas de 100% plástico reciclado. Disponibles en múltiples tamaños con impresión personalizada.'
+      icon: 'archive'
+      gradient: 'green'
+
+    - title: 'Bolsas de papel Kraft'
+      description: 'Bolsas de papel biodegradables con asas reforzadas. Perfectas para embalaje en tienda y minorista.'
+      icon: 'document'
+      gradient: 'emerald'
+
+    - title: 'Sobres compostables'
+      description: 'Embalaje a base de plantas que se descompone completamente en instalaciones de compostaje industrial en 180 días.'
+      icon: 'sparkles'
+      gradient: 'teal'
+
+    - title: 'Bolsas de tela reutilizables'
+      description: 'Bolsas premium de algodón o tela reciclada que los clientes pueden reutilizar, extendiendo el alcance de su marca.'
+      icon: 'arrowPath'
+      gradient: 'cyan'
+
+  impact:
+    title: 'Genere un impacto positivo'
+    description: 'Al elegir nuestro embalaje ecológico, no solo está protegiendo sus productos, está protegiendo el planeta y mostrando a sus clientes que la sostenibilidad importa.'
+    stats:
+      - value: '100%'
+        label: 'Reciclable o compostable'
+      - value: '-60%'
+        label: 'Emisiones de carbono'
+      - value: '0'
+        label: 'Plásticos vírgenes utilizados'
+
+cta:
+  title: '¿Listo para elevar su marca?'
+  description: 'Contáctenos hoy para discutir sus necesidades de etiquetas y embalaje personalizados. Nuestro equipo le ayudará a crear la solución de branding perfecta que refleje su identidad única.'
+  button: 'Empezar'
+  link: '/contact'
+  variant: 'blue'

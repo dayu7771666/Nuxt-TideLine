@@ -1,0 +1,104 @@
+title: 'Premium-Stoffauswahl für erstklassige Bademode'
+description: 'Entdecken Sie unsere kuratierte Kollektion hochwertiger Stoffe, die speziell für Bademode entwickelt wurden. Von nachhaltigen Materialien bis hin zu UV-Schutztextilien beziehen wir nur die feinsten Qualitätsstoffe für Ihre Marke.'
+
+seo:
+  title: 'Premium-Bademode-Stoffe | Hochleistungsmaterialien | Tideline'
+  description: 'Durchsuchen Sie unsere umfassende Kollektion von Premium-Bademode-Stoffen einschließlich Polyester-Mischungen, nachhaltigen Materialien und UV-Schutztextilien. Laden Sie Stoffkataloge und technische Spezifikationen herunter.'
+  keywords: 'Bademode-Stoffe, Hochleistungsstoffe, nachhaltige Bademode-Materialien, UV-Schutzstoff, ECONYL-Stoff, recyceltes Polyester, Bademode-Textilien'
+  ogTitle: 'Premium-Bademode-Stoffe & Materialien | Tideline'
+  ogDescription: 'Entdecken Sie Hochleistungsstoffe für die Bademode-Herstellung. Nachhaltige Optionen, UV-Schutz und technische Spezifikationen verfügbar.'
+  ogType: 'website'
+  ogImage: '/fabric-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Premium-Bademode-Stoffe | Tideline'
+  twitterDescription: 'Durchsuchen Sie unsere umfassende Kollektion von Premium-Bademode-Stoffen für die Herstellung.'
+
+hero:
+  alt: 'Premium-Bademode-Stoffe'
+  ctaButton: 'Unseren Stoffkatalog erkunden'
+  ctaLink: '#catalog'
+
+features:
+  title: 'Warum unsere Stoffe herausragen'
+  description: 'Wir arbeiten mit führenden Mühlen weltweit zusammen, um Ihnen innovative, hochwertige Stoffe zu bringen, die den anspruchsvollen Anforderungen der Bademode-Produktion gerecht werden.'
+  items:
+    - id: 1
+      title: 'Leistungsgetestet'
+      description: 'Jeder Stoff durchläuft rigorose Tests auf Chlorbeständigkeit, UV-Schutz, Farbechtheit und Dehnungsrückgewinnung, um dauerhafte Qualität zu gewährleisten.'
+      icon: 'ShieldCheckIcon'
+    - id: 2
+      title: 'Nachhaltige Optionen'
+      description: 'Wählen Sie aus umweltfreundlichen Materialien einschließlich recyceltem Nylon, ECONYL® und OEKO-TEX® zertifizierten Stoffen, die die Umweltauswirkungen reduzieren, ohne die Leistung zu beeinträchtigen.'
+      icon: 'SparklesIcon'
+    - id: 3
+      title: 'Technische Spezifikationen'
+      description: 'Detaillierte technische Datenblätter für jeden Stoff einschließlich Zusammensetzung, Gewicht, Dehnungsprozentsatz und Pflegeanleitungen, um Ihnen bei fundierten Entscheidungen zu helfen.'
+      icon: 'DocumentTextIcon'
+
+catalog:
+  title: 'Durchsuchen Sie unsere Stoffkollektionen'
+  description: 'Laden Sie unsere umfassenden Stoffkataloge herunter, um detaillierte Spezifikationen, Farbbereiche und technische Eigenschaften zu erkunden. Jeder Katalog enthält Muster und Leistungsdaten.'
+  viewButtonText: 'Katalog ansehen'
+  note: 'Benötigen Sie physische Muster oder individuelle Stoffentwicklung? Kontaktieren Sie unsere Stoffspezialisten für persönliche Unterstützung.'
+  pdfs:
+    - title: 'Polyester-Stoffkollektion'
+      description: 'Hochleistungs-Polyester-Mischungen perfekt für aktive Bademode, die hervorragende Formbeständigkeit und schnell trocknende Eigenschaften bieten.'
+      file: '/pdf/tideline-polyester-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'Schnelltrocknungstechnologie'
+        - 'Hervorragende Formbeständigkeit'
+        - 'Chlorbeständig'
+      gradient: 'bg-gradient-to-br from-blue-500/10 to-cyan-500/10'
+      iconBg: 'bg-gradient-to-br from-blue-600 to-cyan-600'
+      buttonClass: 'bg-blue-600 text-white hover:bg-blue-700'
+      accentLine: 'bg-gradient-to-r from-blue-600 to-cyan-600'
+
+    - title: 'Nachhaltige Stoffkollektion'
+      description: 'Umweltbewusste Materialien einschließlich recyceltem Polyester und ECONYL® regeneriertem Nylon, die Nachhaltigkeit mit Leistung verbinden.'
+      file: '/pdf/tideline-sustainable-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'Recycelte Materialien'
+        - 'OEKO-TEX® zertifiziert'
+        - 'Reduzierter CO2-Fußabdruck'
+      gradient: 'bg-gradient-to-br from-green-500/10 to-emerald-500/10'
+      iconBg: 'bg-gradient-to-br from-green-600 to-emerald-600'
+      buttonClass: 'bg-green-600 text-white hover:bg-green-700'
+      accentLine: 'bg-gradient-to-r from-green-600 to-emerald-600'
+
+    - title: 'UV-Schutz-Stoffkollektion'
+      description: 'Fortschrittliche UV-blockierende Stoffe mit UPF 50+ Schutz, ideal für Leistungsbademode und sonnenschützende Kleidungsstücke.'
+      file: '/pdf/tideline-uv-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'UPF 50+ Schutz'
+        - 'Ausbleichbeständig'
+        - 'Feuchtigkeitsableitend'
+      gradient: 'bg-gradient-to-br from-purple-500/10 to-pink-500/10'
+      iconBg: 'bg-gradient-to-br from-purple-600 to-pink-600'
+      buttonClass: 'bg-purple-600 text-white hover:bg-purple-700'
+      accentLine: 'bg-gradient-to-r from-purple-600 to-pink-600'
+
+whyChoose:
+  title: 'Warum unsere Stoffauswahl wählen?'
+  description: 'Unser Stoffbeschaffungsprozess ist darauf ausgelegt, sicherzustellen, dass Sie Materialien erhalten, die die höchsten Standards für die Bademode-Produktion erfüllen.'
+  reasons:
+    - title: 'Direkte Mühlenpartnerschaften'
+      description: 'Wir arbeiten direkt mit zertifizierten Mühlen zusammen und eliminieren Zwischenhändler, um wettbewerbsfähige Preise ohne Kompromisse bei der Qualität anzubieten.'
+    - title: 'Qualitätssicherung'
+      description: 'Jede Stoffcharge wird inspiziert und getestet, um strenge Qualitätsstandards für die Bademode-Herstellung zu erfüllen.'
+    - title: 'Schnelle Lieferzeiten'
+      description: 'Mit strategischem Bestandsmanagement und zuverlässigen Lieferketten gewährleisten wir pünktliche Lieferung für Ihren Produktionsplan.'
+    - title: 'Technischer Support'
+      description: 'Unsere Stoffspezialisten bieten fachkundige Beratung zur Materialauswahl, Kompatibilität mit Ihren Designs und Produktionsanforderungen.'
+    - title: 'Flexibilität bei Mindestbestellmengen'
+      description: 'Ob Sie kleine Mengen für Muster oder große Volumina für die Produktion benötigen, wir berücksichtigen verschiedene Bestellgrößen.'
+    - title: 'Farbanpassung'
+      description: 'Zugang zu umfangreichen Farbbibliotheken und kundenspezifischen Färbeservices, um Ihre genauen Markenspezifikationen zu erfüllen.'
+
+cta:
+  title: 'Bereit, Ihre Stoffe auszuwählen?'
+  description: 'Lassen Sie unsere Stoffexperten Ihnen helfen, die perfekten Materialien für Ihre Bademode-Kollektion auszuwählen. Fordern Sie Muster, technische Daten an oder vereinbaren Sie eine Beratung.'
+  button: 'Stoffspezialisten kontaktieren'
+  link: '/contact'

@@ -108,29 +108,3 @@
     },
   });
 </script>
-
-<style scoped>
-  .bg-gray-25 {
-    background-color: #fafafa;
-  }
-
-  .bg-green-25 {
-    background-color: #f0fdf4;
-  }
-
-  /* 确保表格在移动设备上的响应式 */
-  @media (max-width: 768px) {
-    table {
-      font-size: 0.875rem;
-    }
-
-    th,
-    td {
-      padding: 0.75rem 0.5rem;
-    }
-
-    .text-lg {
-      font-size: 1rem;
-    }
-  }
-</style>

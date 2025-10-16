@@ -1,0 +1,104 @@
+title: '優れた水着のためのプレミアム生地選択'
+description: '水着専用に設計された高性能生地のキュレーションされたコレクションをご覧ください。持続可能な素材からUV保護テキスタイルまで、ブランドのために最高品質の生地のみを調達しています。'
+
+seo:
+  title: 'プレミアム水着生地 | 高性能素材 | Tideline'
+  description: 'ポリエステルブレンド、持続可能な素材、UV保護テキスタイルを含むプレミアム水着生地の包括的なコレクションをご覧ください。生地カタログと技術仕様をダウンロードできます。'
+  keywords: '水着生地, 高性能生地, 持続可能な水着素材, UV保護生地, ECONYL生地, リサイクルポリエステル, 水着テキスタイル'
+  ogTitle: 'プレミアム水着生地・素材 | Tideline'
+  ogDescription: '水着製造のための高性能生地をご覧ください。持続可能なオプション、UV保護、技術仕様をご用意しています。'
+  ogType: 'website'
+  ogImage: '/fabric-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'プレミアム水着生地 | Tideline'
+  twitterDescription: '製造用プレミアム水着生地の包括的なコレクションをご覧ください。'
+
+hero:
+  alt: 'プレミアム水着生地'
+  ctaButton: '生地カタログを見る'
+  ctaLink: '#catalog'
+
+features:
+  title: '当社の生地が優れている理由'
+  description: '水着生産の厳しい要件を満たす革新的で高品質な生地を提供するため、世界中の主要な工場と提携しています。'
+  items:
+    - id: 1
+      title: '性能テスト済み'
+      description: 'すべての生地は、塩素耐性、UV保護、色堅牢度、ストレッチ回復性について厳格なテストを受け、持続的な品質を保証します。'
+      icon: 'ShieldCheckIcon'
+    - id: 2
+      title: '持続可能なオプション'
+      description: 'リサイクルナイロン、ECONYL®、OEKO-TEX®認定生地を含む環境に優しい素材から選択でき、性能を損なうことなく環境への影響を削減します。'
+      icon: 'SparklesIcon'
+    - id: 3
+      title: '技術仕様'
+      description: '組成、重量、ストレッチ率、ケア方法を含む各生地の詳細な技術データシートで、十分な情報に基づいた決定を支援します。'
+      icon: 'DocumentTextIcon'
+
+catalog:
+  title: '生地コレクションを見る'
+  description: '詳細な仕様、カラーレンジ、技術特性を探求するために、包括的な生地カタログをダウンロードしてください。各カタログにはサンプルと性能データが含まれています。'
+  viewButtonText: 'カタログを見る'
+  note: '物理的なスウォッチやカスタム生地開発が必要ですか? パーソナライズされた支援のために生地スペシャリストにご連絡ください。'
+  pdfs:
+    - title: 'ポリエステル生地コレクション'
+      description: 'アクティブな水着に最適な高性能ポリエステルブレンドで、優れた形状保持と速乾性を提供します。'
+      file: '/pdf/tideline-polyester-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - '速乾技術'
+        - '優れた形状保持'
+        - '塩素耐性'
+      gradient: 'bg-gradient-to-br from-blue-500/10 to-cyan-500/10'
+      iconBg: 'bg-gradient-to-br from-blue-600 to-cyan-600'
+      buttonClass: 'bg-blue-600 text-white hover:bg-blue-700'
+      accentLine: 'bg-gradient-to-r from-blue-600 to-cyan-600'
+
+    - title: '持続可能な生地コレクション'
+      description: 'リサイクルポリエステルとECONYL®再生ナイロンを含む環境に配慮した素材で、持続可能性と性能を組み合わせています。'
+      file: '/pdf/tideline-sustainable-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'リサイクル素材'
+        - 'OEKO-TEX®認定'
+        - '炭素排出量削減'
+      gradient: 'bg-gradient-to-br from-green-500/10 to-emerald-500/10'
+      iconBg: 'bg-gradient-to-br from-green-600 to-emerald-600'
+      buttonClass: 'bg-green-600 text-white hover:bg-green-700'
+      accentLine: 'bg-gradient-to-r from-green-600 to-emerald-600'
+
+    - title: 'UV保護生地コレクション'
+      description: 'UPF 50+保護を備えた高度なUVブロッキング生地で、パフォーマンス水着と日焼け防止衣類に最適です。'
+      file: '/pdf/tideline-uv-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'UPF 50+保護'
+        - '色褪せ耐性'
+        - '吸湿速乾'
+      gradient: 'bg-gradient-to-br from-purple-500/10 to-pink-500/10'
+      iconBg: 'bg-gradient-to-br from-purple-600 to-pink-600'
+      buttonClass: 'bg-purple-600 text-white hover:bg-purple-700'
+      accentLine: 'bg-gradient-to-r from-purple-600 to-pink-600'
+
+whyChoose:
+  title: '当社の生地選択を選ぶ理由は?'
+  description: '当社の生地調達プロセスは、水着生産の最高基準を満たす素材を確実に受け取れるように設計されています。'
+  reasons:
+    - title: '直接工場パートナーシップ'
+      description: '認定工場と直接協力し、仲介業者を排除して、品質を妥協することなく競争力のある価格を提供します。'
+    - title: '品質保証'
+      description: 'すべての生地バッチは、水着製造の厳格な品質基準を満たすために検査およびテストされます。'
+    - title: '短納期'
+      description: '戦略的な在庫管理と信頼できるサプライチェーンにより、生産スケジュールに合わせた適時配送を保証します。'
+    - title: '技術サポート'
+      description: '当社の生地スペシャリストは、素材選択、デザインとの互換性、生産要件に関する専門的なガイダンスを提供します。'
+    - title: '最小注文の柔軟性'
+      description: 'サンプル用の少量でも生産用の大量でも、さまざまな注文サイズに対応します。'
+    - title: 'カラーカスタマイズ'
+      description: '正確なブランド仕様に合わせた広範なカラーライブラリとカスタム染色サービスへのアクセス。'
+
+cta:
+  title: '生地を選ぶ準備はできましたか?'
+  description: '当社の生地エキスパートが水着コレクションに最適な素材を選ぶお手伝いをします。スウォッチ、技術データをリクエストするか、相談をスケジュールしてください。'
+  button: '生地スペシャリストに連絡'
+  link: '/contact'

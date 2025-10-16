@@ -1,0 +1,146 @@
+title: 'Tideline: Más que un Proveedor, su Socio en la Construcción de Marca de Trajes de Baño.'
+description: 'Ofrecemos fabricación de trajes de baño personalizados de alta calidad, de extremo a extremo, desde el diseño hasta la entrega.'
+
+seo:
+  title: 'Fabricante Premium de Trajes de Baño: Bañadores y Bikinis de Alta Calidad | Tideline Swim'
+  description: 'Tideline Swim es un fabricante premium de trajes de baño con sede en China, especializado en bañadores personalizados de alta calidad, bikinis y producción de marca privada. Nos asociamos con marcas y diseñadores exigentes en todo el mundo, ofreciendo fabricación sostenible, artesanía meticulosa y servicio excepcional para dar vida a su visión de trajes de baño de lujo.'
+  keywords: 'fabricante premium de trajes de baño, fábrica de bañadores de lujo, fabricante de bikinis personalizados, trajes de baño de alta calidad, trajes de baño marca privada, producción ecológica de trajes de baño, trajes de baño sostenibles, fabricante de trajes de baño de diseñador, OEM trajes de baño, proveedor de trajes de baño, Tideline Swim'
+  ogImage: '/og-image.jpg'
+  twitterCard: 'summary_large_image'
+  ogType: 'website'
+  ogSiteName: 'Tideline Swim'
+  twitterSite: '@TidelineSwim'
+  robots: 'index, follow'
+  canonical: 'https://tidelineswim.com/es'
+
+hero:
+  src: /hero_banner.webp
+  alt: 'Construya su Línea Premium de Trajes de Baño'
+  ctaButton: 'Solicitar una Muestra'
+  features:
+    - text: 'MOQ tan bajo como 60 piezas'
+      href: '/bulkproduction'
+    - text: 'Producción rápida de 15 días'
+      href: '/bulkproduction'
+    - text: 'Soporte de diseño gratuito'
+      href: '/sampling'
+videoShowcase:
+  title: 'Explore Nuestro Proceso de Fabricación de Trajes de Baño'
+  description: 'Este video muestra el viaje de creación de sus trajes de baño personalizados de alta calidad, respaldados por diseño profesional y fabricación de precisión.'
+  ctaText: 'Aprende Más'
+  videoSrc: 'https://www.youtube.com/watch?v=sSPf81Vexwc'
+  videoDuration: '5:32'
+  youtubeWatchText: 'Ver en YouTube'
+
+howWorks:
+  title: 'De la Idea a los Trajes de Baño en 5 Pasos Simples'
+  description: 'Optimice su proceso de creación de marca. Concéntrese en la creatividad y el marketing.'
+  cta: 'Comience su Viaje de Marca'
+  steps:
+    - title: 'Consulta'
+      description: 'Comparta el concepto y los requisitos de su marca por teléfono, correo electrónico o nuestro formulario en línea.'
+      icon: 'ChatBubbleLeftRightIcon'
+    - title: 'Diseño y Muestreo'
+      description: 'Tideline crea diseños profesionales y produce muestras para usted.'
+      icon: 'PencilSquareIcon'
+    - title: 'Confirmación y Pedido'
+      description: 'Finalice los detalles y apruebe la orden de producción después de la revisión de la muestra.'
+      icon: 'CheckCircleIcon'
+    - title: 'Producción y Envío'
+      description: 'Tideline manejará la fabricación de alto estándar y organizará la logística confiable.'
+      icon: 'TruckIcon'
+    - title: 'Soporte de Crecimiento'
+      description: 'Tideline brinda asesoramiento técnico y de marketing continuo para el desarrollo de marca a largo plazo.'
+      icon: 'ChartBarIcon'
+
+whyUs:
+  title: '¿Necesita un Proveedor que Entienda de Branding?'
+  description: 'Asóciese con Tideline para obtener experiencia estratégica que convierta productos en una marca poderosa.'
+  cta: 'Conozca Más Sobre Nuestras Ventajas'
+  advantages:
+    - name: 'Precios y Comunicación Directa de Fábrica'
+      description: 'Como fábrica directa, Tideline elimina los costos de intermediarios para ofrecer precios más competitivos y garantizar una comunicación eficiente y transparente.'
+      icon: 'SwatchIcon'
+    - name: 'Amplia Biblioteca de Materiales y Componentes'
+      description: 'Tideline proporciona una selección diversa de telas y accesorios, desde nylon ecológico hasta compuestos de alta elasticidad, para satisfacer diversas necesidades de estilo y funcionalidad.'
+      icon: 'BuildingOfficeIcon'
+    - name: 'Soporte Flexible de Bajo Volumen y Muestreo'
+      description: 'Comience con pedidos de lotes pequeños (MOQ 60 piezas) para probar el mercado con un riesgo mínimo. Benefíciese de un servicio de muestreo rápido, con prototipos entregados en tan solo 3 días.'
+      icon: 'LightBulbIcon'
+    - name: 'Riguroso Control de Calidad'
+      description: 'Nuestro estricto sistema de inspección de cuatro etapas, desde materias primas hasta productos terminados, garantiza que cada prenda cumpla con los estándares de calidad internacionales.'
+      icon: 'ShieldCheckIcon'
+
+indexCta:
+  title: 'Está a solo una decisión de tener su propia marca de trajes de baño'
+  description: 'Obtenga una consulta personalizada gratuita 1 a 1. Nuestro equipo profesional brindará apoyo completo en la creación de marca y producción para comenzar su viaje en trajes de baño.'
+  cta: 'Obtener Consulta Gratuita'
+  image:
+    src: '/home/indexcta.webp'
+    alt: 'Consulta de marca de trajes de baño'
+
+products:
+  title: 'Colecciones de Productos'
+  description: 'Empoderando su marca con telas premium y diseños dirigidos'
+  learnMoreText: 'Explorar'
+  quoteText: 'Solicitar Cotización'
+  quoteLink: '/contact'
+  items:
+    - id: 1
+      name: 'Colecciones de Trajes de Baño'
+      href: '/collections/swimwear'
+      description: 'Soporte de personalización completa de patrones, colores, LOGO y tamaños para satisfacer las necesidades de su marca'
+      imageSrc: '/home/homeserver-1.avif'
+      imageAlt: 'Conjunto de bikini premium en varios colores dispuesto en un entorno de playa.'
+    - id: 2
+      name: 'Colecciones de Ropa Deportiva'
+      href: '/collections/activewear'
+      description: 'Desde pedidos de prueba de lotes pequeños hasta producción a gran escala, proporcionamos soluciones de producción flexibles'
+      imageSrc: '/home/homeserver-2.avif'
+      imageAlt: 'Traje de baño de una pieza atlético en elegante diseño negro.'
+    - id: 3
+      name: 'Colecciones Tan Through'
+      href: '/collections/tan-through'
+      description: 'Equipo de logística profesional asegura que sus pedidos se entreguen a tiempo en todo el mundo'
+      imageSrc: '/home/homeserver-3.avif'
+      imageAlt: 'Conjunto de tankini de diseñador en sofisticado diseño blanco.'
+    - id: 4
+      name: 'Colecciones de Accesorios'
+      href: '/collections/accessories'
+      description: 'Brindamos soporte profesional integral desde la consulta de diseño hasta el servicio postventa'
+      imageSrc: '/home/homeserver-4.avif'
+      imageAlt: 'Elegante pareo de playa en tonos neutros.'
+
+serviceAdvantages:
+  title: 'Ventajas del Servicio'
+  description: 'Asóciese con Nosotros para Elevar su Colección y Simplificar su Cadena de Suministro'
+  advantages:
+    - id: 1
+      title: 'Diseño Personalizado'
+      description: 'Equipo de diseño profesional crea estilos únicos de trajes de baño adaptados a su marca y las necesidades del cliente.'
+      icon: 'CogIcon'
+    - id: 2
+      title: 'Producción Rápida'
+      description: 'Proceso de producción eficiente con entrega rápida de 15 días para satisfacer sus demandas urgentes del mercado.'
+      icon: 'ClockIcon'
+    - id: 3
+      title: 'Garantía de Calidad'
+      description: 'Sistema estricto de control de calidad asegura que cada pieza cumpla con los estándares internacionales y las expectativas del cliente.'
+      icon: 'ShieldCheckIcon'
+    - id: 4
+      title: 'Servicio Profesional'
+      description: 'Equipo dedicado de servicio al cliente brinda soporte integral desde el diseño hasta la entrega.'
+      icon: 'UserGroupIcon'
+
+contactForm:
+  modalTitle: 'Contáctenos'
+  nameLabel: 'Nombre Completo'
+  namePlaceholder: 'Ingrese su nombre completo'
+  emailLabel: 'Dirección de Correo Electrónico'
+  emailPlaceholder: 'Ingrese su dirección de correo electrónico'
+  messageLabel: 'Mensaje'
+  messagePlaceholder: 'Cuéntenos sobre los requisitos de su proyecto...'
+  consentText: 'Acepto recibir actualizaciones y comunicaciones de Tideline.'
+  submitButton: 'Enviar'
+  successMessage: '¡Gracias! Nos pondremos en contacto con usted pronto.'
+  errorMessage: 'Envío fallido. Inténtelo de nuevo o contacte a nuestro equipo de soporte.'

@@ -1,0 +1,121 @@
+title: 'Fabricante de Roupas de Banho Esportivas'
+description: 'Mais que um fornecedor — seu parceiro na construção da marca de roupas de banho.'
+
+seo:
+  title: 'Fabricante de Roupas de Banho Esportivas | TIDELINE SWIMWEAR'
+  description: 'Fabricante de roupas de banho esportivas de alto desempenho para competição e treinamento. Maiôs de corrida, roupas de banho de treino, maiôs de polo aquático. Designs personalizados, preços atacado.'
+  keywords: 'fabricante roupas de banho esportivas, fornecedor maiôs de corrida, roupas de banho competitivas, roupas de banho treino atacado, fábrica roupas de banho performance, fabricante roupas de banho atléticas'
+  ogTitle: 'Fabricante de Roupas de Banho Esportivas | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricante profissional de roupas de banho esportivas. Maiôs de corrida, equipamentos de treino, roupas de banho competitivas. Designs de alto desempenho.'
+  ogType: 'website'
+  ogImage: '/catalog/sports-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricante de Roupas de Banho Esportivas | TIDELINE SWIMWEAR'
+  twitterDescription: 'Roupas de banho esportivas de alto desempenho. Equipamentos de competição e treino. Designs personalizados para atletas.'
+
+# Hero section
+hero:
+  cta_text: 'Consultoria'
+  cta_href: '/contact'
+  image_src: '/catalog/sports-swimwear-bg.webp'
+  image_alt: 'Fabricação de Roupas de Banho Esportivas'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Nossa Missão'
+  paragraph1: 'Na TideLine Swimwear, sabemos que roupas de banho esportivas e de performance são uma categoria essencial para consumidores competitivos e ativos. A cada temporada, nossa equipe de design desenvolve coleções que combinam performance funcional, tecidos duráveis e caimentos confortáveis—desde peças únicas aerodinâmicas até sungas de performance—dando a atacadistas e proprietários de marcas opções versáteis para atender às demandas de atletas e nadadores ativos.'
+  whatsapp_link_text: 'Entre em contato conosco no WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experiência na Indústria de Roupas de Banho'
+    value: '10 anos +'
+  - label: 'Pedidos Cumpridos'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Maiôs de Corrida'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/racing-1.webp'
+    imageAlt: 'Coleção de Maiôs de Corrida'
+  - name: 'Roupas de Banho de Treino'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/training-1.webp'
+    imageAlt: 'Coleção de Roupas de Banho de Treino'
+  - name: 'Maiôs de Polo Aquático'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/water-polo-1.webp'
+    imageAlt: 'Coleção de Maiôs de Polo Aquático'
+  - name: 'Maiôs de Triathlon'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/triathlon-1.webp'
+    imageAlt: 'Coleção de Maiôs de Triathlon'
+
+# Customization capabilities
+customization:
+  title: 'Capacidades de Personalização'
+  description: 'Roupas de banho totalmente personalizáveis—TideLine aceita todos os designs personalizados, tecidos, ferragens, logos e embalagens para dar vida à sua visão de marca.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Instalação de Fabricação'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalização de Estilo'
+      description: 'Dê vida a qualquer design de roupa de banho—escolha seu estilo perfeito e deixe-nos criá-lo para sua marca.'
+      link: '/contact'
+      cta_text: 'Consultoria'
+    - name: 'Personalização de Tecido'
+      description: 'Escolha de uma ampla gama de tecidos para criar roupas de banho confortáveis de usar e bonitas de ver.'
+      link: '/fabric'
+      cta_text: 'Tecido'
+    - name: 'Personalização de Ferragens'
+      description: 'Personalize cada detalhe—de fivelas e anéis a zíperes—nossas opções de ferragens elevam seu design.'
+      link: '/hardware'
+      cta_text: 'Ferragens'
+    - name: 'Personalização de Logo'
+      description: 'Torne-o verdadeiramente seu—adicione seu logo a cada peça para um visual de marca profissional.'
+    - name: 'Personalização de Embalagem'
+      description: 'Complete sua experiência de marca com embalagem adaptada ao seu estilo e visão.'
+    - name: 'Entre em contato'
+      description: 'Pronto? Vamos transformar suas ideias de roupas de banho em realidade.'
+      link: '/contact'
+      cta_text: 'Entre em contato'
+
+# Getting Started section
+getting_started:
+  title: 'Sua jornada de roupas de banho começa aqui'
+  description: 'Seja lançando sua primeira coleção ou expandindo sua marca, TideLine fornece soluções de roupas de banho sob medida para atender suas necessidades. Escolha seu caminho e comece.'
+  beginner_text: 'Começar como Iniciante'
+  beginner_href: '/startup'
+  pro_text: 'Comprador Experiente'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processo de Fabricação'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Perguntas Frequentes'
+  questions:
+    - id: 1
+      question: 'Qual é a diferença entre roupas de banho esportivas e roupas de banho regulares?'
+      answer: 'Roupas de banho esportivas são especialmente projetadas para atividades de alta intensidade, oferecendo maior elasticidade, suporte e durabilidade. Elas tipicamente usam tecidos mais compressivos para reduzir a resistência da água, ajudando atletas a aumentar velocidade e performance. Comparadas às roupas de banho regulares, as roupas de banho esportivas focam mais no conforto e ajuste, garantindo que atletas tenham melhor liberdade de movimento e suporte durante a natação.'
+    - id: 2
+      question: 'Qual tecido é melhor para natação competitiva?'
+      answer: 'Roupas de banho competitivas são tipicamente feitas de materiais de alto desempenho como poliéster, spandex (elastano), nylon e fibras elásticas. Estes materiais oferecem excelente elasticidade, resistência e impermeabilidade, reduzindo efetivamente o atrito e a resistência da água, melhorando assim a eficiência da natação. Recentemente, surgiram roupas de banho eco-friendly feitas de fibras plásticas recicladas (RPET), oferecendo boa performance e sustentabilidade.'
+    - id: 3
+      question: 'Como escolher o tamanho certo para roupas de banho esportivas?'
+      answer: 'Ao selecionar roupas de banho esportivas, o tamanho certo é muito importante porque a roupa de banho precisa se ajustar firmemente para fornecer suporte adequado e uma forma aerodinâmica. É recomendado escolher roupas de banho que se ajustem bem mas não sejam muito folgadas, garantindo conforto sem restringir o movimento. Muitas marcas fornecem tabelas de tamanhos que podem ajudar você a selecionar o tamanho certo baseado no seu tipo de corpo, ou você pode consultar a marca para recomendações específicas de tamanhos.'
+    - id: 4
+      question: 'Quão resistentes ao cloro são as roupas de banho esportivas?'
+      answer: 'Roupas de banho esportivas são frequentemente feitas de materiais resistentes ao cloro como fibras de poliéster e PBT (politereftalato de polibutileno), que oferecem melhor resistência ao cloro do que tecidos tradicionais de Lycra. Estes materiais ajudam a proteger as roupas de banho dos efeitos prejudiciais do cloro nas piscinas, estendendo a vida útil do maiô. É importante escolher roupas de banho com forte resistência ao cloro para garantir longevidade.'
+    - id: 5
+      question: 'Como o conforto das roupas de banho esportivas é garantido?'
+      answer: 'O conforto das roupas de banho esportivas é principalmente garantido através de design científico e tecidos de alto desempenho. Roupas de banho esportivas frequentemente usam designs sem costura ou técnicas de corte precisas para reduzir o atrito entre o corpo e a roupa de banho, prevenindo desconforto durante o exercício. Adicionalmente, materiais respiráveis são usados para manter atletas secos e confortáveis durante treinos intensos.'
+    - id: 6
+      question: 'Como lavar e cuidar das roupas de banho esportivas?'
+      answer: 'Para prolongar a vida útil das roupas de banho esportivas, é recomendado lavá-las à mão ou na máquina em água fria e evitar detergentes contendo alvejante. Após a lavagem, a roupa de banho deve ser estendida para secar, evitando luz solar direta ou secagem na secadora. Manter a roupa de banho limpa e seca ajuda a prevenir danos ao tecido e preserva sua performance e elasticidade.'
+    - id: 7
+      question: 'Existem roupas de banho esportivas feitas de materiais eco-friendly?'
+      answer: 'Sim, cada vez mais marcas de roupas de banho esportivas estão usando materiais eco-friendly como fibras plásticas recicladas (RPET) e fibras naturais. Estes materiais não apenas oferecem ótima performance mas também atendem padrões de sustentabilidade e proteção ambiental. Se sua marca é ambientalmente consciente, podemos fornecer roupas de banho esportivas personalizadas que atendem padrões eco-friendly e melhoram sua imagem de marca.'

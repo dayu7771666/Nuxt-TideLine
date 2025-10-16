@@ -1,0 +1,159 @@
+title: 'Versandrichtlinie'
+description: 'Zuverlässige globale Versandlösungen für Ihre Bademode-Geschäftsanforderungen'
+
+seo:
+  title: 'Versandrichtlinie | TIDELINE SWIMWEAR'
+  description: 'Zuverlässige globale Versandlösungen für Ihre Bademode-Geschäftsanforderungen. Express- und Seefracht-Optionen, weltweite Abdeckung in über 150 Länder, Echtzeit-Tracking.'
+  keywords: 'Bademode-Versand, globaler Versand, Express-Kurier, Seefracht, Luftfracht, DHL, FedEx, UPS, Bestellverfolgung, internationaler Versand, Badeanzug-Lieferung'
+  ogTitle: 'Versandrichtlinie | TIDELINE SWIMWEAR'
+  ogDescription: 'Zuverlässige globale Versandlösungen für Ihre Bademode-Geschäftsanforderungen. Express- und Seefracht-Optionen, weltweite Abdeckung in über 150 Länder.'
+  ogType: 'website'
+  ogImage: '/shipping.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Versandrichtlinie | TIDELINE SWIMWEAR'
+  twitterDescription: 'Zuverlässige globale Versandlösungen für Ihre Bademode-Geschäftsanforderungen. Express- und Seefracht-Optionen, weltweite Abdeckung in über 150 Länder.'
+
+hero:
+  image: '/shipping-banner.webp'
+
+orderTracking:
+  title: 'Bestellverfolgung'
+  description: 'Wir bieten umfassende Verfolgung für alle Bestellungen, um sicherzustellen, dass Sie bei jedem Schritt über Ihren Sendungsstatus informiert bleiben.'
+  features:
+    - 'Sendungsverfolgungsnummern werden innerhalb von 24 Stunden nach Versand per E-Mail verschickt'
+    - 'Echtzeit-Verfolgung verfügbar auf unserer Website oder der Website des Spediteurs'
+    - 'Regelmäßige Statusaktualisierungen per E-Mail für Produktionsaufträge'
+    - 'Dedizierter Account Manager für Bestellungen über 10.000 $'
+  trackTitle: 'Verfolgen Sie Ihre Bestellung: Geben Sie unten Ihre Sendungsverfolgungsnummer ein, um den aktuellen Status Ihrer Sendung zu überprüfen.'
+  trackPlaceholder: 'Sendungsverfolgungsnummer eingeben'
+  trackButton: 'Verfolgen'
+
+methods:
+  title: 'Versandmethoden'
+  description: 'Wir bieten verschiedene Versandoptionen basierend auf Ihrem Bestelltyp und Ihrer Dringlichkeit, um Ihre spezifischen Geschäftsanforderungen zu erfüllen.'
+  sample:
+    title: 'Musterbestellung'
+    description: 'Für Musterbestellungen bieten wir eine Vielzahl von Versandoptionen, um Ihnen schnelle Entscheidungen zu ermöglichen:'
+    options:
+      - name: 'Express-Kurier'
+        description: 'DHL, FedEx, UPS (3-7 Werktage)'
+      - name: 'Standard-Luftpost'
+        description: '(7-14 Werktage)'
+      - name: 'Economy'
+        description: '(14-21 Werktage)'
+  bulk:
+    title: 'Großproduktionsaufträge'
+    description: 'Für Großproduktionsaufträge bieten wir kosteneffektive Lösungen:'
+    options:
+      - name: 'Luftfracht'
+        description: '(7-15 Werktage)'
+      - name: 'Seefracht'
+        description: '(30-45 Werktage)'
+      - name: 'Express-Luft'
+        description: '(5-10 Werktage)'
+  important:
+    title: 'Wichtig'
+    note: 'Produktionsvorlaufzeiten kommen zu den Versandzeiten hinzu. Bitte kontaktieren Sie uns für genaue Produktionszeitpläne basierend auf Ihrer Bestellmenge und Komplexität.'
+
+coverage:
+  title: 'Versandabdeckung'
+  description: 'Wir bieten Versanddienstleistungen in über 150 Länder weltweit. Unser Partnernetzwerk bietet schnelle Lieferung auf der ganzen Welt.'
+  globalOperationsTitle: 'Tideline Globale Geschäftsoperationen & Logistik'
+  businessRegions:
+    - title: 'China - Fertigungszentrum'
+      description: 'Moderne Bekleidungsfabrik mit über 10 Jahren Produktions- und Vertriebserfahrung.'
+      icon: 'heroicons:building-office-20-solid'
+      color: 'red'
+    - title: 'USA - Fulfillment-Center'
+      description: 'Übersee-Lager mit Lagerbestand, 3-5 Tage Lieferung an lokale Kunden.'
+      icon: 'heroicons:building-storefront-20-solid'
+      color: 'blue'
+    - title: 'Europa & Australien'
+      description: 'Primäre Geschäftsregionen, die verschiedene Kundentypen bedienen.'
+      icon: 'heroicons:globe-europe-africa-20-solid'
+      color: 'green'
+    - title: 'Andere Geschäftsregion'
+      description: 'Wie bescheidene Bademode, die auf lokale Kunden und Vorlieben zugeschnitten ist'
+      icon: 'heroicons:map-pin-20-solid'
+      color: 'purple'
+  mapTitle: 'TIDELINE SWIMWEAR IST DORT, WO IHRE KUNDEN SIND'
+  mapSubtitle: 'Unser Partnernetzwerk bietet schnelle Lieferung auf der ganzen Welt.'
+  regions:
+    - name: 'Nordamerika'
+      status: 'available'
+    - name: 'Europäische Union'
+      status: 'available'
+    - name: 'Asien'
+      status: 'available'
+    - name: 'Afrika'
+      status: 'limited'
+    - name: 'Südamerika'
+      status: 'available'
+    - name: 'Australien & NZ'
+      status: 'available'
+  legend:
+    available: 'Verfügbar für Versand'
+    limited: 'Eingeschränkter/Kein Service'
+  note:
+    title: 'Hinweis'
+    text: 'Für spezifische Länderverfügbarkeit und eventuelle Einschränkungen kontaktieren Sie bitte unsere Versandabteilung: tidelineswim@swimsuitcustom.com'
+
+sidebar:
+  overview:
+    title: 'Versandübersicht'
+    description1: 'Bei TIDELINE SWIMWEAR verstehen wir, dass pünktliche Lieferung für Ihr Geschäft entscheidend ist. Unsere umfassenden Versandlösungen sind darauf ausgelegt, die vielfältigen Bedürfnisse unserer B2B-Kunden weltweit zu erfüllen.'
+    description2: 'Wir arbeiten mit führenden globalen Logistikanbietern zusammen, um sicherzustellen, dass Ihre Bademode-Bestellungen sicher und pünktlich bei Ihnen ankommen.'
+    keyFeatures: 'Hauptmerkmale'
+    features: 'Globale Abdeckung, flexible Versandoptionen, Echtzeit-Tracking und Zollhilfe.'
+  contact:
+    title: 'Benötigen Sie Hilfe beim Versand?'
+    email: 'E-Mail'
+    hours: 'Geschäftszeiten'
+    hoursTime: 'Mo-Fr: 9-18 Uhr (EST)'
+    emergency: 'WhatsApp'
+  quickLinks:
+    title: 'Schnelllinks'
+    links:
+      - key: 'calculator'
+        text: 'Versandkostenrechner'
+        href: 'https://wa.me/8618302407790'
+        external: true
+      - key: 'customs'
+        text: 'Zoll- und Steuerführer'
+        href: '#'
+        external: false
+      - key: 'documentation'
+        text: 'Zolldokumentation'
+        href: '#'
+        external: false
+      - key: 'processing'
+        text: 'Bearbeitungszeit-Info'
+        href: '#'
+        external: false
+      - key: 'packaging'
+        text: 'Verpackungsdetails'
+        href: '#'
+        external: false
+      - key: 'returns'
+        text: 'Rücksendungen & Umtausch'
+        href: '#'
+        external: false
+      - key: 'insurance'
+        text: 'Versandversicherung'
+        href: '#'
+        external: false
+      - key: 'faq'
+        text: 'Versand-FAQ'
+        href: '#'
+        external: false
+      - key: 'policy'
+        text: 'Rückgaberichtlinie'
+        href: '#'
+        external: false
+  partners:
+    title: 'Unsere Versandpartner'
+    description: 'Wir arbeiten mit vertrauenswürdigen globalen Logistikanbietern:'
+    list:
+      - 'DHL Express'
+      - 'FedEx'
+      - 'UPS'

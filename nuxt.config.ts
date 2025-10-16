@@ -1,6 +1,14 @@
-﻿export default defineNuxtConfig({
+﻿import {
+  getI18nLocales,
+  getEnabledLanguages,
+  getDomainForLanguage,
+} from './config/languages';
+
+export default defineNuxtConfig({
   devServer: {
-    host: '192.168.2.5',
+    // host: '192.168.2.5',
+    // port: 3000,
+    host: '127.0.0.1',
     port: 3000,
   },
   app: {
@@ -21,16 +29,47 @@
       failOnError: false,
     },
   },
+  vite: {
+    server: {
+      allowedHosts: (() => {
+        const enabledLanguages = getEnabledLanguages();
+        const hosts: string[] = [];
+
+        // 添加测试环境域名（开发时使用）
+        enabledLanguages.forEach(lang => {
+          hosts.push(`${lang}${lang}.swimsuitcustom.com`);
+        });
+
+        // 添加生产环境域名
+        enabledLanguages.forEach(lang => {
+          if (lang === 'en') {
+            hosts.push('www.swimsuitcustom.com');
+            hosts.push('en.swimsuitcustom.com');
+          } else {
+            hosts.push(`${lang}.swimsuitcustom.com`);
+          }
+        });
+
+        return hosts;
+      })(),
+    },
+  },
   modules: [
-    // '@nuxt/fonts',
+    // '@nuxt/fonts', // 禁用以避免 Google Fonts 网络请求
     '@nuxt/icon',
     '@nuxt/image',
     '@nuxtjs/i18n',
     '@nuxtjs/seo',
     '@nuxt/content',
     '@nuxtjs/tailwindcss',
-    '@nuxt/fonts',
   ],
+  //开发阶段
+  content: {
+    database: {
+      type: 'sqlite',
+      filename: ':memory:', // 👈 使用内存数据库
+    },
+  },
   css: ['~/assets/css/main.css'],
   image: {
     // The screen sizes predefined by @nuxt/image:
@@ -45,86 +84,7 @@
     },
   },
   i18n: {
-    locales: [
-      {
-        code: 'ar',
-        name: 'Arabic',
-        language: 'ar',
-        domain: 'arar.swimsuitcustom.com',
-        file: 'ar.json',
-      },
-      {
-        code: 'de',
-        name: 'Deutsch',
-        language: 'de',
-        domain: 'dede.swimsuitcustom.com',
-        file: 'de.json',
-      },
-      {
-        code: 'en',
-        name: 'English',
-        language: 'en',
-        domain: 'enen.swimsuitcustom.com',
-        domainDefault: true,
-        file: 'en.json',
-      },
-      {
-        code: 'es',
-        name: 'Spanish',
-        language: 'es',
-        domain: 'eses.swimsuitcustom.com',
-        file: 'es.json',
-      },
-      {
-        code: 'fr',
-        name: 'French',
-        language: 'fr',
-        domain: 'frfr.swimsuitcustom.com',
-        file: 'fr.json',
-      },
-      {
-        code: 'hi',
-        name: 'Hindi',
-        language: 'hi',
-        domain: 'hihi.swimsuitcustom.com',
-        file: 'hi.json',
-      },
-      {
-        code: 'it',
-        name: 'Italian',
-        language: 'it',
-        domain: 'itit.swimsuitcustom.com',
-        file: 'it.json',
-      },
-      {
-        code: 'ja',
-        name: 'Japanese',
-        language: 'ja',
-        domain: 'jaja.swimsuitcustom.com',
-        file: 'ja.json',
-      },
-      {
-        code: 'ko',
-        name: 'Korean',
-        language: 'ko',
-        domain: 'koko.swimsuitcustom.com',
-        file: 'ko.json',
-      },
-      {
-        code: 'pt',
-        name: 'Portuguese',
-        language: 'pt',
-        domain: 'ptpt.swimsuitcustom.com',
-        file: 'pt.json',
-      },
-      {
-        code: 'ru',
-        name: 'Russian',
-        language: 'ru',
-        domain: 'ruru.swimsuitcustom.com',
-        file: 'ru.json',
-      },
-    ],
+    locales: getI18nLocales(),
     strategy: 'no_prefix',
     differentDomains: true,
     detectBrowserLanguage: false,
@@ -135,6 +95,7 @@
     public: {
       BaseURL: 'https://us-api.swimsuitcustom.com', //独立站接口
       userBaseURL: 'https://user.swimsuitcustom.com',
+      enabledLanguages: getEnabledLanguages(), // 将启用的语言列表暴露给客户端
     },
   },
 });

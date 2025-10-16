@@ -1,14 +1,61 @@
 {
-  "hello": "helloEN",
+  "hello": "helloFR",
   "Home": "Accueil",
   "Contact": "Contact",
-  "支付成功": "Paiement réussi",
-  "感谢您的购买！": "Merci pour votre achat !",
-  "返回首页": "Retour à l'accueil",
-  "描述": "Description",
+  "Make it Real": "Concrétisez-le",
+  "Get Custom Pricing": "Obtenez un Devis Personnalisé",
+  "TideHeader": {
+    "加载导航时出错": "Erreur lors du chargement de la navigation",
+    "加载中": "Chargement"
+  },
+  "LanguageSwitcher": {
+    "关闭语言菜单": "Fermer le menu des langues",
+    "打开语言菜单": "Ouvrir le menu des langues"
+  },
+  "ContactForm": {
+    "consentText": "En remplissant ce formulaire, vous acceptez les",
+    "terms": "Conditions"
+  },
+  "你离自己的泳装品牌，只差一个决定": "Votre propre marque de maillots de bain n'est qu'à une décision près",
+  "免费获取1对1定制咨询，我们的专业团队将为您提供全方位的品牌创建与生产支持，开启您的泳装品牌之路。": "Obtenez une consultation personnalisée gratuite en tête-à-tête. Notre équipe professionnelle vous fournira un support complet pour la création de marque et la production afin de commencer votre parcours de marque de maillots de bain.",
+  "获取免费咨询": "Obtenez une Consultation Gratuite",
+  "立即咨询": "Consultez Maintenant",
+  "目录": "Table des Matières",
+  "没有找到目录项": "Aucune table des matières trouvée",
+  "最新文章": "Derniers Articles",
+  "想创建自己的泳装品牌吗？": "Vous voulez créer votre propre marque de maillots de bain ?",
+  "我们提供一系列的服务，提供最具性价比的泳衣，同时我们也支持定制服务，让您的想法变成现实，为您轻松开启自己的泳装品牌！": "Nous fournissons une gamme de services, offrant les maillots de bain les plus rentables. Nous supportons également les services personnalisés pour transformer vos idées en réalité et vous aider à démarrer facilement votre propre marque de maillots de bain !",
+  "了解更多": "En Savoir Plus",
+  "about": "à propos",
+  "WhatsApp": "WhatsApp",
+  "联系我们": "Contactez-nous",
+  "文章未找到": "Article Non Trouvé",
+  "successTitle": "Abonnement Réussi !",
+  "successMessage": "Merci de vous être abonné ! Vous pouvez maintenant profiter des avantages exclusifs suivants :",
+  "benefit1": "Recevez les dernières mises à jour de produits et informations promotionnelles.",
+  "benefit2": "Obtenez des notifications anticipées sur les offres à durée limitée.",
+  "benefit3": "Profitez de remises exclusives pour les membres.",
+  "backToHome": "Retour à l'Accueil",
+  "联系我们页面内容": "Que vous cherchiez à en savoir plus sur nos services de personnalisation ou que vous ayez des questions sur le processus de production, notre équipe est toujours prête à vous aider. Nous nous engageons à fournir un service de haute qualité et un support personnalisé pour assurer le développement fluide de votre marque. Si vous avez des questions ou souhaitez en savoir plus sur nos produits et services, n'hésitez pas à nous contacter par les canaux suivants. Nous avons hâte de travailler avec vous et d'aider votre marque à grandir !",
   "地址": "Adresse",
+  "Xingcheng, HuludaoCity,Liaoning Province, China": "Xingcheng, Ville de Huludao, Province du Liaoning, Chine",
+  "加我我们的计划引言": "\"L'avenir de l'industrie des maillots de bain repose sur l'innovation audacieuse et le fait de rester en avance sur les tendances—rejoignez-nous pour façonner la prochaine grande chose et créons ensemble quelque chose d'inoubliable !\"",
+  "First name": "Prénom",
+  "Email": "Email",
+  "Message": "Message",
+  "发表": "Soumettre",
+  "By submitting this form, I agree to the": "En soumettant ce formulaire, j'accepte les",
+  "条款": "Conditions",
+  "请填写您的名字！": "Veuillez saisir votre nom !",
+  "邮箱不能为空！": "L'email ne peut pas être vide !",
+  "处理中...": "Traitement en cours...",
+  "提交失败，请稍后重试": "Échec de la soumission, veuillez réessayer plus tard",
+  "支付成功": "Paiement Réussi",
+  "感谢您的购买！": "Merci pour votre achat !",
+  "返回首页": "Retour à l'Accueil",
+  "描述": "Description",
   "FirstName": "Prénom",
-  "LastName": "Nom de famille",
+  "LastName": "Nom de Famille",
   "Phone": "Téléphone",
   "Deliver to": "Livrer à",
   "Apartment, unit, suite, or floor": "Appartement, unité, suite ou étage",
@@ -16,19 +63,151 @@
   "State/Province": "État/Province",
   "Postal code": "Code postal",
   "Country/Region": "Pays/Région",
-  "确认订单信息": "Confirmer les informations de commande",
-  "处理中...": "Traitement en cours...",
+  "确认订单信息": "Confirmer les Informations de Commande",
   "不能为空": "ne peut pas être vide",
   "保存地址失败，请重试": "Échec de la sauvegarde de l'adresse, veuillez réessayer",
   "Network fluctuation, please contact the administrator.": "Fluctuation du réseau, veuillez contacter l'administrateur.",
-  "请输入完整的地址信息": "Veuillez saisir des informations d'adresse complètes",
+  "请输入完整的地址信息": "Veuillez saisir les informations d'adresse complètes",
   "支付系统加载失败，请刷新页面重试": "Échec du chargement du système de paiement, veuillez actualiser la page et réessayer",
-  "TideHeader": {
-    "加载导航时出错": "Error loading navigation",
-    "加载中": "Loading"
+  "blog": {
+    "categories": "Catégories",
+    "tags": "Étiquettes",
+    "all": "Tous",
+    "showingPage": "Affichage de la page",
+    "of": "de",
+    "totalArticles": "articles au total",
+    "by": "Par",
+    "blogTagsTitle": "Étiquettes du Blog",
+    "blogTags": {
+      "Bikini": "Bikini",
+      "Tankini": "Tankini",
+      "One-Piece": "Une-Pièce",
+      "Rash-Guard": "Rashguard",
+      "Trunks": "Caleçons",
+      "Boardshorts": "Boardshorts",
+      "OEM": "OEM",
+      "ODM": "ODM",
+      "Private Label": "Marque Privée",
+      "Factory": "Usine",
+      "Supplier": "Fournisseur",
+      "Manufacturing": "Fabrication",
+      "Heat Transfer": "Transfert Thermique",
+      "Logo Printing": "Impression de Logo",
+      "Size Guide": "Guide des Tailles",
+      "Quality Control": "Contrôle Qualité",
+      "Startup": "Startup",
+      "New Brand": "Nouvelle Marque",
+      "Small Business": "Petite Entreprise",
+      "Sampling": "Échantillonnage",
+      "MOQ": "MOQ",
+      "Bulk Production": "Production en Masse",
+      "AQL": "AQL",
+      "Incoterms": "Incoterms",
+      "Shipping": "Expédition",
+      "Sustainable Materials": "Matériaux Durables",
+      "Eco-friendly": "Écologique"
+    },
+    "seoblog": {
+      "title": "Blog de l'Industrie des Maillots de Bain | Conseils, Tendances et Insights de Fabrication | Tideline Swim",
+      "description": "Insights d'experts sur la fabrication de maillots de bain, tendances de design, conseils de production et meilleures pratiques de l'industrie. Apprenez sur l'OEM, ODM, échantillonnage, contrôle qualité et production durable de maillots de bain.",
+      "keywords": "blog maillots de bain, conseils fabrication maillots, tendances industrie maillots, insights OEM ODM, guide production maillots, maillots durables, contrôle qualité, processus échantillonnage",
+      "ogImage": "/blog-og-image.jpg",
+      "twitterCard": "summary_large_image"
+    }
   },
-  "LanguageSwitcher": {
-    "关闭语言菜单": "Close language menu",
-    "打开语言菜单": "Open language menu"
+  "Follow Us :": "Suivez-nous :",
+  "Free Quote": "Devis Gratuit",
+  "shipping": {
+    "title": "Politique d'Expédition",
+    "subtitle": "Solutions d'expédition mondiale fiables pour les besoins de votre entreprise de maillots de bain",
+    "orderTracking": {
+      "title": "Suivi de Commande",
+      "description": "Nous fournissons un suivi complet pour toutes les commandes pour vous assurer de rester informé du statut de votre expédition à chaque étape.",
+      "feature1": "Les numéros de suivi sont envoyés par email dans les 24 heures de l'expédition",
+      "feature2": "Suivi en temps réel disponible sur notre site web ou le site web du transporteur",
+      "feature3": "Mises à jour régulières du statut par email pour les commandes de production",
+      "feature4": "Gestionnaire de compte dédié pour les commandes supérieures à 10 000 $",
+      "trackTitle": "Suivez Votre Commande : Entrez votre numéro de suivi ci-dessous pour vérifier le statut actuel de votre expédition.",
+      "trackPlaceholder": "Entrez le numéro de suivi",
+      "trackButton": "Suivre"
+    },
+    "methods": {
+      "title": "Méthodes d'Expédition",
+      "description": "Nous offrons différentes options d'expédition basées sur votre type de commande et urgence pour répondre à vos exigences commerciales spécifiques.",
+      "sample": {
+        "title": "Commandes d'Échantillons",
+        "description": "Pour les commandes d'échantillons, nous fournissons des options d'expédition accélérée pour vous aider à prendre des décisions rapides :",
+        "express": "Courrier Express",
+        "expressTime": "DHL, FedEx, UPS (3-7 jours ouvrables)",
+        "standard": "Courrier Aérien Standard",
+        "standardTime": "(7-14 jours ouvrables)",
+        "economy": "Économique",
+        "economyTime": "(14-21 jours ouvrables)"
+      },
+      "bulk": {
+        "title": "Commandes de Production en Masse",
+        "description": "Pour les quantités de production, nous offrons des solutions rentables :",
+        "air": "Fret Aérien",
+        "airTime": "(7-15 jours ouvrables)",
+        "sea": "Fret Maritime",
+        "seaTime": "(30-45 jours ouvrables)",
+        "expressAir": "Aérien Express",
+        "expressAirTime": "(5-10 jours ouvrables)"
+      },
+      "important": "Important",
+      "importantNote": "Les délais de production s'ajoutent aux délais d'expédition. Veuillez nous contacter pour les délais de production exacts basés sur la quantité et la complexité de votre commande."
+    },
+    "coverage": {
+      "title": "Couverture d'Expédition",
+      "description": "Nous fournissons des services d'expédition vers plus de 150 pays dans le monde. Notre réseau de partenaires offre une livraison rapide à travers le globe.",
+      "mapTitle": "TIDELINE SWIMWEAR EST LÀ OÙ SONT VOS CLIENTS",
+      "mapSubtitle": "Notre réseau de partenaires offre une livraison rapide à travers le globe.",
+      "regions": {
+        "northAmerica": "Amérique du Nord",
+        "europe": "Union Européenne",
+        "asia": "Asie",
+        "africa": "Afrique",
+        "southAmerica": "Amérique du Sud",
+        "australia": "Australie et NZ"
+      },
+      "legend": {
+        "available": "Disponible pour Expédition",
+        "limited": "Service Limité/Indisponible"
+      },
+      "note": "Note",
+      "noteText": "Nous avons actuellement une disponibilité d'expédition limitée vers certaines régions d'Afrique et d'Asie centrale en raison de contraintes logistiques. Nous travaillons activement à étendre nos zones de service. Pour la disponibilité de pays spécifiques et toute restriction, veuillez contacter notre département d'expédition."
+    },
+    "sidebar": {
+      "overview": {
+        "title": "Aperçu de l'Expédition",
+        "description1": "Chez TIDELINE SWIMWEAR, nous comprenons que la livraison en temps opportun est cruciale pour votre entreprise. Nos solutions d'expédition complètes sont conçues pour répondre aux besoins divers de nos clients B2B dans le monde entier.",
+        "description2": "Nous nous associons avec des fournisseurs de logistique mondiale de premier plan pour nous assurer que vos commandes de maillots de bain vous parviennent en sécurité et à temps.",
+        "keyFeatures": "Caractéristiques Clés",
+        "features": "Couverture mondiale, options d'expédition flexibles, suivi en temps réel et assistance douanière."
+      },
+      "contact": {
+        "title": "Besoin d'Aide avec l'Expédition ?",
+        "email": "Email",
+        "hours": "Heures d'Ouverture",
+        "hoursTime": "Lun-Ven : 9h-18h (EST)",
+        "emergency": "Ligne d'Urgence"
+      },
+      "quickLinks": {
+        "title": "Liens Rapides",
+        "calculator": "Calculateur de Coût d'Expédition",
+        "customs": "Guide Douanes et Taxes",
+        "documentation": "Documentation Douanière",
+        "processing": "Info Temps de Traitement",
+        "packaging": "Détails d'Emballage",
+        "returns": "Retours et Échanges",
+        "insurance": "Assurance Expédition",
+        "faq": "FAQ Expédition",
+        "policy": "Politique de Retour"
+      },
+      "partners": {
+        "title": "Nos Partenaires d'Expédition",
+        "description": "Nous travaillons avec des fournisseurs de logistique mondiale de confiance :"
+      }
+    }
   }
 }

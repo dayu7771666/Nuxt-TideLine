@@ -1,0 +1,121 @@
+title: 'Fábrica de Trajes de Baño Talla Grande al Por Mayor'
+description: 'Más que un proveedor — tu socio en la construcción de marca de trajes de baño.'
+
+seo:
+  title: 'Fábrica de Trajes de Baño Talla Grande al Por Mayor | TIDELINE SWIMWEAR'
+  description: 'Fabricante premium de trajes de baño talla grande que ofrece diseños personalizados, comodidad excepcional y ajuste perfecto para todos los tipos de cuerpo. Precios mayoristas, tallas XL-6XL, MOQ bajo.'
+  keywords: 'fabricante trajes de baño talla grande, bikini talla grande mayorista, proveedor trajes de baño curvy, fábrica trajes de baño talla grande, trajes de baño tallas extendidas, trajes de baño talla grande mayorista'
+  ogTitle: 'Fábrica de Trajes de Baño Talla Grande al Por Mayor | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricante de trajes de baño talla grande. Diseños personalizados, tallas XL-6XL, comodidad y ajuste excepcional. Precios mayoristas disponibles.'
+  ogType: 'website'
+  ogImage: '/catalog/plus-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fábrica de Trajes de Baño Talla Grande al Por Mayor | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabricación de trajes de baño talla grande. Tallas XL-6XL, diseños personalizados, ajuste perfecto para todos los tipos de cuerpo.'
+
+# Hero section
+hero:
+  cta_text: 'Consulta'
+  cta_href: '/contact'
+  image_src: '/catalog/plus-swimwear-bg.webp'
+  image_alt: 'Fabricación de Trajes de Baño Talla Grande'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Nuestra Misión'
+  paragraph1: 'En TideLine Swimwear, sabemos que los trajes de baño talla grande son una categoría esencial para el mercado de la moda actual. Cada temporada, nuestro equipo de diseño crea colecciones específicamente adaptadas para tipos de cuerpo más curvilíneos—con ajustes de soporte, siluetas favorecedoras y telas duraderas—para que cada cliente pueda disfrutar tanto de comodidad como de confianza en la piscina o en la playa.'
+  whatsapp_link_text: 'Contáctanos en WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experiencia en la Industria de Trajes de Baño'
+    value: '10 años +'
+  - label: 'Pedidos Cumplidos'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Bikinis'
+    href: '/category?type=plus-size&subtype=bikini'
+    imageSrc: '/plus-swimwear/bikinis/bikini-1.webp'
+    imageAlt: 'Colección de Bikinis Talla Grande'
+  - name: 'Trajes de Baño de Una Pieza'
+    href: '/category?type=plus-size&subtype=one-piece'
+    imageSrc: '/plus-swimwear/one-piece/one-piece-1.webp'
+    imageAlt: 'Colección de Una Pieza Talla Grande'
+  - name: 'Tankinis'
+    href: '/category?type=plus-size&subtype=tankini'
+    imageSrc: '/plus-swimwear/tankini/tankini-1.webp'
+    imageAlt: 'Colección de Tankinis Talla Grande'
+  - name: 'Cubiertas de Playa'
+    href: '/category?type=plus-size&subtype=cover-up'
+    imageSrc: '/plus-swimwear/beach/beach-2.webp'
+    imageAlt: 'Colección de Cubiertas de Playa Talla Grande'
+
+# Customization capabilities
+customization:
+  title: 'Capacidades de Personalización'
+  description: 'Trajes de baño completamente personalizables—TideLine acepta todos los diseños personalizados, telas, herrajes, logos y empaques para dar vida a tu visión de marca.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Instalación de Fabricación'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalización de Estilo'
+      description: 'Da vida a cualquier diseño de traje de baño—elige tu estilo perfecto y déjanos crearlo para tu marca.'
+      link: '/contact'
+      cta_text: 'Consulta'
+    - name: 'Personalización de Tela'
+      description: 'Elige de una amplia gama de telas para crear trajes de baño cómodos de usar y hermosos de ver.'
+      link: '/fabric'
+      cta_text: 'Tela'
+    - name: 'Personalización de Herrajes'
+      description: 'Personaliza cada detalle—desde hebillas y anillos hasta cremalleras—nuestras opciones de herrajes elevan tu diseño.'
+      link: '/hardware'
+      cta_text: 'Herrajes'
+    - name: 'Personalización de Logo'
+      description: 'Hazlo verdaderamente tuyo—agrega tu logo a cada pieza para un look de marca profesional.'
+    - name: 'Personalización de Empaque'
+      description: 'Completa tu experiencia de marca con empaque adaptado a tu estilo y visión.'
+    - name: 'Contáctanos'
+      description: '¿Listo? Convirtamos tus ideas de trajes de baño en realidad.'
+      link: '/contact'
+      cta_text: 'Contáctanos'
+
+# Getting Started section
+getting_started:
+  title: 'Tu viaje en trajes de baño comienza aquí'
+  description: 'Ya sea que estés lanzando tu primera colección o escalando tu marca, TideLine proporciona soluciones de trajes de baño personalizadas para satisfacer tus necesidades. Elige tu camino y comienza.'
+  beginner_text: 'Comenzar como Principiante'
+  beginner_href: '/startup'
+  pro_text: 'Comprador Experimentado'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Proceso de Fabricación'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Preguntas Frecuentes'
+  questions:
+    - id: 1
+      question: '¿Ofrecen estilos de trajes de baño talla grande para mayorista?'
+      answer: 'Sí, ofrecemos una amplia gama de opciones de trajes de baño talla grande, incluyendo estilos modernos y clásicos, disponibles para pedidos mayoristas a precios competitivos.'
+    - id: 2
+      question: '¿Cuál es la cantidad mínima de pedido para trajes de baño talla grande?'
+      answer: 'Nuestra cantidad mínima de pedido (MOQ) para trajes de baño talla grande es de 30 piezas por estilo, con un mínimo de 10 piezas por talla. Buscamos hacer que los pedidos al por mayor sean fáciles y flexibles para tu negocio.'
+    - id: 3
+      question: '¿Puedo personalizar los diseños para trajes de baño talla grande?'
+      answer: '¡Absolutamente! Proporcionamos opciones de personalización completas para trajes de baño talla grande, incluyendo impresión de logos, opciones de telas, colores e incluso empaque para coincidir con la identidad de tu marca.'
+    - id: 4
+      question: '¿Qué tallas están disponibles en su colección de trajes de baño talla grande?'
+      answer: 'Ofrecemos una amplia gama de tallas, desde XL hasta 6XL, asegurando que puedas satisfacer las necesidades de tu diversa base de clientes. Nuestras tablas de tallas están disponibles para medidas precisas.'
+    - id: 5
+      question: '¿Qué materiales se usan en sus trajes de baño talla grande?'
+      answer: 'Nuestros trajes de baño talla grande están hechos de telas de alta calidad y elásticas como spandex y nylon, asegurando comodidad, durabilidad y un ajuste favorecedor para todos los tipos de cuerpo.'
+    - id: 6
+      question: '¿Cuánto tiempo tomará cumplir un pedido de trajes de baño talla grande?'
+      answer: 'Típicamente, nuestro tiempo de producción para trajes de baño talla grande es de 7-15 días dependiendo del tamaño del pedido y los requisitos de personalización. Los tiempos de envío pueden variar según tu ubicación.'
+    - id: 7
+      question: '¿Ofrecen servicios de dropshipping para trajes de baño talla grande?'
+      answer: 'Sí, apoyamos el dropshipping para trajes de baño talla grande. Esto significa que podemos enviar directamente a tus clientes, incluyendo empaque personalizado con tu marca, sin que tengas que mantener inventario.'

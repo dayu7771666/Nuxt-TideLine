@@ -1,0 +1,154 @@
+title: 'Hardware et Garnitures Premium pour Maillots de Bain'
+description: 'Élevez vos designs de maillots de bain avec notre sélection soignée de hardware et garnitures de haute qualité. Des élastiques résistants au chlore aux accessoires métalliques durables, chaque détail compte dans la création de maillots de bain durables.'
+
+seo:
+  title: 'Hardware et Garnitures pour Maillots de Bain | Accessoires de Qualité Premium | Tideline Swim'
+  description: 'Élevez vos designs de maillots de bain avec du hardware et des garnitures premium. Élastiques résistants au chlore, accessoires métalliques antirouille, bonnets de soutien-gorge et options de branding personnalisées. Composants de maillots de bain certifiés en qualité.'
+  keywords: 'hardware de maillots de bain, accessoires de maillots de bain, élastique résistant au chlore, boucles métalliques, bonnets de soutien-gorge, garnitures de maillots de bain, crochet et œillet, bretelles ajustables, étiquettes de maillots de bain, hardware personnalisé'
+  ogTitle: 'Hardware et Garnitures Premium pour Maillots de Bain | Tideline Swim'
+  ogDescription: 'Élevez vos designs de maillots de bain avec du hardware et des garnitures premium. Élastiques résistants au chlore, accessoires métalliques antirouille et options de branding personnalisées.'
+  ogType: 'website'
+  ogImage: '/hardware/hardware-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Hardware et Garnitures Premium pour Maillots de Bain | Tideline Swim'
+  twitterDescription: 'Hardware et garnitures pour maillots de bain certifiés en qualité. Composants résistants au chlore, durables et personnalisables pour vos designs.'
+
+hero:
+  ctaButton: 'Explorez Notre Catalogue de Hardware'
+
+gallery:
+  title: 'Notre Collection de Hardware'
+  description: "Parcourez notre vaste gamme de hardware et garnitures spécifiques aux maillots de bain, soigneusement sélectionnés pour la durabilité, la fonctionnalité et l'attrait esthétique."
+  categories:
+    - name: 'Hardware Métallique'
+      description: 'Boucles, anneaux, curseurs et éléments décoratifs résistants à la rouille'
+      image: '/hardware/metal-hardware.webp'
+      items:
+        - 'Anneaux D et Anneaux O'
+        - 'Curseurs Ajustables'
+        - 'Boucles Décoratives'
+        - 'Œillets Métalliques'
+    - name: 'Élastiques et Bretelles'
+      description: 'Élastiques et bretelles ajustables résistants au chlore'
+      image: '/hardware/elastic-straps.webp'
+      items:
+        - 'Bandes Élastiques pour Maillots de Bain'
+        - 'Bretelles de Soutien-Gorge Ajustables'
+        - 'Cordons Tressés Décoratifs'
+        - 'Maille Power'
+    - name: 'Fermetures et Attaches'
+      description: 'Systèmes de fermeture sécurisés et confortables'
+      image: '/hardware/closures-fasteners.webp'
+      items:
+        - 'Ensembles Crochet et Œillet'
+        - 'Boutons-Pression'
+        - 'Boucles en Plastique'
+        - 'Fermetures Magnétiques'
+    - name: 'Soutien de Poitrine'
+      description: 'Bonnets professionnels et structures de soutien'
+      image: '/hardware/bust-support.webp'
+      items:
+        - 'Bonnets Moulés (A-DD)'
+        - 'Rembourrage en Mousse'
+        - "Canaux d'Armature"
+        - 'Poches de Bonnets Amovibles'
+    - name: 'Étiquettes et Tags'
+      description: "Étiquettes de marque et d'entretien personnalisées"
+      image: '/hardware/labels-tags.webp'
+      items:
+        - 'Étiquettes Tissées'
+        - "Étiquettes d'Entretien Imprimées"
+        - 'Étiquettes Suspendues'
+        - 'Étiquettes de Taille'
+    - name: 'Garnitures Décoratives'
+      description: 'Ajoutez des touches uniques à vos designs'
+      image: '/hardware/decorative.webp'
+      items:
+        - 'Chaînes Perlées'
+        - 'Appliques à Paillettes'
+        - 'Patchs Brodés'
+        - 'Détails en Strass'
+
+features:
+  title: 'Pourquoi choisir notre hardware ?'
+  description: 'Nous ne nous approvisionnons que du hardware de la plus haute qualité spécifique aux maillots de bain qui répond aux normes internationales de durabilité et de sécurité.'
+  items:
+    - title: 'Résistant au Chlore'
+      description: "Tout notre hardware est testé pour la résistance au chlore, à l'eau salée et à l'exposition aux UV pour garantir des performances durables."
+      icon: 'ShieldCheckIcon'
+    - title: 'Options Sans Nickel'
+      description: "Nous offrons des options de hardware métallique hypoallergénique sans nickel pour les peaux sensibles, conformes aux normes de l'UE."
+      icon: 'HeartIcon'
+    - title: 'Correspondance des Couleurs'
+      description: 'Vaste gamme de couleurs pour correspondre parfaitement à vos choix de tissus, avec correspondance de couleurs personnalisée disponible.'
+      icon: 'SwatchIcon'
+    - title: 'Qualité Certifiée'
+      description: 'Tout le hardware répond aux normes OEKO-TEX® et aux normes internationales de sécurité des maillots de bain.'
+      icon: 'CheckBadgeIcon'
+
+process:
+  title: 'Comment Commander du Hardware'
+  description: "Notre processus rationalisé facilite l'obtention exacte du hardware dont vous avez besoin pour votre production de maillots de bain."
+  steps:
+    - number: 1
+      title: 'Parcourir et Sélectionner'
+      description: 'Consultez notre catalogue de hardware et sélectionnez les articles dont vous avez besoin. Demandez des échantillons physiques si nécessaire pour garantir une correspondance parfaite avec vos designs.'
+    - number: 2
+      title: 'Confirmer les Spécifications'
+      description: 'Fournissez des détails sur les quantités, les couleurs et les exigences de personnalisation. Notre équipe confirmera la disponibilité et les délais.'
+    - number: 3
+      title: 'Recevoir les Échantillons'
+      description: "Pour les grandes commandes, nous pouvons envoyer des ensembles d'échantillons pour votre approbation avant la production en gros pour garantir qualité et ajustement."
+    - number: 4
+      title: 'Passer Commande'
+      description: "Une fois approuvé, passez votre commande avec un MOQ clair et un calendrier de livraison. Nous gérons l'approvisionnement et l'inspection de qualité."
+    - number: 5
+      title: 'Contrôle Qualité et Livraison'
+      description: "Tout le hardware est soumis à un contrôle qualité strict avant l'expédition. Nous coordonnons la livraison avec votre calendrier de production."
+
+specifications:
+  title: 'Spécifications Techniques'
+  description: 'Comprendre les spécifications du hardware garantit une intégration parfaite avec vos designs de maillots de bain.'
+  items:
+    - category: 'Hardware Métallique'
+      specs:
+        - 'Matériau : Acier inoxydable, laiton ou alliage de zinc'
+        - 'Finition : Poli, brossé ou revêtu de poudre'
+        - 'Résistance à la corrosion : Test au brouillard salin 48+ heures'
+        - 'Tailles disponibles : 10 mm à 50 mm'
+    - category: 'Élastiques et Bretelles'
+      specs:
+        - 'Matériau : Mélange nylon/spandex ou polyester'
+        - "Récupération d'étirement : 95%+ après 100 cycles"
+        - "Résistance au chlore : 200+ heures d'exposition"
+        - 'Plage de largeur : 3 mm à 25 mm'
+    - category: 'Fermetures'
+      specs:
+        - 'Force du crochet : Force de traction de 3-5 kg'
+        - "Durabilité du bouton-pression : 1000+ cycles d'ouverture/fermeture"
+        - 'Résistance à la température : -20°C à 60°C'
+        - 'Options sans nickel disponibles'
+
+faq:
+  title: 'FAQ sur le Hardware'
+  items:
+    - question: 'Quelle est la quantité minimale de commande (MOQ) pour le hardware ?'
+      answer: "Les MOQ varient selon le type d'article. Les articles de hardware standard ont généralement des MOQ de 100-500 pièces par couleur/taille. Pour le hardware personnalisé ou les finitions spéciales, les MOQ peuvent être plus élevés (1000+ pièces). Contactez-nous pour les MOQ d'articles spécifiques."
+    - question: 'Puis-je commander des échantillons de hardware avant un achat en gros ?'
+      answer: "Oui ! Nous offrons des ensembles d'échantillons pour la plupart des articles de hardware. Les coûts d'échantillon sont généralement de 20-50 $ par ensemble et peuvent être crédités sur votre commande en gros. Cela vous permet de tester la qualité, la correspondance des couleurs et l'ajustement avant de vous engager sur de grandes quantités."
+    - question: 'Proposez-vous du hardware personnalisé avec mon logo de marque ?'
+      answer: 'Absolument. Nous pouvons personnaliser le hardware métallique (boucles, curseurs, breloques) avec votre logo de marque par gravure ou embossage. Les étiquettes et tags personnalisés sont également disponibles. Les MOQ pour les articles personnalisés commencent généralement à 1000 pièces.'
+    - question: "Comment m'assurer que les couleurs du hardware correspondent à mon tissu ?"
+      answer: 'Nous recommandons de commander des échantillons de tissu et des échantillons de hardware ensemble pour une comparaison physique. Nous pouvons également fournir des références de couleur Pantone pour la plupart des articles de hardware et offrir des services de correspondance de couleur personnalisée pour les grandes commandes.'
+    - question: 'Quel est le délai de livraison pour les commandes de hardware ?'
+      answer: 'Hardware standard en stock : 3-7 jours. Couleurs ou finitions personnalisées : 2-3 semaines. Hardware de marque personnalisée : 4-6 semaines. Nous confirmons toujours les calendriers exacts lorsque vous passez votre commande et pouvons accélérer pour les projets urgents.'
+    - question: "Vos articles de hardware sont-ils testés pour l'utilisation en maillots de bain ?"
+      answer: "Oui, tout notre hardware est spécifiquement sélectionné pour les applications de maillots de bain. Nous effectuons des tests de résistance au chlore, des tests au brouillard salin et des tests d'exposition aux UV pour garantir la durabilité. Les rapports de test sont disponibles sur demande."
+    - question: "Pouvez-vous m'aider à choisir le bon hardware pour mon design ?"
+      answer: "Bien sûr ! Notre équipe possède une vaste expérience dans la sélection de hardware pour maillots de bain. Partagez vos croquis de design ou packs techniques, et nous pouvons recommander les options de hardware les plus appropriées en fonction de la fonctionnalité, de l'esthétique et du budget."
+
+cta:
+  title: 'Prêt à Vous Approvisionner en Hardware ?'
+  description: 'Contactez nos spécialistes du hardware pour discuter de vos besoins. Nous pouvons fournir des échantillons, des spécifications techniques et des prix pour votre prochaine collection de maillots de bain.'
+  button: 'Demander le Catalogue de Hardware'
+  link: '/contact'

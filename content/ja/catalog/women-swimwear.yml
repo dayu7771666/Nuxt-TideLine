@@ -1,0 +1,116 @@
+title: 'レディース水着メーカー'
+description: 'サプライヤー以上の存在 — あなたの水着ブランド構築パートナー。'
+
+seo:
+  title: 'レディース水着メーカー | TIDELINE SWIMWEAR'
+  description: 'カスタムビキニ、ワンピース水着、タンキニを提供するプロフェッショナルなレディース水着メーカー。低MOQ、高品質、ブランドや小売業者向けの卸売価格。'
+  keywords: 'レディース水着メーカー, ビキニメーカー, ワンピース水着卸売, カスタム水着, レディース水着サプライヤー, 水着工場'
+  ogTitle: 'レディース水着メーカー | TIDELINE SWIMWEAR'
+  ogDescription: 'プロフェッショナルなレディース水着メーカー。カスタムデザイン、低MOQ、ビキニ、ワンピース水着、タンキニの卸売価格。'
+  ogType: 'website'
+  ogImage: '/catalog/women-swimwear.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'レディース水着メーカー | TIDELINE SWIMWEAR'
+  twitterDescription: 'カスタムレディース水着製造。ビキニ、ワンピーススーツ、タンキニ。低MOQ、卸売価格。'
+
+# Hero section
+hero:
+  cta_text: 'コンサルテーション'
+  cta_href: '/contact'
+  image_src: '/catalog/women-swimwear.webp'
+  image_alt: ''
+  image_width: '900px'
+
+# Mission section
+mission:
+  title: '私たちのミッション'
+  paragraph1: 'TideLine Swimwearでは、レディース水着がファッションの中で最もダイナミックなカテゴリーの一つであることを知っています。毎年、私たちのデザインチームは最新のグローバルスタイルを反映した新鮮でトレンド主導のコレクションを開発しています—エレガントなワンピース水着、シックなビキニ、または多用途なタンキニなど。'
+  paragraph2_with_link: 'ご注文を開始したり、フルカタログを探索する準備はできていますか？今日{0}すれば、私たちのチームがパーソナライズされた推奨事項、価格設定、サンプルを迅速かつ手間なく提供します。'
+  whatsapp_link_text: 'WhatsAppでお問い合わせ'
+
+# Statistics
+stats:
+  - label: '水着業界での経験'
+    value: '10年以上'
+  - label: '完了した注文'
+    value: '1,000,000+'
+
+# Product categories
+product_range:
+  title: 'レディース水着コレクション'
+  description: '厳選された水着コレクションをご覧ください'
+  more_text: 'すべての製品を閲覧'
+  categories:
+    - name: 'ビキニ'
+      href: '/category?type=women&subtype=bikini'
+      image_src: '/women-swimwear/bikinis/bikinis-1.webp'
+    - name: 'ワンピース水着'
+      href: '/category?type=women&subtype=one-piece'
+      image_src: '/women-swimwear/one-piece/one-piece-1.webp'
+    - name: 'タンキニ'
+      href: '/category?type=women&subtype=tankini'
+      image_src: '/women-swimwear/tankini/tankini-10.webp'
+    - name: 'ビーチカバーアップ'
+      href: '/category?type=women&subtype=cover-up'
+      image_src: '/women-swimwear/beach/beach-2.webp'
+
+# Customization capabilities
+customization:
+  title: 'カスタマイゼーション機能'
+  description: '完全カスタマイズ可能な水着—TideLineはすべてのカスタムデザイン、生地、ハードウェア、ロゴ、パッケージングを受け入れ、あなたのブランドビジョンを実現します。'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: ''
+  hero_image_width: '1000px'
+  features:
+    - name: 'スタイルカスタマイゼーション'
+      description: 'あらゆる水着デザインを実現—完璧なスタイルを選択し、あなたのブランドのために製作いたします。'
+      link: '/contact'
+      cta_text: 'コンサルテーション'
+    - name: '生地カスタマイゼーション'
+      description: '幅広い生地から選択して、着心地が良く美しい水着を作成します。'
+      link: '/fabric'
+      cta_text: '生地'
+    - name: 'ハードウェアカスタマイゼーション'
+      description: 'バックルやリングからジッパーまで、すべての詳細をカスタマイズ—私たちのハードウェアオプションがあなたのデザインを向上させます。'
+      link: '/hardware'
+      cta_text: 'ハードウェア'
+    - name: 'ロゴカスタマイゼーション'
+      description: '真にあなたのものに—プロフェッショナルなブランドルックのために各ピースにロゴを追加します。'
+    - name: 'パッケージングカスタマイゼーション'
+      description: 'あなたのスタイルとビジョンに合わせたパッケージングでブランド体験を完成させます。'
+    - name: 'お問い合わせ'
+      description: '準備はできましたか？あなたの水着アイデアを現実に変えましょう。'
+      link: '/contact'
+      cta_text: 'お問い合わせ'
+
+# Getting started section
+getting_started:
+  title: 'あなたの水着ジャーニーはここから始まります'
+  description: '初回コレクションの立ち上げでも、ブランドの拡大でも、TideLineはあなたのニーズに合わせたオーダーメイドの水着ソリューションを提供します。あなたの道を選んで始めましょう。'
+  beginner_text: '初心者として始める'
+  beginner_href: '/startup'
+  pro_text: '経験豊富なバイヤー'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: ''
+  image_width: '1000px'
+
+# FAQ section
+faq:
+  title: 'よくある質問'
+  questions:
+    - id: 1
+      question: 'レディース水着の卸売りの最小注文数量は何ですか？'
+      answer: '私たちの最小注文数量（MOQ）はスタイルとサイズごとに30個から始まり、小中規模の水着ブランドにとって柔軟性があります。'
+    - id: 2
+      question: '水着のデザインと生地をカスタマイズできますか？'
+      answer: 'はい！デザイン、生地、ロゴ、パッケージングを含む完全にカスタマイズ可能な水着を提供し、あなたのブランドが市場で際立つのを支援します。'
+    - id: 3
+      question: '大量の水着注文の生産にはどのくらい時間がかかりますか？'
+      answer: '通常、サンプルは10日以内に準備でき、大量注文は数量とカスタマイゼーション要件に応じて30日以内に出荷されます。'
+    - id: 4
+      question: 'エコフレンドリーまたは持続可能な水着オプションを提供していますか？'
+      answer: 'もちろんです。環境責任を優先するブランド向けに、エコフレンドリーな生地と持続可能な生産方法の範囲を提供しています。'
+    - id: 5
+      question: '卸売注文の詳細な見積もりを取得するにはどうすればよいですか？'
+      answer: 'WhatsAppまたはメールで私たちのチームに連絡し、希望するスタイル、サイズ、生地を提供していただければ、完全な見積もり、生地カタログ、プロフェッショナルなガイダンスをお送りします。'

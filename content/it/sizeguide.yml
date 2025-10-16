@@ -1,0 +1,248 @@
+title: 'Soluzioni Professionali per le Taglie di Costumi da Bagno'
+description: 'Guide complete alle taglie e strumenti di ottimizzazione e-commerce per partner B2B e rivenditori online'
+
+seo:
+  title: 'Guida Professionale alle Taglie di Costumi da Bagno | TIDELINE SWIMWEAR'
+  description: 'Guide complete alle taglie e strumenti di ottimizzazione e-commerce per partner B2B e rivenditori online. Guide di misurazione esperte, identificazione del tipo di corpo e strategie di taglie specifiche per piattaforma.'
+  keywords: 'guida taglie costumi da bagno, taglie costumi da bagno, tabella taglie bikini, taglie intero, misure corporee, guida taglie coppa, strumenti taglie e-commerce, taglie TikTok shop, tabella taglie Shopify, taglie costumi da bagno donna'
+  ogTitle: 'Guida Professionale alle Taglie di Costumi da Bagno | TIDELINE SWIMWEAR'
+  ogDescription: 'Guide complete alle taglie e strumenti di ottimizzazione e-commerce per partner B2B e rivenditori online. Guide di misurazione esperte e strategie di taglie.'
+  ogType: 'website'
+  ogImage: '/sizeguide/sizeguide-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Guida Professionale alle Taglie di Costumi da Bagno | TIDELINE SWIMWEAR'
+  twitterDescription: 'Guide di misurazione esperte, identificazione del tipo di corpo e strategie di taglie specifiche per piattaforma per rivenditori di costumi da bagno.'
+
+hero:
+  image: '/sizeguide/sizeguide-hero.webp'
+  alt: 'Soluzioni Professionali per le Taglie di Costumi da Bagno'
+  ctaButton: 'Ottieni Consulenza Esperta sulle Taglie'
+  ctaLink: '#consultation'
+
+measurementGuide:
+  title: 'Come Misurare Correttamente'
+  description: 'Usa un metro a nastro e tieni il nastro saldamente intorno ai punti chiave per misurazioni accurate.'
+  measurements:
+    - icon: 'fas fa-tshirt'
+      title: 'Seno'
+      description: "Misura sopra l'area più piena del seno e direttamente intorno alla schiena."
+    - icon: 'fas fa-arrows-alt-v'
+      title: 'Sottoseno'
+      description: 'Misura direttamente sotto il seno e direttamente intorno alla schiena.'
+    - icon: 'fas fa-minus'
+      title: 'Vita'
+      description: "La vita è sotto l'addome tra la gabbia toracica e i fianchi."
+    - icon: 'fas fa-arrows-alt-h'
+      title: 'Anca'
+      description: "Misura la parte più piena dell'anca assicurandoti che il nastro sia dritto intorno al corpo."
+  tip:
+    title: 'Consiglio Professionale per la Vestibilità'
+    description: 'I tessuti per costumi da bagno hanno tipicamente il 15-20% di elasticità. Consigliamo di selezionare la taglia in base alla misura più grande tra seno e fianchi. Se sei tra due taglie, scegli quella più grande per comfort e migliore copertura.'
+
+bodyTypes:
+  title: 'Trova la Tua Vestibilità Perfetta'
+  description: 'Scopri come misurare correttamente diversi tipi di corpo con le nostre guide di misurazione interattive.'
+  types:
+    - name: 'Figura a Clessidra'
+      description: 'Seno e fianchi equilibrati con vita definita'
+      gradient: 'from-pink-200 to-pink-300'
+      borderRadius: '40% 40% 50% 50%'
+      measurements:
+        bust: '36" (91cm)'
+        underbust: '31" (79cm)'
+        waist: '28" (71cm)'
+        hips: '38" (97cm)'
+      recommendedSize: 'Media'
+      cupSize: 'C'
+    - name: 'Forma a Pera'
+      description: 'Spalle strette, fianchi più larghi'
+      gradient: 'from-blue-200 to-blue-300'
+      borderRadius: '35% 35% 55% 55%'
+      measurements:
+        bust: '34" (86cm)'
+        underbust: '29" (74cm)'
+        waist: '30" (76cm)'
+        hips: '40" (102cm)'
+      recommendedSize: 'Media (sopra)<br>Grande (sotto)'
+      cupSize: 'B'
+    - name: 'Forma Rettangolare'
+      description: 'Silhouette dritta con definizione minima della vita'
+      gradient: 'from-green-200 to-green-300'
+      borderRadius: '40% 40% 45% 45%'
+      measurements:
+        bust: '35" (89cm)'
+        underbust: '30" (76cm)'
+        waist: '32" (81cm)'
+        hips: '36" (91cm)'
+      recommendedSize: 'Piccola'
+      cupSize: 'B'
+  tip:
+    title: 'Istruzioni di Misurazione'
+    description: 'Passa il mouse sui punti di misurazione su ogni tipo di corpo per vedere le posizioni di misurazione corrette e le misure tipiche per quella forma del corpo. Usale come riferimento quando misuri te stesso o i tuoi clienti.'
+
+bodyTypeIdentification:
+  title: 'Come identificare la forma del tuo corpo?'
+  image: '/sizeguide/sizeguide-type.webp'
+  imageAlt: 'Guida al Tipo di Corpo'
+  description: 'Per identificare la forma del tuo corpo, prendi queste misure:'
+  measurements:
+    - label: 'Vita'
+      description: "Misura nella parte più stretta, appena sopra l'ombelico."
+    - label: 'Fianchi'
+      description: "Misura intorno alla parte più piena, sotto l'osso dell'anca."
+    - label: 'Seno'
+      description: 'Misura intorno alla parte più piena del tuo petto.'
+    - label: 'Spalle'
+      description: 'Misura attraverso la parte superiore delle scapole.'
+  note:
+    title: 'Nota'
+    description: 'Confronta le proporzioni di queste misure per identificare il tuo tipo di corpo. Per conferma, puoi anche usare un calcolatore di forma del corpo online inserendo i tuoi numeri.'
+
+sizeGuides:
+  title: 'Guide alle Taglie per Categoria'
+  description: 'Seleziona una categoria qui sotto per visualizzare tabelle taglie dettagliate e raccomandazioni di vestibilità.'
+  tabs:
+    - id: 'womens-swim'
+      name: 'Costumi da Bagno Donna'
+      icon: 'fas fa-female'
+    - id: 'mens-swim'
+      name: 'Costumi da Bagno Uomo'
+      icon: 'fas fa-male'
+    - id: 'girls-swim'
+      name: 'Costumi da Bagno Bambina'
+      icon: 'fas fa-child'
+    - id: 'womens-active'
+      name: 'Abbigliamento Attivo Donna'
+      icon: 'fas fa-running'
+  womensSwim:
+    title: 'Taglie Costumi da Bagno Donna'
+    description: 'Guida completa alle taglie per la nostra collezione di costumi da bagno donna, inclusi costumi interi, bikini e tankini.'
+    sizeChart:
+      headers:
+        - 'Taglia'
+        - 'Seno (cm/pollici)'
+        - 'Sottoseno (cm/pollici)'
+        - 'Coppa'
+        - 'Vita (cm/pollici)'
+        - 'Fianchi (cm/pollici)'
+        - 'US'
+        - 'AU/UK'
+      sizes:
+        - size: 'S'
+          bust: '82-86 / 32-34'
+          underbust: '68-72 / 27-28'
+          cup: 'A-B'
+          waist: '64-68 / 25-27'
+          hips: '88-92 / 34.5-36'
+          us: '4-6'
+          ukAu: '8-10'
+        - size: 'M'
+          bust: '87-91 / 34-36'
+          underbust: '73-77 / 29-30'
+          cup: 'B-C'
+          waist: '69-73 / 27-29'
+          hips: '93-97 / 36.5-38'
+          us: '8-10'
+          ukAu: '12-14'
+        - size: 'L'
+          bust: '92-96 / 36-38'
+          underbust: '78-82 / 31-32'
+          cup: 'C-D'
+          waist: '74-78 / 29-31'
+          hips: '98-102 / 38.5-40'
+          us: '12-14'
+          ukAu: '16-18'
+        - size: 'XL'
+          bust: '97-101 / 38-40'
+          underbust: '83-87 / 33-34'
+          cup: 'D-DD'
+          waist: '79-83 / 31-33'
+          hips: '103-107 / 40.5-42'
+          us: '16-18'
+          ukAu: '20-22'
+    cupSizeGuide:
+      title: 'Guida alle Taglie Coppa'
+      headers:
+        - 'Taglia Coppa'
+        - 'Differenza Seno - Sottoseno (cm)'
+        - 'Differenza Seno - Sottoseno (pollici)'
+      sizes:
+        - cup: 'A'
+          diffCm: '10-12 cm'
+          diffInch: '4-5 pollici'
+        - cup: 'B'
+          diffCm: '13-14 cm'
+          diffInch: '5-5.5 pollici'
+        - cup: 'C'
+          diffCm: '15-16 cm'
+          diffInch: '6-6.5 pollici'
+        - cup: 'D'
+          diffCm: '17-18 cm'
+          diffInch: '7-7.5 pollici'
+        - cup: 'DD/E'
+          diffCm: '19-20 cm'
+          diffInch: '8-8.5 pollici'
+
+platformOptimization:
+  title: 'Strategie e Strumenti di Ottimizzazione della Piattaforma'
+  description: 'Massimizza le tue vendite con i nostri strumenti e strategie di ottimizzazione delle taglie specifici per piattaforma.'
+  platforms:
+    - name: 'TikTok Shop'
+      subtitle: 'Ottimizzazione Vendite Live'
+      icon: 'fab fa-tiktok'
+      description: 'Padroneggia le vendite live di TikTok con le nostre strategie di taglie comprovate.'
+      features:
+        - 'Script di taglie per live streaming'
+        - 'Modelli di confronto visivo delle taglie'
+        - 'Modelli di risposta ai commenti'
+        - 'Idee di contenuto video incentrate sulle taglie'
+      ctaText: 'Ottieni Strumenti TikTok'
+      ctaLink: '#'
+    - name: 'Shopify'
+      subtitle: 'App di Raccomandazione Taglie'
+      icon: 'fab fa-shopify'
+      description: 'Migliora il tuo negozio Shopify con soluzioni di taglie interattive.'
+      features:
+        - 'Integrazione app di raccomandazione taglie'
+        - 'Widget tabella taglie personalizzati'
+        - 'Interfacce taglie ottimizzate per mobile'
+        - 'Ottimizzazione filtro taglie'
+      ctaText: 'Ottieni Strumenti Shopify'
+      ctaLink: '#'
+    - name: 'Multi-Canale'
+      subtitle: 'Soluzioni Cross-Platform'
+      icon: 'fas fa-store'
+      description: 'Esperienza di taglie coerente su tutti i tuoi canali di vendita.'
+      features:
+        - 'Sistema tabella taglie unificato'
+        - 'Modelli di caricamento di massa'
+        - 'Integrazione API per dati taglie'
+        - 'Guide taglie multilingue'
+      ctaText: 'Ottieni Strumenti Multi-Canale'
+      ctaLink: '#'
+  tip:
+    title: 'Consiglio di Ottimizzazione della Piattaforma'
+    description: "Ottimizza redditività ed efficienza operativa: La nostra soluzione di taglie su misura affronta direttamente le principali sfide dell'industria dei costumi da bagno, minimizzando i costosi resi e le cancellazioni di inventario dovuti a problemi di taglie."
+
+consultation:
+  title: 'Hai Bisogno di Soluzioni di Taglie Personalizzate?'
+  description: 'I nostri esperti di taglie possono aiutarti a ottimizzare gli elenchi di prodotti, creare tabelle taglie personalizzate o sviluppare strategie di taglie su misura per il tuo mercato specifico.'
+  image: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'
+  primaryButton:
+    text: 'Ottieni Consulenza Professionale sulle Taglie'
+    link: ''
+  secondaryButton:
+    text: 'Richiedi Strumenti Taglie Personalizzati'
+    link: '#'
+  contact:
+    email: 'tidelineswim@swimsuitcustom.com'
+  features:
+    - icon: 'fas fa-user-tie'
+      title: 'Consulenza Esperta'
+      description: 'Guida personalizzata dai nostri specialisti di taglie'
+    - icon: 'fas fa-edit'
+      title: 'Tabelle Taglie Personalizzate'
+      description: 'Soluzioni di taglie su misura per il tuo pubblico specifico'
+    - icon: 'fas fa-images'
+      title: 'Risorse di Marketing'
+      description: 'Immagini professionali di taglie e guide di misurazione'

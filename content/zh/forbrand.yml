@@ -1,0 +1,87 @@
+title: '面向成熟和新兴品牌的批发泳装解决方案'
+description: '在 TideLine Swimwear,我们专注于为独立品牌、设计师品牌和全球泳装公司提供量身定制的全方位批发泳装解决方案。无论您是扩展系列还是推出高端系列,我们在 OEM 和 ODM 制造、趋势预测和产品开发方面的经验都能确保您的品牌保持领先地位。'
+
+seo:
+  title: '面向品牌的高级泳装制造商 | Tideline'
+  description: '与 TideLine Swimwear 合作进行高质量、可扩展的泳装制造。受到全球品牌的信赖。OEM 和 ODM、定制设计、快速交货时间。'
+  keywords: '泳装制造商, 批发泳装, OEM泳装, ODM泳装, 品牌制造, 定制泳装生产, 泳装工厂, 自有品牌泳装'
+  ogTitle: '面向品牌的高级泳装制造商 | Tideline'
+  ogDescription: '与 TideLine Swimwear 合作进行高质量、可扩展的泳装制造。受到全球品牌的信赖。'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '面向品牌的高级泳装制造商 | Tideline'
+  twitterDescription: '面向成熟和新兴品牌的高质量、可扩展泳装制造。OEM 和 ODM 服务。'
+
+hero:
+  badge: 高级泳装制造
+  subtitle: 高级制造。量身定制的服务。受到全球品牌的信赖。
+
+why_choose:
+  title: 品牌为何选择 TideLine Swimwear
+  items:
+    - id: 1
+      title: 与全球泳装品牌的成熟经验
+      description: 我们已与美国、欧洲和澳大利亚数十个成熟和新兴泳装品牌合作。我们的客户从高端时装屋到可持续的小众品牌,他们都在寻求同样的东西 - 质量、可靠性和灵活性。
+    - id: 2
+      title: 从概念到交付的端到端服务
+      description: 我们的团队在每个阶段为您提供支持 - 设计协助和技术包开发、面料采购(包括环保和奢华材料)、原型制作和样品生产、灵活 MOQ 的批量制造、质量控制和包装、物流协调和全球运输。
+    - id: 3
+      title: 定制与可扩展性相结合
+      description: 从标志性剪裁到独家印花,我们将您的愿景变为现实。无论您需要 50 件还是 5,000 件,我们都能提供可扩展的生产而不影响质量。
+
+what_sets_apart:
+  title: 我们的与众不同之处
+  features:
+    - icon: 🧵
+      name: 专业工艺
+      benefit: 在高级泳装制造方面拥有 10 年以上的经验
+    - icon: 🌍
+      name: 全球质量标准
+      benefit: ISO 认证生产和严格的质量控制流程
+    - icon: ♻️
+      name: 可持续选择
+      benefit: 再生面料、可生物降解包装和道德采购
+    - icon: 🔄
+      name: 快速打样
+      benefit: 首批样品在 7-10 天内准备就绪
+    - icon: 📦
+      name: 可靠的交货时间
+      benefit: 平均生产周期 15-25 天
+    - icon: 💬
+      name: 专属支持
+      benefit: 拥有品牌开发经验的英语项目经理
+
+success_stories:
+  title: 品牌成功案例
+  testimonials:
+    - id: 1
+      quote: TideLine 帮助我们通过奢华胶囊系列进入欧盟市场。他们对细节的关注和灵活的 MOQ 让一切变得更容易。
+      author: 创意总监,美国高级泳装品牌
+      avatar: https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80
+    - id: 2
+      quote: 在找到 TideLine 之前,我们与其他三家供应商合作过。他们终于理解了我们的愿景 - 并完美地交付了它。
+      author: 创始人,澳大利亚可持续泳装品牌
+      avatar: https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=facearea&w=1310&h=873&q=80&facepad=3
+
+how_we_work:
+  title: 我们如何与品牌合作
+  steps:
+    - id: 1
+      text: 向我们发送您的设计或情绪板
+    - id: 2
+      text: 收到报价和样品时间表
+    - id: 3
+      text: 批准样品 → 开始生产
+    - id: 4
+      text: 质量控制 + 包装 → 全球运输
+
+partnership:
+  title: 立即开始您的批发合作
+  description: 如果您正在打造一个重视质量、设计和可靠生产的品牌,让我们聊聊。
+  cta_text: 联系我们
+
+image:
+  src: /manufacturer.jpg
+  alt: 泳装制造
+  caption: 我们的生产设施专门从事高级泳装制造

@@ -1,0 +1,159 @@
+title: '배송 정책'
+description: '수영복 비즈니스 요구 사항을 위한 신뢰할 수 있는 글로벌 배송 솔루션'
+
+seo:
+  title: '배송 정책 | TIDELINE SWIMWEAR'
+  description: '수영복 비즈니스 요구 사항을 위한 신뢰할 수 있는 글로벌 배송 솔루션. 특급 및 해상 화물 옵션, 150개 이상의 국가로 전 세계 배송, 실시간 추적.'
+  keywords: '수영복 배송, 글로벌 배송, 특급 택배, 해상 화물, 항공 화물, DHL, FedEx, UPS, 주문 추적, 국제 배송, 수영복 배달'
+  ogTitle: '배송 정책 | TIDELINE SWIMWEAR'
+  ogDescription: '수영복 비즈니스 요구 사항을 위한 신뢰할 수 있는 글로벌 배송 솔루션. 특급 및 해상 화물 옵션, 150개 이상의 국가로 전 세계 배송.'
+  ogType: 'website'
+  ogImage: '/shipping.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '배송 정책 | TIDELINE SWIMWEAR'
+  twitterDescription: '수영복 비즈니스 요구 사항을 위한 신뢰할 수 있는 글로벌 배송 솔루션. 특급 및 해상 화물 옵션, 150개 이상의 국가로 전 세계 배송.'
+
+hero:
+  image: '/shipping-banner.webp'
+
+orderTracking:
+  title: '주문 추적'
+  description: '모든 주문에 대한 포괄적인 추적을 제공하여 모든 단계에서 배송 상태에 대한 정보를 받을 수 있습니다.'
+  features:
+    - '추적 번호는 배송 후 24시간 이내에 이메일로 전송됩니다'
+    - '당사 웹사이트 또는 운송업체 웹사이트에서 실시간 추적 가능'
+    - '생산 주문에 대한 이메일을 통한 정기적인 상태 업데이트'
+    - '$10,000 이상의 주문에 대한 전담 계정 관리자'
+  trackTitle: '주문 추적: 배송의 현재 상태를 확인하려면 아래에 추적 번호를 입력하세요.'
+  trackPlaceholder: '추적 번호 입력'
+  trackButton: '추적'
+
+methods:
+  title: '배송 방법'
+  description: '특정 비즈니스 요구 사항을 충족하기 위해 주문 유형과 긴급성에 따라 다양한 배송 옵션을 제공합니다.'
+  sample:
+    title: '샘플 주문'
+    description: '샘플 주문의 경우 빠른 결정을 내리는 데 도움이 되는 다양한 배송 옵션을 제공합니다:'
+    options:
+      - name: '특급 택배'
+        description: 'DHL, FedEx, UPS (3-7 영업일)'
+      - name: '표준 항공 우편'
+        description: '(7-14 영업일)'
+      - name: '이코노미'
+        description: '(14-21 영업일)'
+  bulk:
+    title: '대량 생산 주문'
+    description: '대량 생산 주문의 경우 비용 효율적인 솔루션을 제공합니다:'
+    options:
+      - name: '항공 화물'
+        description: '(7-15 영업일)'
+      - name: '해상 화물'
+        description: '(30-45 영업일)'
+      - name: '특급 항공'
+        description: '(5-10 영업일)'
+  important:
+    title: '중요'
+    note: '생산 리드 타임은 배송 시간에 추가됩니다. 주문 수량 및 복잡성에 따른 정확한 생산 일정은 문의하시기 바랍니다.'
+
+coverage:
+  title: '배송 범위'
+  description: '전 세계 150개 이상의 국가에 배송 서비스를 제공합니다. 당사의 파트너 네트워크는 전 세계적으로 신속한 배송을 제공합니다.'
+  globalOperationsTitle: 'Tideline 글로벌 비즈니스 운영 및 물류'
+  businessRegions:
+    - title: '중국 - 제조 허브'
+      description: '10년 이상의 생산 및 판매 경험을 갖춘 현대적인 의류 공장.'
+      icon: 'heroicons:building-office-20-solid'
+      color: 'red'
+    - title: '미국 - 풀필먼트 센터'
+      description: '재고가 있는 해외 창고, 현지 고객에게 3-5일 배송.'
+      icon: 'heroicons:building-storefront-20-solid'
+      color: 'blue'
+    - title: '유럽 및 호주'
+      description: '다양한 고객 유형을 서비스하는 주요 비즈니스 지역.'
+      icon: 'heroicons:globe-europe-africa-20-solid'
+      color: 'green'
+    - title: '기타 비즈니스 지역'
+      description: '현지 고객 및 선호도에 맞춘 모데스트 수영복 등'
+      icon: 'heroicons:map-pin-20-solid'
+      color: 'purple'
+  mapTitle: 'TIDELINE SWIMWEAR는 고객이 있는 곳에 있습니다'
+  mapSubtitle: '당사의 파트너 네트워크는 전 세계적으로 신속한 배송을 제공합니다.'
+  regions:
+    - name: '북미'
+      status: 'available'
+    - name: '유럽 연합'
+      status: 'available'
+    - name: '아시아'
+      status: 'available'
+    - name: '아프리카'
+      status: 'limited'
+    - name: '남미'
+      status: 'available'
+    - name: '호주 및 NZ'
+      status: 'available'
+  legend:
+    available: '배송 가능'
+    limited: '제한적/서비스 없음'
+  note:
+    title: '참고'
+    text: '특정 국가 이용 가능 여부 및 제한 사항은 배송 부서로 문의하시기 바랍니다: tidelineswim@swimsuitcustom.com'
+
+sidebar:
+  overview:
+    title: '배송 개요'
+    description1: 'TIDELINE SWIMWEAR에서는 적시 배송이 비즈니스에 중요하다는 것을 이해합니다. 당사의 포괄적인 배송 솔루션은 전 세계 B2B 고객의 다양한 요구를 충족하도록 설계되었습니다.'
+    description2: '수영복 주문이 안전하고 제시간에 도착하도록 선도적인 글로벌 물류 제공업체와 파트너십을 맺고 있습니다.'
+    keyFeatures: '주요 기능'
+    features: '글로벌 커버리지, 유연한 배송 옵션, 실시간 추적 및 세관 지원.'
+  contact:
+    title: '배송 도움이 필요하신가요?'
+    email: '이메일'
+    hours: '영업 시간'
+    hoursTime: '월-금: 오전 9시-오후 6시 (EST)'
+    emergency: 'WhatsApp'
+  quickLinks:
+    title: '빠른 링크'
+    links:
+      - key: 'calculator'
+        text: '배송비 계산기'
+        href: 'https://wa.me/8618302407790'
+        external: true
+      - key: 'customs'
+        text: '세관 및 세금 가이드'
+        href: '#'
+        external: false
+      - key: 'documentation'
+        text: '세관 문서'
+        href: '#'
+        external: false
+      - key: 'processing'
+        text: '처리 시간 정보'
+        href: '#'
+        external: false
+      - key: 'packaging'
+        text: '포장 세부 정보'
+        href: '#'
+        external: false
+      - key: 'returns'
+        text: '반품 및 교환'
+        href: '#'
+        external: false
+      - key: 'insurance'
+        text: '배송 보험'
+        href: '#'
+        external: false
+      - key: 'faq'
+        text: '배송 FAQ'
+        href: '#'
+        external: false
+      - key: 'policy'
+        text: '반품 정책'
+        href: '#'
+        external: false
+  partners:
+    title: '배송 파트너'
+    description: '신뢰할 수 있는 글로벌 물류 제공업체와 협력합니다:'
+    list:
+      - 'DHL Express'
+      - 'FedEx'
+      - 'UPS'

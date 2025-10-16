@@ -1,0 +1,121 @@
+title: 'マタニティ水着サプライヤー'
+description: 'サプライヤー以上の存在 - あなたの水着ブランド構築パートナー。'
+
+seo:
+  title: 'マタニティ水着サプライヤー | TIDELINE SWIMWEAR'
+  description: '妊婦のための快適でサポート力のあるデザインを提供する高品質なマタニティ水着メーカー。カスタムマタニティ水着、卸売価格、低MOQ。'
+  keywords: 'マタニティ水着メーカー, 妊娠水着サプライヤー, 授乳水着, マタニティタンキニ, マタニティ水着卸売, マタニティ水着工場'
+  ogTitle: 'マタニティ水着サプライヤー | TIDELINE SWIMWEAR'
+  ogDescription: '快適なマタニティ水着メーカー。妊婦のためのサポート力のあるデザイン。カスタムオプション、卸売価格。'
+  ogType: 'website'
+  ogImage: '/catalog/maternity-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'マタニティ水着サプライヤー | TIDELINE SWIMWEAR'
+  twitterDescription: 'マタニティ水着製造。妊娠のための快適でサポート力のあるデザイン。カスタムオプション利用可能。'
+
+# Hero section
+hero:
+  cta_text: '相談'
+  cta_href: '/contact'
+  image_src: '/catalog/maternity-swimwear-bg.webp'
+  image_alt: 'マタニティ水着製造'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: '私たちのミッション'
+  paragraph1: 'TideLine Swimwearでは、マタニティ水着が妊婦のための快適さとサポートの完璧なバランスを必要とすることを知っています。毎シーズン、私たちの工場チームは柔らかく柔軟な生地と思慮深いフィット感でデザインされたコレクションを開発し、卸売業者やブランドオーナーに、女性が妊娠のすべての段階で自信を持って快適に感じるのを助ける市場対応のオプションを提供しています。'
+  whatsapp_link_text: 'WhatsAppでお問い合わせ'
+
+# Statistics
+stats:
+  - label: '水着業界での経験'
+    value: '10年以上'
+  - label: '完了した注文'
+    value: '1,000,000以上'
+
+# Product categories
+categories:
+  - name: 'マタニティワンピース'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/one-piece-1.webp'
+    imageAlt: 'マタニティワンピース水着コレクション'
+  - name: 'マタニティタンキニ'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/tankini-1.webp'
+    imageAlt: 'マタニティタンキニコレクション'
+  - name: '授乳水着'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/nursing-1.webp'
+    imageAlt: '授乳水着コレクション'
+  - name: 'マタニティカバーアップ'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/cover-up-1.webp'
+    imageAlt: 'マタニティカバーアップコレクション'
+
+# Customization capabilities
+customization:
+  title: 'カスタマイズ機能'
+  description: '完全にカスタマイズ可能な水着 - TideLineは、あなたのブランドビジョンを実現するために、すべてのカスタムデザイン、生地、ハードウェア、ロゴ、パッケージングを受け入れます。'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: '製造施設'
+  hero_image_width: '1000'
+  features:
+    - name: 'スタイルのカスタマイズ'
+      description: 'あらゆる水着デザインを実現 - 完璧なスタイルを選んで、私たちがあなたのブランドのために作ります。'
+      link: '/contact'
+      cta_text: '相談'
+    - name: '生地のカスタマイズ'
+      description: '幅広い生地から選んで、着心地が良く美しい水着を作りましょう。'
+      link: '/fabric'
+      cta_text: '生地'
+    - name: 'ハードウェアのカスタマイズ'
+      description: 'すべての詳細をカスタマイズ - バックルやリングからジッパーまで - 私たちのハードウェアオプションがあなたのデザインを引き立てます。'
+      link: '/hardware'
+      cta_text: 'ハードウェア'
+    - name: 'ロゴのカスタマイズ'
+      description: '本当にあなただけのものに - プロフェッショナルなブランドルックのために各ピースにあなたのロゴを追加します。'
+    - name: 'パッケージングのカスタマイズ'
+      description: 'あなたのスタイルとビジョンに合わせたパッケージングでブランド体験を完成させます。'
+    - name: 'お問い合わせ'
+      description: '準備はできましたか？あなたの水着のアイデアを現実にしましょう。'
+      link: '/contact'
+      cta_text: 'お問い合わせ'
+
+# Getting Started section
+getting_started:
+  title: 'あなたの水着の旅はここから始まります'
+  description: '初めてのコレクションを立ち上げる場合でも、ブランドを拡大する場合でも、TideLineはあなたのニーズに合わせたカスタマイズされた水着ソリューションを提供します。あなたの道を選んで始めましょう。'
+  beginner_text: '初心者として始める'
+  beginner_href: '/startup'
+  pro_text: '経験豊富なバイヤー'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: '製造プロセス'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'よくある質問'
+  questions:
+    - id: 1
+      question: 'マタニティ水着の特別なデザイン要件は何ですか？'
+      answer: 'マタニティ水着のデザイン要件は、主に快適さ、サポート、適応性に焦点を当てています。通常、妊娠中の女性の体の変化する形に調整できる高弾性の生地を使用します。デザインはまた、腹部のサポート、圧力のないショルダーストラップ、快適なクロッチデザインを提供し、妊婦が水中で動くときの快適さを確保する必要があります。'
+    - id: 2
+      question: 'マタニティ水着にはどのような素材が使用されていますか？'
+      answer: 'マタニティ水着は通常、ライクラ、ナイロン、スパンデックスなどの高弾性で通気性のある生地で作られています。これらの生地は優れた伸縮性を持ち、妊娠中の体の変化に適応しながら、快適さとサポートを保証します。また、使用される素材が無毒で敏感肌に安全であることを確認しています。'
+    - id: 3
+      question: 'マタニティ水着は日焼け止め保護を提供する必要がありますか？'
+      answer: 'はい、マタニティ水着がUV保護（UPF）を持つことが最善です、特に屋外プールやビーチで使用される場合。私たちのマタニティ水着デザインは、日焼け止め保護のある生地を使用して妊婦の肌を有害なUV線から保護することを考慮しています。'
+    - id: 4
+      question: 'マタニティ水着の安全性と快適性はどのように保証されていますか？'
+      answer: 'マタニティ水着は、安全性と快適性に強く焦点を当てて設計されています。無毒で環境に優しい生地を使用し、カットとデザインが圧力をかけないことを確認します、特に腹部と胸部の周り。サポートデザインは妊娠中に起こる変化も考慮し、完全なサポートを提供します。'
+    - id: 5
+      question: 'マタニティ水着は産後の使用に適していますか？'
+      answer: 'はい、多くのマタニティ水着デザインは産後の使用にも適しています。高弾性の生地を使用しているため、回復期間に適応し、快適なフィット感を提供できます。授乳が必要な母親のために、授乳を容易にする特別にデザインされた授乳スタイルも提供しています。'
+    - id: 6
+      question: 'マタニティ水着はカスタマイズできますか？'
+      answer: 'はい、カスタマイズサービスを提供しており、あなたのブランドのニーズとデザインアイデアに従ってマタニティ水着を製造できます。スタイル、色、生地を選択でき、水着にロゴやデザインを印刷して、製品がユニークで市場の需要を満たすことを保証できます。'
+    - id: 7
+      question: 'マタニティ水着の最小注文数量は何ですか？'
+      answer: 'マタニティ水着の最小注文数量（MOQ）は、デザインと使用される素材によって異なります。一般的に、小さな注文数量または起業段階の顧客に柔軟な生産オプションを提供しています。MOQは通常100から500個の範囲ですが、正確な数量はあなたのニーズに応じて調整できます。'

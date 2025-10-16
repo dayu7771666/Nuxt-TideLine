@@ -1,0 +1,70 @@
+hero:
+  title: 'Beach Dresses & Resort Wear Collection'
+  description: 'Elegant beach dresses and resort wear perfect for seaside strolls, beachside dining, and vacation elegance. From casual tie-dye cover-ups to formal embroidered maxis, featuring flowing fabrics and stylish designs for effortless beach sophistication.'
+
+seo:
+  title: 'Beach Dresses & Resort Wear Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale beach dresses & resort wear - tie-dye cover-ups, embroidered maxis, wrap dresses, tropical prints. Mini to maxi lengths. Custom options available.'
+  keywords: 'beach dresses, resort wear, maxi dresses, mini beach dresses, tie-dye dresses, embroidered dresses, wrap dresses, tropical print dresses, wholesale beach dresses'
+  ogTitle: 'Beach Dresses & Resort Wear Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale beach dresses & resort wear. Elegant vacation styles from mini to maxi.'
+  ogType: 'website'
+  ogImage: '/products/beach-dresses-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Beach Dresses & Resort Wear Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Beach dresses & resort wear wholesale. Vacation elegance from casual to formal.'
+
+products:
+  - id: 1
+    name: 'Tie-Dye Sleeveless T-Shirt Beach Cover-Up Dress'
+    description: 'Relaxed A-line silhouette beach dress with scoop neck and convenient side pockets, crafted from soft breathable jersey fabric in an earthy multi-toned tie-dye print, perfect for casual beachside comfort and style.'
+    imageSrc: '/products/beach-dresses/ABD01.png'
+    imageAlt: 'Earthy tie-dye sleeveless t-shirt style beach dress with side pockets and A-line silhouette'
+
+  - id: 2
+    name: 'Blue & White Print V-Neck Tunic Beach Dress with Lace Trim'
+    description: 'Flowy babydoll-style mini dress featuring a striking blue and white ornamental print, elegant V-neckline with delicate lace trim, and 3/4 bell sleeves enhanced with intricate crochet details for bohemian beach charm.'
+    imageSrc: '/products/beach-dresses/ABD02.png'
+    imageAlt: 'Blue and white ornamental print tunic beach dress with lace trim and bell sleeves'
+
+  - id: 3
+    name: 'Aqua Gauze Button-Front Ruffle Mini Cover-Up'
+    description: 'Lightweight textured gauze fabric mini dress in refreshing aqua color, featuring a flattering V-neck, button-down front closure, charming 3/4 ruffle sleeves, and a playful tiered ruffle hem for breezy beach elegance.'
+    imageSrc: '/products/beach-dresses/ABD03.png'
+    imageAlt: 'Aqua gauze button-front mini beach cover-up with ruffle sleeves and tiered hem'
+
+  - id: 4
+    name: 'Black Tropical Print Strapless High-Low Maxi Dress'
+    description: 'Versatile two-piece look evening resort dress featuring a solid black smocked tube top bodice paired with a contrasting black and beige tropical leaf print high-low skirt with elegant side split for sophisticated beach dining.'
+    imageSrc: '/products/beach-dresses/ABD04.png'
+    imageAlt: 'Black strapless tropical print high-low maxi dress for evening resort wear with side split'
+
+  - id: 5
+    name: 'Royal Blue Jersey Tassel Hem Tank Dress'
+    description: 'Bold royal blue slip-on tank dress with comfortable relaxed fit, featuring a standout playful extra-long fringe and tassel detail along the straight hemline, perfect for poolside lounging and casual beach activities.'
+    imageSrc: '/products/beach-dresses/ABD05.png'
+    imageAlt: 'Royal blue jersey tank dress with statement fringe hem for poolside wear'
+
+  - id: 6
+    name: 'Floral Wrap V-Neck Midi Sun Dress'
+    description: 'Flattering faux-wrap midi dress with adjustable spaghetti straps, vibrant all-over floral print, and convenient tie detail at the waist for customizable fit, ideal for summer events and beachside gatherings.'
+    imageSrc: '/products/beach-dresses/ABD06.png'
+    imageAlt: 'Vibrant floral print faux wrap V-neck midi dress for summer beach events'
+
+  - id: 7
+    name: 'Navy & Cream Shibori Tie-Dye V-Neck Mini Dress'
+    description: 'Short fit-and-flare silhouette mini dress with empire waist and dramatic puff sleeves, featuring a deep V-neck and textured navy and cream shibori-style tie-dye pattern for artistic beach sophistication.'
+    imageSrc: '/products/beach-dresses/ABD07.png'
+    imageAlt: 'Navy shibori print mini dress with empire waist and puff sleeves for beach wear'
+
+  - id: 8
+    name: 'Embroidered Floral V-Neck Maxi Sun Dress'
+    description: 'Elegant white maxi dress with delicate spaghetti straps and striking fully embroidered multi-colored floral pattern across the skirt and bodice trim, perfect for beach weddings and formal resort occasions.'
+    imageSrc: '/products/beach-dresses/ABD08.png'
+    imageAlt: 'White embroidered floral maxi dress with V-neck for beach weddings and formal resort wear'
+
+  - id: 9
+    name: 'Blue & White Damask Print Cutout Maxi Dress'
+    description: 'Stunning full-length maxi dress with sophisticated blue and white damask-style print, featuring a subtle front cutout and adjustable spaghetti straps, ideal for elegant resort occasions and formal beachside events.'
+    imageSrc: '/products/beach-dresses/ABD09.png'
+    imageAlt: 'Blue and white damask print maxi dress with front cutout for formal resort wear'

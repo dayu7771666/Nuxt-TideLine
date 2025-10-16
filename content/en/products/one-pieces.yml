@@ -1,0 +1,70 @@
+hero:
+  title: 'One-Piece Swimsuits Collection'
+  description: 'Sophisticated one-piece swimsuits designed for elegance, support, and confidence. From classic bandeau styles to modern plunge designs, featuring flattering cuts, tummy control, and premium materials for the perfect poolside and beachside look.'
+
+seo:
+  title: 'One-Piece Swimsuits Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale one-piece swimsuits - bandeau, plunge, square neck, high-cut styles. Tummy control, adjustable straps, plus size options. Premium materials, flattering designs.'
+  keywords: 'one piece swimsuits, bandeau swimsuit, plunge swimsuit, square neck swimsuit, high cut swimsuit, tummy control swimsuit, plus size swimsuit, wholesale one piece'
+  ogTitle: 'One-Piece Swimsuits Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale one-piece swimsuits. Sophisticated designs, flattering fits, premium quality.'
+  ogType: 'website'
+  ogImage: '/products/one-pieces-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'One-Piece Swimsuits Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'One-piece swimsuits wholesale. Elegant designs, superior support, confidence-boosting fits.'
+
+products:
+  - id: 1
+    name: 'Black Ruched Strapless Tummy Control One-Piece Swimsuit'
+    description: 'Classic strapless bandeau one-piece featuring full shirring and ruching across the torso for flattering tummy control and a sleek minimalist silhouette, perfect for confident poolside elegance with superior support.'
+    imageSrc: '/products/one-pieces/D01.png'
+    imageAlt: 'Black strapless ruched bandeau one-piece swimsuit with tummy control shirring and square sunglasses'
+
+  - id: 2
+    name: 'Dusty Rose Scoop Neck High-Cut One-Piece with Hardware Detail'
+    description: 'Vibrant scoop-neck maillot in dusty rose featuring thin spaghetti straps, high-cut leg openings for elongating effect, and delicate gold-toned hardware details for sophisticated beachside glamour.'
+    imageSrc: '/products/one-pieces/D02.png'
+    imageAlt: 'Dusty rose scoop neck high-cut one-piece swimsuit with pearl-look strap detail and gold hardware'
+
+  - id: 3
+    name: 'Black Adjustable Strappy Ruched Tank Swimsuit'
+    description: 'Versatile tank-style one-piece with adjustable thin straps and all-over ruching shirring, providing comfortable supportive fit with slimming silhouette for active swimming and poolside lounging.'
+    imageSrc: '/products/one-pieces/D03.png'
+    imageAlt: 'Black adjustable strap tank-style one-piece with body contouring ruching and supportive fit'
+
+  - id: 4
+    name: 'Deep Plunge V-Neck Sleeveless Black One-Piece Swimsuit'
+    description: 'Sexy and sophisticated one-piece featuring dramatic deep V-neckline with subtle central bar detail, offering bold flattering silhouette perfect for confident beachside statements and resort elegance.'
+    imageSrc: '/products/one-pieces/D04.png'
+    imageAlt: 'Deep plunge black V-neckline one-piece swimsuit with dramatic silhouette and central bar detail'
+
+  - id: 5
+    name: 'Vertical Stripe Square Neck Sleeveless One-Piece'
+    description: 'Retro-inspired swimsuit with straight square neckline and thick supportive straps, featuring vertical black and cream stripe pattern for elongating effect and timeless poolside sophistication.'
+    imageSrc: '/products/one-pieces/D05.png'
+    imageAlt: 'Black and cream vertical stripe square neck maillot with thick straps and retro styling'
+
+  - id: 6
+    name: 'Botanical Print Square Neck Wide Strap One-Piece'
+    description: 'Supportive one-piece with wide shoulder straps and flattering square neckline, adorned with lush warm-toned botanical and tropical floral print for natural elegance and superior comfort.'
+    imageSrc: '/products/one-pieces/D06.png'
+    imageAlt: 'Tropical botanical print square neck one-piece with wide supportive straps and floral design'
+
+  - id: 7
+    name: 'Black & Ivory Floral Print Square Neck One-Piece'
+    description: 'Charming swimsuit with classic square neck design and thick supportive straps, featuring striking large-scale black floral silhouette print on ivory background for artistic beachside elegance.'
+    imageSrc: '/products/one-pieces/D07.png'
+    imageAlt: 'Large black and ivory floral print square neck one-piece with thick straps and artistic design'
+
+  - id: 8
+    name: 'Thin Stripe V-Neck Spaghetti Strap One-Piece'
+    description: 'Classic striped maillot with gentle V-neckline and delicate black spaghetti straps, featuring universally flattering thin horizontal stripe pattern for timeless beachside sophistication.'
+    imageSrc: '/products/one-pieces/D08.png'
+    imageAlt: 'Classic horizontal black and white thin stripe V-neck one-piece with spaghetti straps'
+
+  - id: 9
+    name: 'Black Textured Bandeau Keyhole One-Piece (Plus Size)'
+    description: 'Textured black strapless bandeau swimsuit with central front cutout keyhole detail and secure metal clasp closure, specially designed for supportive plus-size fit with confident style and comfort.'
+    imageSrc: '/products/one-pieces/D09.png'
+    imageAlt: 'Plus size black textured bandeau one-piece with front keyhole detail and metal clasp closure'

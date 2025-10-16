@@ -100,18 +100,3 @@
     return `${protocol}//${defaultDomain}${currentPath}`;
   };
 </script>
-
-<style scoped>
-  .dropdown-enter-active,
-  .dropdown-leave-active {
-    transition:
-      opacity 0.2s,
-      transform 0.2s;
-  }
-
-  .dropdown-enter-from,
-  .dropdown-leave-to {
-    opacity: 0;
-    transform: translateY(-10px);
-  }
-</style>

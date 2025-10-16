@@ -1,0 +1,154 @@
+title: 'Premium Bademoden-Hardware & Zubehör'
+description: 'Verbessern Sie Ihre Bademoden-Designs mit unserer kuratierten Auswahl an hochwertiger Hardware und Zubehör. Von chlorbeständigen Elastikbändern bis zu langlebigem Metallzubehör – jedes Detail zählt bei der Herstellung langlebiger Bademode.'
+
+seo:
+  title: 'Bademoden-Hardware & Zubehör | Premium-Qualität Accessoires | Tideline Swim'
+  description: 'Verbessern Sie Ihre Bademoden-Designs mit Premium-Hardware und Zubehör. Chlorbeständige Elastikbänder, rostfreies Metallzubehör, BH-Cups und individuelle Branding-Optionen. Qualitätszertifizierte Bademoden-Komponenten.'
+  keywords: 'Bademoden-Hardware, Badeanzug-Zubehör, chlorbeständiges Elastikband, Metallschnallen, BH-Cups, Bademoden-Zubehör, Haken und Ösen, verstellbare Träger, Bademoden-Etiketten, individuelles Zubehör'
+  ogTitle: 'Premium Bademoden-Hardware & Zubehör | Tideline Swim'
+  ogDescription: 'Verbessern Sie Ihre Bademoden-Designs mit Premium-Hardware und Zubehör. Chlorbeständige Elastikbänder, rostfreies Metallzubehör und individuelle Branding-Optionen.'
+  ogType: 'website'
+  ogImage: '/hardware/hardware-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Premium Bademoden-Hardware & Zubehör | Tideline Swim'
+  twitterDescription: 'Qualitätszertifizierte Bademoden-Hardware und Zubehör. Chlorbeständige, langlebige und anpassbare Komponenten für Ihre Designs.'
+
+hero:
+  ctaButton: 'Erkunden Sie unseren Hardware-Katalog'
+
+gallery:
+  title: 'Unsere Hardware-Kollektion'
+  description: 'Durchsuchen Sie unser umfangreiches Sortiment an bademoden-spezifischer Hardware und Zubehör, sorgfältig ausgewählt für Langlebigkeit, Funktionalität und ästhetische Anziehungskraft.'
+  categories:
+    - name: 'Metall-Hardware'
+      description: 'Rostbeständige Schnallen, Ringe, Schieber und dekorative Elemente'
+      image: '/hardware/metal-hardware.webp'
+      items:
+        - 'D-Ringe & O-Ringe'
+        - 'Verstellbare Schieber'
+        - 'Dekorative Schnallen'
+        - 'Metall-Ösen'
+    - name: 'Elastikbänder & Träger'
+      description: 'Chlorbeständige Elastikbänder und verstellbare Träger'
+      image: '/hardware/elastic-straps.webp'
+      items:
+        - 'Bademoden-Elastikbänder'
+        - 'Verstellbare BH-Träger'
+        - 'Dekorative geflochtene Kordeln'
+        - 'Power-Mesh'
+    - name: 'Verschlüsse & Befestigungen'
+      description: 'Sichere und komfortable Verschlusssysteme'
+      image: '/hardware/closures-fasteners.webp'
+      items:
+        - 'Haken- und Ösen-Sets'
+        - 'Druckknöpfe'
+        - 'Kunststoffschnallen'
+        - 'Magnetverschlüsse'
+    - name: 'Büstenunterstützung'
+      description: 'Professionelle BH-Cups und Stützstrukturen'
+      image: '/hardware/bust-support.webp'
+      items:
+        - 'Geformte Cups (A-DD)'
+        - 'Schaumpolsterung'
+        - 'Bügel-Kanäle'
+        - 'Abnehmbare Cup-Taschen'
+    - name: 'Etiketten & Tags'
+      description: 'Individuelles Branding und Pflegeetiketten'
+      image: '/hardware/labels-tags.webp'
+      items:
+        - 'Gewebte Etiketten'
+        - 'Gedruckte Pflegeetiketten'
+        - 'Hänge-Tags'
+        - 'Größenetiketten'
+    - name: 'Dekorative Zubehör'
+      description: 'Fügen Sie Ihren Designs einzigartige Akzente hinzu'
+      image: '/hardware/decorative.webp'
+      items:
+        - 'Perlenketten'
+        - 'Pailletten-Applikationen'
+        - 'Bestickte Aufnäher'
+        - 'Strass-Details'
+
+features:
+  title: 'Warum unsere Hardware wählen?'
+  description: 'Wir beziehen nur hochwertigste bademoden-spezifische Hardware, die internationale Standards für Langlebigkeit und Sicherheit erfüllt.'
+  items:
+    - title: 'Chlorbeständig'
+      description: 'Alle unsere Hardware wird auf Beständigkeit gegen Chlor, Salzwasser und UV-Strahlung getestet, um langanhaltende Leistung zu gewährleisten.'
+      icon: 'ShieldCheckIcon'
+    - title: 'Nickelfreie Optionen'
+      description: 'Wir bieten hypoallergene, nickelfreie Metall-Hardware-Optionen für empfindliche Haut, die EU-Standards erfüllen.'
+      icon: 'HeartIcon'
+    - title: 'Farbabstimmung'
+      description: 'Umfangreiche Farbpalette zur perfekten Abstimmung auf Ihre Stoffauswahl, mit verfügbarer individueller Farbabstimmung.'
+      icon: 'SwatchIcon'
+    - title: 'Qualitätszertifiziert'
+      description: 'Alle Hardware erfüllt OEKO-TEX® und internationale Bademoden-Sicherheitsstandards.'
+      icon: 'CheckBadgeIcon'
+
+process:
+  title: 'So bestellen Sie Hardware'
+  description: 'Unser optimierter Prozess macht es einfach, genau die Hardware zu erhalten, die Sie für Ihre Bademoden-Produktion benötigen.'
+  steps:
+    - number: 1
+      title: 'Durchsuchen & Auswählen'
+      description: 'Überprüfen Sie unseren Hardware-Katalog und wählen Sie die benötigten Artikel aus. Fordern Sie bei Bedarf physische Muster an, um eine perfekte Übereinstimmung mit Ihren Designs sicherzustellen.'
+    - number: 2
+      title: 'Spezifikationen bestätigen'
+      description: 'Geben Sie Details zu Mengen, Farben und Anpassungsanforderungen an. Unser Team bestätigt Verfügbarkeit und Lieferzeiten.'
+    - number: 3
+      title: 'Muster erhalten'
+      description: 'Bei großen Bestellungen können wir Mustersets zur Genehmigung vor der Massenproduktion senden, um Qualität und Passform sicherzustellen.'
+    - number: 4
+      title: 'Bestellung aufgeben'
+      description: 'Nach Genehmigung geben Sie Ihre Bestellung mit klarer MOQ und Lieferzeitplan auf. Wir kümmern uns um Beschaffung und Qualitätsprüfung.'
+    - number: 5
+      title: 'Qualitätskontrolle & Lieferung'
+      description: 'Alle Hardware unterliegt strenger Qualitätskontrolle vor dem Versand. Wir koordinieren die Lieferung mit Ihrem Produktionsplan.'
+
+specifications:
+  title: 'Technische Spezifikationen'
+  description: 'Das Verständnis der Hardware-Spezifikationen gewährleistet eine perfekte Integration in Ihre Bademoden-Designs.'
+  items:
+    - category: 'Metall-Hardware'
+      specs:
+        - 'Material: Edelstahl, Messing oder Zinklegierung'
+        - 'Finish: Poliert, gebürstet oder pulverbeschichtet'
+        - 'Korrosionsbeständigkeit: Salzsprühtest 48+ Stunden'
+        - 'Verfügbare Größen: 10 mm bis 50 mm'
+    - category: 'Elastikbänder & Träger'
+      specs:
+        - 'Material: Nylon/Spandex-Mischung oder Polyester'
+        - 'Dehnungsrückstellung: 95%+ nach 100 Zyklen'
+        - 'Chlorbeständigkeit: 200+ Stunden Exposition'
+        - 'Breitenbereich: 3 mm bis 25 mm'
+    - category: 'Verschlüsse'
+      specs:
+        - 'Hakenfestigkeit: 3-5 kg Zugkraft'
+        - 'Druckknopf-Haltbarkeit: 1000+ Öffnen/Schließen-Zyklen'
+        - 'Temperaturbeständigkeit: -20°C bis 60°C'
+        - 'Nickelfreie Optionen verfügbar'
+
+faq:
+  title: 'Hardware-FAQs'
+  items:
+    - question: 'Was ist die Mindestbestellmenge (MOQ) für Hardware?'
+      answer: 'MOQs variieren je nach Artikeltyp. Standard-Hardware-Artikel haben typischerweise MOQs von 100-500 Stück pro Farbe/Größe. Für individuelle Hardware oder spezielle Finishes können MOQs höher sein (1000+ Stück). Kontaktieren Sie uns für spezifische Artikel-MOQs.'
+    - question: 'Kann ich Hardware-Muster vor dem Massenkauf bestellen?'
+      answer: 'Ja! Wir bieten Mustersets für die meisten Hardware-Artikel an. Musterkosten betragen typischerweise 20-50 $ pro Set und können auf Ihre Massenbestellung angerechnet werden. Dies ermöglicht es Ihnen, Qualität, Farbabstimmung und Passform zu testen, bevor Sie sich auf große Mengen festlegen.'
+    - question: 'Bieten Sie individuelle Hardware mit meinem Markenlogo an?'
+      answer: 'Absolut. Wir können Metall-Hardware (Schnallen, Schieber, Anhänger) mit Ihrem Markenlogo durch Gravur oder Prägung anpassen. Individuelle Etiketten und Tags sind ebenfalls verfügbar. MOQs für individuelle Artikel beginnen typischerweise bei 1000 Stück.'
+    - question: 'Wie stelle ich sicher, dass Hardware-Farben zu meinem Stoff passen?'
+      answer: 'Wir empfehlen, Stoffmuster und Hardware-Muster zusammen für einen physischen Vergleich zu bestellen. Wir können auch Pantone-Farbreferenzen für die meisten Hardware-Artikel bereitstellen und bieten individuelle Farbabstimmungsdienste für größere Bestellungen an.'
+    - question: 'Was ist die Lieferzeit für Hardware-Bestellungen?'
+      answer: 'Standard-Hardware auf Lager: 3-7 Tage. Individuelle Farben oder Finishes: 2-3 Wochen. Individuell gebrandete Hardware: 4-6 Wochen. Wir bestätigen immer genaue Zeitpläne bei Auftragserteilung und können für dringende Projekte beschleunigen.'
+    - question: 'Werden Ihre Hardware-Artikel für Bademoden-Verwendung getestet?'
+      answer: 'Ja, alle unsere Hardware wird speziell für Bademoden-Anwendungen ausgewählt. Wir führen Chlorbeständigkeitstests, Salzsprühtests und UV-Belastungstests durch, um Langlebigkeit zu gewährleisten. Testberichte sind auf Anfrage verfügbar.'
+    - question: 'Können Sie mir bei der Auswahl der richtigen Hardware für mein Design helfen?'
+      answer: 'Natürlich! Unser Team verfügt über umfangreiche Erfahrung in der Auswahl von Bademoden-Hardware. Teilen Sie Ihre Design-Skizzen oder Tech-Packs, und wir können die am besten geeigneten Hardware-Optionen basierend auf Funktionalität, Ästhetik und Budget empfehlen.'
+
+cta:
+  title: 'Bereit, Ihre Hardware zu beschaffen?'
+  description: 'Setzen Sie sich mit unseren Hardware-Spezialisten in Verbindung, um Ihre Bedürfnisse zu besprechen. Wir können Muster, technische Spezifikationen und Preise für Ihre nächste Bademoden-Kollektion bereitstellen.'
+  button: 'Hardware-Katalog anfordern'
+  link: '/contact'

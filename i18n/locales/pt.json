@@ -1,13 +1,60 @@
 {
-  "hello": "helloEN",
+  "hello": "helloPT",
   "Home": "Início",
   "Contact": "Contato",
-  "支付成功": "Pagamento bem-sucedido",
-  "感谢您的购买！": "Obrigado pela sua compra!",
-  "返回首页": "Voltar ao início",
-  "描述": "Descrição",
+  "Make it Real": "Torne Realidade",
+  "Get Custom Pricing": "Obtenha Preços Personalizados",
+  "TideHeader": {
+    "加载导航时出错": "Erro ao carregar navegação",
+    "加载中": "Carregando"
+  },
+  "LanguageSwitcher": {
+    "关闭语言菜单": "Fechar menu de idiomas",
+    "打开语言菜单": "Abrir menu de idiomas"
+  },
+  "ContactForm": {
+    "consentText": "Ao preencher este formulário, você concorda com os",
+    "terms": "Termos da TideLine"
+  },
+  "你离自己的泳装品牌，只差一个决定": "Sua própria marca de roupas de banho está a apenas uma decisão de distância",
+  "免费获取1对1定制咨询，我们的专业团队将为您提供全方位的品牌创建与生产支持，开启您的泳装品牌之路。": "Obtenha consultoria personalizada gratuita um-a-um. Nossa equipe profissional fornecerá suporte abrangente para criação de marca e produção para iniciar sua jornada de marca de roupas de banho.",
+  "获取免费咨询": "Obtenha Consultoria Gratuita",
+  "立即咨询": "Consulte Agora",
+  "目录": "Índice",
+  "没有找到目录项": "Nenhum índice encontrado",
+  "最新文章": "Artigos Recentes",
+  "想创建自己的泳装品牌吗？": "Quer criar sua própria marca de roupas de banho?",
+  "我们提供一系列的服务，提供最具性价比的泳衣，同时我们也支持定制服务，让您的想法变成现实，为您轻松开启自己的泳装品牌！": "Fornecemos uma gama de serviços, oferecendo as roupas de banho mais econômicas. Também apoiamos serviços personalizados para transformar suas ideias em realidade e ajudá-lo a iniciar facilmente sua própria marca de roupas de banho!",
+  "了解更多": "Saiba Mais",
+  "about": "sobre",
+  "WhatsApp": "WhatsApp",
+  "联系我们": "Entre em Contato",
+  "文章未找到": "Artigo Não Encontrado",
+  "successTitle": "Inscrição Bem-sucedida!",
+  "successMessage": "Obrigado por se inscrever! Agora você pode desfrutar dos seguintes benefícios exclusivos:",
+  "benefit1": "Receba as últimas atualizações de produtos e informações promocionais.",
+  "benefit2": "Obtenha notificações antecipadas sobre ofertas por tempo limitado.",
+  "benefit3": "Desfrute de descontos exclusivos para membros.",
+  "backToHome": "Voltar ao Início",
+  "联系我们页面内容": "Se você está procurando saber mais sobre nossos serviços de personalização ou tem dúvidas sobre o processo de produção, nossa equipe está sempre pronta para ajudá-lo. Estamos comprometidos em fornecer serviços de alta qualidade e suporte personalizado para garantir o desenvolvimento suave de sua marca. Se você tem dúvidas ou gostaria de saber mais sobre nossos produtos e serviços, sinta-se à vontade para nos contatar através dos seguintes canais. Estamos ansiosos para trabalhar com você e ajudar sua marca a crescer!",
   "地址": "Endereço",
-  "FirstName": "Primeiro nome",
+  "Xingcheng, HuludaoCity,Liaoning Province, China": "Xingcheng, Cidade de Huludao, Província de Liaoning, China",
+  "加我我们的计划引言": "\"O futuro da indústria de roupas de banho é tudo sobre inovação ousada e ficar à frente das tendências—junte-se a nós para moldar a próxima grande coisa e vamos criar algo inesquecível juntos!\"",
+  "First name": "Primeiro nome",
+  "Email": "Email",
+  "Message": "Mensagem",
+  "发表": "Enviar",
+  "By submitting this form, I agree to the": "Ao enviar este formulário, concordo com os",
+  "条款": "Termos",
+  "请填写您的名字！": "Por favor, insira seu nome!",
+  "邮箱不能为空！": "Email não pode estar vazio!",
+  "处理中...": "Processando...",
+  "提交失败，请稍后重试": "Falha no envio, tente novamente mais tarde",
+  "支付成功": "Pagamento Bem-sucedido",
+  "感谢您的购买！": "Obrigado pela sua compra!",
+  "返回首页": "Voltar ao Início",
+  "描述": "Descrição",
+  "FirstName": "Primeiro Nome",
   "LastName": "Sobrenome",
   "Phone": "Telefone",
   "Deliver to": "Entregar para",
@@ -16,19 +63,151 @@
   "State/Province": "Estado/Província",
   "Postal code": "Código postal",
   "Country/Region": "País/Região",
-  "确认订单信息": "Confirmar informações do pedido",
-  "处理中...": "Processando...",
+  "确认订单信息": "Confirmar Informações do Pedido",
   "不能为空": "não pode estar vazio",
   "保存地址失败，请重试": "Falha ao salvar endereço, tente novamente",
   "Network fluctuation, please contact the administrator.": "Flutuação de rede, entre em contato com o administrador.",
   "请输入完整的地址信息": "Por favor, insira informações completas do endereço",
   "支付系统加载失败，请刷新页面重试": "Falha ao carregar sistema de pagamento, atualize a página e tente novamente",
-  "TideHeader": {
-    "加载导航时出错": "Error loading navigation",
-    "加载中": "Loading"
+  "blog": {
+    "categories": "Categorias",
+    "tags": "Tags",
+    "all": "Todos",
+    "showingPage": "Mostrando página",
+    "of": "de",
+    "totalArticles": "artigos totais",
+    "by": "Por",
+    "blogTagsTitle": "Tags do Blog",
+    "blogTags": {
+      "Bikini": "Biquíni",
+      "Tankini": "Tankini",
+      "One-Piece": "Maiô",
+      "Rash-Guard": "Rashguard",
+      "Trunks": "Sunga",
+      "Boardshorts": "Boardshorts",
+      "OEM": "OEM",
+      "ODM": "ODM",
+      "Private Label": "Marca Própria",
+      "Factory": "Fábrica",
+      "Supplier": "Fornecedor",
+      "Manufacturing": "Fabricação",
+      "Heat Transfer": "Transferência Térmica",
+      "Logo Printing": "Impressão de Logo",
+      "Size Guide": "Guia de Tamanhos",
+      "Quality Control": "Controle de Qualidade",
+      "Startup": "Startup",
+      "New Brand": "Nova Marca",
+      "Small Business": "Pequena Empresa",
+      "Sampling": "Amostragem",
+      "MOQ": "MOQ",
+      "Bulk Production": "Produção em Massa",
+      "AQL": "AQL",
+      "Incoterms": "Incoterms",
+      "Shipping": "Envio",
+      "Sustainable Materials": "Materiais Sustentáveis",
+      "Eco-friendly": "Ecológico"
+    },
+    "seoblog": {
+      "title": "Blog da Indústria de Roupas de Banho | Dicas, Tendências e Insights de Fabricação | Tideline Swim",
+      "description": "Insights especializados sobre fabricação de roupas de banho, tendências de design, dicas de produção e melhores práticas da indústria. Aprenda sobre OEM, ODM, amostragem, controle de qualidade e produção sustentável de roupas de banho.",
+      "keywords": "blog roupas de banho, dicas fabricação roupas banho, tendências indústria roupas banho, insights OEM ODM, guia produção roupas banho, roupas banho sustentáveis, controle qualidade, processo amostragem",
+      "ogImage": "/blog-og-image.jpg",
+      "twitterCard": "summary_large_image"
+    }
   },
-  "LanguageSwitcher": {
-    "关闭语言菜单": "Close language menu",
-    "打开语言菜单": "Open language menu"
+  "Follow Us :": "Siga-nos :",
+  "Free Quote": "Orçamento Gratuito",
+  "shipping": {
+    "title": "Política de Envio",
+    "subtitle": "Soluções de envio global confiáveis para as necessidades do seu negócio de roupas de banho",
+    "orderTracking": {
+      "title": "Rastreamento de Pedido",
+      "description": "Fornecemos rastreamento abrangente para todos os pedidos para garantir que você permaneça informado sobre o status do seu envio a cada passo.",
+      "feature1": "Números de rastreamento são enviados por email dentro de 24 horas do envio",
+      "feature2": "Rastreamento em tempo real disponível em nosso site ou no site da transportadora",
+      "feature3": "Atualizações regulares de status por email para pedidos de produção",
+      "feature4": "Gerente de conta dedicado para pedidos acima de $10.000",
+      "trackTitle": "Rastreie Seu Pedido: Digite seu número de rastreamento abaixo para verificar o status atual do seu envio.",
+      "trackPlaceholder": "Digite o número de rastreamento",
+      "trackButton": "Rastrear"
+    },
+    "methods": {
+      "title": "Métodos de Envio",
+      "description": "Oferecemos diferentes opções de envio baseadas no seu tipo de pedido e urgência para atender seus requisitos específicos de negócio.",
+      "sample": {
+        "title": "Pedidos de Amostra",
+        "description": "Para pedidos de amostra, fornecemos opções de envio acelerado para ajudá-lo a tomar decisões rápidas:",
+        "express": "Correio Expresso",
+        "expressTime": "DHL, FedEx, UPS (3-7 dias úteis)",
+        "standard": "Correio Aéreo Padrão",
+        "standardTime": "(7-14 dias úteis)",
+        "economy": "Econômico",
+        "economyTime": "(14-21 dias úteis)"
+      },
+      "bulk": {
+        "title": "Pedidos de Produção em Massa",
+        "description": "Para quantidades de produção, oferecemos soluções econômicas:",
+        "air": "Frete Aéreo",
+        "airTime": "(7-15 dias úteis)",
+        "sea": "Frete Marítimo",
+        "seaTime": "(30-45 dias úteis)",
+        "expressAir": "Aéreo Expresso",
+        "expressAirTime": "(5-10 dias úteis)"
+      },
+      "important": "Importante",
+      "importantNote": "Os tempos de produção são adicionais aos tempos de envio. Entre em contato conosco para cronogramas de produção exatos baseados na quantidade e complexidade do seu pedido."
+    },
+    "coverage": {
+      "title": "Cobertura de Envio",
+      "description": "Fornecemos serviços de envio para mais de 150 países mundialmente. Nossa rede de parceiros oferece entrega rápida ao redor do globo.",
+      "mapTitle": "TIDELINE SWIMWEAR ESTÁ ONDE SEUS CLIENTES ESTÃO",
+      "mapSubtitle": "Nossa rede de parceiros oferece entrega rápida ao redor do globo.",
+      "regions": {
+        "northAmerica": "América do Norte",
+        "europe": "União Europeia",
+        "asia": "Ásia",
+        "africa": "África",
+        "southAmerica": "América do Sul",
+        "australia": "Austrália e NZ"
+      },
+      "legend": {
+        "available": "Disponível para Envio",
+        "limited": "Serviço Limitado/Indisponível"
+      },
+      "note": "Nota",
+      "noteText": "Atualmente temos disponibilidade de envio limitada para certas regiões da África e Ásia Central devido a restrições logísticas. Estamos trabalhando ativamente para expandir nossas áreas de serviço. Para disponibilidade de países específicos e quaisquer restrições, entre em contato com nosso departamento de envio."
+    },
+    "sidebar": {
+      "overview": {
+        "title": "Visão Geral do Envio",
+        "description1": "Na TIDELINE SWIMWEAR, entendemos que a entrega pontual é crucial para seu negócio. Nossas soluções de envio abrangentes são projetadas para atender às diversas necessidades de nossos clientes B2B mundialmente.",
+        "description2": "Fazemos parceria com fornecedores líderes de logística global para garantir que seus pedidos de roupas de banho cheguem até você com segurança e no prazo.",
+        "keyFeatures": "Características Principais",
+        "features": "Cobertura global, opções de envio flexíveis, rastreamento em tempo real e assistência alfandegária."
+      },
+      "contact": {
+        "title": "Precisa de Ajuda com Envio?",
+        "email": "Email",
+        "hours": "Horário Comercial",
+        "hoursTime": "Seg-Sex: 9h-18h (EST)",
+        "emergency": "Linha de Emergência"
+      },
+      "quickLinks": {
+        "title": "Links Rápidos",
+        "calculator": "Calculadora de Custo de Envio",
+        "customs": "Guia de Alfândega e Impostos",
+        "documentation": "Documentação Alfandegária",
+        "processing": "Info de Tempo de Processamento",
+        "packaging": "Detalhes de Embalagem",
+        "returns": "Devoluções e Trocas",
+        "insurance": "Seguro de Envio",
+        "faq": "FAQ de Envio",
+        "policy": "Política de Devolução"
+      },
+      "partners": {
+        "title": "Nossos Parceiros de Envio",
+        "description": "Trabalhamos com fornecedores de logística global confiáveis:"
+      }
+    }
   }
 }

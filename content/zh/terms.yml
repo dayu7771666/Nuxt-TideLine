@@ -1,0 +1,89 @@
+title: '条款和条件'
+description: '我们作为B2B制造商运营，通过我们商店进行的所有购买都是批发，而非B2C。我们仅根据我们的条款接受有缺陷产品的退货或退款。提供样品是为了帮助您在承诺批量订单之前评估质量、合身度和设计。对样品所做的任何更改都将被视为定制，可以通过我们的在线定制服务安排。'
+
+seo:
+  title: '条款和条件 | TIDELINE SWIMWEAR'
+  description: 'B2B泳装制造商条款和条件。批发采购、付款条款、运输政策、保密协议和泳装订单的商业条款。'
+  keywords: '泳装条款和条件, B2B条款, 批发泳装条款, 制造商条款, 泳装商业条款, 保密协议, 付款条款, 运输条款'
+  ogTitle: '条款和条件 | TIDELINE SWIMWEAR'
+  ogDescription: 'B2B泳装制造商条款和条件。批发采购、付款条款、运输政策和保密协议。'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '条款和条件 | TIDELINE SWIMWEAR'
+  twitterDescription: 'B2B泳装制造商条款：批发采购、付款条款、运输政策和保密协议。'
+
+sections:
+  contract_formation:
+    title: '合同形成'
+    content: '订单一经确认即成为具有约束力的合同。任何修改都需要双方书面同意。'
+
+  payment_terms:
+    title: '付款条款'
+    content: |
+      所有订单需要50%的定金，余额在发货前支付。
+
+      对于首次客户，需要100%的定金。
+
+  shipping:
+    title: '运输'
+    content: '交货时间取决于订单类型（样品或批量）和运输方式。我们将提供完整的运输文件用于清关，由买方处理。'
+
+  cancellations:
+    title: '取消'
+    content: '订单完成后不能取消。最终付款后任何订单取消或修改将收取25%的费用。'
+
+  pricing:
+    title: '定价'
+    content: '单价包括面料、人工和标准质量检查，但不包括吊牌或定制包装等附加元素。'
+
+  bulk_orders:
+    title: '批量订单'
+    content: '我们要求在批量生产前提供最终技术包和样品批准。付款后的任何修改可能会产生额外费用。'
+
+  claims_returns:
+    title: '索赔和退货'
+    content: '对于有缺陷的批量商品，必须在收到货物后14天内提出索赔。退款或更换将基于我们对缺陷的评估。'
+
+  confidentiality:
+    title: '保密性'
+    subsections:
+      definition:
+        title: '保密信息的定义'
+        content: '指定"保密信息"包括客户披露的所有非公开信息，包括但不限于商业计划、设计、技术数据、营销策略、财务细节、客户名单以及任何其他专有信息。'
+
+      obligations:
+        title: '保密义务'
+        content: |
+          承诺仅将保密信息用于协议中概述的目的，并禁止在未经客户事先书面同意的情况下向任何第三方披露。
+          确保对保密信息的访问仅限于需要了解此类信息以履行协议的员工或合作伙伴，并要求他们遵守同等的保密义务。
+
+      protection:
+        title: '保护措施'
+        content: '实施合理的技术和组织保障措施，以防止未经授权访问、使用或披露保密信息。'
+
+      duration:
+        title: '保密期限'
+        content: '指定保密义务在协议期限内以及终止后的指定期限（例如两年）内保持有效。'
+
+      exceptions:
+        title: '保密例外'
+        content: |
+          明确保密义务不适用于以下信息：
+
+          在不违反协议的情况下已经或变为公开可用的信息；
+          接收方在没有保密义务的情况下已经拥有的信息；
+          由有法律权利进行此类披露的第三方向接收方披露的信息；
+          接收方在不使用披露方保密信息的情况下独立开发的信息；
+          法律或政府命令要求披露的信息，前提是及时通知披露方并给予其寻求保护令的机会。
+
+      breach:
+        title: '违约和补救措施'
+        content: '声明任何违反保密性的行为可能对客户造成无法弥补的损害，并使其有权除任何其他法律补救措施外寻求禁令救济。'
+
+      return_destruction:
+        title: '信息的归还或销毁'
+        content: '在协议终止时或应客户要求，有义务归还或经认证销毁所有包含保密信息的材料。'
+
+footer:
+  consultation: '如果您对我们的服务感兴趣或有任何问题，我们提供免费咨询。'

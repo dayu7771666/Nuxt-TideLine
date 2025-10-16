@@ -1,0 +1,121 @@
+title: '运动泳装制造商'
+description: '不仅仅是供应商——您的泳装品牌建设合作伙伴。'
+
+seo:
+  title: '运动泳装制造商 | TIDELINE SWIMWEAR'
+  description: '竞技和训练用高性能运动泳装制造商。竞速泳衣、训练泳装、水球服。定制设计，批发价格。'
+  keywords: '运动泳装制造商, 竞速泳衣供应商, 竞技泳装, 训练泳装批发, 性能泳装工厂, 运动泳装制造商'
+  ogTitle: '运动泳装制造商 | TIDELINE SWIMWEAR'
+  ogDescription: '专业运动泳装制造商。竞速泳衣、训练装备、竞技泳装。高性能设计。'
+  ogType: 'website'
+  ogImage: '/catalog/sports-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '运动泳装制造商 | TIDELINE SWIMWEAR'
+  twitterDescription: '高性能运动泳装。竞技和训练装备。运动员定制设计。'
+
+# Hero section
+hero:
+  cta_text: '咨询'
+  cta_href: '/contact'
+  image_src: '/catalog/sports-swimwear-bg.webp'
+  image_alt: '运动泳装制造'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: '我们的使命'
+  paragraph1: '在TideLine Swimwear，我们知道运动和性能泳装是竞技和活跃消费者的重要类别。每个季节，我们的设计团队都会开发结合功能性能、耐用面料和舒适贴合的系列——从流线型连体泳衣到高性能游泳短裤——为批发商和品牌所有者提供多样化选择，以满足运动员和活跃游泳者的需求。'
+  whatsapp_link_text: '通过WhatsApp联系我们'
+
+# Statistics
+stats:
+  - label: '泳装行业经验'
+    value: '10年以上'
+  - label: '完成订单'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: '竞速泳衣'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/racing-1.webp'
+    imageAlt: '竞速泳衣系列'
+  - name: '训练泳装'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/training-1.webp'
+    imageAlt: '训练泳装系列'
+  - name: '水球服'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/water-polo-1.webp'
+    imageAlt: '水球服系列'
+  - name: '铁人三项服'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/triathlon-1.webp'
+    imageAlt: '铁人三项服系列'
+
+# Customization capabilities
+customization:
+  title: '定制能力'
+  description: '完全可定制的泳装——TideLine接受所有定制设计、面料、五金配件、标志和包装，让您的品牌愿景成为现实。'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: '制造设施'
+  hero_image_width: '1000'
+  features:
+    - name: '款式定制'
+      description: '实现任何泳装设计——选择您的完美款式，让我们为您的品牌制作。'
+      link: '/contact'
+      cta_text: '咨询'
+    - name: '面料定制'
+      description: '从广泛的面料中选择，创造穿着舒适、外观美丽的泳装。'
+      link: '/fabric'
+      cta_text: '面料'
+    - name: '五金配件定制'
+      description: '定制每个细节——从扣环和环扣到拉链——我们的五金配件选项提升您的设计。'
+      link: '/hardware'
+      cta_text: '五金配件'
+    - name: '标志定制'
+      description: '让它真正属于您——为每件产品添加您的标志，打造专业品牌外观。'
+    - name: '包装定制'
+      description: '用符合您风格和愿景的包装完善您的品牌体验。'
+    - name: '联系我们'
+      description: '准备好了吗？让我们将您的泳装想法变为现实。'
+      link: '/contact'
+      cta_text: '联系我们'
+
+# Getting Started section
+getting_started:
+  title: '您的泳装之旅从这里开始'
+  description: '无论您是推出第一个系列还是扩展品牌，TideLine都提供量身定制的泳装解决方案来满足您的需求。选择您的道路并开始。'
+  beginner_text: '作为初学者开始'
+  beginner_href: '/startup'
+  pro_text: '经验丰富的买家'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: '制造过程'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: '常见问题'
+  questions:
+    - id: 1
+      question: '运动泳装和普通泳装有什么区别？'
+      answer: '运动泳装专为高强度活动设计，提供更大的弹性、支撑性和耐用性。它们通常使用更具压缩性的面料来减少水阻，帮助运动员提高速度和表现。与普通泳装相比，运动泳装更注重舒适性和贴合度，确保运动员在游泳时有更好的运动自由度和支撑。'
+    - id: 2
+      question: '竞技游泳最好的面料是什么？'
+      answer: '竞技泳装通常由高性能材料制成，如聚酯纤维、氨纶（弹性纤维）、尼龙和弹性纤维。这些材料提供出色的弹性、强度和防水性，有效减少摩擦和水阻，从而提高游泳效率。最近，由回收塑料纤维（RPET）制成的环保泳装出现，提供良好的性能和可持续性。'
+    - id: 3
+      question: '如何为运动泳装选择合适的尺码？'
+      answer: '选择运动泳装时，合适的尺码非常重要，因为泳装需要紧密贴合以提供足够的支撑和流线型形状。建议选择合身但不太松的泳装，确保舒适而不限制运动。许多品牌提供尺码表，可以帮助您根据体型选择合适的尺码，或者您可以咨询品牌获取具体的尺码建议。'
+    - id: 4
+      question: '运动泳装的抗氯性如何？'
+      answer: '运动泳装通常由抗氯材料制成，如聚酯纤维和PBT（聚对苯二甲酸丁二醇酯），比传统莱卡面料提供更好的抗氯性。这些材料有助于保护泳装免受游泳池中氯的有害影响，延长泳衣的使用寿命。选择具有强抗氯性的泳装对确保耐用性很重要。'
+    - id: 5
+      question: '运动泳装的舒适性如何保证？'
+      answer: '运动泳装的舒适性主要通过科学设计和高性能面料来保证。运动泳装经常使用无缝设计或精确的裁剪技术来减少身体和泳装之间的摩擦，防止运动时的不适。此外，使用透气材料让运动员在激烈训练时保持干燥和舒适。'
+    - id: 6
+      question: '如何清洗和保养运动泳装？'
+      answer: '为了延长运动泳装的使用寿命，建议手洗或用冷水机洗，避免含有漂白剂的洗涤剂。洗涤后，泳装应平放晾干，避免直射阳光或烘干机烘干。保持泳装清洁干燥有助于防止面料损坏并保持其性能和弹性。'
+    - id: 7
+      question: '有用环保材料制成的运动泳装吗？'
+      answer: '是的，越来越多的运动泳装品牌正在使用环保材料，如回收塑料纤维（RPET）和天然纤维。这些材料不仅提供出色的性能，还符合可持续性和环保标准。如果您的品牌注重环保，我们可以为您提供符合环保标准并提升品牌形象的定制运动泳装。'

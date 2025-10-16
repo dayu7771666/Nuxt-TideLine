@@ -1,0 +1,144 @@
+title: 'Servizi di Fabbrica di Costumi da Bagno per Startup e Negozi Fisici'
+description: "Siamo una fabbrica cinese di costumi da bagno con una catena di fornitura completa, dedicata a fornire servizi premium per startup e negozi fisici. La nostra quantità minima d'ordine è di sole 30 pezzi, rendendoci ideali per clienti con esigenze di acquisto in piccoli lotti."
+
+seo:
+  title: 'Servizi di Fabbrica di Costumi da Bagno per Startup e Negozi Fisici | TIDELINE SWIMWEAR'
+  description: "Siamo una fabbrica cinese di costumi da bagno con una catena di fornitura completa, dedicata a fornire servizi premium per startup e negozi fisici. La nostra quantità minima d'ordine è di sole 30 pezzi."
+  keywords: 'fabbrica di costumi da bagno, produttore di costumi da bagno, costumi da bagno per startup, costumi da bagno in piccoli lotti, costumi da bagno MOQ basso, fabbrica di costumi, produzione di costumi da bagno personalizzati, fornitore di costumi da bagno'
+  ogTitle: 'Servizi di Fabbrica di Costumi da Bagno per Startup | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabbrica cinese di costumi da bagno con catena di fornitura completa. MOQ basso di 30 pezzi, perfetto per startup e negozi fisici. Oltre 8 anni di esperienza nel settore.'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabbrica di Costumi da Bagno per Startup | TIDELINE SWIMWEAR'
+  twitterDescription: 'Produzione di costumi da bagno a MOQ basso per startup. Minimo 30 pezzi, catena di fornitura completa, oltre 8 anni di esperienza.'
+
+# Hero section
+hero:
+  badge: 'Presentazione'
+
+# Company information
+company:
+  introduction: "Con 8 anni di esperienza nell'industria dei costumi da bagno, siamo fornitori a lungo termine per piattaforme rinomate come Alibaba, SHEIN e TikTok, garantendo qualità del prodotto e fornitura stabile."
+  benefits: 'Scegliendo noi, beneficerete del supporto di un team professionale, processi di produzione efficienti e servizi di personalizzazione flessibili in piccoli lotti, aiutandovi a lanciare o espandere rapidamente la vostra attività di costumi da bagno.'
+
+# Features list
+features:
+  - id: 1
+    title: "Quantità minima d'ordine di sole 30 pezzi"
+    description: 'Perfetto per startup e piccoli negozi fisici per testare il mercato con costi bassi.'
+  - id: 2
+    title: 'Prezzi Competitivi'
+    description: 'Rispetto ai fornitori internazionali, i nostri prezzi sono più bassi mantenendo standard di alta qualità.'
+  - id: 3
+    title: "8 Anni di Esperienza nell'Industria dei Costumi da Bagno"
+    description: 'Comprendiamo le richieste del mercato e possiamo aiutare i clienti a creare costumi da bagno bestseller.'
+
+# Success section
+success:
+  title: 'Partendo da Zero, Aiutandovi ad Avere Successo'
+  description: 'Che siate una startup appena iniziata o un negozio fisico alla ricerca di un fornitore affidabile, offriamo soluzioni su misura per soddisfare le vostre esigenze.'
+
+# Quote section
+quote:
+  text: 'Siamo impegnati ad essere il fornitore preferito di costumi da bagno per startup e negozi fisici, aiutando i clienti ad entrare facilmente nel mercato e crescere rapidamente.'
+  company: 'TideLine'
+  role: "Esperti dell'Industria dei Costumi da Bagno"
+  avatar: '/tidelinelogo-600.png'
+
+# Call to action
+cta:
+  text: 'Contattaci'
+  description: 'Scopri di più sui nostri servizi.'
+
+# Image section
+image:
+  src: '/manufacturer.jpg'
+  alt: 'Supporto di fabbrica di costumi da bagno per startup'
+  caption: 'Forte Supporto per Startup e Negozi Fisici'
+
+# Services section
+services:
+  title: 'Servizi Completi per Soddisfare le Vostre Esigenze'
+  description: "Dal design alla produzione, abbiamo una catena di fornitura completa, offrendo ai clienti un'esperienza di servizio efficiente e affidabile."
+  cta: 'Contattaci e iniziamo un nuovo capitolo nella vostra attività di costumi da bagno!'
+
+# Contact form section
+contact:
+  title: 'Unisciti a Noi'
+  form:
+    firstName: 'Nome'
+    email: 'Email'
+    message: 'Messaggio'
+    submit: 'Invia'
+    terms:
+      text: 'Inviando questo modulo, accetto i'
+      link: 'Termini e Condizioni'
+
+# Testimonial section
+testimonial:
+  quote: "Il futuro dell'industria dei costumi da bagno riguarda l'innovazione audace e il rimanere avanti rispetto alle tendenze - unisciti a noi nel plasmare la prossima grande cosa e creiamo insieme qualcosa di indimenticabile!"
+  name: 'ChangShun'
+  title: 'CEO di TideLine Swimwear'
+  avatar: '/img/contactus.png'
+
+# Statistics
+stats:
+  - label: "Esperienza nell'Industria dei Costumi da Bagno"
+    value: '8 anni +'
+  - label: 'Ordini Evasi'
+    value: '100.000+'
+
+# Additional sections for potential expansion
+advantages:
+  title: 'Perché Scegliere TideLine per la Vostra Startup'
+  items:
+    - title: 'Ingresso a Basso Rischio'
+      description: "Inizia con solo 30 pezzi di quantità minima d'ordine"
+      icon: 'shield-check'
+    - title: 'Catena di Fornitura Completa'
+      description: 'Dal design alla consegna, gestiamo tutto'
+      icon: 'cog-6-tooth'
+    - title: 'Esperienza nel Settore'
+      description: 'Oltre 8 anni al servizio di marchi e piattaforme globali'
+      icon: 'star'
+    - title: 'Personalizzazione Flessibile'
+      description: 'Adatta i design ai requisiti del tuo marchio'
+      icon: 'adjustments-horizontal'
+
+# Process steps
+process:
+  title: 'Come Supportiamo il Vostro Percorso di Startup'
+  steps:
+    - step: 1
+      title: 'Consulenza Iniziale'
+      description: 'Condividi la tua visione e i requisiti con il nostro team'
+    - step: 2
+      title: 'Design e Campionatura'
+      description: 'Creiamo campioni basati sulle tue specifiche'
+    - step: 3
+      title: 'Produzione in Piccoli Lotti'
+      description: 'Inizia con un minimo di 30 pezzi per testare il tuo mercato'
+    - step: 4
+      title: 'Scalare e Crescere'
+      description: 'Espandi la produzione mentre la tua attività cresce'
+
+# FAQ section
+faq:
+  title: 'Domande Frequenti'
+  questions:
+    - id: 1
+      question: 'Cosa rende TideLine diverso dagli altri produttori di costumi da bagno?'
+      answer: "Siamo specializzati nel supportare startup e piccole imprese con quantità minime d'ordine basse, prezzi competitivi e supporto completo dal design alla consegna."
+    - id: 2
+      question: 'Potete aiutare con il design se ho solo un concetto?'
+      answer: 'Assolutamente! Il nostro team di design esperto può aiutare a trasformare i vostri concetti in design pronti per la produzione, fornendo guida durante tutto il processo di sviluppo.'
+    - id: 3
+      question: 'Qual è la vostra tempistica di produzione tipica?'
+      answer: "La produzione di campioni richiede tipicamente 7-10 giorni, mentre la produzione in serie varia da 15-25 giorni a seconda delle dimensioni dell'ordine e della complessità."
+    - id: 4
+      question: 'Fornite supporto per lo sviluppo del marchio?'
+      answer: "Sì, offriamo supporto completo per il marchio inclusa l'etichettatura personalizzata, il design del packaging e la guida al marketing per aiutare a stabilire il vostro marchio di costumi da bagno."
+    - id: 5
+      question: 'Quali standard di qualità mantenete?'
+      answer: 'Manteniamo rigorosi processi di controllo qualità e lavoriamo con piattaforme consolidate come Alibaba, SHEIN e TikTok, garantendo una produzione costantemente di alta qualità.'

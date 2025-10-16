@@ -1,12 +1,59 @@
 {
-  "hello": "helloEN",
+  "hello": "helloKO",
   "Home": "홈",
   "Contact": "연락처",
+  "Make it Real": "현실로 만들어보세요",
+  "Get Custom Pricing": "맞춤 가격 받기",
+  "TideHeader": {
+    "加载导航时出错": "네비게이션 로딩 오류",
+    "加载中": "로딩 중"
+  },
+  "LanguageSwitcher": {
+    "关闭语言菜单": "언어 메뉴 닫기",
+    "打开语言菜单": "언어 메뉴 열기"
+  },
+  "ContactForm": {
+    "consentText": "이 양식을 제출함으로써 TideLine의",
+    "terms": "약관에 동의합니다"
+  },
+  "你离自己的泳装品牌，只差一个决定": "당신만의 수영복 브랜드는 단 하나의 결정만 남았습니다",
+  "免费获取1对1定制咨询，我们的专业团队将为您提供全方位的品牌创建与生产支持，开启您的泳装品牌之路。": "무료 1:1 맞춤 상담을 받아보세요. 저희 전문 팀이 브랜드 창설과 생산에 대한 포괄적인 지원을 제공하여 수영복 브랜드 여정을 시작할 수 있도록 도와드립니다.",
+  "获取免费咨询": "무료 상담 받기",
+  "立即咨询": "지금 상담하기",
+  "目录": "목차",
+  "没有找到目录项": "목차를 찾을 수 없습니다",
+  "最新文章": "최신 기사",
+  "想创建自己的泳装品牌吗？": "자신만의 수영복 브랜드를 만들고 싶으신가요?",
+  "我们提供一系列的服务，提供最具性价比的泳衣，同时我们也支持定制服务，让您的想法变成现实，为您轻松开启自己的泳装品牌！": "저희는 다양한 서비스를 제공하며, 가장 비용 효율적인 수영복을 제공합니다. 또한 맞춤 서비스를 지원하여 여러분의 아이디어를 현실로 만들고 쉽게 자신만의 수영복 브랜드를 시작할 수 있도록 도와드립니다!",
+  "了解更多": "더 알아보기",
+  "about": "소개",
+  "WhatsApp": "WhatsApp",
+  "联系我们": "문의하기",
+  "文章未找到": "기사를 찾을 수 없습니다",
+  "successTitle": "구독 성공!",
+  "successMessage": "구독해 주셔서 감사합니다! 이제 다음과 같은 독점 혜택을 누리실 수 있습니다:",
+  "benefit1": "최신 제품 업데이트 및 프로모션 정보를 받아보세요.",
+  "benefit2": "한정 시간 제안에 대한 조기 알림을 받아보세요.",
+  "benefit3": "회원 전용 할인을 누리세요.",
+  "backToHome": "홈으로 돌아가기",
+  "联系我们页面内容": "맞춤화 서비스에 대해 더 알고 싶거나 생산 과정에 대한 질문이 있으시면, 저희 팀이 언제든지 도와드릴 준비가 되어 있습니다. 저희는 고품질 서비스와 개인화된 지원을 제공하여 브랜드의 원활한 발전을 보장하기 위해 최선을 다하고 있습니다. 질문이 있거나 저희 제품과 서비스에 대해 더 알고 싶으시면, 다음 채널을 통해 언제든지 연락해 주세요. 여러분과 함께 일하고 브랜드 성장을 도울 수 있기를 기대합니다!",
+  "地址": "주소",
+  "Xingcheng, HuludaoCity,Liaoning Province, China": "중국 랴오닝성 훌루다오시 싱청",
+  "加我我们的计划引言": "\"수영복 산업의 미래는 대담한 혁신과 트렌드를 앞서가는 것입니다. 저희와 함께 다음 큰 일을 만들어가고 함께 잊을 수 없는 것을 만들어봅시다!\"",
+  "First name": "이름",
+  "Email": "이메일",
+  "Message": "메시지",
+  "发表": "제출",
+  "By submitting this form, I agree to the": "이 양식을 제출함으로써",
+  "条款": "약관에 동의합니다",
+  "请填写您的名字！": "이름을 입력해 주세요!",
+  "邮箱不能为空！": "이메일은 비워둘 수 없습니다!",
+  "处理中...": "처리 중...",
+  "提交失败，请稍后重试": "제출 실패, 나중에 다시 시도해 주세요",
   "支付成功": "결제 성공",
   "感谢您的购买！": "구매해 주셔서 감사합니다!",
   "返回首页": "홈으로 돌아가기",
   "描述": "설명",
-  "地址": "주소",
   "FirstName": "이름",
   "LastName": "성",
   "Phone": "전화번호",
@@ -17,18 +64,150 @@
   "Postal code": "우편번호",
   "Country/Region": "국가/지역",
   "确认订单信息": "주문 정보 확인",
-  "处理中...": "처리 중...",
   "不能为空": "비워둘 수 없습니다",
   "保存地址失败，请重试": "주소 저장 실패, 다시 시도해 주세요",
-  "Network fluctuation, please contact the administrator.": "네트워크 변동, 관리자에게 문의하세요.",
+  "Network fluctuation, please contact the administrator.": "네트워크 변동, 관리자에게 문의해 주세요.",
   "请输入完整的地址信息": "완전한 주소 정보를 입력해 주세요",
   "支付系统加载失败，请刷新页面重试": "결제 시스템 로딩 실패, 페이지를 새로고침하고 다시 시도해 주세요",
-  "TideHeader": {
-    "加载导航时出错": "Error loading navigation",
-    "加载中": "Loading"
+  "blog": {
+    "categories": "카테고리",
+    "tags": "태그",
+    "all": "전체",
+    "showingPage": "페이지 표시",
+    "of": "의",
+    "totalArticles": "총 기사 수",
+    "by": "작성자",
+    "blogTagsTitle": "블로그 태그",
+    "blogTags": {
+      "Bikini": "비키니",
+      "Tankini": "탱키니",
+      "One-Piece": "원피스",
+      "Rash-Guard": "래시가드",
+      "Trunks": "트렁크",
+      "Boardshorts": "보드쇼츠",
+      "OEM": "OEM",
+      "ODM": "ODM",
+      "Private Label": "프라이빗 라벨",
+      "Factory": "공장",
+      "Supplier": "공급업체",
+      "Manufacturing": "제조",
+      "Heat Transfer": "열전사",
+      "Logo Printing": "로고 인쇄",
+      "Size Guide": "사이즈 가이드",
+      "Quality Control": "품질 관리",
+      "Startup": "스타트업",
+      "New Brand": "신규 브랜드",
+      "Small Business": "소기업",
+      "Sampling": "샘플링",
+      "MOQ": "MOQ",
+      "Bulk Production": "대량 생산",
+      "AQL": "AQL",
+      "Incoterms": "인코텀즈",
+      "Shipping": "배송",
+      "Sustainable Materials": "지속 가능한 소재",
+      "Eco-friendly": "친환경"
+    },
+    "seoblog": {
+      "title": "수영복 산업 블로그 | 팁, 트렌드 및 제조 인사이트 | Tideline Swim",
+      "description": "수영복 제조, 디자인 트렌드, 생산 팁 및 업계 모범 사례에 대한 전문가 인사이트. OEM, ODM, 샘플링, 품질 관리 및 지속 가능한 수영복 생산에 대해 알아보세요.",
+      "keywords": "수영복 블로그, 수영복 제조 팁, 수영복 산업 트렌드, OEM ODM 인사이트, 수영복 생산 가이드, 지속 가능한 수영복, 품질 관리, 샘플링 프로세스",
+      "ogImage": "/blog-og-image.jpg",
+      "twitterCard": "summary_large_image"
+    }
   },
-  "LanguageSwitcher": {
-    "关闭语言菜单": "Close language menu",
-    "打开语言菜单": "Open language menu"
+  "Follow Us :": "팔로우하세요 :",
+  "Free Quote": "무료 견적",
+  "shipping": {
+    "title": "배송 정책",
+    "subtitle": "수영복 비즈니스 요구사항을 위한 신뢰할 수 있는 글로벌 배송 솔루션",
+    "orderTracking": {
+      "title": "주문 추적",
+      "description": "모든 주문에 대해 포괄적인 추적을 제공하여 배송의 각 단계에서 상태를 파악할 수 있도록 합니다.",
+      "feature1": "추적 번호는 배송 후 24시간 이내에 이메일로 발송됩니다",
+      "feature2": "저희 웹사이트 또는 택배사 웹사이트에서 실시간 추적 가능",
+      "feature3": "생산 주문에 대한 정기적인 상태 업데이트를 이메일로 제공",
+      "feature4": "$10,000 이상 주문에 대한 전담 계정 관리자",
+      "trackTitle": "주문 추적: 배송의 현재 상태를 확인하려면 아래에 추적 번호를 입력하세요.",
+      "trackPlaceholder": "추적 번호 입력",
+      "trackButton": "추적"
+    },
+    "methods": {
+      "title": "배송 방법",
+      "description": "주문 유형과 긴급성에 따라 특정 비즈니스 요구사항을 충족하는 다양한 배송 옵션을 제공합니다.",
+      "sample": {
+        "title": "샘플 주문",
+        "description": "샘플 주문의 경우 빠른 결정을 도울 수 있는 가속 배송 옵션을 제공합니다:",
+        "express": "익스프레스 택배",
+        "expressTime": "DHL, FedEx, UPS (3-7 영업일)",
+        "standard": "표준 항공우편",
+        "standardTime": "(7-14 영업일)",
+        "economy": "이코노미",
+        "economyTime": "(14-21 영업일)"
+      },
+      "bulk": {
+        "title": "대량 생산 주문",
+        "description": "생산 수량의 경우 비용 효율적인 솔루션을 제공합니다:",
+        "air": "항공 화물",
+        "airTime": "(7-15 영업일)",
+        "sea": "해상 화물",
+        "seaTime": "(30-45 영업일)",
+        "expressAir": "익스프레스 항공",
+        "expressAirTime": "(5-10 영업일)"
+      },
+      "important": "중요",
+      "importantNote": "생산 리드타임은 배송 시간에 추가됩니다. 주문 수량과 복잡성에 따른 정확한 생산 일정은 문의해 주세요."
+    },
+    "coverage": {
+      "title": "배송 범위",
+      "description": "전 세계 150개국 이상에 배송 서비스를 제공합니다. 파트너 네트워크가 전 세계적으로 빠른 배송을 제공합니다.",
+      "mapTitle": "TIDELINE SWIMWEAR는 고객이 있는 곳에 있습니다",
+      "mapSubtitle": "파트너 네트워크가 전 세계적으로 빠른 배송을 제공합니다.",
+      "regions": {
+        "northAmerica": "북미",
+        "europe": "유럽연합",
+        "asia": "아시아",
+        "africa": "아프리카",
+        "southAmerica": "남미",
+        "australia": "호주 및 뉴질랜드"
+      },
+      "legend": {
+        "available": "배송 가능",
+        "limited": "제한적/서비스 없음"
+      },
+      "note": "참고",
+      "noteText": "현재 물류상의 제약으로 인해 아프리카와 중앙아시아 일부 지역에 대한 배송 가능성이 제한적입니다. 서비스 지역 확장을 위해 적극적으로 노력하고 있습니다. 특정 국가의 이용 가능성 및 제한 사항에 대해서는 배송 부서에 문의해 주세요."
+    },
+    "sidebar": {
+      "overview": {
+        "title": "배송 개요",
+        "description1": "TIDELINE SWIMWEAR에서는 적시 배송이 비즈니스에 중요하다는 것을 이해합니다. 저희의 포괄적인 배송 솔루션은 전 세계 B2B 고객의 다양한 요구를 충족하도록 설계되었습니다.",
+        "description2": "수영복 주문이 안전하고 정시에 도착할 수 있도록 선도적인 글로벌 물류 제공업체와 파트너십을 맺고 있습니다.",
+        "keyFeatures": "주요 특징",
+        "features": "글로벌 커버리지, 유연한 배송 옵션, 실시간 추적 및 관세 지원."
+      },
+      "contact": {
+        "title": "배송 도움이 필요하신가요?",
+        "email": "이메일",
+        "hours": "영업시간",
+        "hoursTime": "월-금: 9:00-18:00 (EST)",
+        "emergency": "긴급 라인"
+      },
+      "quickLinks": {
+        "title": "빠른 링크",
+        "calculator": "배송비 계산기",
+        "customs": "관세 및 세금 가이드",
+        "documentation": "관세 문서",
+        "processing": "처리 시간 정보",
+        "packaging": "포장 세부사항",
+        "returns": "반품 및 교환",
+        "insurance": "배송 보험",
+        "faq": "배송 FAQ",
+        "policy": "반품 정책"
+      },
+      "partners": {
+        "title": "배송 파트너",
+        "description": "신뢰할 수 있는 글로벌 물류 제공업체와 협력합니다:"
+      }
+    }
   }
 }

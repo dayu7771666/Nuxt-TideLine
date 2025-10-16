@@ -1,0 +1,85 @@
+title: 'Experimente a Qualidade, Antes do Volume.'
+description: 'Lance com confiança. Nosso processo de amostragem simplificado permite testar e refinar designs sem risco, garantindo excelência pronta para o mercado para sua linha de roupas de banho.'
+
+seo:
+  title: 'Serviços de Amostragem de Roupas de Banho | Desenvolvimento de Protótipos Especializado | Tideline Swim'
+  description: 'Lance com confiança. Nosso processo de amostragem simplificado permite testar e refinar designs de roupas de banho sem risco. Prototipagem guiada por especialistas, fornecimento de tecidos e análise de ajuste para excelência pronta para o mercado.'
+  keywords: 'amostragem de roupas de banho, desenvolvimento de protótipos, amostras de roupas de banho, teste de design de roupas de banho, fornecimento de tecidos, análise de ajuste, engenharia de roupas de banho, fabricação de amostras'
+  ogTitle: 'Serviços de Amostragem de Roupas de Banho | Desenvolvimento de Protótipos Especializado | Tideline Swim'
+  ogDescription: 'Lance com confiança. Nosso processo de amostragem simplificado permite testar e refinar designs de roupas de banho sem risco. Prototipagem guiada por especialistas e análise de ajuste.'
+  ogType: 'website'
+  ogImage: '/sampling.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Serviços de Amostragem de Roupas de Banho | Tideline Swim'
+  twitterDescription: 'Amostragem de roupas de banho guiada por especialistas. Teste e refine designs sem risco. Desenvolvimento de protótipos profissional e análise de ajuste.'
+
+hero:
+  ctaButton: 'Lance Seu Projeto de Amostragem'
+  ctaLink: '#cta'
+
+comparison:
+  title: 'Por Que Escolher Nosso Serviço de Amostragem Especializado?'
+  description: 'Veja como nossa abordagem de amostragem guiada por especialistas se compara aos processos padrão'
+  criteria:
+    - name: 'MOQ e Orçamento'
+      standard: 'Preços fixos e inflexíveis.'
+      expert: 'Negociável e adaptado ao seu escopo.'
+    - name: 'Prazo de Entrega'
+      standard: 'Estimado 2-4 semanas'
+      expert: 'Priorizado e definido com suas datas em mente.'
+    - name: 'Fornecimento de Tecidos e Acabamentos'
+      standard: 'Autoatendimento de um catálogo'
+      expert: 'Recomendações curadas para qualidade e custo.'
+    - name: 'Engenharia de Vestuário'
+      standard: 'Segue protocolos padrão'
+      expert: 'Revisão especializada para prevenir problemas de ajuste e produção'
+    - name: 'Qualidade do Protótipo'
+      standard: 'Uma amostra.'
+      expert: 'Um protótipo de produto viável.'
+
+process:
+  title: 'Como Funciona Nosso Processo de Amostragem'
+  description: 'Nosso processo simplificado de 6 etapas garante que você obtenha o máximo valor do seu projeto de amostragem de roupas de banho com entregas claras em cada etapa.'
+  steps:
+    - number: 1
+      title: 'Revisão de Estratégia de Design e Ajuste'
+      description: 'Analisamos seu pacote técnico e designs para estabelecer o bloco de ajuste fundamental, medidas de mercado-alvo e discutir técnicas de construção específicas de natação (por exemplo, costura flatlock, forro, aplicação de elástico).'
+    - number: 2
+      title: 'Curadoria de Tecidos e Acabamentos'
+      description: 'Apresentamos e fornecemos tecidos aprovados específicos para natação (por exemplo, misturas de nylon-spandex, materiais reciclados) e acabamentos críticos (por exemplo, elásticos resistentes ao cloro, copas de busto, ferragens) com base em suas necessidades de desempenho e estética.'
+    - number: 3
+      title: 'Engenharia de Padrões e Protótipo'
+      description: 'Nossos técnicos elaboram o primeiro padrão preciso de roupas de banho, levando em conta o estiramento e a recuperação do tecido. Um protótipo preliminar ou protótipo digital é frequentemente criado para validar o ajuste em uma forma antes de cortar o tecido final.'
+    - number: 4
+      title: 'Montagem do Primeiro Artigo e Prova Interna'
+      description: 'A primeira amostra física é construída. Realizamos uma sessão de prova interna rigorosa em uma modelo ao vivo ou manequim, verificando a tensão da peça, folgas e mobilidade para identificar quaisquer ajustes de construção.'
+    - number: 5
+      title: 'Acabamento de Amostra e Controle de Qualidade'
+      description: 'A amostra passa por acabamento final (por exemplo, aplicação de colchete e ilhós, costura de etiqueta) e uma inspeção de qualidade rigorosa para integridade de costura, planicidade de costura e colocação de acabamentos de acordo com suas especificações.'
+    - number: 6
+      title: 'Integração de Feedback e Caminho de Produção'
+      description: 'Você recebe a amostra para avaliação. Consolidamos seu feedback sobre ajuste, sensação do tecido e estética geral para refinar o protótipo e apresentar um roteiro claro para a produção, incluindo regras de gradação para seu conjunto de tamanhos.'
+
+faq:
+  title: 'Perguntas Frequentes'
+  items:
+    - question: 'O que normalmente está incluído em seu serviço de amostragem e qual é o custo?'
+      answer: 'Nosso serviço de amostragem é um pacote abrangente que inclui engenharia de padrões, fornecimento de tecidos e acabamentos aprovados, construção de um protótipo físico e uma análise de ajuste interna. O custo é específico do projeto e varia com base na complexidade do design, materiais escolhidos e detalhes de acabamento. Fornecemos um orçamento transparente após nossa consulta inicial para alinhar o escopo.'
+    - question: 'Qual é o prazo típico de entrega para uma amostra?'
+      answer: 'O cronograma padrão para um primeiro protótipo é de 2-3 semanas. Este período inclui fornecimento de materiais, desenvolvimento de padrões e construção meticulosa. Podemos discutir opções aceleradas para projetos urgentes, e os prazos são sempre confirmados antecipadamente.'
+    - question: 'Preciso fornecer um pacote técnico completo ou vocês podem trabalhar a partir do meu conceito de design?'
+      answer: 'Podemos trabalhar com ambos. Um pacote técnico detalhado permite o processo mais preciso e eficiente. No entanto, se você tem um conceito de design ou inspiração, nossa equipe pode ajudá-lo a desenvolvê-lo em uma especificação pronta para produção, incluindo recomendações de ajuste, tecido e construção.'
+    - question: 'Como vocês lidam com o ajuste e o dimensionamento para as amostras?'
+      answer: 'Começamos alinhando-nos em um bloco de ajuste base e regras de gradação específicas para seu mercado-alvo. A primeira amostra é construída de acordo com essas especificações precisas e é avaliada internamente em uma forma de vestido padrão. Recomendamos enfaticamente que você também conduza sua própria sessão de prova em uma modelo ao vivo que corresponda às medidas do seu cliente-alvo.'
+    - question: 'Vocês podem fornecer tecidos específicos ou sustentáveis para minha amostra?'
+      answer: 'Absolutamente. Temos relacionamentos estabelecidos com fábricas que oferecem uma ampla gama de tecidos de desempenho e sustentáveis (por exemplo, nylon reciclado, materiais certificados OEKO-TEX®). Curaremos opções com base em seus objetivos estéticos, de desempenho e sustentabilidade e forneceremos amostras para sua aprovação.'
+    - question: 'O que acontece se a amostra exigir ajustes após a entrega?'
+      answer: 'A iteração é uma parte central do processo de amostragem. Incluímos uma rodada de consolidação de feedback detalhado após você receber sua primeira amostra. Analisaremos suas notas sobre ajuste e construção e apresentaremos um plano claro para revisões, incluindo quaisquer custos associados e cronograma para um segundo protótipo, se necessário.'
+    - question: 'Como o processo de amostragem faz a transição para a produção em massa?'
+      answer: 'A amostra final aprovada serve como o "padrão ouro" para a produção. Usamos os padrões refinados, materiais confirmados e detalhes de construção da fase de amostragem para criar um roteiro de produção sem costura, fornecendo-lhe um orçamento firme para seu pedido em massa com base em suas quantidades necessárias.'
+
+cta:
+  title: 'Pronto para uma Amostragem Sem Riscos?'
+  description: 'Entre em contato com nossos especialistas hoje para uma consulta gratuita para discutir seu projeto e como nosso serviço de amostragem pode ajudá-lo a validar sua ideia com investimento mínimo.'
+  button: 'Agende Sua Consulta Gratuita'
+  link: '#'

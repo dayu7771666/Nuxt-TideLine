@@ -1,0 +1,121 @@
+title: 'Fabricants de Maillots de Bain Durables'
+description: "Plus qu'un fournisseur — votre partenaire dans la construction de marque de maillots de bain."
+
+seo:
+  title: 'Fabricants de Maillots de Bain Durables | TIDELINE SWIMWEAR'
+  description: 'Fabricant de maillots de bain écologiques utilisant des matériaux recyclés et une production durable. Maillots de bain durables en gros, processus bas carbone, designs personnalisés.'
+  keywords: 'fabricant maillots de bain durables, maillots de bain écologiques, fournisseur maillots de bain recyclés, usine maillots de bain biologiques, fabrication maillots de bain verts, maillots de bain RPET'
+  ogTitle: 'Fabricants de Maillots de Bain Durables | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricant de maillots de bain écologiques. Matériaux recyclés, production durable, processus bas carbone. Aidez votre marque à devenir verte.'
+  ogType: 'website'
+  ogImage: '/catalog/sustainable-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricants de Maillots de Bain Durables | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabrication de maillots de bain durables. Matériaux recyclés, production écologique, designs personnalisés.'
+
+# Hero section
+hero:
+  cta_text: 'Consultation'
+  cta_href: '/contact'
+  image_src: '/catalog/sustainable-swimwear-bg.webp'
+  image_alt: 'Fabrication de Maillots de Bain Durables'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Notre Mission'
+  paragraph1: "Chez TideLine Swimwear, nous nous engageons à créer des maillots de bain durables qui respectent à la fois les personnes et la planète. Nos collections écologiques utilisent des tissus recyclés et de source responsable, combinés avec des pratiques de production réfléchies, garantissant des maillots de bain de haute qualité qui minimisent l'impact environnemental tout en offrant confort et durabilité."
+  whatsapp_link_text: 'Contactez-nous sur WhatsApp'
+
+# Statistics
+stats:
+  - label: "Expérience dans l'Industrie des Maillots de Bain"
+    value: '10 ans +'
+  - label: 'Commandes Réalisées'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Bikinis Recyclés'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/recycled-bikini-1.webp'
+    imageAlt: 'Collection de Bikinis Recyclés'
+  - name: 'Une Pièce Éco'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/eco-onepiece-1.webp'
+    imageAlt: 'Collection Une Pièce Éco'
+  - name: 'Maillots de Bain Biologiques'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/organic-1.webp'
+    imageAlt: 'Collection de Maillots de Bain Biologiques'
+  - name: 'Combinaisons Biodégradables'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/biodegradable-1.webp'
+    imageAlt: 'Collection de Combinaisons Biodégradables'
+
+# Customization capabilities
+customization:
+  title: 'Capacités de Personnalisation'
+  description: 'Maillots de bain entièrement personnalisables—TideLine accepte tous les designs personnalisés, tissus, accessoires, logos et emballages pour donner vie à votre vision de marque.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Installation de Fabrication'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personnalisation de Style'
+      description: "Donnez vie à n'importe quel design de maillot de bain—choisissez votre style parfait et laissez-nous le créer pour votre marque."
+      link: '/contact'
+      cta_text: 'Consultation'
+    - name: 'Personnalisation de Tissu'
+      description: 'Choisissez parmi une large gamme de tissus pour créer des maillots de bain confortables à porter et beaux à voir.'
+      link: '/fabric'
+      cta_text: 'Tissu'
+    - name: "Personnalisation d'Accessoires"
+      description: "Personnalisez chaque détail—des boucles et anneaux aux fermetures éclair—nos options d'accessoires élèvent votre design."
+      link: '/hardware'
+      cta_text: 'Accessoires'
+    - name: 'Personnalisation de Logo'
+      description: 'Rendez-le vraiment vôtre—ajoutez votre logo à chaque pièce pour un look de marque professionnel.'
+    - name: "Personnalisation d'Emballage"
+      description: 'Complétez votre expérience de marque avec un emballage adapté à votre style et vision.'
+    - name: 'Contactez-nous'
+      description: 'Prêt ? Transformons vos idées de maillots de bain en réalité.'
+      link: '/contact'
+      cta_text: 'Contactez-nous'
+
+# Getting Started section
+getting_started:
+  title: 'Votre voyage dans les maillots de bain commence ici'
+  description: 'Que vous lanciez votre première collection ou que vous développiez votre marque, TideLine fournit des solutions de maillots de bain sur mesure pour répondre à vos besoins. Choisissez votre chemin et commencez.'
+  beginner_text: 'Commencer en tant que Débutant'
+  beginner_href: '/startup'
+  pro_text: 'Acheteur Expérimenté'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processus de Fabrication'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Questions Fréquemment Posées'
+  questions:
+    - id: 1
+      question: "Qu'est-ce que les maillots de bain durables ?"
+      answer: "Les maillots de bain durables sont fabriqués à partir de matériaux écologiques et de processus de production bas carbone, visant à réduire l'impact environnemental négatif. Ils utilisent généralement des fibres plastiques recyclées (comme RPET), du coton biologique, des fibres naturelles, et minimisent la consommation d'eau et d'électricité tout en évitant les teintures nocives pour réduire l'empreinte carbone."
+    - id: 2
+      question: 'Quels matériaux sont utilisés dans vos maillots de bain durables ?'
+      answer: "Nous utilisons une variété de matériaux écologiques pour produire des maillots de bain durables, y compris des fibres plastiques recyclées (RPET), des fibres d'algues naturelles, du nylon biodégradable et du coton biologique. Ces matériaux offrent un bon confort, une durabilité et une élasticité tout en aidant à réduire la pollution environnementale et la consommation de ressources."
+    - id: 3
+      question: 'Les maillots de bain durables sont-ils plus chers que les maillots de bain traditionnels ?'
+      answer: "En raison de l'utilisation de matériaux écologiques et de processus de production avancés, les maillots de bain durables tendent à être plus chers que les maillots de bain traditionnels. Cependant, à mesure que les tendances durables continuent de se développer, les coûts d'approvisionnement en matériaux écologiques et méthodes de production diminuent progressivement. Nous nous efforçons d'offrir des prix compétitifs tout en maintenant les standards environnementaux."
+    - id: 4
+      question: 'Comment assurez-vous la qualité des maillots de bain durables ?'
+      answer: "Bien que nous utilisions des matériaux écologiques, chaque pièce de maillot de bain durable subit un contrôle qualité strict pour s'assurer qu'elle répond aux hauts standards de confort, durabilité et fonctionnalité. Les tissus écologiques que nous sélectionnons sont testés pour assurer leur performance dans l'eau, leur durabilité et leur confort, égalant ou dépassant celle des matériaux traditionnels."
+    - id: 5
+      question: 'Quel est le processus de production pour vos maillots de bain durables ?'
+      answer: "Nos processus de production de maillots de bain durables se concentrent sur la fabrication bas carbone et l'économie de ressources, minimisant la consommation d'eau et d'électricité. Nous sélectionnons soigneusement les teintures pour nous assurer qu'elles sont non toxiques et écologiques, évitant les produits chimiques nocifs. Les matériaux de déchets du processus de production sont traités et recyclés pour minimiser les déchets."
+    - id: 6
+      question: 'Offrez-vous des maillots de bain durables personnalisés ?'
+      answer: "Oui, nous offrons des maillots de bain durables entièrement personnalisés. Que ce soit le tissu, le design, la couleur ou le logo de marque, nous pouvons personnaliser selon vos exigences pour nous assurer que chaque pièce de maillot de bain s'aligne avec votre philosophie de marque et vos engagements environnementaux."
+    - id: 7
+      question: 'Comment les maillots de bain durables doivent-ils être entretenus et nettoyés ?'
+      answer: "L'entretien des maillots de bain durables est similaire aux maillots de bain traditionnels. Nous recommandons le lavage à la main à l'eau froide et d'éviter l'eau de Javel. Pour prolonger la vie du maillot de bain, évitez la lumière directe du soleil et les sèche-linge, et étendez le maillot de bain à plat pour sécher. Le nettoyage régulier et les soins appropriés aideront à maintenir le confort et prolonger la durée de vie du maillot de bain."

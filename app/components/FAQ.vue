@@ -91,27 +91,3 @@
     // 可以在这里添加任何需要的客户端特定逻辑
   });
 </script>
-
-<style scoped>
-  /* 确保搜索引擎可以访问隐藏内容 */
-  .sr-only {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    white-space: nowrap;
-    border: 0;
-  }
-
-  /* 平滑的高度过渡 */
-  .max-h-0 {
-    max-height: 0;
-  }
-
-  .max-h-96 {
-    max-height: 24rem;
-  }
-</style>

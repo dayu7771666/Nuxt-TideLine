@@ -1,0 +1,121 @@
+title: 'Fournisseurs de Maillots de Bain de Maternité'
+description: "Plus qu'un fournisseur - votre partenaire dans la construction de votre marque de maillots de bain."
+
+seo:
+  title: 'Fournisseurs de Maillots de Bain de Maternité | TIDELINE SWIMWEAR'
+  description: 'Fabricant de haute qualité de maillots de bain de maternité offrant des designs confortables et soutenants pour les futures mamans. Maillots de bain de maternité personnalisés, prix de gros, MOQ faible.'
+  keywords: 'fabricant maillots de bain maternité, fournisseur maillots de bain grossesse, maillots de bain allaitement, tankini maternité, maillots de bain maternité gros, usine maillots de bain maternité'
+  ogTitle: 'Fournisseurs de Maillots de Bain de Maternité | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricant de maillots de bain de maternité confortables. Designs soutenants pour les futures mamans. Options personnalisées, prix de gros.'
+  ogType: 'website'
+  ogImage: '/catalog/maternity-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fournisseurs de Maillots de Bain de Maternité | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabrication de maillots de bain de maternité. Designs confortables et soutenants pour la grossesse. Options personnalisées disponibles.'
+
+# Hero section
+hero:
+  cta_text: 'Consultation'
+  cta_href: '/contact'
+  image_src: '/catalog/maternity-swimwear-bg.webp'
+  image_alt: 'Fabrication de Maillots de Bain de Maternité'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Notre Mission'
+  paragraph1: "Chez TideLine Swimwear, nous savons que les maillots de bain de maternité nécessitent l'équilibre parfait entre confort et soutien pour les futures mamans. Chaque saison, notre équipe d'usine développe des collections conçues avec des tissus doux et flexibles et des coupes réfléchies – offrant aux grossistes et propriétaires de marques des options prêtes pour le marché qui aident les femmes à se sentir confiantes et confortables tout au long de chaque étape de la grossesse."
+  whatsapp_link_text: 'Contactez-nous sur WhatsApp'
+
+# Statistics
+stats:
+  - label: "Expérience dans l'Industrie des Maillots de Bain"
+    value: '10 ans +'
+  - label: 'Commandes Exécutées'
+    value: '1 000 000+'
+
+# Product categories
+categories:
+  - name: 'Une-Pièce Maternité'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/one-piece-1.webp'
+    imageAlt: 'Collection Maillots Une-Pièce Maternité'
+  - name: 'Tankinis Maternité'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/tankini-1.webp'
+    imageAlt: 'Collection Tankinis Maternité'
+  - name: "Maillots de Bain d'Allaitement"
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/nursing-1.webp'
+    imageAlt: "Collection Maillots de Bain d'Allaitement"
+  - name: 'Paréos Maternité'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/cover-up-1.webp'
+    imageAlt: 'Collection Paréos Maternité'
+
+# Customization capabilities
+customization:
+  title: 'Capacités de Personnalisation'
+  description: 'Maillots de bain entièrement personnalisables - TideLine accepte tous les designs, tissus, accessoires, logos et emballages personnalisés pour donner vie à la vision de votre marque.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Installation de Fabrication'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personnalisation du Style'
+      description: "Donnez vie à n'importe quel design de maillot de bain - choisissez votre style parfait et laissez-nous le créer pour votre marque."
+      link: '/contact'
+      cta_text: 'Consultation'
+    - name: 'Personnalisation du Tissu'
+      description: 'Choisissez parmi une large gamme de tissus pour créer des maillots de bain confortables à porter et magnifiques à regarder.'
+      link: '/fabric'
+      cta_text: 'Tissu'
+    - name: 'Personnalisation des Accessoires'
+      description: "Personnalisez chaque détail - des boucles et anneaux aux fermetures éclair - nos options d'accessoires rehaussent votre design."
+      link: '/hardware'
+      cta_text: 'Accessoires'
+    - name: 'Personnalisation du Logo'
+      description: 'Rendez-le vraiment vôtre - ajoutez votre logo à chaque pièce pour un look de marque professionnel.'
+    - name: "Personnalisation de l'Emballage"
+      description: "Complétez l'expérience de votre marque avec un emballage adapté à votre style et votre vision."
+    - name: 'Contactez-nous'
+      description: 'Prêt ? Transformons vos idées de maillots de bain en réalité.'
+      link: '/contact'
+      cta_text: 'Contactez-nous'
+
+# Getting Started section
+getting_started:
+  title: 'Votre parcours de maillots de bain commence ici'
+  description: 'Que vous lanciez votre première collection ou que vous développiez votre marque, TideLine fournit des solutions de maillots de bain sur mesure pour répondre à vos besoins. Choisissez votre chemin et commencez.'
+  beginner_text: 'Commencer en tant que Débutant'
+  beginner_href: '/startup'
+  pro_text: 'Acheteur Expérimenté'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processus de Fabrication'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Questions Fréquemment Posées'
+  questions:
+    - id: 1
+      question: 'Quelles sont les exigences de conception spéciales pour les maillots de bain de maternité ?'
+      answer: "Les exigences de conception pour les maillots de bain de maternité se concentrent principalement sur le confort, le soutien et l'adaptabilité. Ils utilisent généralement des tissus hautement élastiques qui peuvent s'ajuster à la forme changeante du corps d'une femme pendant la grossesse. Le design doit également fournir un soutien pour l'abdomen, des bretelles sans pression et des conceptions d'entrejambe confortables pour assurer le confort de la femme enceinte lors de mouvements dans l'eau."
+    - id: 2
+      question: 'Quels matériaux sont utilisés dans les maillots de bain de maternité ?'
+      answer: "Les maillots de bain de maternité sont généralement fabriqués à partir de tissus hautement élastiques et respirants tels que le Lycra, le nylon et le spandex. Ces tissus ont une excellente élasticité, s'adaptant aux changements corporels pendant la grossesse tout en garantissant confort et soutien. Nous nous assurons également que les matériaux utilisés sont non toxiques et sûrs pour les peaux sensibles."
+    - id: 3
+      question: 'Les maillots de bain de maternité doivent-ils fournir une protection solaire ?'
+      answer: "Oui, il est préférable que les maillots de bain de maternité aient une protection UV (UPF), surtout lorsqu'ils sont utilisés dans des piscines extérieures ou à la plage. Nos conceptions de maillots de bain de maternité prennent cela en compte en utilisant des tissus avec protection solaire pour protéger la peau des futures mamans des rayons UV nocifs."
+    - id: 4
+      question: 'Comment la sécurité et le confort des maillots de bain de maternité sont-ils garantis ?'
+      answer: "Les maillots de bain de maternité sont conçus avec un fort accent sur la sécurité et le confort. Nous utilisons des tissus non toxiques et écologiques et nous assurons que les coupes et les conceptions n'appliquent pas de pression, en particulier autour des zones de l'abdomen et de la poitrine. Le design de soutien prend également en compte les changements qui se produisent pendant la grossesse, offrant un soutien complet."
+    - id: 5
+      question: 'Les maillots de bain de maternité conviennent-ils à une utilisation post-partum ?'
+      answer: "Oui, de nombreux designs de maillots de bain de maternité conviennent également à une utilisation post-partum. Parce qu'ils utilisent des tissus hautement élastiques, ils peuvent s'adapter à la période de récupération et offrir un ajustement confortable. Pour les mères qui ont besoin d'allaiter, nous proposons également des styles spécialement conçus pour l'allaitement qui facilitent l'allaitement maternel."
+    - id: 6
+      question: 'Les maillots de bain de maternité peuvent-ils être personnalisés ?'
+      answer: 'Oui, nous offrons des services de personnalisation et pouvons fabriquer des maillots de bain de maternité selon les besoins de votre marque et les idées de conception. Vous pouvez choisir le style, la couleur, le tissu et même imprimer des logos ou des designs sur les maillots de bain pour vous assurer que vos produits sont uniques et répondent à la demande du marché.'
+    - id: 7
+      question: 'Quelle est la quantité minimale de commande pour les maillots de bain de maternité ?'
+      answer: 'La quantité minimale de commande (MOQ) pour les maillots de bain de maternité varie en fonction du design et des matériaux utilisés. En général, nous offrons des options de production flexibles pour les clients avec de petites quantités de commande ou ceux en phase de démarrage. Le MOQ varie généralement de 100 à 500 pièces, mais la quantité exacte peut être ajustée selon vos besoins.'

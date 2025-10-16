@@ -1,0 +1,104 @@
+title: 'Selección de telas premium para trajes de baño superiores'
+description: 'Descubra nuestra colección curada de telas de alto rendimiento diseñadas específicamente para trajes de baño. Desde materiales sostenibles hasta textiles con protección UV, obtenemos solo las telas de la mejor calidad para su marca.'
+
+seo:
+  title: 'Telas premium para trajes de baño | Materiales de alto rendimiento | Tideline'
+  description: 'Explore nuestra colección completa de telas premium para trajes de baño que incluyen mezclas de poliéster, materiales sostenibles y textiles con protección UV. Descargue catálogos de telas y especificaciones técnicas.'
+  keywords: 'telas para trajes de baño, telas de alto rendimiento, materiales sostenibles para trajes de baño, tela con protección UV, tela ECONYL, poliéster reciclado, textiles para trajes de baño'
+  ogTitle: 'Telas y materiales premium para trajes de baño | Tideline'
+  ogDescription: 'Descubra telas de alto rendimiento para la fabricación de trajes de baño. Opciones sostenibles, protección UV y especificaciones técnicas disponibles.'
+  ogType: 'website'
+  ogImage: '/fabric-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Telas premium para trajes de baño | Tideline'
+  twitterDescription: 'Explore nuestra colección completa de telas premium para trajes de baño para fabricación.'
+
+hero:
+  alt: 'Telas premium para trajes de baño'
+  ctaButton: 'Explore nuestro catálogo de telas'
+  ctaLink: '#catalog'
+
+features:
+  title: 'Por qué destacan nuestras telas'
+  description: 'Nos asociamos con molinos líderes en todo el mundo para ofrecerle telas innovadoras y de alta calidad que cumplen con los exigentes requisitos de la producción de trajes de baño.'
+  items:
+    - id: 1
+      title: 'Probadas en rendimiento'
+      description: 'Cada tela se somete a pruebas rigurosas de resistencia al cloro, protección UV, solidez del color y recuperación de estiramiento para garantizar una calidad duradera.'
+      icon: 'ShieldCheckIcon'
+    - id: 2
+      title: 'Opciones sostenibles'
+      description: 'Elija entre materiales ecológicos que incluyen nylon reciclado, ECONYL® y telas certificadas OEKO-TEX® que reducen el impacto ambiental sin comprometer el rendimiento.'
+      icon: 'SparklesIcon'
+    - id: 3
+      title: 'Especificaciones técnicas'
+      description: 'Hojas de datos técnicos detallados para cada tela que incluyen composición, peso, porcentaje de estiramiento e instrucciones de cuidado para ayudarlo a tomar decisiones informadas.'
+      icon: 'DocumentTextIcon'
+
+catalog:
+  title: 'Explore nuestras colecciones de telas'
+  description: 'Descargue nuestros catálogos de telas completos para explorar especificaciones detalladas, rangos de colores y propiedades técnicas. Cada catálogo incluye muestras y datos de rendimiento.'
+  viewButtonText: 'Ver catálogo'
+  note: '¿Necesita muestras físicas o desarrollo de telas personalizadas? Contacte a nuestros especialistas en telas para asistencia personalizada.'
+  pdfs:
+    - title: 'Colección de telas de poliéster'
+      description: 'Mezclas de poliéster de alto rendimiento perfectas para trajes de baño activos, que ofrecen excelente retención de forma y propiedades de secado rápido.'
+      file: '/pdf/tideline-polyester-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'Tecnología de secado rápido'
+        - 'Excelente retención de forma'
+        - 'Resistente al cloro'
+      gradient: 'bg-gradient-to-br from-blue-500/10 to-cyan-500/10'
+      iconBg: 'bg-gradient-to-br from-blue-600 to-cyan-600'
+      buttonClass: 'bg-blue-600 text-white hover:bg-blue-700'
+      accentLine: 'bg-gradient-to-r from-blue-600 to-cyan-600'
+
+    - title: 'Colección de telas sostenibles'
+      description: 'Materiales eco-conscientes que incluyen poliéster reciclado y nylon regenerado ECONYL®, combinando sostenibilidad con rendimiento.'
+      file: '/pdf/tideline-sustainable-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'Materiales reciclados'
+        - 'Certificado OEKO-TEX®'
+        - 'Huella de carbono reducida'
+      gradient: 'bg-gradient-to-br from-green-500/10 to-emerald-500/10'
+      iconBg: 'bg-gradient-to-br from-green-600 to-emerald-600'
+      buttonClass: 'bg-green-600 text-white hover:bg-green-700'
+      accentLine: 'bg-gradient-to-r from-green-600 to-emerald-600'
+
+    - title: 'Colección de telas con protección UV'
+      description: 'Telas avanzadas que bloquean los rayos UV con protección UPF 50+, ideales para trajes de baño de rendimiento y prendas de protección solar.'
+      file: '/pdf/tideline-uv-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'Protección UPF 50+'
+        - 'Resistente a la decoloración'
+        - 'Absorbe la humedad'
+      gradient: 'bg-gradient-to-br from-purple-500/10 to-pink-500/10'
+      iconBg: 'bg-gradient-to-br from-purple-600 to-pink-600'
+      buttonClass: 'bg-purple-600 text-white hover:bg-purple-700'
+      accentLine: 'bg-gradient-to-r from-purple-600 to-pink-600'
+
+whyChoose:
+  title: '¿Por qué elegir nuestra selección de telas?'
+  description: 'Nuestro proceso de adquisición de telas está diseñado para garantizar que reciba materiales que cumplan con los más altos estándares para la producción de trajes de baño.'
+  reasons:
+    - title: 'Asociaciones directas con molinos'
+      description: 'Trabajamos directamente con molinos certificados, eliminando intermediarios para ofrecer precios competitivos sin comprometer la calidad.'
+    - title: 'Aseguramiento de calidad'
+      description: 'Cada lote de tela se inspecciona y prueba para cumplir con estrictos estándares de calidad para la fabricación de trajes de baño.'
+    - title: 'Tiempos de entrega rápidos'
+      description: 'Con gestión estratégica de inventario y cadenas de suministro confiables, aseguramos la entrega oportuna para su cronograma de producción.'
+    - title: 'Soporte técnico'
+      description: 'Nuestros especialistas en telas brindan orientación experta sobre la selección de materiales, compatibilidad con sus diseños y requisitos de producción.'
+    - title: 'Flexibilidad de pedido mínimo'
+      description: 'Ya sea que necesite pequeñas cantidades para muestras o grandes volúmenes para producción, acomodamos varios tamaños de pedido.'
+    - title: 'Personalización de colores'
+      description: 'Acceso a extensas bibliotecas de colores y servicios de teñido personalizado para que coincidan con sus especificaciones de marca exactas.'
+
+cta:
+  title: '¿Listo para seleccionar sus telas?'
+  description: 'Deje que nuestros expertos en telas le ayuden a elegir los materiales perfectos para su colección de trajes de baño. Solicite muestras, datos técnicos o programe una consulta.'
+  button: 'Contactar especialistas en telas'
+  link: '/contact'

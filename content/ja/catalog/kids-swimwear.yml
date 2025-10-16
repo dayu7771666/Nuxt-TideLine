@@ -1,0 +1,121 @@
+title: '子供用水着メーカー'
+description: 'サプライヤー以上の存在 - あなたの水着ブランド構築パートナー。'
+
+seo:
+  title: '子供用水着メーカー | TIDELINE SWIMWEAR'
+  description: '信頼できる子供用水着メーカーがUV保護、耐久性のあるキッズ水着を提供。男の子と女の子のためのカスタムデザイン、卸売価格、低MOQ。'
+  keywords: '子供用水着メーカー, キッズ水着サプライヤー, UV保護水着, 男の子水着トランクス, 女の子水着メーカー, キッズ水着工場'
+  ogTitle: '子供用水着メーカー | TIDELINE SWIMWEAR'
+  ogDescription: '高品質な子供用水着メーカー。子供向けUV保護、耐久性のあるデザイン。カスタムオプション利用可能。'
+  ogType: 'website'
+  ogImage: '/catalog/kids-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '子供用水着メーカー | TIDELINE SWIMWEAR'
+  twitterDescription: '安全で快適なキッズ水着製造。UV保護、カスタムデザイン、卸売価格。'
+
+# Hero section
+hero:
+  cta_text: '相談'
+  cta_href: '/contact'
+  image_src: '/catalog/kids-swimwear-bg.webp'
+  image_alt: '子供用水着製造'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: '私たちのミッション'
+  paragraph1: 'TideLine Swimwearでは、子供用水着が小売業者や若い家族にとって活気があり成長しているカテゴリーであることを知っています。毎シーズン、私たちのデザインチームは楽しく、快適で、耐久性のあるコレクションを開発しています - 遊び心のあるワンピース水着からスポーティーなスイムトランクスまで - 卸売業者やブランドオーナーにアクティブな子供たちのニーズを満たす多様なオプションを提供しています。'
+  whatsapp_link_text: 'WhatsAppでお問い合わせ'
+
+# Statistics
+stats:
+  - label: '水着業界での経験'
+    value: '10年以上'
+  - label: '完了した注文'
+    value: '1,000,000以上'
+
+# Product categories
+categories:
+  - name: '女の子用ワンピース'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-1.webp'
+    imageAlt: '女の子用ワンピース水着コレクション'
+  - name: '男の子用スイムトランクス'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-5.webp'
+    imageAlt: '男の子用スイムトランクスコレクション'
+  - name: '幼児用水着'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-3.webp'
+    imageAlt: '幼児用水着コレクション'
+  - name: 'ラッシュガード'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-4.webp'
+    imageAlt: 'キッズラッシュガードコレクション'
+
+# Customization capabilities
+customization:
+  title: 'カスタマイズ機能'
+  description: '完全にカスタマイズ可能な水着 - TideLineは、あなたのブランドビジョンを実現するために、すべてのカスタムデザイン、生地、ハードウェア、ロゴ、パッケージングを受け入れます。'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: '製造施設'
+  hero_image_width: '1000'
+  features:
+    - name: 'スタイルのカスタマイズ'
+      description: 'あらゆる水着デザインを実現 - 完璧なスタイルを選んで、私たちがあなたのブランドのために作ります。'
+      link: '/contact'
+      cta_text: '相談'
+    - name: '生地のカスタマイズ'
+      description: '幅広い生地から選んで、着心地が良く美しい水着を作りましょう。'
+      link: '/fabric'
+      cta_text: '生地'
+    - name: 'ハードウェアのカスタマイズ'
+      description: 'すべての詳細をカスタマイズ - バックルやリングからジッパーまで - 私たちのハードウェアオプションがあなたのデザインを引き立てます。'
+      link: '/hardware'
+      cta_text: 'ハードウェア'
+    - name: 'ロゴのカスタマイズ'
+      description: '本当にあなただけのものに - プロフェッショナルなブランドルックのために各ピースにあなたのロゴを追加します。'
+    - name: 'パッケージングのカスタマイズ'
+      description: 'あなたのスタイルとビジョンに合わせたパッケージングでブランド体験を完成させます。'
+    - name: 'お問い合わせ'
+      description: '準備はできましたか？あなたの水着のアイデアを現実にしましょう。'
+      link: '/contact'
+      cta_text: 'お問い合わせ'
+
+# Getting Started section
+getting_started:
+  title: 'あなたの水着の旅はここから始まります'
+  description: '初めてのコレクションを立ち上げる場合でも、ブランドを拡大する場合でも、TideLineはあなたのニーズに合わせたカスタマイズされた水着ソリューションを提供します。あなたの道を選んで始めましょう。'
+  beginner_text: '初心者として始める'
+  beginner_href: '/startup'
+  pro_text: '経験豊富なバイヤー'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: '製造プロセス'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'よくある質問'
+  questions:
+    - id: 1
+      question: '子供用水着に最適な生地は何ですか？'
+      answer: '子供用水着に最適な生地は、スパンデックスを含むナイロンまたはポリエステル混紡のような、柔らかく、伸縮性があり、耐久性のあるものです。UPF 50+の日焼け止め保護を提供し、塩素に強い素材を探してください。'
+    - id: 2
+      question: '子供に合った適切なサイズを選ぶにはどうすればよいですか？'
+      answer: '適切なサイズを見つけるには、ブランドのサイズチャートを参照し、お子様の胸囲、ウエスト、ヒップを測定してください。お子様がサイズの間にいる場合は、快適さと成長のためのスペースを確保するために大きいサイズを選んでください。'
+    - id: 3
+      question: '幼児向けの特定の水着デザインはありますか？'
+      answer: 'はい、幼児の場合、内蔵スイムおむつ、調節可能なストラップ、または簡単に着替えられるジッパーなどの追加機能を備えた水着を検討してください。ラッシュガードセットは追加の日焼け止め保護を提供し、親の間で人気があります。'
+    - id: 4
+      question: '子供の水着の手入れ方法は？'
+      answer: '塩素や塩を取り除くために、使用後すぐに水着を真水ですすいでください。穏やかな洗剤で手洗いし、平らにして自然乾燥させます。弾力性と色を維持するために、生地を絞ったり、洗濯機で洗ったり、乾燥機を使用したりしないでください。'
+    - id: 5
+      question: '子供用水着にはUV保護が必要ですか？'
+      answer: '絶対に必要です。子供の肌はUV線に対してより敏感なので、UPF 50+保護付きの水着は有害な太陽光線の最大98%をブロックするのに役立ちます。完全なカバレッジのために日焼け止めと組み合わせてください。'
+    - id: 6
+      question: '子供用水着はプールと海の両方で使用できますか？'
+      answer: 'はい、ただし定期的に塩素や塩水にさらされる水着は、耐久性を確保するために塩素や色あせに強い生地で作られている必要があります。速乾性のある素材も海での使用に有益です。'
+    - id: 7
+      question: '水着とラッシュガードの違いは何ですか？'
+      answer: '水着は水泳用にデザインされた伝統的なワンピースまたはツーピースですが、ラッシュガードは伸縮性のあるUV保護生地で作られたトップです。ラッシュガードはしばしばスイムショーツやボトムスと組み合わせて着用され、特にウォータースポーツや長時間の日光曝露に対して追加の日焼け止め保護を提供します。'

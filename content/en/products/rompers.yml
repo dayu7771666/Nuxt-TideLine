@@ -1,0 +1,70 @@
+hero:
+  title: 'Athletic Rompers & Jumpsuits Collection'
+  description: 'Premium athletic rompers and jumpsuits designed for active lifestyles. From compression shapewear to flowy workout rompers, perfect for gym, yoga, and athleisure wear with performance and style.'
+
+seo:
+  title: 'Athletic Rompers & Jumpsuits Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale athletic rompers & jumpsuits - compression, cutout designs, performance fabrics. Gym wear, yoga rompers, shapewear. Custom options available.'
+  keywords: 'athletic rompers, compression jumpsuits, workout rompers, yoga rompers, gym rompers, shapewear rompers, wholesale athletic wear, custom rompers'
+  ogTitle: 'Athletic Rompers & Jumpsuits Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale athletic rompers & jumpsuits. Performance meets style in one-piece designs.'
+  ogType: 'website'
+  ogImage: '/products/rompers-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Athletic Rompers & Jumpsuits Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Athletic rompers & jumpsuits wholesale. Performance and style combined.'
+
+products:
+  - id: 1
+    name: 'Cutout Active Tank Romper with Flowy Shorts'
+    description: 'Teal/Emerald one-piece featuring a fitted tank top with a striking midriff cutout, transitioning into loose, flowy running shorts. Perfect for active workouts with breathable comfort.'
+    imageSrc: '/products/rompers/P01.png'
+    imageAlt: 'Teal flowy shorts romper with midriff cutout for athleisure and active wear'
+
+  - id: 2
+    name: 'Black Long-Sleeve Full-Length Jumpsuit'
+    description: 'Full-length black catsuit/jumpsuit with long sleeves, featuring contouring seam details and thumbholes, offering full-body coverage and shaping for performance activities.'
+    imageSrc: '/products/rompers/P02.png'
+    imageAlt: 'Black long sleeve jumpsuit with contouring seams and full length coverage'
+
+  - id: 3
+    name: 'High-Neck Compression Bikeshort Romper'
+    description: 'Deep espresso brown, short-sleeved romper with a high mock-neck and front zipper, emphasizing body-sculpting compression material for enhanced performance and support.'
+    imageSrc: '/products/rompers/P03.png'
+    imageAlt: 'Deep brown compression romper with high neck and bikeshort style for athletic wear'
+
+  - id: 4
+    name: 'Classic Black Strappy Bikeshort Romper'
+    description: 'Simple, fitted black romper with thin spaghetti straps, a scoop neck, and biker-short length bottoms, designed for streamlined comfort during workouts and training.'
+    imageSrc: '/products/rompers/P04.png'
+    imageAlt: 'Black strappy bikeshort romper with scoop neck for athletic and gym wear'
+
+  - id: 5
+    name: 'Sleek Performance Zip-Up Romper'
+    description: 'High-neck, sleeveless romper in a solid taupe/khaki color with a functional front zipper closure and short-style bottoms, offering a snug, athletic fit for gym and fitness activities.'
+    imageSrc: '/products/rompers/P05.png'
+    imageAlt: 'Taupe sleeveless zip-up romper for gym and fitness performance wear'
+
+  - id: 6
+    name: 'Black Cutout Tank Romper with Flowy Shorts'
+    description: 'Classic black fitted tank top romper with a central waist cutout, transitioning into relaxed, flowy outer layer shorts. Versatile design for active lifestyle and casual wear.'
+    imageSrc: '/products/rompers/P06.png'
+    imageAlt: 'Black flowy shorts romper with fitted tank and waist cutout for utility and comfort'
+
+  - id: 7
+    name: 'Dusty Rose Cutout Tank Romper with Woven Shorts'
+    description: 'Two-tone dusty rose/mauve romper with a fitted top and a small waist cutout, paired with light, woven, relaxed-fit shorts. Stylish design for sporty and casual occasions.'
+    imageSrc: '/products/rompers/P07.png'
+    imageAlt: 'Dusty rose romper with contrast shorts and waist cutout for sporty casual wear'
+
+  - id: 8
+    name: 'Navy Cutout Tank Romper with Woven Shorts'
+    description: 'Dark navy one-piece with a fitted tank top, small waist cutout, and slightly gathered, loose-fitting running shorts. Perfect for casual workouts and active lifestyle.'
+    imageSrc: '/products/rompers/P08.png'
+    imageAlt: 'Navy blue romper with cutout top and woven running shorts for casual athletic wear'
+
+  - id: 9
+    name: 'Seamless Nude Body-Shaping Romper'
+    description: 'Nude/Tan seamless compression romper with a square neckline and thick straps, designed as shapewear or a smooth base layer for enhanced silhouette and comfort.'
+    imageSrc: '/products/rompers/P09.png'
+    imageAlt: 'Nude seamless shapewear romper with square neck for base layer and body shaping'

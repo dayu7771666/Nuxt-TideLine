@@ -1,0 +1,17 @@
+hero:
+  title: 'Competitive Racing Swimwear Collection'
+  description: 'High-performance racing swimwear engineered for speed and competitive advantage. Hydrodynamic designs, compression technology, and FINA-approved materials for serious athletes.'
+
+seo:
+  title: 'Racing Swimwear Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale racing swimwear - competitive suits, hydrodynamic design, compression technology. FINA approved, professional grade. Team orders, custom options.'
+  keywords: 'racing swimwear, competitive swimwear, FINA approved swimwear, hydrodynamic swimsuits, compression swimwear, wholesale racing suits, team swimwear'
+  ogTitle: 'Racing Swimwear Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale racing swimwear. FINA approved, hydrodynamic design. Professional grade performance.'
+  ogType: 'website'
+  ogImage: '/products/swim-racing-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Racing Swimwear Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Racing swimwear wholesale. Competitive advantage through superior design.'
+
+products:

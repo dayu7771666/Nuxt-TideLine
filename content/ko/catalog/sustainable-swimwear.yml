@@ -1,0 +1,121 @@
+title: '지속가능한 수영복 제조업체'
+description: '단순한 공급업체 이상 — 당신의 수영복 브랜드 구축 파트너.'
+
+seo:
+  title: '지속가능한 수영복 제조업체 | TIDELINE SWIMWEAR'
+  description: '재활용 소재와 지속가능한 생산을 사용하는 친환경 수영복 제조업체. 도매 지속가능한 수영복, 저탄소 공정, 맞춤 디자인.'
+  keywords: '지속가능한 수영복 제조업체, 친환경 수영복, 재활용 수영복 공급업체, 유기농 수영복 공장, 그린 수영복 제조, RPET 수영복'
+  ogTitle: '지속가능한 수영복 제조업체 | TIDELINE SWIMWEAR'
+  ogDescription: '친환경 수영복 제조업체. 재활용 소재, 지속가능한 생산, 저탄소 공정. 당신의 브랜드를 친환경으로 만드는 데 도움.'
+  ogType: 'website'
+  ogImage: '/catalog/sustainable-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '지속가능한 수영복 제조업체 | TIDELINE SWIMWEAR'
+  twitterDescription: '지속가능한 수영복 제조. 재활용 소재, 친환경 생산, 맞춤 디자인.'
+
+# Hero section
+hero:
+  cta_text: '상담'
+  cta_href: '/contact'
+  image_src: '/catalog/sustainable-swimwear-bg.webp'
+  image_alt: '지속가능한 수영복 제조'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: '우리의 미션'
+  paragraph1: 'TideLine Swimwear에서는 사람과 지구 모두를 존중하는 지속가능한 수영복을 만들기 위해 노력하고 있습니다. 우리의 친환경 컬렉션은 재활용되고 책임감 있게 조달된 원단을 사용하며, 신중한 생산 관행과 결합하여 환경 영향을 최소화하면서 편안함과 내구성을 제공하는 고품질 수영복을 보장합니다.'
+  whatsapp_link_text: 'WhatsApp으로 문의하기'
+
+# Statistics
+stats:
+  - label: '수영복 업계 경험'
+    value: '10년 이상'
+  - label: '완료된 주문'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: '재활용 비키니'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/recycled-bikini-1.webp'
+    imageAlt: '재활용 비키니 컬렉션'
+  - name: '에코 원피스'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/eco-onepiece-1.webp'
+    imageAlt: '에코 원피스 컬렉션'
+  - name: '유기농 수영복'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/organic-1.webp'
+    imageAlt: '유기농 수영복 컬렉션'
+  - name: '생분해성 수트'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/biodegradable-1.webp'
+    imageAlt: '생분해성 수트 컬렉션'
+
+# Customization capabilities
+customization:
+  title: '맞춤화 기능'
+  description: '완전 맞춤형 수영복—TideLine은 모든 맞춤 디자인, 원단, 하드웨어, 로고, 포장을 받아들여 당신의 브랜드 비전을 실현합니다.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: '제조 시설'
+  hero_image_width: '1000'
+  features:
+    - name: '스타일 맞춤화'
+      description: '어떤 수영복 디자인이든 실현—완벽한 스타일을 선택하고 당신의 브랜드를 위해 제작하게 하세요.'
+      link: '/contact'
+      cta_text: '상담'
+    - name: '원단 맞춤화'
+      description: '다양한 원단 중에서 선택하여 착용하기 편안하고 아름다운 수영복을 만드세요.'
+      link: '/fabric'
+      cta_text: '원단'
+    - name: '하드웨어 맞춤화'
+      description: '버클과 링부터 지퍼까지 모든 세부사항을 맞춤화—우리의 하드웨어 옵션이 당신의 디자인을 향상시킵니다.'
+      link: '/hardware'
+      cta_text: '하드웨어'
+    - name: '로고 맞춤화'
+      description: '진정으로 당신만의 것으로—전문적인 브랜드 룩을 위해 각 제품에 로고를 추가하세요.'
+    - name: '포장 맞춤화'
+      description: '당신의 스타일과 비전에 맞춘 포장으로 브랜드 경험을 완성하세요.'
+    - name: '문의하기'
+      description: '준비되셨나요? 당신의 수영복 아이디어를 현실로 만들어보세요.'
+      link: '/contact'
+      cta_text: '문의하기'
+
+# Getting Started section
+getting_started:
+  title: '당신의 수영복 여정이 여기서 시작됩니다'
+  description: '첫 번째 컬렉션을 출시하든 브랜드를 확장하든, TideLine은 당신의 필요에 맞는 맞춤형 수영복 솔루션을 제공합니다. 당신의 길을 선택하고 시작하세요.'
+  beginner_text: '초보자로 시작하기'
+  beginner_href: '/startup'
+  pro_text: '경험있는 구매자'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: '제조 과정'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: '자주 묻는 질문'
+  questions:
+    - id: 1
+      question: '지속가능한 수영복이란 무엇인가요?'
+      answer: '지속가능한 수영복은 친환경 소재와 저탄소 생산 공정으로 만들어져 부정적인 환경 영향을 줄이는 것을 목표로 합니다. 일반적으로 재활용 플라스틱 섬유(RPET 등), 유기농 면, 천연 섬유를 사용하며, 탄소 발자국을 줄이기 위해 유해한 염료를 피하면서 물과 전력 소비를 최소화합니다.'
+    - id: 2
+      question: '당신의 지속가능한 수영복에는 어떤 소재가 사용되나요?'
+      answer: '지속가능한 수영복을 생산하기 위해 재활용 플라스틱 섬유(RPET), 천연 해조류 섬유, 생분해성 나일론, 유기농 면 등 다양한 친환경 소재를 사용합니다. 이러한 소재들은 좋은 편안함, 내구성, 탄성을 제공하면서 환경 오염과 자원 소비를 줄이는 데 도움을 줍니다.'
+    - id: 3
+      question: '지속가능한 수영복이 기존 수영복보다 비싼가요?'
+      answer: '친환경 소재와 첨단 생산 공정의 사용으로 인해 지속가능한 수영복은 기존 수영복보다 비싼 경향이 있습니다. 그러나 지속가능한 트렌드가 계속 발전함에 따라 친환경 소재와 생산 방법의 조달 비용이 점차 감소하고 있습니다. 우리는 환경 기준을 유지하면서 경쟁력 있는 가격을 제공하기 위해 노력합니다.'
+    - id: 4
+      question: '지속가능한 수영복의 품질을 어떻게 보장하나요?'
+      answer: '친환경 소재를 사용하지만, 지속가능한 수영복의 모든 제품은 편안함, 내구성, 기능성의 높은 기준을 충족하도록 엄격한 품질 관리를 받습니다. 우리가 선택하는 친환경 원단은 물에서의 성능, 내구성, 편안함을 보장하기 위해 테스트되어 기존 소재와 동등하거나 그 이상의 성능을 발휘합니다.'
+    - id: 5
+      question: '당신의 지속가능한 수영복 생산 공정은 어떤가요?'
+      answer: '우리의 지속가능한 수영복 생산 공정은 저탄소 및 자원 절약 제조에 중점을 두어 물과 전력 소비를 최소화합니다. 염료는 무독성이고 친환경적임을 보장하기 위해 신중하게 선택하며, 유해한 화학물질을 피합니다. 생산 공정에서 나오는 폐기물은 처리되고 재활용되어 낭비를 최소화합니다.'
+    - id: 6
+      question: '맞춤형 지속가능한 수영복을 제공하나요?'
+      answer: '네, 완전히 맞춤화된 지속가능한 수영복을 제공합니다. 원단, 디자인, 색상, 브랜드 로고 등 귀하의 요구사항에 따라 맞춤화하여 각 수영복이 귀하의 브랜드 철학과 환경 약속에 부합하도록 보장할 수 있습니다.'
+    - id: 7
+      question: '지속가능한 수영복은 어떻게 관리하고 세탁해야 하나요?'
+      answer: '지속가능한 수영복의 관리는 기존 수영복과 유사합니다. 찬물에서 손세탁을 권장하며 표백제는 피하세요. 수영복의 수명을 연장하기 위해 직사광선과 건조기를 피하고, 수영복을 평평하게 놓고 말리세요. 정기적인 세탁과 적절한 관리는 편안함을 유지하고 수영복의 수명을 연장하는 데 도움이 됩니다.'

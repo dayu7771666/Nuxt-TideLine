@@ -1,0 +1,38 @@
+title: 'Preguntas frecuentes'
+description: 'Encuentre respuestas a preguntas comunes sobre nuestra fabricación de trajes de baño, servicios de muestreo y producción. Obtenga la información que necesita para tomar decisiones informadas.'
+
+seo:
+  title: 'FAQ - Preguntas frecuentes | Tideline Fabricación de trajes de baño'
+  description: 'Obtenga respuestas a preguntas comunes sobre fabricación de trajes de baño, servicios de muestreo, precios, tiempos de entrega y procesos de producción.'
+  keywords: 'FAQ fabricación trajes de baño, preguntas sobre muestras, proceso de producción, tiempo de entrega, precios trajes de baño, paquete técnico, abastecimiento de telas'
+  ogTitle: 'FAQ - Sus preguntas respondidas | Tideline'
+  ogDescription: 'Encuentre respuestas detalladas sobre nuestros servicios de fabricación de trajes de baño, desde muestreo hasta producción en masa.'
+  ogType: 'website'
+  ogImage: '/faq-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'FAQ - Preguntas sobre fabricación de trajes de baño | Tideline'
+  twitterDescription: 'Obtenga respuestas a preguntas comunes sobre nuestra fabricación y servicios de muestreo de trajes de baño.'
+
+faq:
+  title: 'Preguntas comunes sobre nuestros servicios'
+  items:
+    - question: '¿Qué incluye típicamente su servicio de muestreo y cuál es el costo?'
+      answer: 'Nuestro servicio de muestreo es un paquete integral que incluye ingeniería de patrones, abastecimiento de telas y adornos aprobados, construcción de un prototipo físico y análisis interno de ajuste. El costo es específico del proyecto y varía según la complejidad del diseño, los materiales elegidos y los detalles de los adornos. Proporcionamos una cotización transparente después de nuestra consulta inicial para alinearnos en el alcance.'
+    - question: '¿Cuál es el tiempo de entrega típico para una muestra?'
+      answer: 'El cronograma estándar para un primer prototipo es de 2-3 semanas. Este período incluye abastecimiento de materiales, desarrollo de patrones y construcción meticulosa. Podemos discutir opciones aceleradas para proyectos urgentes, y los cronogramas siempre se confirman por adelantado.'
+    - question: '¿Necesito proporcionar un paquete técnico completo, o pueden trabajar con mi concepto de diseño?'
+      answer: 'Podemos trabajar con ambos. Un paquete técnico detallado permite el proceso más preciso y eficiente. Sin embargo, si tiene un concepto de diseño o inspiración, nuestro equipo puede ayudarlo a desarrollarlo en una especificación lista para producción, incluyendo recomendaciones de ajuste, tela y construcción.'
+    - question: '¿Cómo manejan el ajuste y las tallas para las muestras?'
+      answer: 'Comenzamos alineándonos en un bloque de ajuste base y reglas de graduación específicas para su mercado objetivo. La primera muestra se construye según estas especificaciones precisas y se evalúa internamente en un maniquí estándar. Recomendamos encarecidamente que también realice su propia sesión de ajuste en un modelo en vivo que coincida con las medidas de su cliente objetivo.'
+    - question: '¿Pueden obtener telas específicas o sostenibles para mi muestra?'
+      answer: 'Absolutamente. Tenemos relaciones establecidas con fábricas que ofrecen una amplia gama de telas de rendimiento y sostenibles (por ejemplo, nylon reciclado, materiales certificados OEKO-TEX®). Curaremos opciones basadas en sus objetivos estéticos, de rendimiento y sostenibilidad y proporcionaremos muestras para su aprobación.'
+    - question: '¿Qué sucede si la muestra requiere ajustes después de la entrega?'
+      answer: 'La iteración es una parte central del proceso de muestreo. Incluimos una ronda de consolidación de comentarios detallados después de que reciba su primera muestra. Analizaremos sus notas sobre ajuste y construcción y presentaremos un plan claro para las revisiones, incluidos los costos asociados y el cronograma para un segundo prototipo si es necesario.'
+    - question: '¿Cómo transiciona el proceso de muestreo a la producción en masa?'
+      answer: 'La muestra final aprobada sirve como el "estándar de oro" para la producción. Utilizamos los patrones refinados, materiales confirmados y detalles de construcción de la fase de muestreo para crear una hoja de ruta de producción sin problemas, proporcionándole una cotización firme para su pedido al por mayor según sus cantidades requeridas.'
+
+cta:
+  title: '¿Todavía tiene preguntas?'
+  description: 'Nuestro equipo está aquí para ayudar. Contáctenos hoy para respuestas personalizadas y orientación experta sobre su proyecto de fabricación de trajes de baño.'
+  button: 'Contactar a nuestros expertos'
+  link: '/contact'

@@ -1,0 +1,111 @@
+title: 'メンズ水着メーカー'
+description: 'サプライヤー以上の存在 — あなたの水着ブランド構築パートナー。'
+
+seo:
+  title: 'メンズ水着メーカー | TIDELINE SWIMWEAR'
+  description: '高性能スイムトランクス、ボードショーツ、ブリーフを提供する卸売メンズ水着メーカー。カスタムデザイン、競争力のある価格、低MOQ。'
+  keywords: 'メンズ水着メーカー, スイムトランクス卸売, ボードショーツメーカー, メンズ水着サプライヤー, カスタムスイムトランクス, メンズ水着工場'
+  ogTitle: 'メンズ水着メーカー | TIDELINE SWIMWEAR'
+  ogDescription: 'プロフェッショナルなメンズ水着メーカー。スイムトランクス、ボードショーツ、ブリーフ。カスタムデザイン、低MOQ、卸売価格。'
+  ogType: 'website'
+  ogImage: '/catalog/men-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'メンズ水着メーカー | TIDELINE SWIMWEAR'
+  twitterDescription: '高性能メンズ水着製造。トランクス、ボードショーツ、ブリーフ。カスタムデザイン対応。'
+
+# Hero section
+hero:
+  cta_text: 'コンサルテーション'
+  cta_href: '/contact'
+  image_src: '/catalog/men-swimwear-bg.webp'
+  image_alt: 'メンズ水着製造'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: '私たちのミッション'
+  paragraph1: 'TideLine Swimwearでは、メンズ水着が小売業者や新興ブランドにとって重要な成長カテゴリーであることを理解しています。毎シーズン、私たちの工場チームは快適性、耐久性、スタイルを兼ね備えた市場対応コレクションを開発しています。クラシックなトランクス、機能的なボードショーツ、コンテンポラリーなブリーフなど、卸売業者やブランドオーナーに今日の消費者需要に応える多様な選択肢を提供しています。'
+  whatsapp_link_text: 'WhatsAppでお問い合わせ'
+
+# Statistics
+stats:
+  - label: '水着業界での経験'
+    value: '10年以上'
+  - label: '完了した注文'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'スイムシャツ'
+    href: '/category?type=men&subtype=swim-shirt'
+    imageSrc: '/men-swimwear/shirt/shirt-5.webp'
+    imageAlt: 'メンズスイムシャツコレクション'
+  - name: 'ブリーフ'
+    href: '/category?type=men&subtype=briefs'
+    imageSrc: '/men-swimwear/san/san-1.webp'
+    imageAlt: 'メンズスイミングブリーフコレクション'
+  - name: 'トランクス'
+    href: '/category?type=men&subtype=trunks'
+    imageSrc: '/men-swimwear/ping/ping-4.webp'
+    imageAlt: 'メンズスイミングトランクスコレクション'
+
+# Customization capabilities
+customization:
+  title: 'カスタマイゼーション機能'
+  description: '完全カスタマイズ可能な水着—TideLineはすべてのカスタムデザイン、生地、ハードウェア、ロゴ、パッケージングを受け入れ、あなたのブランドビジョンを実現します。'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: '製造施設'
+  hero_image_width: '1000'
+  features:
+    - name: 'スタイルカスタマイゼーション'
+      description: 'あらゆる水着デザインを実現—完璧なスタイルを選択し、あなたのブランドのために製作いたします。'
+      link: '/contact'
+      cta_text: 'コンサルテーション'
+    - name: '生地カスタマイゼーション'
+      description: '幅広い生地から選択して、着心地が良く美しい水着を作成します。'
+      link: '/fabric'
+      cta_text: '生地'
+    - name: 'ハードウェアカスタマイゼーション'
+      description: 'バックルやリングからジッパーまで、すべての詳細をカスタマイズ—私たちのハードウェアオプションがあなたのデザインを向上させます。'
+      link: '/hardware'
+      cta_text: 'ハードウェア'
+    - name: 'ロゴカスタマイゼーション'
+      description: '真にあなたのものに—プロフェッショナルなブランドルックのために各ピースにロゴを追加します。'
+    - name: 'パッケージングカスタマイゼーション'
+      description: 'あなたのスタイルとビジョンに合わせたパッケージングでブランド体験を完成させます。'
+    - name: 'お問い合わせ'
+      description: '準備はできましたか？あなたの水着アイデアを現実に変えましょう。'
+      link: '/contact'
+      cta_text: 'お問い合わせ'
+
+# Getting Started section
+getting_started:
+  title: 'あなたの水着ジャーニーはここから始まります'
+  description: '初回コレクションの立ち上げでも、ブランドの拡大でも、TideLineはあなたのニーズに合わせたオーダーメイドの水着ソリューションを提供します。あなたの道を選んで始めましょう。'
+  beginner_text: '初心者として始める'
+  beginner_href: '/startup'
+  pro_text: '経験豊富なバイヤー'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: '製造プロセス'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'よくある質問'
+  questions:
+    - id: 1
+      question: 'メンズ水着卸売の最小注文数量は何ですか？'
+      answer: '私たちのMOQはスタイルとサイズごとに30個から始まり、新しく成長するメンズ水着ブランドが柔軟性を持ってコレクションを立ち上げることを可能にします。'
+    - id: 2
+      question: 'メンズ水着のスタイルと素材をカスタマイズできますか？'
+      answer: 'はい。私たちはメンズ水着の完全なカスタマイゼーションを提供しています—トランクス、ボードショーツ、ブリーフを含む—お好みの生地、色、ロゴ、パッケージングを使用して。'
+    - id: 3
+      question: 'メンズ水着の大量注文の生産にはどのくらい時間がかかりますか？'
+      answer: 'サンプルは通常10日以内に完成し、大量生産は注文サイズとカスタマイゼーションレベルに応じて30日以内に完了します。'
+    - id: 4
+      question: 'メンズ水着用の持続可能な生地オプションを提供していますか？'
+      answer: 'もちろんです。リサイクルポリエステルやナイロンなどの環境に優しい生地を提供し、メンズ水着市場であなたのブランドに持続可能な優位性を与えます。'
+    - id: 5
+      question: 'メンズ水着卸売の見積もりはどのように依頼できますか？'
+      answer: 'WhatsAppまたはメールで私たちのチームにお好みのデザイン、サイズ、生地の選択を共有するだけです。生地サンプルと専門家の推奨事項とともに詳細な見積もりを提供いたします。'

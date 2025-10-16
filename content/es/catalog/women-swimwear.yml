@@ -1,0 +1,116 @@
+title: 'Fabricante de Trajes de Baño para Mujeres'
+description: 'Más que un proveedor — tu socio en la construcción de marca de trajes de baño.'
+
+seo:
+  title: 'Fabricante de Trajes de Baño para Mujeres | TIDELINE SWIMWEAR'
+  description: 'Fabricante profesional de trajes de baño para mujeres ofreciendo bikinis personalizados, trajes de baño de una pieza y tankinis. MOQ bajo, alta calidad, precios al por mayor para marcas y minoristas.'
+  keywords: 'fabricante trajes de baño mujeres, fabricante bikini, traje de baño una pieza al por mayor, trajes de baño personalizados, proveedor trajes de baño mujeres, fábrica trajes de baño'
+  ogTitle: 'Fabricante de Trajes de Baño para Mujeres | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricante profesional de trajes de baño para mujeres. Diseños personalizados, MOQ bajo, precios al por mayor para bikinis, trajes de una pieza y tankinis.'
+  ogType: 'website'
+  ogImage: '/catalog/women-swimwear.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricante de Trajes de Baño para Mujeres | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabricación personalizada de trajes de baño para mujeres. Bikinis, trajes de una pieza, tankinis. MOQ bajo, precios al por mayor.'
+
+# Hero section
+hero:
+  cta_text: 'Consulta'
+  cta_href: '/contact'
+  image_src: '/catalog/women-swimwear.webp'
+  image_alt: ''
+  image_width: '900px'
+
+# Mission section
+mission:
+  title: 'Nuestra Misión'
+  paragraph1: 'En TideLine Swimwear, sabemos que los trajes de baño para mujeres son una de las categorías más dinámicas en la moda. Cada año, nuestro equipo de diseño desarrolla colecciones frescas y orientadas a las tendencias que reflejan los últimos estilos globales—ya sean elegantes trajes de baño de una pieza, bikinis chic o tankinis versátiles.'
+  paragraph2_with_link: '¿Listo para comenzar tu pedido o explorar nuestro catálogo completo? {0} hoy y nuestro equipo proporcionará recomendaciones personalizadas, precios y muestras—rápido y sin complicaciones.'
+  whatsapp_link_text: 'Contáctanos en WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experiencia en la Industria de Trajes de Baño'
+    value: '10 años +'
+  - label: 'Pedidos Cumplidos'
+    value: '1,000,000+'
+
+# Product categories
+product_range:
+  title: 'Colecciones de Trajes de Baño para Mujeres'
+  description: 'Explora Nuestra Colección de Trajes de Baño Cuidadosamente Curada'
+  more_text: 'Navegar Todos los Productos'
+  categories:
+    - name: 'Bikinis'
+      href: '/category?type=women&subtype=bikini'
+      image_src: '/women-swimwear/bikinis/bikinis-1.webp'
+    - name: 'Traje de Baño de Una Pieza'
+      href: '/category?type=women&subtype=one-piece'
+      image_src: '/women-swimwear/one-piece/one-piece-1.webp'
+    - name: 'Tankini'
+      href: '/category?type=women&subtype=tankini'
+      image_src: '/women-swimwear/tankini/tankini-10.webp'
+    - name: 'Pareo de Playa'
+      href: '/category?type=women&subtype=cover-up'
+      image_src: '/women-swimwear/beach/beach-2.webp'
+
+# Customization capabilities
+customization:
+  title: 'Capacidades de Personalización'
+  description: 'Trajes de baño completamente personalizables—TideLine acepta todos los diseños personalizados, telas, herrajes, logos y empaques para dar vida a tu visión de marca.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: ''
+  hero_image_width: '1000px'
+  features:
+    - name: 'Personalización de Estilo'
+      description: 'Da vida a cualquier diseño de traje de baño—elige tu estilo perfecto y déjanos crearlo para tu marca.'
+      link: '/contact'
+      cta_text: 'Consulta'
+    - name: 'Personalización de Tela'
+      description: 'Elige de una amplia gama de telas para crear trajes de baño cómodos de usar y hermosos de ver.'
+      link: '/fabric'
+      cta_text: 'Tela'
+    - name: 'Personalización de Herrajes'
+      description: 'Personaliza cada detalle—desde hebillas y anillos hasta cremalleras—nuestras opciones de herrajes elevan tu diseño.'
+      link: '/hardware'
+      cta_text: 'Herrajes'
+    - name: 'Personalización de Logo'
+      description: 'Hazlo verdaderamente tuyo—agrega tu logo a cada pieza para un look de marca profesional.'
+    - name: 'Personalización de Empaque'
+      description: 'Completa tu experiencia de marca con empaque adaptado a tu estilo y visión.'
+    - name: 'Contáctanos'
+      description: '¿Listo? Convirtamos tus ideas de trajes de baño en realidad.'
+      link: '/contact'
+      cta_text: 'Contáctanos'
+
+# Getting started section
+getting_started:
+  title: 'Tu viaje en trajes de baño comienza aquí'
+  description: 'Ya sea que estés lanzando tu primera colección o escalando tu marca, TideLine proporciona soluciones de trajes de baño personalizadas para satisfacer tus necesidades. Elige tu camino y comienza.'
+  beginner_text: 'Comenzar como Principiante'
+  beginner_href: '/startup'
+  pro_text: 'Comprador Experimentado'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: ''
+  image_width: '1000px'
+
+# FAQ section
+faq:
+  title: 'Preguntas frecuentes'
+  questions:
+    - id: 1
+      question: '¿Cuál es la cantidad mínima de pedido para trajes de baño para mujeres al por mayor?'
+      answer: 'Nuestra cantidad mínima de pedido (MOQ) comienza en 30 piezas por estilo y talla, haciéndolo flexible para marcas de trajes de baño pequeñas y medianas.'
+    - id: 2
+      question: '¿Puedo personalizar los diseños y telas de los trajes de baño?'
+      answer: '¡Sí! Ofrecemos trajes de baño completamente personalizables, incluyendo diseños, telas, logos y empaques, para ayudar a tu marca a destacar en el mercado.'
+    - id: 3
+      question: '¿Cuánto tiempo toma producir pedidos de trajes de baño al por mayor?'
+      answer: 'Típicamente, las muestras están listas en 10 días, y los pedidos al por mayor se envían en 30 días, dependiendo de la cantidad y los requisitos de personalización.'
+    - id: 4
+      question: '¿Ofrecen opciones de trajes de baño eco-amigables o sostenibles?'
+      answer: 'Absolutamente. Proporcionamos una gama de telas eco-amigables y métodos de producción sostenibles para marcas que priorizan la responsabilidad ambiental.'
+    - id: 5
+      question: '¿Cómo puedo obtener una cotización detallada para pedidos al por mayor?'
+      answer: 'Puedes contactar a nuestro equipo vía WhatsApp o email, proporcionar tus estilos, tallas y telas deseadas, y enviaremos una cotización completa, catálogo de telas y orientación profesional.'

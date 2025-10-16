@@ -1,0 +1,159 @@
+title: 'Politica di Spedizione'
+description: 'Soluzioni di spedizione globale affidabili per le esigenze della tua attività di costumi da bagno'
+
+seo:
+  title: 'Politica di Spedizione | TIDELINE SWIMWEAR'
+  description: 'Soluzioni di spedizione globale affidabili per le esigenze della tua attività di costumi da bagno. Opzioni di spedizione express e marittima, copertura mondiale in oltre 150 paesi, tracciamento in tempo reale.'
+  keywords: 'spedizione costumi da bagno, spedizione globale, corriere espresso, trasporto marittimo, trasporto aereo, DHL, FedEx, UPS, tracciamento ordini, spedizione internazionale, consegna costumi da bagno'
+  ogTitle: 'Politica di Spedizione | TIDELINE SWIMWEAR'
+  ogDescription: 'Soluzioni di spedizione globale affidabili per le esigenze della tua attività di costumi da bagno. Opzioni di spedizione express e marittima, copertura mondiale in oltre 150 paesi.'
+  ogType: 'website'
+  ogImage: '/shipping.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Politica di Spedizione | TIDELINE SWIMWEAR'
+  twitterDescription: 'Soluzioni di spedizione globale affidabili per le esigenze della tua attività di costumi da bagno. Opzioni di spedizione express e marittima, copertura mondiale in oltre 150 paesi.'
+
+hero:
+  image: '/shipping-banner.webp'
+
+orderTracking:
+  title: 'Tracciamento Ordine'
+  description: 'Forniamo un tracciamento completo per tutti gli ordini per assicurarti di rimanere informato sullo stato della tua spedizione ad ogni passo.'
+  features:
+    - 'I numeri di tracciamento vengono inviati via email entro 24 ore dalla spedizione'
+    - 'Tracciamento in tempo reale disponibile sul nostro sito web o sul sito web del corriere'
+    - 'Aggiornamenti regolari dello stato via email per ordini di produzione'
+    - 'Account manager dedicato per ordini superiori a $10,000'
+  trackTitle: 'Traccia il Tuo Ordine: Inserisci il tuo numero di tracciamento qui sotto per verificare lo stato attuale della tua spedizione.'
+  trackPlaceholder: 'Inserisci numero di tracciamento'
+  trackButton: 'Traccia'
+
+methods:
+  title: 'Metodi di Spedizione'
+  description: "Offriamo diverse opzioni di spedizione in base al tipo di ordine e all'urgenza per soddisfare le tue specifiche esigenze aziendali."
+  sample:
+    title: 'Ordine di Campione'
+    description: 'Per gli ordini di campione, forniamo una varietà di opzioni di spedizione per aiutarti a prendere decisioni rapide:'
+    options:
+      - name: 'Corriere Espresso'
+        description: 'DHL, FedEx, UPS (3-7 giorni lavorativi)'
+      - name: 'Posta Aerea Standard'
+        description: '(7-14 giorni lavorativi)'
+      - name: 'Economica'
+        description: '(14-21 giorni lavorativi)'
+  bulk:
+    title: 'Ordini di Produzione in Massa'
+    description: 'Per gli ordini di produzione in massa, offriamo soluzioni convenienti:'
+    options:
+      - name: 'Trasporto Aereo'
+        description: '(7-15 giorni lavorativi)'
+      - name: 'Trasporto Marittimo'
+        description: '(30-45 giorni lavorativi)'
+      - name: 'Aereo Express'
+        description: '(5-10 giorni lavorativi)'
+  important:
+    title: 'Importante'
+    note: 'I tempi di produzione sono aggiuntivi ai tempi di spedizione. Contattaci per i tempi di produzione esatti in base alla quantità e alla complessità del tuo ordine.'
+
+coverage:
+  title: 'Copertura di Spedizione'
+  description: 'Forniamo servizi di spedizione in oltre 150 paesi in tutto il mondo. La nostra rete di partner offre consegne rapide in tutto il mondo.'
+  globalOperationsTitle: 'Operazioni Commerciali e Logistica Globale di Tideline'
+  businessRegions:
+    - title: 'Cina - Centro di Produzione'
+      description: 'Fabbrica di abbigliamento moderna con oltre 10 anni di esperienza in produzione e vendite.'
+      icon: 'heroicons:building-office-20-solid'
+      color: 'red'
+    - title: 'USA - Centro di Distribuzione'
+      description: "Magazzino all'estero con scorte, consegna di 3-5 giorni ai clienti locali."
+      icon: 'heroicons:building-storefront-20-solid'
+      color: 'blue'
+    - title: 'Europa e Australia'
+      description: 'Regioni commerciali primarie che servono diversi tipi di clienti.'
+      icon: 'heroicons:globe-europe-africa-20-solid'
+      color: 'green'
+    - title: 'Altra Regione Commerciale'
+      description: 'Come costumi da bagno modesti, adattati ai clienti e alle preferenze locali'
+      icon: 'heroicons:map-pin-20-solid'
+      color: 'purple'
+  mapTitle: 'TIDELINE SWIMWEAR È DOVE SONO I TUOI CLIENTI'
+  mapSubtitle: 'La nostra rete di partner offre consegne rapide in tutto il mondo.'
+  regions:
+    - name: 'Nord America'
+      status: 'available'
+    - name: 'Unione Europea'
+      status: 'available'
+    - name: 'Asia'
+      status: 'available'
+    - name: 'Africa'
+      status: 'limited'
+    - name: 'Sud America'
+      status: 'available'
+    - name: 'Australia e NZ'
+      status: 'available'
+  legend:
+    available: 'Disponibile per la Spedizione'
+    limited: 'Servizio Limitato/Nessun Servizio'
+  note:
+    title: 'Nota'
+    text: 'Per la disponibilità di paesi specifici e eventuali restrizioni, contatta il nostro dipartimento spedizioni: tidelineswim@swimsuitcustom.com'
+
+sidebar:
+  overview:
+    title: 'Panoramica Spedizione'
+    description1: 'In TIDELINE SWIMWEAR, comprendiamo che la consegna tempestiva è cruciale per la tua attività. Le nostre soluzioni di spedizione complete sono progettate per soddisfare le diverse esigenze dei nostri clienti B2B in tutto il mondo.'
+    description2: 'Collaboriamo con i principali fornitori di logistica globale per garantire che i tuoi ordini di costumi da bagno ti raggiungano in sicurezza e in tempo.'
+    keyFeatures: 'Caratteristiche Chiave'
+    features: 'Copertura globale, opzioni di spedizione flessibili, tracciamento in tempo reale e assistenza doganale.'
+  contact:
+    title: 'Hai Bisogno di Aiuto con la Spedizione?'
+    email: 'Email'
+    hours: 'Orari di Lavoro'
+    hoursTime: 'Lun-Ven: 9:00-18:00 (EST)'
+    emergency: 'WhatsApp'
+  quickLinks:
+    title: 'Link Rapidi'
+    links:
+      - key: 'calculator'
+        text: 'Calcolatore Costo Spedizione'
+        href: 'https://wa.me/8618302407790'
+        external: true
+      - key: 'customs'
+        text: 'Guida Dogane e Tasse'
+        href: '#'
+        external: false
+      - key: 'documentation'
+        text: 'Documentazione Doganale'
+        href: '#'
+        external: false
+      - key: 'processing'
+        text: 'Info Tempo di Elaborazione'
+        href: '#'
+        external: false
+      - key: 'packaging'
+        text: 'Dettagli Imballaggio'
+        href: '#'
+        external: false
+      - key: 'returns'
+        text: 'Resi e Cambi'
+        href: '#'
+        external: false
+      - key: 'insurance'
+        text: 'Assicurazione Spedizione'
+        href: '#'
+        external: false
+      - key: 'faq'
+        text: 'FAQ Spedizione'
+        href: '#'
+        external: false
+      - key: 'policy'
+        text: 'Politica di Reso'
+        href: '#'
+        external: false
+  partners:
+    title: 'I Nostri Partner di Spedizione'
+    description: 'Lavoriamo con fornitori di logistica globale affidabili:'
+    list:
+      - 'DHL Express'
+      - 'FedEx'
+      - 'UPS'

@@ -1,0 +1,111 @@
+title: '남성 수영복 제조업체'
+description: '단순한 공급업체 이상 — 당신의 수영복 브랜드 구축 파트너.'
+
+seo:
+  title: '남성 수영복 제조업체 | TIDELINE SWIMWEAR'
+  description: '고성능 수영 트렁크, 보드쇼츠, 브리프를 제공하는 도매 남성 수영복 제조업체. 맞춤 디자인, 경쟁력 있는 가격, 낮은 MOQ.'
+  keywords: '남성 수영복 제조업체, 수영 트렁크 도매, 보드쇼츠 제조업체, 남성 수영복 공급업체, 맞춤 수영 트렁크, 남성 수영복 공장'
+  ogTitle: '남성 수영복 제조업체 | TIDELINE SWIMWEAR'
+  ogDescription: '전문 남성 수영복 제조업체. 수영 트렁크, 보드쇼츠, 브리프. 맞춤 디자인, 낮은 MOQ, 도매 가격.'
+  ogType: 'website'
+  ogImage: '/catalog/men-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '남성 수영복 제조업체 | TIDELINE SWIMWEAR'
+  twitterDescription: '고성능 남성 수영복 제조. 트렁크, 보드쇼츠, 브리프. 맞춤 디자인 가능.'
+
+# Hero section
+hero:
+  cta_text: '상담'
+  cta_href: '/contact'
+  image_src: '/catalog/men-swimwear-bg.webp'
+  image_alt: '남성 수영복 제조'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: '우리의 미션'
+  paragraph1: 'TideLine Swimwear에서는 남성 수영복이 소매업체와 신흥 브랜드에게 핵심 성장 카테고리라는 것을 알고 있습니다. 매 시즌, 우리 공장 팀은 편안함, 내구성, 스타일을 결합한 시장 준비 컬렉션을 개발합니다—클래식 트렁크든, 기능적 보드쇼츠든, 현대적 브리프든—도매업체와 브랜드 소유자에게 오늘날 소비자 수요를 충족할 다양한 옵션을 제공합니다.'
+  whatsapp_link_text: 'WhatsApp으로 문의하기'
+
+# Statistics
+stats:
+  - label: '수영복 업계 경험'
+    value: '10년 이상'
+  - label: '완료된 주문'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: '수영 셔츠'
+    href: '/category?type=men&subtype=swim-shirt'
+    imageSrc: '/men-swimwear/shirt/shirt-5.webp'
+    imageAlt: '남성 수영 셔츠 컬렉션'
+  - name: '브리프'
+    href: '/category?type=men&subtype=briefs'
+    imageSrc: '/men-swimwear/san/san-1.webp'
+    imageAlt: '남성 수영 브리프 컬렉션'
+  - name: '트렁크'
+    href: '/category?type=men&subtype=trunks'
+    imageSrc: '/men-swimwear/ping/ping-4.webp'
+    imageAlt: '남성 수영 트렁크 컬렉션'
+
+# Customization capabilities
+customization:
+  title: '맞춤화 기능'
+  description: '완전 맞춤형 수영복—TideLine은 모든 맞춤 디자인, 원단, 하드웨어, 로고, 포장을 받아들여 당신의 브랜드 비전을 실현합니다.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: '제조 시설'
+  hero_image_width: '1000'
+  features:
+    - name: '스타일 맞춤화'
+      description: '어떤 수영복 디자인이든 실현—완벽한 스타일을 선택하고 당신의 브랜드를 위해 제작하게 하세요.'
+      link: '/contact'
+      cta_text: '상담'
+    - name: '원단 맞춤화'
+      description: '다양한 원단 중에서 선택하여 착용하기 편안하고 아름다운 수영복을 만드세요.'
+      link: '/fabric'
+      cta_text: '원단'
+    - name: '하드웨어 맞춤화'
+      description: '버클과 링부터 지퍼까지 모든 세부사항을 맞춤화—우리의 하드웨어 옵션이 당신의 디자인을 향상시킵니다.'
+      link: '/hardware'
+      cta_text: '하드웨어'
+    - name: '로고 맞춤화'
+      description: '진정으로 당신만의 것으로—전문적인 브랜드 룩을 위해 각 제품에 로고를 추가하세요.'
+    - name: '포장 맞춤화'
+      description: '당신의 스타일과 비전에 맞춘 포장으로 브랜드 경험을 완성하세요.'
+    - name: '문의하기'
+      description: '준비되셨나요? 당신의 수영복 아이디어를 현실로 만들어보세요.'
+      link: '/contact'
+      cta_text: '문의하기'
+
+# Getting Started section
+getting_started:
+  title: '당신의 수영복 여정이 여기서 시작됩니다'
+  description: '첫 번째 컬렉션을 출시하든 브랜드를 확장하든, TideLine은 당신의 필요에 맞는 맞춤형 수영복 솔루션을 제공합니다. 당신의 길을 선택하고 시작하세요.'
+  beginner_text: '초보자로 시작하기'
+  beginner_href: '/startup'
+  pro_text: '경험있는 구매자'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: '제조 과정'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: '자주 묻는 질문'
+  questions:
+    - id: 1
+      question: '남성 수영복 도매의 최소 주문 수량은 얼마인가요?'
+      answer: '우리의 MOQ는 스타일과 사이즈당 30개부터 시작하여, 새롭고 성장하는 남성 수영복 브랜드가 유연성을 가지고 컬렉션을 출시할 수 있게 합니다.'
+    - id: 2
+      question: '남성 수영복 스타일과 소재를 맞춤화할 수 있나요?'
+      answer: '네. 우리는 남성 수영복에 대한 완전한 맞춤화를 제공합니다—트렁크, 보드쇼츠, 브리프 포함—당신이 선호하는 원단, 색상, 로고, 포장을 사용하여.'
+    - id: 3
+      question: '남성 수영복 대량 주문의 생산에는 얼마나 걸리나요?'
+      answer: '샘플은 보통 10일 내에 완성되며, 대량 생산은 주문 크기와 맞춤화 수준에 따라 30일 내에 완료됩니다.'
+    - id: 4
+      question: '남성 수영복용 지속 가능한 원단 옵션을 제공하나요?'
+      answer: '물론입니다. 재활용 폴리에스터와 나일론 같은 친환경 원단을 제공하여, 남성 수영복 시장에서 당신의 브랜드에 지속 가능한 우위를 제공합니다.'
+    - id: 5
+      question: '남성 수영복 도매 견적을 어떻게 요청할 수 있나요?'
+      answer: 'WhatsApp이나 이메일을 통해 우리 팀과 당신이 선호하는 디자인, 사이즈, 원단 선택을 공유하기만 하면 됩니다. 원단 샘플과 전문가 추천과 함께 상세한 견적을 제공해드립니다.'

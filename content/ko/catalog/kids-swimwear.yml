@@ -1,0 +1,121 @@
+title: '어린이 수영복 제조업체'
+description: '공급업체 이상 - 귀하의 수영복 브랜드 구축 파트너.'
+
+seo:
+  title: '어린이 수영복 제조업체 | TIDELINE SWIMWEAR'
+  description: 'UV 보호, 내구성 있는 키즈 수영복을 제공하는 신뢰할 수 있는 어린이 수영복 제조업체. 남아와 여아를 위한 맞춤 디자인, 도매 가격, 낮은 MOQ.'
+  keywords: '어린이 수영복 제조업체, 키즈 수영복 공급업체, UV 보호 수영복, 남아 수영 트렁크, 여아 수영복 제조업체, 키즈 수영복 공장'
+  ogTitle: '어린이 수영복 제조업체 | TIDELINE SWIMWEAR'
+  ogDescription: '고품질 어린이 수영복 제조업체. 어린이를 위한 UV 보호, 내구성 있는 디자인. 맞춤 옵션 제공.'
+  ogType: 'website'
+  ogImage: '/catalog/kids-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '어린이 수영복 제조업체 | TIDELINE SWIMWEAR'
+  twitterDescription: '안전하고 편안한 키즈 수영복 제조. UV 보호, 맞춤 디자인, 도매 가격.'
+
+# Hero section
+hero:
+  cta_text: '상담'
+  cta_href: '/contact'
+  image_src: '/catalog/kids-swimwear-bg.webp'
+  image_alt: '어린이 수영복 제조'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: '우리의 미션'
+  paragraph1: 'TideLine Swimwear에서는 어린이 수영복이 소매업체와 젊은 가족들에게 활기차고 성장하는 카테고리임을 알고 있습니다. 매 시즌마다 우리의 디자인 팀은 재미있고 편안하며 내구성 있는 컬렉션을 개발합니다 - 장난기 있는 원피스 수영복부터 스포티한 수영 트렁크까지 - 도매업체와 브랜드 소유자에게 활동적인 어린이의 요구를 충족시키는 다양한 옵션을 제공합니다.'
+  whatsapp_link_text: 'WhatsApp으로 문의하기'
+
+# Statistics
+stats:
+  - label: '수영복 업계 경험'
+    value: '10년 이상'
+  - label: '완료된 주문'
+    value: '1,000,000개 이상'
+
+# Product categories
+categories:
+  - name: '여아 원피스'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-1.webp'
+    imageAlt: '여아 원피스 수영복 컬렉션'
+  - name: '남아 수영 트렁크'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-5.webp'
+    imageAlt: '남아 수영 트렁크 컬렉션'
+  - name: '유아 수영복'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-3.webp'
+    imageAlt: '유아 수영복 컬렉션'
+  - name: '래시가드'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-4.webp'
+    imageAlt: '키즈 래시가드 컬렉션'
+
+# Customization capabilities
+customization:
+  title: '맞춤화 기능'
+  description: '완전히 맞춤 가능한 수영복 - TideLine은 귀하의 브랜드 비전을 실현하기 위해 모든 맞춤 디자인, 원단, 하드웨어, 로고 및 포장을 수용합니다.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: '제조 시설'
+  hero_image_width: '1000'
+  features:
+    - name: '스타일 맞춤화'
+      description: '모든 수영복 디자인을 실현하세요 - 완벽한 스타일을 선택하고 우리가 귀하의 브랜드를 위해 제작합니다.'
+      link: '/contact'
+      cta_text: '상담'
+    - name: '원단 맞춤화'
+      description: '다양한 원단 중에서 선택하여 착용감이 편안하고 아름다운 수영복을 만드세요.'
+      link: '/fabric'
+      cta_text: '원단'
+    - name: '하드웨어 맞춤화'
+      description: '모든 세부 사항을 맞춤화하세요 - 버클과 링부터 지퍼까지 - 우리의 하드웨어 옵션이 귀하의 디자인을 향상시킵니다.'
+      link: '/hardware'
+      cta_text: '하드웨어'
+    - name: '로고 맞춤화'
+      description: '진정으로 귀하만의 것으로 만드세요 - 전문적인 브랜드 룩을 위해 각 제품에 로고를 추가하세요.'
+    - name: '포장 맞춤화'
+      description: '귀하의 스타일과 비전에 맞춘 포장으로 브랜드 경험을 완성하세요.'
+    - name: '문의하기'
+      description: '준비되셨나요? 귀하의 수영복 아이디어를 현실로 만들어 봅시다.'
+      link: '/contact'
+      cta_text: '문의하기'
+
+# Getting Started section
+getting_started:
+  title: '귀하의 수영복 여정이 여기서 시작됩니다'
+  description: '첫 컬렉션을 출시하든 브랜드를 확장하든, TideLine은 귀하의 요구를 충족시키는 맞춤형 수영복 솔루션을 제공합니다. 경로를 선택하고 시작하세요.'
+  beginner_text: '초보자로 시작하기'
+  beginner_href: '/startup'
+  pro_text: '경험 많은 구매자'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: '제조 프로세스'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: '자주 묻는 질문'
+  questions:
+    - id: 1
+      question: '어린이 수영복에 가장 좋은 원단은 무엇인가요?'
+      answer: '어린이 수영복에 가장 좋은 원단은 스판덱스가 함유된 나일론 또는 폴리에스터 혼방과 같이 부드럽고 신축성이 있으며 내구성이 있는 것입니다. UPF 50+ 자외선 차단 기능을 제공하고 염소에 강한 소재를 찾으세요.'
+    - id: 2
+      question: '내 아이에게 맞는 사이즈를 어떻게 선택하나요?'
+      answer: '올바른 사이즈를 찾으려면 브랜드의 사이즈 차트를 참조하고 아이의 가슴, 허리, 엉덩이를 측정하세요. 아이가 사이즈 사이에 있다면 편안함과 성장 공간을 보장하기 위해 큰 사이즈를 선택하세요.'
+    - id: 3
+      question: '유아를 위한 특정 수영복 디자인이 있나요?'
+      answer: '네, 유아의 경우 내장 수영 기저귀, 조절 가능한 스트랩 또는 쉬운 갈아입기를 위한 지퍼와 같은 추가 기능이 있는 수영복을 고려하세요. 래시가드 세트는 추가 자외선 차단을 제공하며 부모들 사이에서 인기가 있습니다.'
+    - id: 4
+      question: '내 아이의 수영복을 어떻게 관리하나요?'
+      answer: '염소나 소금을 제거하기 위해 사용 후 즉시 수영복을 깨끗한 물로 헹구세요. 순한 세제로 손세탁하고 평평하게 놓고 자연 건조하세요. 탄력성과 색상을 유지하기 위해 원단을 짜거나 세탁기로 세탁하거나 건조기를 사용하지 마세요.'
+    - id: 5
+      question: '어린이 수영복에 UV 보호가 필요한가요?'
+      answer: '절대적으로 필요합니다. 어린이의 피부는 UV 광선에 더 민감하므로 UPF 50+ 보호 기능이 있는 수영복은 유해한 태양 광선의 최대 98%를 차단하는 데 도움이 됩니다. 완전한 보호를 위해 자외선 차단제와 함께 사용하세요.'
+    - id: 6
+      question: '어린이용 수영복은 수영장과 바다 모두에서 사용할 수 있나요?'
+      answer: '네, 하지만 정기적으로 염소나 염수에 노출되는 수영복은 내구성을 보장하기 위해 염소 및 색바램 방지 원단으로 만들어져야 합니다. 빠른 건조 소재도 바다 사용에 유익합니다.'
+    - id: 7
+      question: '수영복과 래시가드의 차이점은 무엇인가요?'
+      answer: '수영복은 수영을 위해 디자인된 전통적인 원피스 또는 투피스이며, 래시가드는 신축성 있고 UV 보호 기능이 있는 원단으로 만든 상의입니다. 래시가드는 종종 수영 반바지나 하의와 함께 착용되며 특히 수상 스포츠나 장시간 햇빛 노출에 대해 추가 자외선 차단을 제공합니다.'

@@ -1,0 +1,38 @@
+title: 'Questions fréquemment posées'
+description: "Trouvez des réponses aux questions courantes sur notre fabrication de maillots de bain, nos services d'échantillonnage et de production. Obtenez les informations dont vous avez besoin pour prendre des décisions éclairées."
+
+seo:
+  title: 'FAQ - Questions fréquemment posées | Tideline Fabrication de maillots de bain'
+  description: "Obtenez des réponses aux questions courantes sur la fabrication de maillots de bain, les services d'échantillonnage, les prix, les délais de livraison et les processus de production."
+  keywords: 'FAQ fabrication maillots de bain, questions sur les échantillons, processus de production, délai de livraison, prix maillots de bain, pack technique, approvisionnement en tissus'
+  ogTitle: 'FAQ - Vos questions répondues | Tideline'
+  ogDescription: "Trouvez des réponses détaillées sur nos services de fabrication de maillots de bain, de l'échantillonnage à la production en masse."
+  ogType: 'website'
+  ogImage: '/faq-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'FAQ - Questions sur la fabrication de maillots de bain | Tideline'
+  twitterDescription: "Obtenez des réponses aux questions courantes sur notre fabrication et nos services d'échantillonnage de maillots de bain."
+
+faq:
+  title: 'Questions courantes sur nos services'
+  items:
+    - question: "Qu'est-ce qui est typiquement inclus dans votre service d'échantillonnage, et quel est le coût ?"
+      answer: "Notre service d'échantillonnage est un forfait complet qui comprend l'ingénierie des patrons, l'approvisionnement en tissus et garnitures approuvés, la construction d'un prototype physique et une analyse interne de l'ajustement. Le coût est spécifique au projet et varie en fonction de la complexité du design, des matériaux choisis et des détails des garnitures. Nous fournissons un devis transparent après notre consultation initiale pour nous aligner sur la portée."
+    - question: 'Quel est le délai de livraison typique pour un échantillon ?'
+      answer: "Le calendrier standard pour un premier prototype est de 2 à 3 semaines. Cette période comprend l'approvisionnement en matériaux, le développement des patrons et la construction méticuleuse. Nous pouvons discuter d'options accélérées pour les projets urgents, et les délais sont toujours confirmés à l'avance."
+    - question: 'Dois-je fournir un pack technique complet, ou pouvez-vous travailler à partir de mon concept de design ?'
+      answer: "Nous pouvons travailler avec les deux. Un pack technique détaillé permet le processus le plus précis et efficace. Cependant, si vous avez un concept de design ou une inspiration, notre équipe peut vous aider à le développer en une spécification prête pour la production, y compris l'ajustement, le tissu et les recommandations de construction."
+    - question: "Comment gérez-vous l'ajustement et le dimensionnement pour les échantillons ?"
+      answer: "Nous commençons par nous aligner sur un bloc d'ajustement de base et des règles de gradation spécifiques pour votre marché cible. Le premier échantillon est construit selon ces spécifications précises et est évalué en interne sur un mannequin standard. Nous recommandons fortement que vous effectuiez également votre propre session d'ajustement sur un modèle vivant qui correspond aux mesures de votre client cible."
+    - question: 'Pouvez-vous sourcer des tissus spécifiques ou durables pour mon échantillon ?'
+      answer: 'Absolument. Nous avons des relations établies avec des usines offrant une large gamme de tissus performants et durables (par exemple, nylon recyclé, matériaux certifiés OEKO-TEX®). Nous sélectionnerons des options en fonction de vos objectifs esthétiques, de performance et de durabilité et fournirons des échantillons pour votre approbation.'
+    - question: "Que se passe-t-il si l'échantillon nécessite des ajustements après la livraison ?"
+      answer: "L'itération est une partie essentielle du processus d'échantillonnage. Nous incluons une ronde de consolidation de retours détaillés après que vous receviez votre premier échantillon. Nous analyserons vos notes sur l'ajustement et la construction et présenterons un plan clair pour les révisions, y compris les coûts associés et le calendrier pour un deuxième prototype si nécessaire."
+    - question: "Comment le processus d'échantillonnage passe-t-il à la production en masse ?"
+      answer: 'L''échantillon final approuvé sert de "norme d''or" pour la production. Nous utilisons les patrons affinés, les matériaux confirmés et les détails de construction de la phase d''échantillonnage pour créer une feuille de route de production transparente, vous fournissant un devis ferme pour votre commande en gros en fonction de vos quantités requises.'
+
+cta:
+  title: 'Vous avez encore des questions ?'
+  description: "Notre équipe est là pour vous aider. Contactez-nous aujourd'hui pour des réponses personnalisées et des conseils d'experts sur votre projet de fabrication de maillots de bain."
+  button: 'Contacter nos experts'
+  link: '/contact'

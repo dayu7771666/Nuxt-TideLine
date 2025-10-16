@@ -1,0 +1,85 @@
+title: 'Experimenta la Calidad, Antes del Volumen.'
+description: 'Lanza con confianza. Nuestro proceso de muestreo optimizado te permite probar y perfeccionar diseños sin riesgo, asegurando la excelencia lista para el mercado de tu línea de trajes de baño.'
+
+seo:
+  title: 'Servicios de Muestreo de Trajes de Baño | Desarrollo de Prototipos Experto | Tideline Swim'
+  description: 'Lanza con confianza. Nuestro proceso de muestreo optimizado te permite probar y perfeccionar diseños de trajes de baño sin riesgo. Desarrollo de prototipos guiado por expertos, abastecimiento de telas y análisis de ajuste para excelencia lista para el mercado.'
+  keywords: 'muestreo de trajes de baño, desarrollo de prototipos, muestras de trajes de baño, pruebas de diseño de trajes de baño, abastecimiento de telas, análisis de ajuste, ingeniería de prendas de natación, fabricación de muestras'
+  ogTitle: 'Servicios de Muestreo de Trajes de Baño | Desarrollo de Prototipos Experto | Tideline Swim'
+  ogDescription: 'Lanza con confianza. Nuestro proceso de muestreo optimizado te permite probar y perfeccionar diseños de trajes de baño sin riesgo. Desarrollo de prototipos guiado por expertos y análisis de ajuste.'
+  ogType: 'website'
+  ogImage: '/sampling.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Servicios de Muestreo de Trajes de Baño | Tideline Swim'
+  twitterDescription: 'Muestreo de trajes de baño guiado por expertos. Prueba y perfecciona diseños sin riesgo. Desarrollo de prototipos profesional y análisis de ajuste.'
+
+hero:
+  ctaButton: 'Lanza Tu Proyecto de Muestreo'
+  ctaLink: '#cta'
+
+comparison:
+  title: '¿Por Qué Elegir Nuestro Servicio de Muestreo Experto?'
+  description: 'Mira cómo nuestro enfoque de muestreo guiado por expertos se compara con los procesos estándar'
+  criteria:
+    - name: 'MOQ y Presupuesto'
+      standard: 'Precios fijos e inflexibles.'
+      expert: 'Negociable y adaptado a tu alcance.'
+    - name: 'Tiempo de Entrega'
+      standard: 'Estimado 2-4 semanas'
+      expert: 'Priorizado y definido con tus fechas en mente.'
+    - name: 'Abastecimiento de Telas y Accesorios'
+      standard: 'Autoservicio desde un catálogo'
+      expert: 'Recomendaciones curadas para calidad y costo.'
+    - name: 'Ingeniería de Prendas'
+      standard: 'Sigue protocolos estándar'
+      expert: 'Revisión experta para prevenir problemas de ajuste y producción'
+    - name: 'Calidad del Prototipo'
+      standard: 'Una muestra.'
+      expert: 'Un prototipo de producto viable.'
+
+process:
+  title: 'Cómo Funciona Nuestro Proceso de Muestreo'
+  description: 'Nuestro proceso optimizado de 6 pasos garantiza que obtengas el máximo valor de tu proyecto de muestreo de trajes de baño con entregables claros en cada etapa.'
+  steps:
+    - number: 1
+      title: 'Revisión de Estrategia de Diseño y Ajuste'
+      description: 'Analizamos tu paquete técnico y diseños para establecer el bloque de ajuste fundamental, medidas del mercado objetivo y discutir técnicas de construcción específicas de natación (por ejemplo, costura plana, forro, aplicación de elástico).'
+    - number: 2
+      title: 'Curación de Telas y Accesorios'
+      description: 'Presentamos y abastecemos telas aprobadas específicas para natación (por ejemplo, mezclas de nylon-spandex, materiales reciclados) y accesorios críticos (por ejemplo, elásticos resistentes al cloro, copas de busto, herrajes) según tus necesidades de rendimiento y estética.'
+    - number: 3
+      title: 'Ingeniería de Patrones y Maqueta'
+      description: 'Nuestros técnicos elaboran el primer patrón preciso de trajes de baño, teniendo en cuenta el estiramiento y la recuperación de la tela. A menudo se crea una muselina preliminar o una maqueta digital para validar el ajuste en una forma antes de cortar la tela final.'
+    - number: 4
+      title: 'Ensamblaje del Primer Artículo y Prueba Interna'
+      description: 'Se construye la primera muestra física. Realizamos una rigurosa sesión de prueba interna en una modelo en vivo o maniquí, verificando la tensión de la prenda, holguras y movilidad para identificar cualquier ajuste de construcción.'
+    - number: 5
+      title: 'Acabado de Muestra y Control de Calidad'
+      description: 'La muestra se somete a un acabado final (por ejemplo, aplicación de ganchos y ojales, cosido de etiquetas) y una inspección de calidad estricta de la integridad de las costuras, planitud de las costuras y colocación de accesorios según tus especificaciones.'
+    - number: 6
+      title: 'Integración de Retroalimentación y Ruta de Producción'
+      description: 'Recibes la muestra para evaluación. Consolidamos tu retroalimentación sobre el ajuste, la sensación de la tela y la estética general para refinar el prototipo y presentar una hoja de ruta clara hacia la producción, incluidas las reglas de gradación para tu conjunto de tallas.'
+
+faq:
+  title: 'Preguntas Frecuentes'
+  items:
+    - question: '¿Qué se incluye típicamente en su servicio de muestreo y cuál es el costo?'
+      answer: 'Nuestro servicio de muestreo es un paquete integral que incluye ingeniería de patrones, abastecimiento de telas y accesorios aprobados, construcción de un prototipo físico y un análisis de ajuste interno. El costo es específico del proyecto y varía según la complejidad del diseño, los materiales elegidos y los detalles de los accesorios. Proporcionamos un presupuesto transparente después de nuestra consulta inicial para alinearnos en el alcance.'
+    - question: '¿Cuál es el tiempo de entrega típico para una muestra?'
+      answer: 'El cronograma estándar para un primer prototipo es de 2-3 semanas. Este período incluye abastecimiento de materiales, desarrollo de patrones y construcción meticulosa. Podemos discutir opciones aceleradas para proyectos urgentes, y los plazos siempre se confirman por adelantado.'
+    - question: '¿Necesito proporcionar un paquete técnico completo, o pueden trabajar desde mi concepto de diseño?'
+      answer: 'Podemos trabajar con ambos. Un paquete técnico detallado permite el proceso más preciso y eficiente. Sin embargo, si tienes un concepto de diseño o inspiración, nuestro equipo puede ayudarte a desarrollarlo en una especificación lista para producción, incluidas recomendaciones de ajuste, tela y construcción.'
+    - question: '¿Cómo manejan el ajuste y el tallaje para las muestras?'
+      answer: 'Comenzamos alineándonos en un bloque de ajuste base y reglas de gradación específicas para tu mercado objetivo. La primera muestra se construye según estas especificaciones precisas y se evalúa internamente en una forma de vestido estándar. Recomendamos encarecidamente que también realices tu propia sesión de prueba en una modelo en vivo que coincida con las medidas de tu cliente objetivo.'
+    - question: '¿Pueden abastecer telas específicas o sostenibles para mi muestra?'
+      answer: 'Absolutamente. Tenemos relaciones establecidas con fábricas que ofrecen una amplia gama de telas de rendimiento y sostenibles (por ejemplo, nylon reciclado, materiales certificados OEKO-TEX®). Curaremos opciones basadas en tus objetivos estéticos, de rendimiento y sostenibilidad y proporcionaremos muestras para tu aprobación.'
+    - question: '¿Qué sucede si la muestra requiere ajustes después de la entrega?'
+      answer: 'La iteración es una parte fundamental del proceso de muestreo. Incluimos una ronda de consolidación de retroalimentación detallada después de que recibas tu primera muestra. Analizaremos tus notas sobre el ajuste y la construcción y presentaremos un plan claro para revisiones, incluidos los costos asociados y el cronograma para un segundo prototipo si es necesario.'
+    - question: '¿Cómo hace la transición el proceso de muestreo a la producción en masa?'
+      answer: 'La muestra final aprobada sirve como el "estándar de oro" para la producción. Utilizamos los patrones refinados, materiales confirmados y detalles de construcción de la fase de muestreo para crear una hoja de ruta de producción sin problemas, proporcionándote un presupuesto firme para tu pedido en masa basado en tus cantidades requeridas.'
+
+cta:
+  title: '¿Listo para un Muestreo Sin Riesgos?'
+  description: 'Contacta a nuestros expertos hoy para una consulta gratuita para discutir tu proyecto y cómo nuestro servicio de muestreo puede ayudarte a validar tu idea con una inversión mínima.'
+  button: 'Programa Tu Consulta Gratuita'
+  link: '#'

@@ -1,0 +1,147 @@
+title: 'Tideline: Mehr als ein Lieferant, Ihr Partner für den Aufbau Ihrer Bademodemarke.'
+description: 'Wir bieten hochwertige, durchgängige maßgeschneiderte Bademoden-Herstellung vom Design bis zur Lieferung.'
+
+seo:
+  title: 'Premium Bademodenhersteller: Hochwertige Badeanzüge & Bikinis | Tideline Swim'
+  description: 'Tideline Swim ist ein Premium-Bademodenhersteller mit Sitz in China, spezialisiert auf hochwertige maßgeschneiderte Badeanzüge, Bikinis und Private-Label-Produktion. Wir arbeiten mit anspruchsvollen Marken und Designern weltweit zusammen und bieten nachhaltige Fertigung, sorgfältige Handwerkskunst und außergewöhnlichen Service, um Ihre luxuriöse Bademoden-Vision zum Leben zu erwecken.'
+  keywords: 'Premium Bademodenhersteller, Luxus Badeanzug Fabrik, maßgeschneiderter Bikini Hersteller, hochwertige Bademode, Private Label Bademode, umweltfreundliche Bademoden-Produktion, nachhaltige Bademode, Designer Bademodenhersteller, OEM Bademode, Bademoden-Lieferant, Tideline Swim'
+  ogImage: '/og-image.jpg'
+  twitterCard: 'summary_large_image'
+  ogType: 'website'
+  ogSiteName: 'Tideline Swim'
+  twitterSite: '@TidelineSwim'
+  robots: 'index, follow'
+  canonical: 'https://tidelineswim.com/de'
+
+hero:
+  src: /hero_banner.webp
+  alt: 'Bauen Sie Ihre Premium-Bademodenlinie auf'
+  ctaButton: 'Muster anfordern'
+  features:
+    - text: 'MOQ bereits ab 60 Stück'
+      href: '/bulkproduction'
+    - text: 'Schnelle Produktion in 15 Tagen'
+      href: '/bulkproduction'
+    - text: 'Kostenlose Design-Unterstützung'
+      href: '/sampling'
+
+videoShowcase:
+  title: 'Entdecken Sie unseren Bademoden-Herstellungsprozess'
+  description: 'Dieses Video zeigt die Reise zur Herstellung Ihrer hochwertigen maßgeschneiderten Bademode, unterstützt durch professionelles Design und präzise Fertigung.'
+  ctaText: 'Mehr erfahren'
+  videoSrc: 'https://www.youtube.com/watch?v=sSPf81Vexwc'
+  videoDuration: '5:32'
+  youtubeWatchText: 'Auf YouTube ansehen'
+
+howWorks:
+  title: 'Von der Idee zur Bademode in 5 einfachen Schritten'
+  description: 'Optimieren Sie Ihren Markenentwicklungsprozess. Konzentrieren Sie sich auf Kreativität und Marketing.'
+  cta: 'Starten Sie Ihre Markenreise'
+  steps:
+    - title: 'Beratung'
+      description: 'Teilen Sie Ihr Markenkonzept und Ihre Anforderungen per Telefon, E-Mail oder über unser Online-Formular mit.'
+      icon: 'ChatBubbleLeftRightIcon'
+    - title: 'Design & Bemusterung'
+      description: 'Tideline erstellt professionelle Designs und produziert Muster für Sie.'
+      icon: 'PencilSquareIcon'
+    - title: 'Bestätigung & Bestellung'
+      description: 'Finalisieren Sie Details und genehmigen Sie den Produktionsauftrag nach der Musterprüfung.'
+      icon: 'CheckCircleIcon'
+    - title: 'Produktion & Versand'
+      description: 'Tideline übernimmt die hochwertige Fertigung und organisiert zuverlässige Logistik.'
+      icon: 'TruckIcon'
+    - title: 'Wachstumsunterstützung'
+      description: 'Tideline bietet kontinuierliche technische und Marketing-Beratung für langfristige Markenentwicklung.'
+      icon: 'ChartBarIcon'
+
+whyUs:
+  title: 'Brauchen Sie einen Lieferanten, der Markenbildung versteht?'
+  description: 'Arbeiten Sie mit Tideline für strategische Expertise zusammen, die Produkte in eine starke Marke verwandelt.'
+  cta: 'Mehr über unsere Vorteile erfahren'
+  advantages:
+    - name: 'Direkte Fabrikpreise & Kommunikation'
+      description: 'Als direkte Fabrik eliminiert Tideline Zwischenhändlerkosten, um wettbewerbsfähigere Preise anzubieten und effiziente, transparente Kommunikation zu gewährleisten.'
+      icon: 'SwatchIcon'
+    - name: 'Umfangreiche Material- & Komponentenbibliothek'
+      description: 'Tideline bietet eine vielfältige Auswahl an Stoffen und Zubehör - von umweltfreundlichem Nylon bis zu hochelastischen Verbundstoffen - um verschiedene Stil- und Funktionsanforderungen zu erfüllen.'
+      icon: 'BuildingOfficeIcon'
+    - name: 'Flexible Kleinmengen- & Bemusterungsunterstützung'
+      description: 'Beginnen Sie mit Kleinserienbestellungen (MOQ 60 Stück), um den Markt mit minimalem Risiko zu testen. Profitieren Sie von einem schnellen Bemusterungsservice mit Prototypen-Lieferung in nur 3 Tagen.'
+      icon: 'LightBulbIcon'
+    - name: 'Strenge Qualitätskontrolle'
+      description: 'Unser strenges vierstufiges Inspektionssystem - von Rohmaterialien bis zu Fertigprodukten - stellt sicher, dass jedes Kleidungsstück internationale Qualitätsstandards erfüllt.'
+      icon: 'ShieldCheckIcon'
+
+indexCta:
+  title: 'Sie sind nur eine Entscheidung von Ihrer eigenen Bademoden-Marke entfernt'
+  description: 'Erhalten Sie eine kostenlose 1-zu-1 maßgeschneiderte Beratung. Unser professionelles Team bietet vollständige Unterstützung bei der Markenentwicklung und Produktion, um Ihre Bademoden-Reise zu starten.'
+  cta: 'Kostenlose Beratung erhalten'
+  image:
+    src: '/home/indexcta.webp'
+    alt: 'Bademoden-Markenberatung'
+
+products:
+  title: 'Produktkollektionen'
+  description: 'Stärken Sie Ihre Marke mit Premium-Stoffen und zielgerichteten Designs'
+  learnMoreText: 'Entdecken'
+  quoteText: 'Angebot anfordern'
+  quoteLink: '/contact'
+  items:
+    - id: 1
+      name: 'Bademoden-Kollektionen'
+      href: '/collections/swimwear'
+      description: 'Unterstützt vollständige Anpassung von Mustern, Farben, Logo und Größen, um Ihre Markenanforderungen zu erfüllen'
+      imageSrc: '/home/homeserver-1.avif'
+      imageAlt: 'Premium-Bikini-Set in verschiedenen Farben am Strand arrangiert.'
+    - id: 2
+      name: 'Activewear-Kollektionen'
+      href: '/collections/activewear'
+      description: 'Von kleinen Testbestellungen bis zur Großserienproduktion bieten wir flexible Produktionslösungen'
+      imageSrc: '/home/homeserver-2.avif'
+      imageAlt: 'Athletischer Einteiler-Badeanzug im eleganten schwarzen Design.'
+    - id: 3
+      name: 'Tan Through-Kollektionen'
+      href: '/collections/tan-through'
+      description: 'Professionelles Logistikteam stellt sicher, dass Ihre Bestellungen weltweit pünktlich geliefert werden'
+      imageSrc: '/home/homeserver-3.avif'
+      imageAlt: 'Designer-Tankini-Set in anspruchsvollem weißem Design.'
+    - id: 4
+      name: 'Accessoires-Kollektionen'
+      href: '/collections/accessories'
+      description: 'Bieten umfassende professionelle Unterstützung von der Designberatung bis zum After-Sales-Service'
+      imageSrc: '/home/homeserver-4.avif'
+      imageAlt: 'Stilvoller Strandüberwurf in neutralen Tönen.'
+
+serviceAdvantages:
+  title: 'Service-Vorteile'
+  description: 'Arbeiten Sie mit uns zusammen, um Ihre Kollektion zu verbessern und Ihre Lieferkette zu vereinfachen'
+  advantages:
+    - id: 1
+      title: 'Maßgeschneidertes Design'
+      description: 'Professionelles Designteam erstellt einzigartige Bademoden-Stile, die auf Ihre Marke und Kundenbedürfnisse zugeschnitten sind.'
+      icon: 'CogIcon'
+    - id: 2
+      title: 'Schnelle Produktion'
+      description: 'Effizienter Produktionsprozess mit schneller Lieferung in 15 Tagen, um Ihre dringenden Marktanforderungen zu erfüllen.'
+      icon: 'ClockIcon'
+    - id: 3
+      title: 'Qualitätsgarantie'
+      description: 'Strenges Qualitätskontrollsystem stellt sicher, dass jedes Stück internationale Standards und Kundenerwartungen erfüllt.'
+      icon: 'ShieldCheckIcon'
+    - id: 4
+      title: 'Professioneller Service'
+      description: 'Engagiertes Kundenservice-Team bietet umfassende Unterstützung vom Design bis zur Lieferung.'
+      icon: 'UserGroupIcon'
+
+contactForm:
+  modalTitle: 'Kontaktieren Sie uns'
+  nameLabel: 'Vollständiger Name'
+  namePlaceholder: 'Geben Sie Ihren vollständigen Namen ein'
+  emailLabel: 'E-Mail-Adresse'
+  emailPlaceholder: 'Geben Sie Ihre E-Mail-Adresse ein'
+  messageLabel: 'Nachricht'
+  messagePlaceholder: 'Erzählen Sie uns von Ihren Projektanforderungen...'
+  consentText: 'Ich stimme zu, Updates und Mitteilungen von Tideline zu erhalten.'
+  submitButton: 'Absenden'
+  successMessage: 'Vielen Dank! Wir werden uns bald bei Ihnen melden.'
+  errorMessage: 'Übermittlung fehlgeschlagen. Bitte versuchen Sie es erneut oder kontaktieren Sie unser Support-Team.'

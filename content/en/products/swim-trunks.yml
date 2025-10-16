@@ -16,52 +16,47 @@ seo:
 
 products:
   - id: 1
-    name: 'Classic Bikini Bottom'
-    description: 'Timeless classic cut bikini bottom with moderate coverage and comfortable fit for all-day wear.'
-    imageSrc: '/women-swimwear/tankini/tankini-1.webp'
-    imageAlt: 'Classic bikini bottom in navy blue'
+    name: "Men's Novelty Banana Print Yellow Swim Short"
+    description: 'Playful, short-cut swim trunk in bright yellow, adorned with a fun, all-over pattern of repeating bananas for a whimsical look.'
+    imageSrc: '/products/men-swim-trunks/J01.png'
+    imageAlt: "Men's Swim Trunk, playful all-over banana print in yellow."
   - id: 2
-    name: 'High-Waisted Retro Bottom'
-    description: 'Vintage-inspired high-waisted bottom with full coverage and flattering silhouette for all body types.'
-    imageSrc: '/women-swimwear/tankini/tankini-2.webp'
-    imageAlt: 'High-waisted retro bikini bottom'
+    name: "Men's Daisy Flower Print Short Swim Trunk"
+    description: 'Shorter length swim trunk with a cheerful, dense pattern of white and orange-centered daisies on a blue background.'
+    imageSrc: '/products/men-swim-trunks/J02.png'
+    imageAlt: "Men's Swim Trunk, short cut with an all-over daisy flower pattern."
   - id: 3
-    name: 'Brazilian Cut Bottom'
-    description: 'Sexy Brazilian cut bottom with minimal coverage and cheeky design for confident beach looks.'
-    imageSrc: '/women-swimwear/tankini/tankini-3.webp'
-    imageAlt: 'Brazilian cut bikini bottom in black'
+    name: "Men's Solid Lemon Yellow Quick-Dry Swim Short"
+    description: 'Classic mid-length swim trunk in a vibrant yellow, featuring a drawstring waist and side pockets for practicality.'
+    imageSrc: '/products/men-swim-trunks/J03.png'
+    imageAlt: "Men's Swim Trunk, solid lemon yellow quick-dry with white drawstring."
   - id: 4
-    name: 'Boy Short Bikini Bottom'
-    description: 'Sporty boy short style bottom with full coverage and comfortable fit perfect for active beach days.'
-    imageSrc: '/women-swimwear/tankini/tankini-4.webp'
-    imageAlt: 'Boy short bikini bottom with sporty design'
+    name: "Men's Striped Chambray Blue Mid-Length Swim Trunk"
+    description: 'Classic mid-length swim trunk in a light blue chambray look with fine vertical white stripes, offering a timeless, comfortable style.'
+    imageSrc: '/products/men-swim-trunks/J04.png'
+    imageAlt: "Men's Swim Trunk, blue chambray texture with fine white vertical stripes."
   - id: 5
-    name: 'String Tie Side Bottom'
-    description: 'Adjustable string tie side bottom with customizable fit and playful tie details at the hips.'
-    imageSrc: '/women-swimwear/tankini/tankini-5.webp'
-    imageAlt: 'String tie side bikini bottom'
+    name: "Men's Performance Hybrid Light Blue Chino Short"
+    description: 'Versatile hybrid trunk in a light blue heathered fabric, styled like a chino with button closure and belt loops, suitable for land and water.'
+    imageSrc: '/products/men-swim-trunks/J05.png'
+    imageAlt: "Men's Swim Trunk, light blue chino-style hybrid shorts for versatility."
   - id: 6
-    name: 'Ruffle Trim Bottom'
-    description: 'Feminine ruffle trim bottom with delicate details and moderate coverage for a romantic look.'
-    imageSrc: '/women-swimwear/tankini/tankini-6.webp'
-    imageAlt: 'Ruffle trim bikini bottom in coral'
+    name: "Men's Performance Hybrid Tropical Chino Short"
+    description: 'Longer-length hybrid trunk featuring a subdued, natural-toned tropical foliage and floral print, designed with a traditional button/zip fly.'
+    imageSrc: '/products/men-swim-trunks/J06.png'
+    imageAlt: "Men's Swim Trunk, subtle tropical print hybrid chino style."
   - id: 7
-    name: 'Hipster Bikini Bottom'
-    description: 'Modern hipster style bottom with mid-rise cut and comfortable elastic waistband.'
-    imageSrc: '/women-swimwear/tankini/tankini-7.webp'
-    imageAlt: 'Hipster bikini bottom with striped pattern'
+    name: "Men's Seersucker Pinstripe Green Swim Trunk"
+    description: 'Mid-rise swim trunk with a textured seersucker fabric in white and forest green stripes, offering a relaxed, tailored fit.'
+    imageSrc: '/products/men-swim-trunks/J07.png'
+    imageAlt: "Men's Swim Trunk, green and white pinstripe seersucker fabric."
   - id: 8
-    name: 'Tropical Print Bottom'
-    description: 'Vibrant tropical print bottom featuring palm leaves and exotic flowers in sunset colors.'
-    imageSrc: '/women-swimwear/tankini/tankini-8.webp'
-    imageAlt: 'Tropical print bikini bottom'
+    name: "Men's Dip-Dye Ombre Black & Beige Swim Short"
+    description: 'Bold swim trunk with a striking black upper half and a beige lower half, featuring a distinct horizontal dip-dye or ombre effect.'
+    imageSrc: '/products/men-swim-trunks/J08.png'
+    imageAlt: "Men's Swim Trunk, black and beige dip-dye ombre design."
   - id: 9
-    name: 'Seamless Minimalist Bottom'
-    description: 'Clean and simple seamless bottom with no-show construction and ultra-comfortable fit.'
-    imageSrc: '/women-swimwear/tankini/tankini-9.webp'
-    imageAlt: 'Seamless minimalist bikini bottom'
-  - id: 10
-    name: 'Polka Dot High-Waisted Bottom'
-    description: 'Vintage-inspired polka dot high-waisted bottom with retro charm and full coverage.'
-    imageSrc: '/women-swimwear/tankini/tankini-10.webp'
-    imageAlt: 'Polka dot high-waisted bikini bottom'
+    name: "Men's Tropical Floral Print Mint Green Swim Short"
+    description: 'Eye-catching swim trunk on a mint green base, covered in a large-scale tropical floral pattern with red and cream accents.'
+    imageSrc: '/products/men-swim-trunks/J09.png'
+    imageAlt: "Men's Swim Trunk, tropical floral print in mint green and red."

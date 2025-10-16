@@ -1,0 +1,87 @@
+title: 'Großhandels-Bademoden-Lösungen für etablierte und aufstrebende Marken'
+description: 'Bei TideLine Swimwear sind wir auf die Bereitstellung von Full-Service-Großhandels-Bademoden-Lösungen spezialisiert, die auf unabhängige Labels, Designer-Marken und globale Bademoden-Unternehmen zugeschnitten sind. Ob Sie Ihre Kollektion erweitern oder eine Premium-Linie auf den Markt bringen, unsere Erfahrung in OEM & ODM-Herstellung, Trendprognosen und Produktentwicklung stellt sicher, dass Ihre Marke vorne bleibt.'
+
+seo:
+  title: 'Premium-Bademoden-Hersteller für Marken | Tideline'
+  description: 'Partnern Sie mit TideLine Swimwear für hochwertige, skalierbare Bademoden-Herstellung. Vertraut von globalen Marken. OEM & ODM, individuelle Designs, schnelle Durchlaufzeiten.'
+  keywords: 'Bademoden-Hersteller, Großhandels-Bademode, OEM-Bademode, ODM-Bademode, Markenherstellung, kundenspezifische Bademoden-Produktion, Bademoden-Fabrik, Private-Label-Bademode'
+  ogTitle: 'Premium-Bademoden-Hersteller für Marken | Tideline'
+  ogDescription: 'Partnern Sie mit TideLine Swimwear für hochwertige, skalierbare Bademoden-Herstellung. Vertraut von globalen Marken weltweit.'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Premium-Bademoden-Hersteller für Marken | Tideline'
+  twitterDescription: 'Hochwertige, skalierbare Bademoden-Herstellung für etablierte und aufstrebende Marken. OEM & ODM-Dienstleistungen.'
+
+hero:
+  badge: Premium-Bademoden-Herstellung
+  subtitle: Premium-Herstellung. Maßgeschneiderte Dienstleistungen. Vertraut von Marken weltweit.
+
+why_choose:
+  title: Warum Marken TideLine Swimwear wählen
+  items:
+    - id: 1
+      title: Bewährte Erfahrung mit globalen Bademoden-Marken
+      description: Wir haben mit Dutzenden etablierter und aufstrebender Bademoden-Marken in den USA, Europa und Australien zusammengearbeitet. Unsere Kunden reichen von High-End-Modehäusern bis zu nachhaltigen Nischen-Labels, die alle dasselbe suchen - Qualität, Zuverlässigkeit und Flexibilität.
+    - id: 2
+      title: End-to-End-Service vom Konzept bis zur Lieferung
+      description: Unser Team unterstützt Sie in jeder Phase - Design-Unterstützung & Tech-Pack-Entwicklung, Stoffbeschaffung einschließlich umweltfreundlicher & Luxusmaterialien, Prototyping & Musterproduktion, Massenherstellung mit flexiblen MOQs, Qualitätskontrolle & Verpackung, Logistikkoordination & weltweiter Versand.
+    - id: 3
+      title: Anpassung trifft auf Skalierbarkeit
+      description: Von Signature-Schnitten bis zu exklusiven Drucken bringen wir Ihre Vision zum Leben. Ob Sie 50 oder 5.000 Stück benötigen, wir bieten skalierbare Produktion ohne Kompromisse bei der Qualität.
+
+what_sets_apart:
+  title: Was uns auszeichnet
+  features:
+    - icon: 🧵
+      name: Expertenhandwerk
+      benefit: Über 10 Jahre Herstellungserfahrung in Premium-Bademode
+    - icon: 🌍
+      name: Globale Qualitätsstandards
+      benefit: ISO-zertifizierte Produktion und strenge QC-Prozesse
+    - icon: ♻️
+      name: Nachhaltige Optionen
+      benefit: Recycelte Stoffe, biologisch abbaubare Verpackungen und ethische Beschaffung
+    - icon: 🔄
+      name: Schnelle Bemusterung
+      benefit: Erste Muster in 7-10 Tagen fertig
+    - icon: 📦
+      name: Zuverlässige Durchlaufzeiten
+      benefit: Durchschnittliche Produktionszeit 15-25 Tage
+    - icon: 💬
+      name: Dedizierter Support
+      benefit: Englischsprachige Projektmanager mit Markenerfahrung
+
+success_stories:
+  title: Markenerfolgsgeschichten
+  testimonials:
+    - id: 1
+      quote: TideLine half uns, mit einer Luxus-Kapselkollektion in den EU-Markt zu expandieren. Ihre Liebe zum Detail und flexible MOQ machten alles einfacher.
+      author: Creative Director, US-basiertes Premium-Bademoden-Label
+      avatar: https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80
+    - id: 2
+      quote: Wir arbeiteten mit drei anderen Lieferanten, bevor wir TideLine fanden. Sie haben unsere Vision endlich verstanden - und sie einwandfrei geliefert.
+      author: Gründer, Nachhaltige Bademoden-Marke in Australien
+      avatar: https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=facearea&w=1310&h=873&q=80&facepad=3
+
+how_we_work:
+  title: Wie wir mit Marken arbeiten
+  steps:
+    - id: 1
+      text: Senden Sie uns Ihre Designs oder Moodboard
+    - id: 2
+      text: Erhalten Sie ein Angebot & Muster-Zeitplan
+    - id: 3
+      text: Muster genehmigen → Produktion beginnen
+    - id: 4
+      text: QC + Verpackung → Weltweiter Versand
+
+partnership:
+  title: Starten Sie Ihre Großhandels-Partnerschaft heute
+  description: Wenn Sie eine Marke aufbauen, die Qualität, Design und zuverlässige Produktion schätzt, lassen Sie uns sprechen.
+  cta_text: Kontaktieren Sie uns
+
+image:
+  src: /manufacturer.jpg
+  alt: Bademoden-Herstellung
+  caption: Unsere Produktionsanlage ist auf Premium-Bademoden-Herstellung spezialisiert

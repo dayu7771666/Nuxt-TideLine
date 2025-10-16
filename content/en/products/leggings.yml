@@ -1,0 +1,70 @@
+hero:
+  title: 'Active Wear Leggings Collection'
+  description: 'Premium active wear leggings designed for performance, comfort, and style. From high-waist training tights to fashion-forward flare pants, perfect for workouts, yoga, and everyday active lifestyle.'
+
+seo:
+  title: 'Active Wear Leggings Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale active wear leggings - high-waist, compression, cropped, flare styles. Performance fabrics, sculpting fit, fashion-forward designs. Custom options available.'
+  keywords: 'active wear leggings, yoga pants, training tights, compression leggings, high-waist leggings, wholesale leggings, custom active wear'
+  ogTitle: 'Active Wear Leggings Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale active wear leggings. Performance meets fashion in premium designs.'
+  ogType: 'website'
+  ogImage: '/products/leggings-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Active Wear Leggings Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Active wear leggings wholesale. Premium performance and style combined.'
+
+products:
+  - id: 1
+    name: 'Light Pink High-Waist Flare Fitness Pants (Y2K Style)'
+    description: 'A revival of the Y2K aesthetic with a flattering high-waist and exaggerated flare opening. The vibrant light pink color makes this a standout piece for fashion-forward workouts or casual looks.'
+    imageSrc: '/products/leggings/O01.png'
+    imageAlt: 'Light pink flared yoga pants with a high waist, inspired by retro Y2K fashion'
+
+  - id: 2
+    name: 'Everyday Essential Full-Length Black Comfort Leggings'
+    description: 'The ultimate everyday essential with a standard full-length cut and comfortable wide waistband. Versatile design suitable for casual wear, light exercise, or layering.'
+    imageSrc: '/products/leggings/O02.png'
+    imageAlt: 'Versatile essential full-length black pair for daily wear and light activity'
+
+  - id: 3
+    name: 'Solid Black Training Leggings with Sculpting Fit'
+    description: 'A foundational essential featuring a dense, supportive fabric that offers a sculpting, figure-flattering fit. Full-length cut is ideal for high-intensity training and daily wear.'
+    imageSrc: '/products/leggings/O03.png'
+    imageAlt: 'Solid black full-length training tights, ideal for running and HIIT workouts'
+
+  - id: 4
+    name: 'Soft-Luxe Finish High-Waist Full Length Leggings - Sage Green'
+    description: 'Features a unique, smooth soft-luxe finish with a slight sheen, giving a premium feel. The high-rise design and minimal stitching ensure a clean, modern aesthetic.'
+    imageSrc: '/products/leggings/O04.png'
+    imageAlt: 'Sage green high-waist yoga tights with a soft-luxe matte finish'
+
+  - id: 5
+    name: 'Mocha High-Waist Cropped Leggings with Deep Side Pockets'
+    description: 'Practical design featuring deep external pockets on both thighs for essential storage (phone/keys). Cropped length and neutral mocha tone make them perfect for active lifestyle and errands.'
+    imageSrc: '/products/leggings/O05.png'
+    imageAlt: 'Mocha color cropped pocket tights with convenient side storage for running'
+
+  - id: 6
+    name: 'Classic Black High-Waist Bootcut Yoga Pants'
+    description: 'Flattering high-rise waist and a classic bootcut flare below the knee for an elongated silhouette. Made from a soft, thick stretch fabric ideal for comfort and low-impact movement.'
+    imageSrc: '/products/leggings/O06.png'
+    imageAlt: 'Classic black bootcut yoga pants with high-waist for studio workouts'
+
+  - id: 7
+    name: 'Statement Leopard Print High-Rise Performance Leggings'
+    description: 'Bold, grayscale leopard/cheetah print elevates the look, while the compression fabric offers support. Perfect for making a statement in both the gym and casual settings.'
+    imageSrc: '/products/leggings/O07.png'
+    imageAlt: 'Full-length leopard print tights in black and grey for a bold fashion look'
+
+  - id: 8
+    name: '7/8 Length Navy Cropped Leggings with Flat Seam Detail'
+    description: 'Cropped 7/8 length falls just above the ankle, making it ideal for warmer weather and a clean silhouette. Designed with flatlock seams to prevent chafing during movement.'
+    imageSrc: '/products/leggings/O08.png'
+    imageAlt: 'Navy blue 7/8 length cropped tights featuring smooth flatlock seams'
+
+  - id: 9
+    name: 'Dynamic Contrast Panel Compression Leggings'
+    description: 'Features ergonomic color-block panels in black and dark grey with curved silver piping detail for a dynamic, anatomical look. Designed for superior muscle support and movement.'
+    imageSrc: '/products/leggings/O09.png'
+    imageAlt: 'Two-tone compression style with dynamic contoured panels and piping details'

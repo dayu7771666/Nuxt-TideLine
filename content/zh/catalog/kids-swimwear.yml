@@ -1,0 +1,121 @@
+title: '儿童泳装制造商'
+description: '不仅仅是供应商 - 您的泳装品牌建设合作伙伴。'
+
+seo:
+  title: '儿童泳装制造商 | TIDELINE SWIMWEAR'
+  description: '值得信赖的儿童泳装制造商，提供UV防护、耐用的儿童泳装。男孩和女孩的定制设计，批发价格，低MOQ。'
+  keywords: '儿童泳装制造商, 儿童泳装供应商, UV防护泳装, 男孩泳裤, 女孩泳装制造商, 儿童泳装工厂'
+  ogTitle: '儿童泳装制造商 | TIDELINE SWIMWEAR'
+  ogDescription: '高品质儿童泳装制造商。儿童UV防护、耐用设计。提供定制选项。'
+  ogType: 'website'
+  ogImage: '/catalog/kids-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '儿童泳装制造商 | TIDELINE SWIMWEAR'
+  twitterDescription: '安全、舒适的儿童泳装制造。UV防护、定制设计、批发价格。'
+
+# Hero section
+hero:
+  cta_text: '咨询'
+  cta_href: '/contact'
+  image_src: '/catalog/kids-swimwear-bg.webp'
+  image_alt: '儿童泳装制造'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: '我们的使命'
+  paragraph1: '在TideLine Swimwear，我们知道儿童泳装对零售商和年轻家庭来说是一个充满活力且不断增长的类别。每个季节，我们的设计团队都会开发有趣、舒适和耐用的系列 - 从俏皮的连体泳衣到运动泳裤 - 为批发商和品牌所有者提供多样化的选择，以满足活跃儿童的需求。'
+  whatsapp_link_text: '在WhatsApp上联系我们'
+
+# Statistics
+stats:
+  - label: '泳装行业经验'
+    value: '10年以上'
+  - label: '完成订单'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: '女孩连体泳衣'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-1.webp'
+    imageAlt: '女孩连体泳衣系列'
+  - name: '男孩泳裤'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-5.webp'
+    imageAlt: '男孩泳裤系列'
+  - name: '幼儿泳装'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-3.webp'
+    imageAlt: '幼儿泳装系列'
+  - name: '防晒衣'
+    href: '/category?type=kids'
+    imageSrc: '/kids-swimwear/kids-swimwear-4.webp'
+    imageAlt: '儿童防晒衣系列'
+
+# Customization capabilities
+customization:
+  title: '定制能力'
+  description: '完全可定制的泳装 - TideLine接受所有定制设计、面料、五金、标志和包装，将您的品牌愿景变为现实。'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: '制造设施'
+  hero_image_width: '1000'
+  features:
+    - name: '款式定制'
+      description: '将任何泳装设计变为现实 - 选择您的完美款式，让我们为您的品牌打造。'
+      link: '/contact'
+      cta_text: '咨询'
+    - name: '面料定制'
+      description: '从各种面料中选择，打造穿着舒适、外观美丽的泳装。'
+      link: '/fabric'
+      cta_text: '面料'
+    - name: '五金定制'
+      description: '定制每个细节 - 从扣环和环到拉链 - 我们的五金选项提升您的设计。'
+      link: '/hardware'
+      cta_text: '五金'
+    - name: '标志定制'
+      description: '让它真正属于您 - 在每件产品上添加您的标志，打造专业的品牌外观。'
+    - name: '包装定制'
+      description: '通过符合您风格和愿景的包装完善您的品牌体验。'
+    - name: '联系我们'
+      description: '准备好了吗？让我们将您的泳装想法变为现实。'
+      link: '/contact'
+      cta_text: '联系我们'
+
+# Getting Started section
+getting_started:
+  title: '您的泳装之旅从这里开始'
+  description: '无论您是推出第一个系列还是扩大品牌规模，TideLine都提供量身定制的泳装解决方案以满足您的需求。选择您的路径并开始。'
+  beginner_text: '作为初学者开始'
+  beginner_href: '/startup'
+  pro_text: '经验丰富的买家'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: '制造流程'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: '常见问题'
+  questions:
+    - id: 1
+      question: '儿童泳装的最佳面料是什么？'
+      answer: '儿童泳装的最佳面料是柔软、有弹性和耐用的，如尼龙或聚酯与氨纶的混纺。寻找提供UPF 50+防晒保护和抗氯的材料，以延长使用寿命。'
+    - id: 2
+      question: '如何为我的孩子选择合适的尺码？'
+      answer: '要找到合适的尺码，请参考品牌的尺码表，测量孩子的胸围、腰围和臀围。如果您的孩子介于尺码之间，请选择较大的尺码以确保舒适和成长空间。'
+    - id: 3
+      question: '幼儿有特定的泳装设计吗？'
+      answer: '是的，对于幼儿，考虑具有额外功能的泳装，如内置游泳尿布、可调节肩带或拉链以便于更换。防晒衣套装提供额外的防晒保护，在家长中很受欢迎。'
+    - id: 4
+      question: '如何护理我孩子的泳装？'
+      answer: '使用后立即用淡水冲洗泳装以去除氯或盐。用温和的洗涤剂手洗，平放晾干。避免拧干面料、机洗或使用烘干机，以保持其弹性和颜色。'
+    - id: 5
+      question: '儿童泳衣需要UV防护吗？'
+      answer: '绝对需要。儿童的皮肤对UV射线更敏感，因此具有UPF 50+保护的泳装有助于阻挡高达98%的有害太阳光线。与防晒霜搭配使用以获得完全保护。'
+    - id: 6
+      question: '儿童泳装可以在泳池和海洋中使用吗？'
+      answer: '可以，但经常接触氯或盐水的泳装应由抗氯和抗褪色的面料制成，以确保耐用性。快干材料对海洋使用也很有益。'
+    - id: 7
+      question: '泳衣和防晒衣有什么区别？'
+      answer: '泳衣是为游泳设计的传统一件式或两件式，而防晒衣是由弹性、UV防护面料制成的上衣。防晒衣通常与泳裤或下装搭配，提供额外的防晒保护，特别适合水上运动或长时间日晒。'

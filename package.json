@@ -5,6 +5,9 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
+    "dev:en": "cross-env DEV_LANGUAGES=en nuxt dev",
+    "dev:multi": "cross-env DEV_LANGUAGES=en,fr nuxt dev",
+    "dev:all": "cross-env DEV_LANGUAGES=all nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
@@ -28,6 +31,7 @@
   },
   "devDependencies": {
     "@nuxt/fonts": "^0.11.4",
+    "cross-env": "^10.1.0",
     "nuxt": "^4.1.0",
     "prettier": "^3.6.2"
   }

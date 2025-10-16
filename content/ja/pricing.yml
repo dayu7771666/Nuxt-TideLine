@@ -1,0 +1,202 @@
+title: 'B2B製造価格ガイド'
+description: '新興水着ブランドのための透明で柔軟な価格設定。わずか60ピースでコレクションをスタート。'
+
+seo:
+  title: 'B2B水着製造価格 - 透明で柔軟 | Tideline'
+  description: '透明なB2B水着製造価格。わずか60ピースから開始。柔軟な注文オプションで水着ブランドのカスタム見積もりを取得。'
+  keywords: '水着製造価格, B2B水着コスト, 水着MOQ, カスタム水着価格, 水着生産コスト, 水着卸売価格, 水着サンプリングコスト'
+  ogTitle: 'B2B水着製造価格 - 透明で柔軟 | Tideline'
+  ogDescription: '透明なB2B水着製造価格。わずか60ピースから開始。水着ブランドのカスタム見積もりを取得。'
+  ogType: 'website'
+  ogImage: '/img/pricing-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'B2B水着製造価格 | Tideline'
+  twitterDescription: '水着ブランドのための透明な価格設定。わずか60ピースから開始。柔軟な注文オプション利用可能。'
+
+hero:
+  image: '/img/pricing-hero.webp'
+
+initialCosts:
+  title: '一回限りの初期費用'
+  description: '製品開発とサンプリングのための初期投資'
+  cards:
+    - id: 1
+      icon: '/pricing/sampling.avif'
+      title: '開発とサンプリング'
+      items:
+        - name: 'デザイン開発サービス'
+          cost: '$69 / スタイル'
+        - name: 'フルサンプルセット'
+          cost: '$50 - $200 / スタイル'
+      note: 'バルク注文がMOQを満たすとサンプル料金の50%がクレジットバック'
+    - id: 2
+      icon: '/pricing/tooling.avif'
+      title: 'ツーリング&モールド料金'
+      items:
+        - name: '標準デコールキット'
+          cost: '$50 / 要素'
+        - name: '衛生ライナーモールド'
+          cost: '$30 / スタイル'
+        - name: 'ケアラベルモールド'
+          cost: '$30 - $50 / スタイル'
+    - id: 3
+      icon: '/pricing/fabric.avif'
+      title: '生地とスワッチ'
+      items:
+        - name: 'カラーカード / 小さなスワッチ'
+          cost: '無料'
+        - name: 'デジタルプリントA4スワッチ'
+          cost: '無料'
+        - name: '1+メートル生地サンプル'
+          cost: '$10 / メートル'
+      note: '生地サンプルの送料は含まれていません'
+
+process:
+  title: '製造プロセス'
+  description: 'コンセプトから納品までの簡単な5ステッププロセス'
+  steps:
+    - id: 1
+      title: '相談とデザイン'
+      description: 'ビジョンを話し合い、デザインガイダンスを提供します'
+    - id: 2
+      title: 'サンプル開発'
+      description: '承認用の物理サンプルを作成'
+    - id: 3
+      title: '修正と最終化'
+      description: 'フィードバックに基づいてサンプルを洗練'
+    - id: 4
+      title: 'バルク生産'
+      description: '完全な注文を製造'
+    - id: 5
+      title: '品質チェックと配送'
+      description: 'すべてのピースを検査し、配送を手配'
+
+productionCosts:
+  title: 'ユニットあたり生産コスト'
+  description: 'バルク注文の各ピースに適用されるコスト'
+  cards:
+    - id: 1
+      icon: '/pricing/base.webp'
+      title: 'ベース製品コスト'
+      items:
+        - name: 'デザインの複雑さ'
+          cost: 'スタイルによって異なる'
+        - name: '生地の選択'
+          cost: 'プレミアム vs. 標準'
+        - name: '注文数量'
+          cost: 'ボリューム割引適用'
+        - name: 'カスタム vs. カタログ'
+          cost: 'カスタムデザインプレミアム'
+      note: '特定の要件に基づいた詳細な価格についてはお問い合わせください'
+    - id: 2
+      icon: '/pricing/brand.webp'
+      title: 'ブランディングとパッケージング'
+      items:
+        - name: 'ケアラベル'
+          cost: '~ $0.15 / ユニット'
+        - name: '衛生ライナー'
+          cost: '~ $0.15 / ユニット'
+        - name: 'ハングタグ'
+          cost: '~ $0.15 / ユニット'
+        - name: 'ギフトボックス / パッケージング'
+          cost: '~ $1.00 / ユニット'
+        - name: '特別なトリムとアクセサリー'
+          cost: '~ $0.10 - $0.70 / ユニット'
+      note: 'ツーリングコストはユニットあたりの価格に吸収されます'
+
+flexibility:
+  title: '柔軟な注文オプション'
+  description: '複数の柔軟なオプションでビジネスニーズに適応'
+  items:
+    - id: 1
+      icon: 'heroicons:cube'
+      title: 'ミックス最小注文'
+      description: 'スタイル、色、サイズ全体で合計60ピースから開始。単一アイテムの大量注文は不要。'
+    - id: 2
+      icon: 'heroicons:currency-dollar'
+      title: 'サンプル料金クレジット'
+      description: 'バルク注文時にサンプルコストの50%を回収。成功への投資。'
+    - id: 3
+      icon: 'heroicons:wrench-screwdriver'
+      title: '隠れたツーリング料金なし'
+      description: 'シンプルさと透明性のためにモールドコストをユニット単価に吸収。'
+    - id: 4
+      icon: 'heroicons:chart-bar-square'
+      title: 'スケーラブルな生産'
+      description: 'ビジネスの成長に応じて数量を簡単に増やせます。60から60,000ピースの注文に対応。'
+    - id: 5
+      icon: 'heroicons:swatch'
+      title: 'カスタムカラーマッチング'
+      description: '最小値なしの正確なカラーマッチング。大きなコミットメントなしでユニークなブランドカラーを作成。'
+    - id: 6
+      icon: 'heroicons:truck'
+      title: '柔軟な配送'
+      description: '希望の配送方法とタイムラインを選択。世界中の主要な運送業者と協力。'
+
+budgetExample:
+  title: '予算例'
+  description: '合計100ピースの2スタイルコレクションの立ち上げ'
+  chartData:
+    - name: '初期開発'
+      amount: 388
+      percentage: 17
+      color: 'bg-gradient-to-r from-blue-600 to-blue-400'
+    - name: 'バルク生産'
+      amount: 1800
+      percentage: 81
+      color: 'bg-gradient-to-r from-orange-500 to-orange-400'
+    - name: 'ブランディング'
+      amount: 30
+      percentage: 2
+      color: 'bg-gradient-to-r from-green-500 to-green-400'
+  tableData:
+    - stage: '初期開発'
+      item: 'デザイン開発 ($69 × 2スタイル)'
+      cost: '$138'
+      rowspan: 3
+    - item: 'サンプルセット ($125 × 2スタイル)'
+      cost: '$250'
+    - item: '小計'
+      cost: '$388'
+      isSubtotal: true
+    - stage: 'バルク生産'
+      item: 'ベース製品コスト ($18 × 100ユニット)'
+      cost: '$1,800'
+      rowspan: 3
+    - item: 'ブランディング (ハングタグ + ケアラベル)'
+      cost: '$30'
+    - item: '小計'
+      cost: '$1,830'
+      isSubtotal: true
+    - stage: ''
+      item: '推定総投資額'
+      cost: '$2,218'
+      isSubtotal: true
+  note: '注:開発とサンプル料金は一回限りのコストであるため、その後の注文は大幅に低くなります。'
+
+cta:
+  title: '水着ラインを立ち上げる準備はできましたか?'
+  description: '当社チームは、ブランドに合わせた透明な価格設定と柔軟なオプションで、デザインを実現するお手伝いをする準備ができています。'
+  buttons:
+    - text: 'カスタム見積もりをリクエスト'
+      primary: true
+
+contact:
+  title: 'カスタム見積もりを取得'
+  subtitle: 'プロジェクトについてお聞かせください。詳細な価格を提供します'
+  formLabels:
+    nameLabel: 'フルネーム'
+    namePlaceholder: 'フルネームを入力してください'
+    emailLabel: 'メールアドレス'
+    emailPlaceholder: 'メールアドレスを入力してください'
+    messageLabel: 'プロジェクトの詳細'
+    messagePlaceholder: '水着ラインプロジェクト、数量、タイムライン、特定の要件についてお聞かせください...'
+    submitButton: '見積もりをリクエスト'
+    successMessage: 'ありがとうございます!24時間以内に詳細な見積もりをお送りします。'
+  guideTitle: 'メッセージに含める内容:'
+  guideItems:
+    - '計画しているスタイルの数'
+    - 'スタイルあたりの推定数量'
+    - '目標の立ち上げタイムライン'
+    - '特定のデザイン要件'
+    - '予算範囲(共有しても構わない場合)'

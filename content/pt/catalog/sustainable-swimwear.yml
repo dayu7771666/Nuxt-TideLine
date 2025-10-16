@@ -1,0 +1,121 @@
+title: 'Fabricantes de Roupas de Banho Sustentáveis'
+description: 'Mais que um fornecedor — seu parceiro na construção da marca de roupas de banho.'
+
+seo:
+  title: 'Fabricantes de Roupas de Banho Sustentáveis | TIDELINE SWIMWEAR'
+  description: 'Fabricante de roupas de banho eco-friendly usando materiais reciclados e produção sustentável. Roupas de banho sustentáveis atacado, processos baixo carbono, designs personalizados.'
+  keywords: 'fabricante roupas de banho sustentáveis, roupas de banho eco-friendly, fornecedor roupas de banho recicladas, fábrica roupas de banho orgânicas, fabricação roupas de banho verdes, roupas de banho RPET'
+  ogTitle: 'Fabricantes de Roupas de Banho Sustentáveis | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricante de roupas de banho eco-friendly. Materiais reciclados, produção sustentável, processos baixo carbono. Ajude sua marca a se tornar verde.'
+  ogType: 'website'
+  ogImage: '/catalog/sustainable-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricantes de Roupas de Banho Sustentáveis | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabricação de roupas de banho sustentáveis. Materiais reciclados, produção eco-friendly, designs personalizados.'
+
+# Hero section
+hero:
+  cta_text: 'Consultoria'
+  cta_href: '/contact'
+  image_src: '/catalog/sustainable-swimwear-bg.webp'
+  image_alt: 'Fabricação de Roupas de Banho Sustentáveis'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Nossa Missão'
+  paragraph1: 'Na TideLine Swimwear, estamos comprometidos em criar roupas de banho sustentáveis que respeitam tanto as pessoas quanto o planeta. Nossas coleções eco-friendly usam tecidos reciclados e de origem responsável, combinados com práticas de produção conscientes, garantindo roupas de banho de alta qualidade que minimizam o impacto ambiental enquanto proporcionam conforto e durabilidade.'
+  whatsapp_link_text: 'Entre em contato conosco no WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experiência na Indústria de Roupas de Banho'
+    value: '10 anos +'
+  - label: 'Pedidos Cumpridos'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Biquínis Reciclados'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/recycled-bikini-1.webp'
+    imageAlt: 'Coleção de Biquínis Reciclados'
+  - name: 'Maiô Eco'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/eco-onepiece-1.webp'
+    imageAlt: 'Coleção de Maiô Eco'
+  - name: 'Roupas de Banho Orgânicas'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/organic-1.webp'
+    imageAlt: 'Coleção de Roupas de Banho Orgânicas'
+  - name: 'Maiôs Biodegradáveis'
+    href: '/category?type=sustainable'
+    imageSrc: '/sustainable-swimwear/biodegradable-1.webp'
+    imageAlt: 'Coleção de Maiôs Biodegradáveis'
+
+# Customization capabilities
+customization:
+  title: 'Capacidades de Personalização'
+  description: 'Roupas de banho totalmente personalizáveis—TideLine aceita todos os designs personalizados, tecidos, ferragens, logos e embalagens para dar vida à sua visão de marca.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Instalação de Fabricação'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalização de Estilo'
+      description: 'Dê vida a qualquer design de roupa de banho—escolha seu estilo perfeito e deixe-nos criá-lo para sua marca.'
+      link: '/contact'
+      cta_text: 'Consultoria'
+    - name: 'Personalização de Tecido'
+      description: 'Escolha de uma ampla gama de tecidos para criar roupas de banho confortáveis de usar e bonitas de ver.'
+      link: '/fabric'
+      cta_text: 'Tecido'
+    - name: 'Personalização de Ferragens'
+      description: 'Personalize cada detalhe—de fivelas e anéis a zíperes—nossas opções de ferragens elevam seu design.'
+      link: '/hardware'
+      cta_text: 'Ferragens'
+    - name: 'Personalização de Logo'
+      description: 'Torne-o verdadeiramente seu—adicione seu logo a cada peça para um visual de marca profissional.'
+    - name: 'Personalização de Embalagem'
+      description: 'Complete sua experiência de marca com embalagem adaptada ao seu estilo e visão.'
+    - name: 'Entre em contato'
+      description: 'Pronto? Vamos transformar suas ideias de roupas de banho em realidade.'
+      link: '/contact'
+      cta_text: 'Entre em contato'
+
+# Getting Started section
+getting_started:
+  title: 'Sua jornada de roupas de banho começa aqui'
+  description: 'Seja lançando sua primeira coleção ou expandindo sua marca, TideLine fornece soluções de roupas de banho sob medida para atender suas necessidades. Escolha seu caminho e comece.'
+  beginner_text: 'Começar como Iniciante'
+  beginner_href: '/startup'
+  pro_text: 'Comprador Experiente'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processo de Fabricação'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Perguntas Frequentes'
+  questions:
+    - id: 1
+      question: 'O que são roupas de banho sustentáveis?'
+      answer: 'Roupas de banho sustentáveis são feitas de materiais eco-friendly e processos de produção de baixo carbono, visando reduzir o impacto ambiental negativo. Elas tipicamente usam fibras plásticas recicladas (como RPET), algodão orgânico, fibras naturais, e minimizam o consumo de água e eletricidade enquanto evitam corantes nocivos para reduzir a pegada de carbono.'
+    - id: 2
+      question: 'Quais materiais são usados em suas roupas de banho sustentáveis?'
+      answer: 'Usamos uma variedade de materiais eco-friendly para produzir roupas de banho sustentáveis, incluindo fibras plásticas recicladas (RPET), fibras naturais de algas marinhas, nylon biodegradável e algodão orgânico. Estes materiais oferecem bom conforto, durabilidade e elasticidade enquanto ajudam a reduzir a poluição ambiental e o consumo de recursos.'
+    - id: 3
+      question: 'As roupas de banho sustentáveis são mais caras que as roupas de banho tradicionais?'
+      answer: 'Devido ao uso de materiais eco-friendly e processos de produção avançados, roupas de banho sustentáveis tendem a ser mais caras que roupas de banho tradicionais. No entanto, à medida que as tendências sustentáveis continuam a se desenvolver, os custos de obtenção de materiais eco-friendly e métodos de produção estão gradualmente diminuindo. Nos esforçamos para oferecer preços competitivos enquanto mantemos padrões ambientais.'
+    - id: 4
+      question: 'Como vocês garantem a qualidade das roupas de banho sustentáveis?'
+      answer: 'Embora usemos materiais eco-friendly, cada peça de roupa de banho sustentável passa por controle de qualidade rigoroso para garantir que atenda aos altos padrões de conforto, durabilidade e funcionalidade. Os tecidos eco-friendly que selecionamos são testados para garantir seu desempenho na água, durabilidade e conforto, igualando ou superando os de materiais tradicionais.'
+    - id: 5
+      question: 'Qual é o processo de produção para suas roupas de banho sustentáveis?'
+      answer: 'Nossos processos de produção de roupas de banho sustentáveis focam na fabricação de baixo carbono e economia de recursos, minimizando o consumo de água e eletricidade. Selecionamos cuidadosamente os corantes para garantir que sejam não tóxicos e eco-friendly, evitando produtos químicos nocivos. Materiais de resíduo do processo de produção são tratados e reciclados para minimizar o desperdício.'
+    - id: 6
+      question: 'Vocês oferecem roupas de banho sustentáveis personalizadas?'
+      answer: 'Sim, oferecemos roupas de banho sustentáveis totalmente personalizadas. Seja tecido, design, cor ou logo da marca, podemos personalizar de acordo com seus requisitos para garantir que cada peça de roupa de banho se alinhe com sua filosofia de marca e compromissos ambientais.'
+    - id: 7
+      question: 'Como as roupas de banho sustentáveis devem ser mantidas e limpas?'
+      answer: 'A manutenção de roupas de banho sustentáveis é similar às roupas de banho tradicionais. Recomendamos lavagem à mão em água fria e evitar alvejante. Para estender a vida da roupa de banho, evite luz solar direta e secadoras, e estenda a roupa de banho plana para secar. Limpeza regular e cuidado apropriado ajudarão a manter o conforto e estender a vida útil da roupa de banho.'

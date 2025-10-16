@@ -1,0 +1,69 @@
+# Bulk Production Page Content
+title: '系统化的泳装卓越方法'
+description: '从概念到商业现实'
+
+seo:
+  title: '生产流程 - Tideline'
+  description: '了解 Tideline 泳装如何通过精湛工艺从概念转变为成品'
+  keywords: '泳装制造, 批量生产, 可持续泳装, 泳装工厂, 生产流程, 质量保证'
+  ogTitle: '生产流程 - Tideline'
+  ogDescription: '从概念到商业现实的泳装卓越系统化方法'
+  ogType: 'website'
+  twitterCard: 'summary_large_image'
+
+hero:
+  image: '/bulkproduct.webp'
+
+intro:
+  text: '一旦与 Tideline 合作,您就可以见证您的设计所经历的协作、注重细节的旅程。这个透明的流程建立在每个阶段(从概念到商业现实)的清晰沟通和精确执行之上,旨在确保您的愿景在全规模生产中得到完美实现。'
+
+process:
+  title: '卓越支柱:Tideline 制造流程的核心阶段'
+  steps:
+    - icon: 'fas fa-pencil-alt'
+      title: '设计与开发'
+      description: '我们的设计流程将美学趋势与性能数据相融合,创造出在合身度上经过测试达到 >90% 客户满意度的款式。我们利用 3D 设计原型来加速开发,将样品周期缩短 30%,确保款式在商业上可行且功能优越。'
+
+    - icon: 'fas fa-ruler-combined'
+      title: '制版与原型制作'
+      description: '我们使用数字精密制版从一开始就设计出完美的合身度。每个原型都会在各种体型上进行 5 点合身度测试,在胸部、腰部和臀部等关键区域进行调整。这个严格的过程确保所有生产批次的尺寸一致性达到 98%。'
+
+    - icon: 'fas fa-cut'
+      title: '面料采购与可持续性'
+      description: '我们超过 80% 的面料来自领先的环保工厂。所有材料都提供 UPF 防护,并经过实验室测试,可在不显著降解的情况下承受 UV 和氯的暴露。'
+
+    - icon: 'fas fa-industry'
+      title: '制造与质量保证'
+      description: '从针脚密度到弹性张力,每个细节都按照严格标准进行测量。这导致产品缺陷率低于 0.5%,确保您的品牌收到的批量订单始终保持高质量并为市场做好准备。'
+
+sustainability:
+  title: '我们对可持续性的承诺'
+  description: '我们相信美丽的泳装不应该以牺牲地球为代价。这就是为什么可持续性融入我们生产流程的每个方面。'
+  features:
+    - icon: 'fas fa-leaf'
+      title: '环保材料'
+      description: '我们优先选择由回收材料和可持续来源制成的面料。我们的包装 100% 可回收,我们不断探索创新材料。'
+
+    - icon: 'fas fa-hands-helping'
+      title: '道德生产'
+      description: '我们与分享我们对公平劳动实践承诺的制造商合作。我们的工匠在安全的环境中工作并获得公平的工资。'
+
+    - icon: 'fas fa-recycle'
+      title: '减少浪费'
+      description: '通过高效的版型裁剪和生产规划,我们最大限度地减少纺织品浪费。任何剩余材料都尽可能重新利用或回收。'
+
+cta:
+  title: '探索我们的系列'
+  description: '成为第一个发现我们新的可持续泳装系列并获得独家更新的人。'
+  form:
+    nameLabel: '名字'
+    namePlaceholder: '您的名字'
+    emailLabel: '电子邮件地址'
+    emailPlaceholder: 'your.email@example.com'
+    messageLabel: '消息'
+    messagePlaceholder: '请简要描述您的需求...'
+    consentText: '我同意接收 Tideline 关于新系列和可持续发展倡议的更新。我可以随时取消订阅。'
+    submitButton: '提交'
+    successMessage: '谢谢!我们已将您添加到我们的列表中,并将向您发送有关我们最新系列的更新。'
+    browseText: '现在想浏览吗?'
+    browseLink: '查看我们当前的系列'

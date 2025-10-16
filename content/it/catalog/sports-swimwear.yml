@@ -1,0 +1,121 @@
+title: 'Produttore Costumi da Bagno Sportivi'
+description: 'Più di un fornitore — il tuo partner nella costruzione del brand di costumi da bagno.'
+
+seo:
+  title: 'Produttore Costumi da Bagno Sportivi | TIDELINE SWIMWEAR'
+  description: "Produttore di costumi da bagno sportivi ad alte prestazioni per competizione e allenamento. Costumi da gara, costumi da allenamento, costumi da pallanuoto. Design personalizzati, prezzi all'ingrosso."
+  keywords: 'produttore costumi da bagno sportivi, fornitore costumi da gara, costumi da bagno competitivi, costumi allenamento ingrosso, fabbrica costumi performance, produttore costumi atletici'
+  ogTitle: 'Produttore Costumi da Bagno Sportivi | TIDELINE SWIMWEAR'
+  ogDescription: 'Produttore professionale di costumi da bagno sportivi. Costumi da gara, attrezzature da allenamento, costumi da competizione. Design ad alte prestazioni.'
+  ogType: 'website'
+  ogImage: '/catalog/sports-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Produttore Costumi da Bagno Sportivi | TIDELINE SWIMWEAR'
+  twitterDescription: 'Costumi da bagno sportivi ad alte prestazioni. Attrezzature da competizione e allenamento. Design personalizzati per atleti.'
+
+# Hero section
+hero:
+  cta_text: 'Consulenza'
+  cta_href: '/contact'
+  image_src: '/catalog/sports-swimwear-bg.webp'
+  image_alt: 'Produzione Costumi da Bagno Sportivi'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'La Nostra Missione'
+  paragraph1: 'In TideLine Swimwear, sappiamo che i costumi da bagno sportivi e ad alte prestazioni sono una categoria essenziale per consumatori competitivi e attivi. Ogni stagione, il nostro team di design sviluppa collezioni che combinano prestazioni funzionali, tessuti durevoli e vestibilità confortevoli—da pezzi unici aerodinamici a slip da nuoto ad alte prestazioni—offrendo a grossisti e proprietari di brand opzioni versatili per soddisfare le esigenze di atleti e nuotatori attivi.'
+  whatsapp_link_text: 'Contattaci su WhatsApp'
+
+# Statistics
+stats:
+  - label: "Esperienza nell'Industria dei Costumi da Bagno"
+    value: '10 anni +'
+  - label: 'Ordini Completati'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Costumi da Gara'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/racing-1.webp'
+    imageAlt: 'Collezione Costumi da Gara'
+  - name: 'Costumi da Allenamento'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/training-1.webp'
+    imageAlt: 'Collezione Costumi da Allenamento'
+  - name: 'Costumi da Pallanuoto'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/water-polo-1.webp'
+    imageAlt: 'Collezione Costumi da Pallanuoto'
+  - name: 'Costumi da Triathlon'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/triathlon-1.webp'
+    imageAlt: 'Collezione Costumi da Triathlon'
+
+# Customization capabilities
+customization:
+  title: 'Capacità di Personalizzazione'
+  description: 'Costumi da bagno completamente personalizzabili—TideLine accetta tutti i design personalizzati, tessuti, hardware, loghi e packaging per dare vita alla tua visione del brand.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Struttura di Produzione'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalizzazione dello Stile'
+      description: 'Dai vita a qualsiasi design di costume da bagno—scegli il tuo stile perfetto e lascia che lo realizziamo per il tuo brand.'
+      link: '/contact'
+      cta_text: 'Consulenza'
+    - name: 'Personalizzazione del Tessuto'
+      description: 'Scegli da una vasta gamma di tessuti per creare costumi da bagno comodi da indossare e belli da vedere.'
+      link: '/fabric'
+      cta_text: 'Tessuto'
+    - name: 'Personalizzazione Hardware'
+      description: 'Personalizza ogni dettaglio—da fibbie e anelli a cerniere—le nostre opzioni hardware elevano il tuo design.'
+      link: '/hardware'
+      cta_text: 'Hardware'
+    - name: 'Personalizzazione Logo'
+      description: 'Rendilo veramente tuo—aggiungi il tuo logo a ogni pezzo per un look di brand professionale.'
+    - name: 'Personalizzazione Packaging'
+      description: 'Completa la tua esperienza di brand con packaging su misura per il tuo stile e visione.'
+    - name: 'Contattaci'
+      description: 'Pronto? Trasformiamo le tue idee di costumi da bagno in realtà.'
+      link: '/contact'
+      cta_text: 'Contattaci'
+
+# Getting Started section
+getting_started:
+  title: 'Il tuo viaggio nei costumi da bagno inizia qui'
+  description: 'Che tu stia lanciando la tua prima collezione o scalando il tuo brand, TideLine fornisce soluzioni di costumi da bagno su misura per soddisfare le tue esigenze. Scegli il tuo percorso e inizia.'
+  beginner_text: 'Inizia come Principiante'
+  beginner_href: '/startup'
+  pro_text: 'Acquirente Esperto'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processo di Produzione'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Domande Frequenti'
+  questions:
+    - id: 1
+      question: 'Qual è la differenza tra costumi da bagno sportivi e costumi da bagno normali?'
+      answer: "I costumi da bagno sportivi sono appositamente progettati per attività ad alta intensità, offrendo maggiore elasticità, supporto e durata. Tipicamente utilizzano tessuti più compressivi per ridurre la resistenza all'acqua, aiutando gli atleti ad aumentare velocità e prestazioni. Rispetto ai costumi da bagno normali, i costumi da bagno sportivi si concentrano maggiormente su comfort e vestibilità, assicurando agli atleti migliore libertà di movimento e supporto durante il nuoto."
+    - id: 2
+      question: 'Quale tessuto è migliore per il nuoto competitivo?'
+      answer: "I costumi da bagno competitivi sono tipicamente realizzati con materiali ad alte prestazioni come poliestere, spandex (elastan), nylon e fibre elastiche. Questi materiali offrono eccellente elasticità, resistenza e impermeabilità, riducendo efficacemente attrito e resistenza all'acqua, migliorando così l'efficienza del nuoto. Recentemente, sono emersi costumi da bagno eco-friendly realizzati con fibre di plastica riciclata (RPET), offrendo buone prestazioni e sostenibilità."
+    - id: 3
+      question: 'Come scegliere la taglia giusta per i costumi da bagno sportivi?'
+      answer: 'Quando si selezionano costumi da bagno sportivi, la taglia giusta è molto importante perché il costume deve aderire saldamente per fornire supporto adeguato e una forma aerodinamica. Si raccomanda di scegliere costumi che si adattino bene ma non siano troppo larghi, assicurando comfort senza limitare il movimento. Molti brand forniscono tabelle taglie che possono aiutarti a selezionare la taglia giusta basata sul tuo tipo di corpo, o puoi consultare il brand per raccomandazioni specifiche sulle taglie.'
+    - id: 4
+      question: 'Quanto sono resistenti al cloro i costumi da bagno sportivi?'
+      answer: 'I costumi da bagno sportivi sono spesso realizzati con materiali resistenti al cloro come fibre di poliestere e PBT (politereftalato di polibutilene), che offrono migliore resistenza al cloro rispetto ai tessuti Lycra tradizionali. Questi materiali aiutano a proteggere i costumi da bagno dagli effetti dannosi del cloro nelle piscine, prolungando la durata del costume. È importante scegliere costumi con forte resistenza al cloro per assicurare longevità.'
+    - id: 5
+      question: 'Come viene assicurato il comfort dei costumi da bagno sportivi?'
+      answer: "Il comfort dei costumi da bagno sportivi è principalmente assicurato attraverso design scientifico e tessuti ad alte prestazioni. I costumi da bagno sportivi spesso utilizzano design senza cuciture o tecniche di taglio precise per ridurre l'attrito tra corpo e costume, prevenendo disagio durante l'esercizio. Inoltre, vengono utilizzati materiali traspiranti per mantenere gli atleti asciutti e comodi durante allenamenti intensi."
+    - id: 6
+      question: 'Come lavare e prendersi cura dei costumi da bagno sportivi?'
+      answer: 'Per prolungare la durata dei costumi da bagno sportivi, si raccomanda di lavarli a mano o in lavatrice con acqua fredda ed evitare detergenti contenenti candeggina. Dopo il lavaggio, il costume dovrebbe essere steso piatto per asciugare, evitando luce solare diretta o asciugatura in asciugatrice. Mantenere il costume pulito e asciutto aiuta a prevenire danni al tessuto e preserva le sue prestazioni ed elasticità.'
+    - id: 7
+      question: 'Esistono costumi da bagno sportivi realizzati con materiali eco-friendly?'
+      answer: 'Sì, sempre più brand di costumi da bagno sportivi stanno utilizzando materiali eco-friendly come fibre di plastica riciclata (RPET) e fibre naturali. Questi materiali non solo offrono ottime prestazioni ma soddisfano anche standard di sostenibilità e protezione ambientale. Se il tuo brand è ambientalmente consapevole, possiamo fornirti costumi da bagno sportivi personalizzati che soddisfano standard eco-friendly e migliorano la tua immagine di brand.'

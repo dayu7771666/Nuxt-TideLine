@@ -1,0 +1,89 @@
+title: 'Conditions Générales'
+description: "Nous opérons en tant que fabricant B2B, et tous les achats effectués via notre boutique sont en gros, pas pour le B2C. Nous n'acceptons que les retours ou remboursements pour les produits défectueux selon nos conditions. Des échantillons sont fournis pour vous aider à évaluer la qualité, l'ajustement et le design avant de vous engager dans des commandes en gros. Toute modification apportée aux échantillons sera considérée comme une personnalisation, qui peut être organisée via notre service de personnalisation en ligne."
+
+seo:
+  title: 'Conditions Générales | TIDELINE SWIMWEAR'
+  description: "Conditions générales du fabricant de maillots de bain B2B. Achats en gros, conditions de paiement, politiques d'expédition, accords de confidentialité et conditions commerciales pour les commandes de maillots de bain."
+  keywords: "conditions générales maillots de bain, conditions B2B, conditions maillots de bain en gros, conditions fabricant, conditions commerciales maillots de bain, accord de confidentialité, conditions de paiement, conditions d'expédition"
+  ogTitle: 'Conditions Générales | TIDELINE SWIMWEAR'
+  ogDescription: "Conditions générales du fabricant de maillots de bain B2B. Achats en gros, conditions de paiement, politiques d'expédition et accords de confidentialité."
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Conditions Générales | TIDELINE SWIMWEAR'
+  twitterDescription: "Conditions du fabricant de maillots de bain B2B: achats en gros, conditions de paiement, politiques d'expédition et accords de confidentialité."
+
+sections:
+  contract_formation:
+    title: 'Formation du Contrat'
+    content: 'Une commande devient un contrat contraignant une fois confirmée. Toute modification nécessite un consentement écrit mutuel.'
+
+  payment_terms:
+    title: 'Conditions de Paiement'
+    content: |
+      Un acompte de 50% est requis pour toutes les commandes, le solde étant dû avant l'expédition.
+
+      Pour les nouveaux clients, un acompte de 100% est nécessaire.
+
+  shipping:
+    title: 'Expédition'
+    content: "Les délais de livraison dépendent du type de commande (échantillons ou en gros) et de la méthode d'expédition. Nous fournirons une documentation d'expédition complète pour le dédouanement, qui sera géré par l'acheteur."
+
+  cancellations:
+    title: 'Annulations'
+    content: 'Les commandes ne peuvent pas être annulées après achèvement. Des frais de 25% sont appliqués pour toute annulation ou modification de commande après le paiement final.'
+
+  pricing:
+    title: 'Tarification'
+    content: "Les prix unitaires incluent le tissu, la main-d'œuvre et les contrôles de qualité standard, mais excluent les éléments supplémentaires tels que les étiquettes suspendues ou l'emballage personnalisé."
+
+  bulk_orders:
+    title: 'Commandes en Gros'
+    content: "Nous exigeons un dossier technique final et l'approbation de l'échantillon avant la production en gros. Toute modification après le paiement peut entraîner des frais supplémentaires."
+
+  claims_returns:
+    title: 'Réclamations et Retours'
+    content: 'Pour les articles défectueux en gros, les réclamations doivent être faites dans les 14 jours suivant la réception des marchandises. Les remboursements ou remplacements seront basés sur notre évaluation du défaut.'
+
+  confidentiality:
+    title: 'Confidentialité'
+    subsections:
+      definition:
+        title: 'Définition des Informations Confidentielles'
+        content: 'Spécifiez que les "Informations Confidentielles" englobent toutes les informations non publiques divulguées par le client, y compris mais sans s''y limiter les plans d''affaires, les designs, les données techniques, les stratégies marketing, les détails financiers, les listes de clients et toute autre information propriétaire.'
+
+      obligations:
+        title: 'Obligations de Confidentialité'
+        content: |
+          Engagez-vous à utiliser les Informations Confidentielles uniquement aux fins décrites dans l'accord et interdisez la divulgation à tout tiers sans le consentement écrit préalable du client.
+          Assurez-vous que l'accès aux Informations Confidentielles est limité aux employés ou partenaires qui ont besoin de connaître ces informations pour remplir l'accord et exigez qu'ils respectent des obligations de confidentialité équivalentes.
+
+      protection:
+        title: 'Mesures de Protection'
+        content: "Mettez en œuvre des mesures de protection techniques et organisationnelles raisonnables pour empêcher l'accès, l'utilisation ou la divulgation non autorisés des Informations Confidentielles."
+
+      duration:
+        title: 'Durée de la Confidentialité'
+        content: "Spécifiez que les obligations de confidentialité restent en vigueur pendant la durée de l'accord et pendant une période déterminée (par exemple, deux ans) après sa résiliation."
+
+      exceptions:
+        title: 'Exceptions à la Confidentialité'
+        content: |
+          Clarifiez que les obligations de confidentialité ne s'appliquent pas aux informations qui:
+
+          Sont ou deviennent publiquement disponibles sans violation de l'accord;
+          Étaient déjà en possession de la partie destinataire sans obligation de confidentialité;
+          Sont divulguées à la partie destinataire par un tiers légalement autorisé à faire une telle divulgation;
+          Sont développées indépendamment par la partie destinataire sans utilisation des Informations Confidentielles de la partie divulgatrice;
+          Doivent être divulguées par la loi ou une ordonnance gouvernementale, à condition que la partie divulgatrice soit rapidement informée et ait la possibilité de demander une ordonnance de protection.
+
+      breach:
+        title: 'Violation et Recours'
+        content: 'Indiquez que toute violation de la confidentialité peut entraîner un préjudice irréparable pour le client et lui donne le droit de demander une injonction en plus de tout autre recours légal.'
+
+      return_destruction:
+        title: 'Retour ou Destruction des Informations'
+        content: "À la résiliation de l'accord ou à la demande du client, obligez le retour ou la destruction certifiée de tous les matériaux contenant des Informations Confidentielles."
+
+footer:
+  consultation: 'Si vous êtes intéressé par nos services ou avez des questions, nous offrons une Consultation gratuite.'

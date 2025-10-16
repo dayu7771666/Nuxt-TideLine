@@ -1,0 +1,213 @@
+{
+  "hello": "你好",
+  "Home": "首页",
+  "Contact": "联系我们",
+  "Make it Real": "让梦想成真",
+  "Get Custom Pricing": "获取定制报价",
+  "TideHeader": {
+    "加载导航时出错": "加载导航时出错",
+    "加载中": "加载中"
+  },
+  "LanguageSwitcher": {
+    "关闭语言菜单": "关闭语言菜单",
+    "打开语言菜单": "打开语言菜单"
+  },
+  "ContactForm": {
+    "consentText": "填写此表格即表示您同意TideLine的",
+    "terms": "条款"
+  },
+  "你离自己的泳装品牌，只差一个决定": "你离自己的泳装品牌，只差一个决定",
+  "免费获取1对1定制咨询，我们的专业团队将为您提供全方位的品牌创建与生产支持，开启您的泳装品牌之路。": "免费获取1对1定制咨询，我们的专业团队将为您提供全方位的品牌创建与生产支持，开启您的泳装品牌之路。",
+  "获取免费咨询": "获取免费咨询",
+  "立即咨询": "立即咨询",
+  "目录": "目录",
+  "没有找到目录项": "没有找到目录项",
+  "最新文章": "最新文章",
+  "想创建自己的泳装品牌吗？": "想创建自己的泳装品牌吗？",
+  "我们提供一系列的服务，提供最具性价比的泳衣，同时我们也支持定制服务，让您的想法变成现实，为您轻松开启自己的泳装品牌！": "我们提供一系列的服务，提供最具性价比的泳衣，同时我们也支持定制服务，让您的想法变成现实，为您轻松开启自己的泳装品牌！",
+  "了解更多": "了解更多",
+  "about": "关于我们",
+  "WhatsApp": "WhatsApp",
+  "联系我们": "联系我们",
+  "文章未找到": "文章未找到",
+  "successTitle": "订阅成功！",
+  "successMessage": "感谢您的订阅！您现在可以享受以下专属福利：",
+  "benefit1": "接收最新产品更新和促销信息。",
+  "benefit2": "提前获得限时优惠通知。",
+  "benefit3": "享受专属会员折扣。",
+  "backToHome": "返回首页",
+  "联系我们页面内容": "无论您是想了解更多关于我们的定制服务，还是对生产流程有任何疑问，我们的团队都随时准备为您提供帮助。我们致力于提供高质量的服务和个性化支持，确保您的品牌顺利发展。如果您有任何问题或想了解更多关于我们的产品和服务，请随时通过以下渠道联系我们。我们期待与您合作，帮助您的品牌成长！",
+  "地址": "地址",
+  "Xingcheng, HuludaoCity,Liaoning Province, China": "中国辽宁省葫芦岛市兴城市",
+  "加我我们的计划引言": "\"泳装行业的未来在于大胆创新和引领潮流——加入我们，共同塑造下一个大事件，让我们一起创造难忘的作品！\"",
+  "First name": "名字",
+  "Email": "邮箱",
+  "Message": "留言",
+  "发表": "发表",
+  "By submitting this form, I agree to the": "提交此表格即表示我同意",
+  "条款": "条款",
+  "请填写您的名字！": "请填写您的名字！",
+  "邮箱不能为空！": "邮箱不能为空！",
+  "处理中...": "处理中...",
+  "提交失败，请稍后重试": "提交失败，请稍后重试",
+  "支付成功": "支付成功",
+  "感谢您的购买！": "感谢您的购买！",
+  "返回首页": "返回首页",
+  "描述": "描述",
+  "FirstName": "名字",
+  "LastName": "姓氏",
+  "Phone": "电话",
+  "Deliver to": "配送至",
+  "Apartment, unit, suite, or floor": "公寓、单元、套房或楼层",
+  "City": "城市",
+  "State/Province": "州/省",
+  "Postal code": "邮政编码",
+  "Country/Region": "国家/地区",
+  "确认订单信息": "确认订单信息",
+  "不能为空": "不能为空",
+  "保存地址失败，请重试": "保存地址失败，请重试",
+  "Network fluctuation, please contact the administrator.": "网络波动，请联系管理员。",
+  "请输入完整的地址信息": "请输入完整的地址信息",
+  "支付系统加载失败，请刷新页面重试": "支付系统加载失败，请刷新页面重试",
+  "blog": {
+    "categories": "分类",
+    "tags": "标签",
+    "all": "全部",
+    "showingPage": "显示第",
+    "of": "页，共",
+    "totalArticles": "篇文章",
+    "by": "作者",
+    "blogTagsTitle": "博客标签",
+    "blogTags": {
+      "Bikini": "比基尼",
+      "Tankini": "坦基尼",
+      "One-Piece": "连体泳衣",
+      "Rash-Guard": "防晒衣",
+      "Trunks": "泳裤",
+      "Boardshorts": "冲浪裤",
+      "OEM": "代工生产",
+      "ODM": "原始设计制造",
+      "Private Label": "自有品牌",
+      "Factory": "工厂",
+      "Supplier": "供应商",
+      "Manufacturing": "制造",
+      "Heat Transfer": "热转印",
+      "Logo Printing": "标志印刷",
+      "Size Guide": "尺码指南",
+      "Quality Control": "质量控制",
+      "Startup": "创业",
+      "New Brand": "新品牌",
+      "Small Business": "小企业",
+      "Sampling": "样品",
+      "MOQ": "最小订货量",
+      "Bulk Production": "批量生产",
+      "AQL": "可接受质量水平",
+      "Incoterms": "国际贸易术语",
+      "Shipping": "运输",
+      "Sustainable Materials": "可持续材料",
+      "Eco-friendly": "环保"
+    },
+    "seoblog": {
+      "title": "泳装行业博客 | 技巧、趋势和制造见解 | Tideline Swim",
+      "description": "泳装制造、设计趋势、生产技巧和行业最佳实践的专家见解。了解OEM、ODM、样品制作、质量控制和可持续泳装生产。",
+      "keywords": "泳装博客, 泳衣制造技巧, 泳装行业趋势, OEM ODM见解, 泳装生产指南, 可持续泳装, 质量控制, 样品流程",
+      "ogImage": "/blog-og-image.jpg",
+      "twitterCard": "summary_large_image"
+    }
+  },
+  "Follow Us :": "关注我们：",
+  "Free Quote": "免费报价",
+  "shipping": {
+    "title": "运输政策",
+    "subtitle": "为您的泳装业务需求提供可靠的全球运输解决方案",
+    "orderTracking": {
+      "title": "订单跟踪",
+      "description": "我们为所有订单提供全面跟踪，确保您在每个步骤都了解货物状态。",
+      "feature1": "发货后24小时内通过邮件发送跟踪号码",
+      "feature2": "在我们网站或承运商网站上提供实时跟踪",
+      "feature3": "生产订单通过邮件定期更新状态",
+      "feature4": "超过10,000美元的订单配备专属客户经理",
+      "trackTitle": "跟踪您的订单：在下方输入跟踪号码查看货物当前状态。",
+      "trackPlaceholder": "输入跟踪号码",
+      "trackButton": "跟踪"
+    },
+    "methods": {
+      "title": "运输方式",
+      "description": "我们根据您的订单类型和紧急程度提供不同的运输选项，以满足您的具体业务需求。",
+      "sample": {
+        "title": "样品订单",
+        "description": "对于样品订单，我们提供快速运输选项帮助您快速决策：",
+        "express": "快递",
+        "expressTime": "DHL、FedEx、UPS（3-7个工作日）",
+        "standard": "标准航空邮件",
+        "standardTime": "（7-14个工作日）",
+        "economy": "经济型",
+        "economyTime": "（14-21个工作日）"
+      },
+      "bulk": {
+        "title": "批量生产订单",
+        "description": "对于生产数量，我们提供经济实惠的解决方案：",
+        "air": "空运",
+        "airTime": "（7-15个工作日）",
+        "sea": "海运",
+        "seaTime": "（30-45个工作日）",
+        "expressAir": "快速空运",
+        "expressAirTime": "（5-10个工作日）"
+      },
+      "important": "重要提示",
+      "importantNote": "生产交期是运输时间之外的额外时间。请联系我们获取基于您订单数量和复杂性的确切生产时间表。"
+    },
+    "coverage": {
+      "title": "运输覆盖",
+      "description": "我们为全球150多个国家提供运输服务。我们的合作伙伴网络在全球范围内提供快速配送。",
+      "mapTitle": "TIDELINE泳装服务您的客户所在地",
+      "mapSubtitle": "我们的合作伙伴网络在全球范围内提供快速配送。",
+      "regions": {
+        "northAmerica": "北美",
+        "europe": "欧盟",
+        "asia": "亚洲",
+        "africa": "非洲",
+        "southAmerica": "南美",
+        "australia": "澳大利亚和新西兰"
+      },
+      "legend": {
+        "available": "可配送",
+        "limited": "有限/无服务"
+      },
+      "note": "注意",
+      "noteText": "由于物流限制，我们目前对非洲和中亚某些地区的运输服务有限。我们正在积极扩大服务区域。有关具体国家可用性和任何限制，请联系我们的运输部门。"
+    },
+    "sidebar": {
+      "overview": {
+        "title": "运输概览",
+        "description1": "在TIDELINE泳装，我们了解及时交付对您的业务至关重要。我们的综合运输解决方案旨在满足全球B2B客户的多样化需求。",
+        "description2": "我们与领先的全球物流供应商合作，确保您的泳装订单安全准时到达。",
+        "keyFeatures": "主要特点",
+        "features": "全球覆盖、灵活的运输选项、实时跟踪和海关协助。"
+      },
+      "contact": {
+        "title": "需要运输帮助？",
+        "email": "邮箱",
+        "hours": "营业时间",
+        "hoursTime": "周一至周五：上午9点-下午6点（东部时间）",
+        "emergency": "紧急热线"
+      },
+      "quickLinks": {
+        "title": "快速链接",
+        "calculator": "运费计算器",
+        "customs": "海关和税费指南",
+        "documentation": "海关文件",
+        "processing": "处理时间信息",
+        "packaging": "包装详情",
+        "returns": "退换货",
+        "insurance": "运输保险",
+        "faq": "运输常见问题",
+        "policy": "退货政策"
+      },
+      "partners": {
+        "title": "我们的运输合作伙伴",
+        "description": "我们与值得信赖的全球物流供应商合作："
+      }
+    }
+  }
+}

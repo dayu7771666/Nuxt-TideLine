@@ -1,0 +1,69 @@
+# Bulk Production Page Content
+title: 'Ein systematischer Ansatz für Bademode-Exzellenz'
+description: 'Vom Konzept zur kommerziellen Realität'
+
+seo:
+  title: 'Produktionsprozess - Tideline'
+  description: 'Entdecken Sie, wie Tideline-Bademode durch sorgfältige Handwerkskunst vom Konzept zum fertigen Produkt wird'
+  keywords: 'Bademode-Herstellung, Massenproduktion, nachhaltige Bademode, Bademode-Fabrik, Produktionsprozess, Qualitätssicherung'
+  ogTitle: 'Produktionsprozess - Tideline'
+  ogDescription: 'Ein systematischer Ansatz für Bademode-Exzellenz vom Konzept zur kommerziellen Realität'
+  ogType: 'website'
+  twitterCard: 'summary_large_image'
+
+hero:
+  image: '/bulkproduct.webp'
+
+intro:
+  text: 'Sobald Sie mit Tideline zusammenarbeiten, können Sie die kollaborative, detailorientierte Reise verfolgen, die Ihre Designs durchlaufen. Dieser transparente Prozess, der auf klarer Kommunikation und präziser Ausführung in jeder Phase (vom Konzept zur kommerziellen Realität) basiert, ist darauf ausgelegt, sicherzustellen, dass Ihre Vision in der Vollproduktion perfekt verwirklicht wird.'
+
+process:
+  title: 'Die Säulen der Exzellenz: Kernphasen im Tideline-Herstellungsprozess'
+  steps:
+    - icon: 'fas fa-pencil-alt'
+      title: 'Design & Entwicklung'
+      description: 'Unser Designprozess verbindet ästhetische Trends mit Leistungsdaten und schafft Stile, die auf >90% Kundenzufriedenheit bei der Passform getestet wurden. Wir nutzen 3D-Design-Prototyping, um die Entwicklung zu beschleunigen, wodurch Musterzyklen um 30% reduziert werden und sichergestellt wird, dass Stile sowohl kommerziell tragfähig als auch funktional überlegen sind.'
+
+    - icon: 'fas fa-ruler-combined'
+      title: 'Schnittmustererstellung & Prototyping'
+      description: 'Wir verwenden digitale Präzisionsmuster, um von Anfang an eine makellose Passform zu entwickeln. Jeder Prototyp durchläuft einen 5-Punkte-Passtest an verschiedenen Körpertypen, wobei Anpassungen an Schlüsselbereichen wie Brust, Taille und Hüften vorgenommen werden. Dieser strenge Prozess gewährleistet eine 98%ige Größenkonsistenzrate über alle Produktionschargen hinweg.'
+
+    - icon: 'fas fa-cut'
+      title: 'Stoffbeschaffung & Nachhaltigkeit'
+      description: 'Über 80% unserer Stoffe stammen von führenden umweltbewussten Mühlen. Alle Materialien bieten UPF-Schutz und werden im Labor getestet, um UV- und Chlorexposition ohne signifikante Verschlechterung standzuhalten.'
+
+    - icon: 'fas fa-industry'
+      title: 'Fertigung & Qualitätssicherung'
+      description: 'Von der Stichdichte bis zur elastischen Spannung wird jedes Detail an strengen Standards gemessen. Dies führt zu einer Produktfehlerrate von weniger als 0,5%, wodurch sichergestellt wird, dass Ihre Marke Großbestellungen erhält, die durchweg hochwertig und marktbereit sind.'
+
+sustainability:
+  title: 'Unser Engagement für Nachhaltigkeit'
+  description: 'Wir glauben, dass schöne Bademode nicht auf Kosten unseres Planeten gehen sollte. Deshalb ist Nachhaltigkeit in jeden Aspekt unseres Produktionsprozesses eingewoben.'
+  features:
+    - icon: 'fas fa-leaf'
+      title: 'Umweltfreundliche Materialien'
+      description: 'Wir priorisieren Stoffe aus recycelten Materialien und nachhaltigen Quellen. Unsere Verpackung ist zu 100% recycelbar, und wir erforschen kontinuierlich innovative Materialien.'
+
+    - icon: 'fas fa-hands-helping'
+      title: 'Ethische Produktion'
+      description: 'Wir arbeiten mit Herstellern zusammen, die unser Engagement für faire Arbeitspraktiken teilen. Unsere Handwerker arbeiten in sicheren Umgebungen und erhalten faire Löhne.'
+
+    - icon: 'fas fa-recycle'
+      title: 'Abfallreduzierung'
+      description: 'Durch effizientes Musterschneiden und Produktionsplanung minimieren wir Textilabfälle. Alle übrig gebliebenen Materialien werden nach Möglichkeit wiederverwendet oder recycelt.'
+
+cta:
+  title: 'Entdecken Sie unsere Kollektionen'
+  description: 'Seien Sie der Erste, der unsere neuen nachhaltigen Bademode-Kollektionen entdeckt und exklusive Updates erhält.'
+  form:
+    nameLabel: 'Vorname'
+    namePlaceholder: 'Ihr Vorname'
+    emailLabel: 'E-Mail-Adresse'
+    emailPlaceholder: 'ihre.email@beispiel.com'
+    messageLabel: 'Nachricht'
+    messagePlaceholder: 'Bitte beschreiben Sie kurz Ihre Anforderungen...'
+    consentText: 'Ich stimme zu, Updates von Tideline über neue Kollektionen und Nachhaltigkeitsinitiativen zu erhalten. Ich kann mich jederzeit abmelden.'
+    submitButton: 'Absenden'
+    successMessage: 'Vielen Dank! Wir haben Sie zu unserer Liste hinzugefügt und werden Ihnen Updates zu unseren neuesten Kollektionen senden.'
+    browseText: 'Lieber jetzt stöbern?'
+    browseLink: 'Unsere aktuellen Kollektionen ansehen'

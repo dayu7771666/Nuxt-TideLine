@@ -1,0 +1,104 @@
+title: '优质泳装的高级面料选择'
+description: '探索我们专为泳装设计的高性能面料精选系列。从可持续材料到防紫外线纺织品,我们只为您的品牌采购最优质的面料。'
+
+seo:
+  title: '高级泳装面料 | 高性能材料 | Tideline'
+  description: '浏览我们全面的高级泳装面料系列,包括聚酯混纺、可持续材料和防紫外线纺织品。下载面料目录和技术规格。'
+  keywords: '泳装面料, 高性能面料, 可持续泳装材料, UV防护面料, ECONYL面料, 再生聚酯, 泳装纺织品'
+  ogTitle: '高级泳装面料和材料 | Tideline'
+  ogDescription: '探索用于泳装制造的高性能面料。可持续选择、UV防护和技术规格可用。'
+  ogType: 'website'
+  ogImage: '/fabric-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '高级泳装面料 | Tideline'
+  twitterDescription: '浏览我们全面的高级泳装面料系列用于制造。'
+
+hero:
+  alt: '高级泳装面料'
+  ctaButton: '探索我们的面料目录'
+  ctaLink: '#catalog'
+
+features:
+  title: '为什么我们的面料脱颖而出'
+  description: '我们与全球领先的工厂合作,为您带来创新、高质量的面料,满足泳装生产的严格要求。'
+  items:
+    - id: 1
+      title: '性能测试'
+      description: '每种面料都经过严格的抗氯性、UV防护、色牢度和拉伸回复性测试,以确保持久的质量。'
+      icon: 'ShieldCheckIcon'
+    - id: 2
+      title: '可持续选择'
+      description: '从环保材料中选择,包括再生尼龙、ECONYL® 和 OEKO-TEX® 认证面料,在不影响性能的情况下减少环境影响。'
+      icon: 'SparklesIcon'
+    - id: 3
+      title: '技术规格'
+      description: '每种面料的详细技术数据表,包括成分、重量、拉伸百分比和护理说明,帮助您做出明智的决定。'
+      icon: 'DocumentTextIcon'
+
+catalog:
+  title: '浏览我们的面料系列'
+  description: '下载我们全面的面料目录,探索详细的规格、色彩范围和技术特性。每个目录都包含样品和性能数据。'
+  viewButtonText: '查看目录'
+  note: '需要实物样品或定制面料开发?联系我们的面料专家获得个性化帮助。'
+  pdfs:
+    - title: '聚酯面料系列'
+      description: '适合活跃泳装的高性能聚酯混纺,提供出色的形状保持和快干性能。'
+      file: '/pdf/tideline-polyester-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - '快干技术'
+        - '出色的形状保持'
+        - '抗氯'
+      gradient: 'bg-gradient-to-br from-blue-500/10 to-cyan-500/10'
+      iconBg: 'bg-gradient-to-br from-blue-600 to-cyan-600'
+      buttonClass: 'bg-blue-600 text-white hover:bg-blue-700'
+      accentLine: 'bg-gradient-to-r from-blue-600 to-cyan-600'
+
+    - title: '可持续面料系列'
+      description: '环保材料,包括再生聚酯和 ECONYL® 再生尼龙,将可持续性与性能相结合。'
+      file: '/pdf/tideline-sustainable-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - '再生材料'
+        - 'OEKO-TEX® 认证'
+        - '减少碳足迹'
+      gradient: 'bg-gradient-to-br from-green-500/10 to-emerald-500/10'
+      iconBg: 'bg-gradient-to-br from-green-600 to-emerald-600'
+      buttonClass: 'bg-green-600 text-white hover:bg-green-700'
+      accentLine: 'bg-gradient-to-r from-green-600 to-emerald-600'
+
+    - title: 'UV防护面料系列'
+      description: '具有 UPF 50+ 防护的先进防紫外线面料,非常适合性能泳装和防晒服装。'
+      file: '/pdf/tideline-uv-fabric.pdf'
+      fileInfo: 'PDF • 16 MB'
+      features:
+        - 'UPF 50+ 防护'
+        - '抗褪色'
+        - '吸湿排汗'
+      gradient: 'bg-gradient-to-br from-purple-500/10 to-pink-500/10'
+      iconBg: 'bg-gradient-to-br from-purple-600 to-pink-600'
+      buttonClass: 'bg-purple-600 text-white hover:bg-purple-700'
+      accentLine: 'bg-gradient-to-r from-purple-600 to-pink-600'
+
+whyChoose:
+  title: '为什么选择我们的面料选择?'
+  description: '我们的面料采购流程旨在确保您收到符合泳装生产最高标准的材料。'
+  reasons:
+    - title: '直接工厂合作'
+      description: '我们直接与认证工厂合作,消除中间商以提供具有竞争力的价格而不影响质量。'
+    - title: '质量保证'
+      description: '每批面料都经过检查和测试,以满足泳装制造的严格质量标准。'
+    - title: '快速交货时间'
+      description: '通过战略库存管理和可靠的供应链,我们确保按时交货以适应您的生产计划。'
+    - title: '技术支持'
+      description: '我们的面料专家在材料选择、与您的设计的兼容性和生产要求方面提供专业指导。'
+    - title: '最低订购灵活性'
+      description: '无论您需要小批量样品还是大批量生产,我们都能满足各种订单规模。'
+    - title: '颜色定制'
+      description: '访问广泛的色彩库和定制染色服务,以匹配您的确切品牌规格。'
+
+cta:
+  title: '准备好选择您的面料了吗?'
+  description: '让我们的面料专家帮助您为泳装系列选择完美的材料。申请样品、技术数据或安排咨询。'
+  button: '联系面料专家'
+  link: '/contact'

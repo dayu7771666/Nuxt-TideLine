@@ -1,0 +1,121 @@
+title: 'Proveedores de Trajes de Baño de Maternidad'
+description: 'Más que un proveedor: su socio en la construcción de marcas de trajes de baño.'
+
+seo:
+  title: 'Proveedores de Trajes de Baño de Maternidad | TIDELINE SWIMWEAR'
+  description: 'Fabricante de alta calidad de trajes de baño de maternidad que ofrece diseños cómodos y de apoyo para futuras madres. Trajes de baño de maternidad personalizados, precios mayoristas, MOQ bajo.'
+  keywords: 'fabricante trajes de baño maternidad, proveedor trajes de baño embarazo, trajes de baño lactancia, tankini maternidad, trajes de baño maternidad mayorista, fábrica trajes de baño maternidad'
+  ogTitle: 'Proveedores de Trajes de Baño de Maternidad | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricante de trajes de baño de maternidad cómodos. Diseños de apoyo para futuras madres. Opciones personalizadas, precios mayoristas.'
+  ogType: 'website'
+  ogImage: '/catalog/maternity-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Proveedores de Trajes de Baño de Maternidad | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabricación de trajes de baño de maternidad. Diseños cómodos y de apoyo para el embarazo. Opciones personalizadas disponibles.'
+
+# Hero section
+hero:
+  cta_text: 'Consulta'
+  cta_href: '/contact'
+  image_src: '/catalog/maternity-swimwear-bg.webp'
+  image_alt: 'Fabricación de Trajes de Baño de Maternidad'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Nuestra Misión'
+  paragraph1: 'En TideLine Swimwear, sabemos que los trajes de baño de maternidad requieren el equilibrio perfecto entre comodidad y apoyo para las futuras madres. Cada temporada, nuestro equipo de fábrica desarrolla colecciones diseñadas con telas suaves y flexibles y ajustes cuidadosos, proporcionando a mayoristas y propietarios de marcas opciones listas para el mercado que ayudan a las mujeres a sentirse seguras y cómodas durante cada etapa del embarazo.'
+  whatsapp_link_text: 'Contáctenos en WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experiencia en la Industria de Trajes de Baño'
+    value: '10 años +'
+  - label: 'Pedidos Cumplidos'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Una Pieza de Maternidad'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/one-piece-1.webp'
+    imageAlt: 'Colección de Trajes de Baño Una Pieza de Maternidad'
+  - name: 'Tankinis de Maternidad'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/tankini-1.webp'
+    imageAlt: 'Colección de Tankinis de Maternidad'
+  - name: 'Trajes de Baño de Lactancia'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/nursing-1.webp'
+    imageAlt: 'Colección de Trajes de Baño de Lactancia'
+  - name: 'Cobertores de Maternidad'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/cover-up-1.webp'
+    imageAlt: 'Colección de Cobertores de Maternidad'
+
+# Customization capabilities
+customization:
+  title: 'Capacidades de Personalización'
+  description: 'Trajes de baño totalmente personalizables: TideLine acepta todos los diseños, telas, herrajes, logos y empaques personalizados para dar vida a la visión de su marca.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Instalación de Fabricación'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalización de Estilo'
+      description: 'Dale vida a cualquier diseño de traje de baño: elige tu estilo perfecto y déjanos crearlo para tu marca.'
+      link: '/contact'
+      cta_text: 'Consulta'
+    - name: 'Personalización de Tela'
+      description: 'Elige entre una amplia gama de telas para crear trajes de baño cómodos de usar y hermosos a la vista.'
+      link: '/fabric'
+      cta_text: 'Tela'
+    - name: 'Personalización de Herrajes'
+      description: 'Personaliza cada detalle, desde hebillas y anillos hasta cremalleras: nuestras opciones de herrajes elevan tu diseño.'
+      link: '/hardware'
+      cta_text: 'Herrajes'
+    - name: 'Personalización de Logo'
+      description: 'Hazlo verdaderamente tuyo: agrega tu logo a cada pieza para un aspecto de marca profesional.'
+    - name: 'Personalización de Empaque'
+      description: 'Completa la experiencia de tu marca con empaques adaptados a tu estilo y visión.'
+    - name: 'Contáctenos'
+      description: '¿Listo? Convirtamos tus ideas de trajes de baño en realidad.'
+      link: '/contact'
+      cta_text: 'Contáctenos'
+
+# Getting Started section
+getting_started:
+  title: 'Tu viaje de trajes de baño comienza aquí'
+  description: 'Ya sea que estés lanzando tu primera colección o escalando tu marca, TideLine proporciona soluciones de trajes de baño personalizadas para satisfacer tus necesidades. Elige tu camino y comienza.'
+  beginner_text: 'Comenzar como Principiante'
+  beginner_href: '/startup'
+  pro_text: 'Comprador Experimentado'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Proceso de Fabricación'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Preguntas Frecuentes'
+  questions:
+    - id: 1
+      question: '¿Cuáles son los requisitos de diseño especiales para los trajes de baño de maternidad?'
+      answer: 'Los requisitos de diseño para los trajes de baño de maternidad se centran principalmente en la comodidad, el apoyo y la adaptabilidad. Típicamente usan telas altamente elásticas que pueden ajustarse a la forma cambiante del cuerpo de una mujer durante el embarazo. El diseño también debe proporcionar apoyo para el abdomen, tirantes sin presión y diseños de entrepierna cómodos para garantizar la comodidad de la mujer embarazada mientras se mueve en el agua.'
+    - id: 2
+      question: '¿Qué materiales se utilizan en los trajes de baño de maternidad?'
+      answer: 'Los trajes de baño de maternidad generalmente están hechos de telas altamente elásticas y transpirables como Lycra, nylon y spandex. Estas telas tienen una excelente elasticidad, adaptándose a los cambios corporales durante el embarazo mientras garantizan comodidad y apoyo. También nos aseguramos de que los materiales utilizados sean no tóxicos y seguros para la piel sensible.'
+    - id: 3
+      question: '¿Los trajes de baño de maternidad necesitan proporcionar protección solar?'
+      answer: 'Sí, es mejor que los trajes de baño de maternidad tengan protección UV (UPF), especialmente cuando se usan en piscinas al aire libre o en la playa. Nuestros diseños de trajes de baño de maternidad consideran esto al usar telas con protección solar para proteger la piel de las futuras madres de los rayos UV dañinos.'
+    - id: 4
+      question: '¿Cómo se garantiza la seguridad y comodidad de los trajes de baño de maternidad?'
+      answer: 'Los trajes de baño de maternidad se diseñan con un fuerte enfoque en la seguridad y la comodidad. Utilizamos telas no tóxicas y ecológicas y nos aseguramos de que los cortes y diseños no apliquen presión, especialmente alrededor de las áreas del abdomen y el pecho. El diseño de apoyo también tiene en cuenta los cambios que ocurren durante el embarazo, proporcionando apoyo completo.'
+    - id: 5
+      question: '¿Los trajes de baño de maternidad son adecuados para uso posparto?'
+      answer: 'Sí, muchos diseños de trajes de baño de maternidad también son adecuados para uso posparto. Debido a que usan telas altamente elásticas, pueden adaptarse al período de recuperación y ofrecer un ajuste cómodo. Para las madres que necesitan amamantar, también ofrecemos estilos especialmente diseñados para lactancia que facilitan la lactancia materna.'
+    - id: 6
+      question: '¿Se pueden personalizar los trajes de baño de maternidad?'
+      answer: 'Sí, ofrecemos servicios de personalización y podemos fabricar trajes de baño de maternidad según las necesidades de su marca y las ideas de diseño. Puede elegir el estilo, color, tela e incluso imprimir logos o diseños en los trajes de baño para garantizar que sus productos sean únicos y satisfagan la demanda del mercado.'
+    - id: 7
+      question: '¿Cuál es la cantidad mínima de pedido para trajes de baño de maternidad?'
+      answer: 'La cantidad mínima de pedido (MOQ) para trajes de baño de maternidad varía según el diseño y los materiales utilizados. En general, ofrecemos opciones de producción flexibles para clientes con cantidades de pedido pequeñas o aquellos en la fase de inicio. El MOQ generalmente oscila entre 100 y 500 piezas, pero la cantidad exacta se puede ajustar según sus necesidades.'

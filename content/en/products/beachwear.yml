@@ -1,0 +1,70 @@
+hero:
+  title: 'Beachwear & Cover-Up Collection'
+  description: 'Stylish beachwear and swim cover-ups for the perfect seaside lifestyle. From crochet kimonos to embroidered tunics, featuring cover-ups, mini dresses, and kaftans for women, men, and kids.'
+
+seo:
+  title: 'Beachwear & Cover-Up Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale beachwear & swim cover-ups - crochet kimonos, beach dresses, tunics, kaftans. Women, kids, plus size options. Lightweight, stylish designs.'
+  keywords: 'beachwear, swim cover-ups, beach cover-ups, crochet kimonos, beach dresses, tunics, kaftans, kids beachwear, plus size beachwear, wholesale beachwear'
+  ogTitle: 'Beachwear & Cover-Up Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale beachwear & swim cover-ups. Stylish seaside essentials for all ages.'
+  ogType: 'website'
+  ogImage: '/products/beachwear-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Beachwear & Cover-Up Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Beachwear & cover-ups wholesale. Stylish seaside essentials for the whole family.'
+
+products:
+  - id: 1
+    name: 'White Crochet Fringed Kimono Beach Cover-Up'
+    description: 'Elegant loose-fit kimono-style cover-up featuring a large circular crochet medallion detail on the back and long macrame-style fringe trim on the sleeves and hem, perfect for layering over swimwear with bohemian flair.'
+    imageSrc: '/products/beachwear/AB01.png'
+    imageAlt: 'White crochet kimono beach cover-up with fringe detail and circular medallion back design'
+
+  - id: 2
+    name: 'Red & White Striped Knit Bell Sleeve Mini Dress'
+    description: 'Fitted long-sleeve mini dress crafted from textured red and white horizontal stripe knit fabric, featuring dramatic flared bell sleeves that can be worn as a stylish beach tunic or casual dress.'
+    imageSrc: '/products/beachwear/AB02.png'
+    imageAlt: 'Red and white striped mini dress with bell sleeves for beach and casual wear'
+
+  - id: 3
+    name: 'Dusty Teal Waffle Knit Drawstring Mini Beach Dress'
+    description: 'Lightweight textured waffle knit mini dress in dusty teal color, featuring a flattering V-neck sleeveless design with adjustable elasticated drawstring waist, ideal for quick casual wear after swimming.'
+    imageSrc: '/products/beachwear/AB03.png'
+    imageAlt: 'Dusty teal waffle knit V-neck tank dress with drawstring waist for beach wear'
+
+  - id: 4
+    name: "Girls' White V-Neck Open-Knit Beach Swim Cover-Up"
+    description: 'Pure white short-sleeve swim cover-up designed for girls, featuring a vertical open-knit pattern and relaxed V-neck cut for easy slip-on wear over swimsuits with breathable comfort.'
+    imageSrc: '/products/beachwear/AB04.png'
+    imageAlt: "Girls' white open-knit cotton tunic swim cover-up with V-neck design"
+
+  - id: 5
+    name: "Girls' Black Crochet Short Sleeve Beach Dress"
+    description: 'Playful black short-sleeve cover-up for girls featuring an all-over crochet knit texture with subtle multi-color stitch accents near the V-neckline, comfortable for active play on the sand.'
+    imageSrc: '/products/beachwear/AB05.png'
+    imageAlt: "Girls' black crochet beach dress with colorful trim and short sleeves"
+
+  - id: 6
+    name: 'Black Cotton V-Neck Tie-Waist Beach Mini Dress'
+    description: 'Universally flattering black mini dress with flowing silhouette, deep V-neckline, short dolman sleeves, and defined cinched waist, constructed from light textured cotton material for elegant beach style.'
+    imageSrc: '/products/beachwear/AB06.png'
+    imageAlt: 'Black cotton V-neck mini dress with cinched waist and dolman sleeves for beach wear'
+
+  - id: 7
+    name: 'Plus Size Hot Pink Floral Lace Beach Kaftan Tunic'
+    description: 'Vibrant loose-fit kaftan-style cover-up designed for plus sizes, crafted from sheer hot pink floral lace fabric with relaxed V-neck and draped sleeves for comfortable, stylish beach coverage.'
+    imageSrc: '/products/beachwear/AB07.png'
+    imageAlt: 'Plus size hot pink floral lace kaftan tunic with draped sleeves for beach cover-up'
+
+  - id: 8
+    name: 'Black Embroidered Long Sleeve Boho Tunic Dress'
+    description: 'Striking black mini dress featuring intricate white floral and geometric embroidery details on the neckline, sleeves, and hem, with gentle babydoll-style fit and long sleeves for bohemian beach elegance.'
+    imageSrc: '/products/beachwear/AB08.png'
+    imageAlt: 'Black long-sleeve mini dress with white embroidery and bohemian babydoll style'
+
+  - id: 9
+    name: "Girls' Mint Green Open-Knit Beach Cover-Up Tunic"
+    description: 'Refreshing mint green short-sleeve tunic-style cover-up for girls, featuring vertical open-knit texture and comfortable relaxed fit, perfect for wearing over swimwear at the pool or beach.'
+    imageSrc: '/products/beachwear/AB09.png'
+    imageAlt: "Girls' mint green open-knit tunic cover-up with relaxed fit for pool and beach wear"

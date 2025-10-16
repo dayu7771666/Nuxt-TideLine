@@ -1,0 +1,87 @@
+title: '確立された新興ブランドのための卸売水着ソリューション'
+description: 'TideLine Swimwearでは、独立レーベル、デザイナーブランド、グローバル水着企業向けにカスタマイズされたフルサービスの卸売水着ソリューションを提供することに特化しています。コレクションを拡大する場合でも、プレミアムラインを立ち上げる場合でも、OEM & ODM製造、トレンド予測、製品開発における当社の経験により、お客様のブランドが常に先を行くことを保証します。'
+
+seo:
+  title: 'ブランド向けプレミアム水着メーカー | Tideline'
+  description: '高品質でスケーラブルな水着製造については、TideLine Swimwearと提携してください。グローバルブランドから信頼されています。OEM & ODM、カスタムデザイン、迅速な納期。'
+  keywords: '水着メーカー, 卸売水着, OEM水着, ODM水着, ブランド製造, カスタム水着生産, 水着工場, プライベートラベル水着'
+  ogTitle: 'ブランド向けプレミアム水着メーカー | Tideline'
+  ogDescription: '高品質でスケーラブルな水着製造については、TideLine Swimwearと提携してください。世界中のグローバルブランドから信頼されています。'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'ブランド向けプレミアム水着メーカー | Tideline'
+  twitterDescription: '確立された新興ブランド向けの高品質でスケーラブルな水着製造。OEM & ODMサービス。'
+
+hero:
+  badge: プレミアム水着製造
+  subtitle: プレミアム製造。カスタマイズされたサービス。世界中のブランドから信頼されています。
+
+why_choose:
+  title: ブランドがTideLine Swimwearを選ぶ理由
+  items:
+    - id: 1
+      title: グローバル水着ブランドとの実績のある経験
+      description: 当社は、米国、ヨーロッパ、オーストラリアにわたる数十の確立された新興水着ブランドと協力してきました。当社のクライアントは、ハイエンドファッションハウスから持続可能なニッチレーベルまで多岐にわたり、すべて同じものを求めています - 品質、信頼性、柔軟性。
+    - id: 2
+      title: コンセプトから配送までのエンドツーエンドサービス
+      description: 当社のチームは、すべての段階でサポートします - デザイン支援とテックパック開発、エコフレンドリー＆高級素材を含む生地調達、プロトタイピング＆サンプル生産、柔軟なMOQでの大量製造、品質管理＆梱包、物流調整＆グローバル配送。
+    - id: 3
+      title: カスタマイゼーションがスケーラビリティと融合
+      description: シグネチャーカットから独占的なプリントまで、お客様のビジョンを実現します。50個でも5,000個でも、品質を損なうことなくスケーラブルな生産を提供します。
+
+what_sets_apart:
+  title: 当社を際立たせるもの
+  features:
+    - icon: 🧵
+      name: 熟練した職人技
+      benefit: プレミアム水着での10年以上の製造経験
+    - icon: 🌍
+      name: グローバル品質基準
+      benefit: ISO認定生産と厳格なQCプロセス
+    - icon: ♻️
+      name: 持続可能なオプション
+      benefit: リサイクル生地、生分解性パッケージング、倫理的な調達
+    - icon: 🔄
+      name: 迅速なサンプリング
+      benefit: 最初のサンプルは7〜10日で準備完了
+    - icon: 📦
+      name: 信頼できる納期
+      benefit: 平均生産期間15〜25日
+    - icon: 💬
+      name: 専任サポート
+      benefit: ブランド開発経験を持つ英語を話すプロジェクトマネージャー
+
+success_stories:
+  title: ブランド成功事例
+  testimonials:
+    - id: 1
+      quote: TideLineは、ラグジュアリーカプセルラインでEU市場への拡大を支援してくれました。細部へのこだわりと柔軟なMOQがすべてを簡単にしました。
+      author: クリエイティブディレクター、米国拠点のプレミアム水着レーベル
+      avatar: https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80
+    - id: 2
+      quote: TideLineを見つける前に他の3つのサプライヤーと協力しました。ついに私たちのビジョンを理解し、完璧に実現してくれました。
+      author: 創業者、オーストラリアの持続可能な水着ブランド
+      avatar: https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=facearea&w=1310&h=873&q=80&facepad=3
+
+how_we_work:
+  title: ブランドとの協業方法
+  steps:
+    - id: 1
+      text: デザインまたはムードボードをお送りください
+    - id: 2
+      text: 見積もりとサンプルのタイムラインを受け取る
+    - id: 3
+      text: サンプルを承認 → 生産開始
+    - id: 4
+      text: QC + 梱包 → グローバル配送
+
+partnership:
+  title: 今日から卸売パートナーシップを始めましょう
+  description: 品質、デザイン、信頼できる生産を重視するブランドを構築している場合は、お話ししましょう。
+  cta_text: お問い合わせ
+
+image:
+  src: /manufacturer.jpg
+  alt: 水着製造
+  caption: 当社の生産施設はプレミアム水着製造に特化しています

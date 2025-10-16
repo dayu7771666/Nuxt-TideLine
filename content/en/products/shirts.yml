@@ -1,0 +1,70 @@
+hero:
+  title: 'Athletic & Casual Shirts Collection'
+  description: 'Premium athletic and casual shirts designed for performance, comfort, and style. From moisture-wicking athletic tees to cozy fleece pullovers, perfect for training, leisure, and everyday wear.'
+
+seo:
+  title: 'Athletic & Casual Shirts Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale athletic and casual shirts - performance tees, fleece pullovers, hoodies, baselayers. Moisture-wicking, breathable fabrics. Custom designs, bulk orders available.'
+  keywords: 'athletic shirts, performance tees, fleece pullovers, hoodies, baselayers, moisture-wicking shirts, wholesale athletic shirts, custom performance wear'
+  ogTitle: 'Athletic & Casual Shirts Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale athletic and casual shirts. Performance fabrics for training and leisure.'
+  ogType: 'website'
+  ogImage: '/products/shirts-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Athletic & Casual Shirts Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Athletic shirts wholesale. Performance meets comfort and style.'
+
+products:
+  - id: 1
+    name: "Women's Performance Half-Zip Fleece Pullover"
+    description: 'A sleek, warm black pullover featuring a half-zip mock neck and raglan sleeves for enhanced mobility and comfort during outdoor or cold-weather training.'
+    imageSrc: '/products/shirts/N01.png'
+    imageAlt: "Performance Half-Zip Pullover, women's black active fleece with mock neck and side pockets"
+
+  - id: 2
+    name: "Women's Basic Long-Sleeve Crewneck Tee"
+    description: 'A soft, lightweight long-sleeve tee in a serene sage green, designed for everyday comfort or layering in casual and athleisure outfits.'
+    imageSrc: '/products/shirts/N02.png'
+    imageAlt: 'Long-Sleeve Crewneck Tee, light sage green stretch fabric for everyday wear and layering'
+
+  - id: 3
+    name: "Boys' Striped Moisture-Wicking Polo Shirt"
+    description: 'A classic polo shirt in an olive-green subtle stripe pattern, featuring a buttoned collar and breathable, moisture-wicking fabric ideal for youth sports or smart casual wear.'
+    imageSrc: '/products/shirts/N03.png'
+    imageAlt: "Boys' Polo Shirt, olive green striped moisture-wicking fabric for sports and casual style"
+
+  - id: 4
+    name: "Boys' Brushed Fleece Oversized Pullover Hoodie"
+    description: 'A relaxed-fit hoodie in a muted sage-grey tone with a front kangaroo pocket, providing cozy warmth and a contemporary casual look for youth.'
+    imageSrc: '/products/shirts/N04.png'
+    imageAlt: 'Pullover Hoodie, brushed fleece soft green-grey youth sweatshirt with front pocket'
+
+  - id: 5
+    name: "Men's Breathable Short-Sleeve Athletic T-Shirt"
+    description: 'A fundamental crewneck t-shirt in crisp white, made from performance, breathable fabric for intense workouts and high-activity sports.'
+    imageSrc: '/products/shirts/N05.png'
+    imageAlt: "Athletic T-Shirt, men's basic white performance crewneck for running and training"
+
+  - id: 6
+    name: "Men's Tech 1/4-Zip Training Baselayer"
+    description: 'A vibrant teal heather 1/4-zip baselayer with thumbholes for secure fit and warmth, featuring moisture management for cold-weather runs or layering.'
+    imageSrc: '/products/shirts/N06.png'
+    imageAlt: "Men's 1/4-Zip Baselayer, teal heather performance fabric with thumbholes for cold weather layering"
+
+  - id: 7
+    name: "Girls' Cropped Sherpa Fleece 1/4-Zip Jacket"
+    description: 'A soft, cozy purple sherpa fleece jacket with a stand collar and 1/4-zip, featuring a cropped length for a fun, stylish, and warm look.'
+    imageSrc: '/products/shirts/N07.png'
+    imageAlt: "Girls' Sherpa Fleece Jacket, cropped lilac quarter-zip with high collar for warmth and style"
+
+  - id: 8
+    name: "Women's Cotton-Blend Quarter-Zip Sweatshirt"
+    description: 'A relaxed-fit, light grey heather sweatshirt featuring a comfortable collar and a polished quarter-zip metal closure, perfect for effortless transitional style.'
+    imageSrc: '/products/shirts/N08.png'
+    imageAlt: "Quarter-Zip Sweatshirt, light grey cotton-blend women's pullover for casual weekend wear"
+
+  - id: 9
+    name: "Men's Mesh-Texture Raglan Sleeve T-Shirt"
+    description: 'A grey short-sleeve tee with subtle mesh texture and raglan sleeves, designed for maximum ventilation and a distraction-free athletic fit.'
+    imageSrc: '/products/shirts/N09.png'
+    imageAlt: "Raglan Sleeve T-Shirt, grey men's short-sleeve with mesh texture for ventilation and gym use"

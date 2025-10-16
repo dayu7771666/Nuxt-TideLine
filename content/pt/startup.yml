@@ -1,0 +1,144 @@
+title: 'Serviços de Fábrica de Roupas de Banho para Startups e Lojas Físicas'
+description: 'Somos uma fábrica chinesa de roupas de banho com uma cadeia de suprimentos completa, dedicada a fornecer serviços premium para startups e lojas físicas. Nossa quantidade mínima de pedido é de apenas 30 peças, tornando-nos ideais para clientes com necessidades de compra em pequenos lotes.'
+
+seo:
+  title: 'Serviços de Fábrica de Roupas de Banho para Startups e Lojas Físicas | TIDELINE SWIMWEAR'
+  description: 'Somos uma fábrica chinesa de roupas de banho com uma cadeia de suprimentos completa, dedicada a fornecer serviços premium para startups e lojas físicas. Nossa quantidade mínima de pedido é de apenas 30 peças.'
+  keywords: 'fábrica de roupas de banho, fabricante de roupas de banho, roupas de banho para startups, roupas de banho em pequenos lotes, roupas de banho MOQ baixo, fábrica de maiôs, produção de roupas de banho personalizadas, fornecedor de roupas de banho'
+  ogTitle: 'Serviços de Fábrica de Roupas de Banho para Startups | TIDELINE SWIMWEAR'
+  ogDescription: 'Fábrica chinesa de roupas de banho com cadeia de suprimentos completa. MOQ baixo de 30 peças, perfeito para startups e lojas físicas. Mais de 8 anos de experiência no setor.'
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fábrica de Roupas de Banho para Startups | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabricação de roupas de banho com MOQ baixo para startups. Mínimo de 30 peças, cadeia de suprimentos completa, mais de 8 anos de experiência.'
+
+# Hero section
+hero:
+  badge: 'Apresentando'
+
+# Company information
+company:
+  introduction: 'Com 8 anos de experiência na indústria de roupas de banho, somos fornecedores de longo prazo para plataformas renomadas como Alibaba, SHEIN e TikTok, garantindo qualidade do produto e fornecimento estável.'
+  benefits: 'Ao nos escolher, você se beneficiará do suporte de uma equipe profissional, processos de produção eficientes e serviços de personalização flexíveis em pequenos lotes, ajudando você a lançar ou expandir rapidamente seu negócio de roupas de banho.'
+
+# Features list
+features:
+  - id: 1
+    title: 'Quantidade mínima de pedido de apenas 30 peças'
+    description: 'Perfeito para startups e pequenas lojas físicas testarem o mercado com custos baixos.'
+  - id: 2
+    title: 'Preços Competitivos'
+    description: 'Comparado aos fornecedores internacionais, nossos preços são mais baixos mantendo padrões de alta qualidade.'
+  - id: 3
+    title: '8 Anos de Experiência na Indústria de Roupas de Banho'
+    description: 'Entendemos as demandas do mercado e podemos ajudar os clientes a criar roupas de banho mais vendidas.'
+
+# Success section
+success:
+  title: 'Começando do Zero, Ajudando Você a Ter Sucesso'
+  description: 'Seja você uma startup que está apenas começando ou uma loja física procurando um fornecedor confiável, oferecemos soluções personalizadas para atender às suas necessidades.'
+
+# Quote section
+quote:
+  text: 'Estamos comprometidos em ser o fornecedor preferido de roupas de banho para startups e lojas físicas, ajudando os clientes a entrar facilmente no mercado e crescer rapidamente.'
+  company: 'TideLine'
+  role: 'Especialistas da Indústria de Roupas de Banho'
+  avatar: '/tidelinelogo-600.png'
+
+# Call to action
+cta:
+  text: 'Entre em Contato'
+  description: 'Saiba mais sobre nossos serviços.'
+
+# Image section
+image:
+  src: '/manufacturer.jpg'
+  alt: 'Suporte de fábrica de roupas de banho para startups'
+  caption: 'Forte Suporte para Startups e Lojas Físicas'
+
+# Services section
+services:
+  title: 'Serviços Abrangentes para Atender às Suas Necessidades'
+  description: 'Do design à produção, temos uma cadeia de suprimentos completa, oferecendo aos clientes uma experiência de serviço eficiente e confiável.'
+  cta: 'Entre em contato conosco e vamos começar um novo capítulo no seu negócio de roupas de banho!'
+
+# Contact form section
+contact:
+  title: 'Junte-se a Nós'
+  form:
+    firstName: 'Nome'
+    email: 'E-mail'
+    message: 'Mensagem'
+    submit: 'Enviar'
+    terms:
+      text: 'Ao enviar este formulário, concordo com os'
+      link: 'Termos e Condições'
+
+# Testimonial section
+testimonial:
+  quote: 'O futuro da indústria de roupas de banho é sobre inovação ousada e estar à frente das tendências - junte-se a nós para moldar a próxima grande coisa e vamos criar algo inesquecível juntos!'
+  name: 'ChangShun'
+  title: 'CEO da TideLine Swimwear'
+  avatar: '/img/contactus.png'
+
+# Statistics
+stats:
+  - label: 'Experiência na Indústria de Roupas de Banho'
+    value: '8 anos +'
+  - label: 'Pedidos Atendidos'
+    value: '100.000+'
+
+# Additional sections for potential expansion
+advantages:
+  title: 'Por Que Escolher a TideLine para Sua Startup'
+  items:
+    - title: 'Entrada de Baixo Risco'
+      description: 'Comece com apenas 30 peças de quantidade mínima de pedido'
+      icon: 'shield-check'
+    - title: 'Cadeia de Suprimentos Completa'
+      description: 'Do design à entrega, cuidamos de tudo'
+      icon: 'cog-6-tooth'
+    - title: 'Experiência no Setor'
+      description: 'Mais de 8 anos servindo marcas e plataformas globais'
+      icon: 'star'
+    - title: 'Personalização Flexível'
+      description: 'Adapte designs aos requisitos da sua marca'
+      icon: 'adjustments-horizontal'
+
+# Process steps
+process:
+  title: 'Como Apoiamos Sua Jornada de Startup'
+  steps:
+    - step: 1
+      title: 'Consulta Inicial'
+      description: 'Compartilhe sua visão e requisitos com nossa equipe'
+    - step: 2
+      title: 'Design e Amostragem'
+      description: 'Criamos amostras com base em suas especificações'
+    - step: 3
+      title: 'Produção em Pequenos Lotes'
+      description: 'Comece com mínimo de 30 peças para testar seu mercado'
+    - step: 4
+      title: 'Escalar e Crescer'
+      description: 'Expanda a produção à medida que seu negócio cresce'
+
+# FAQ section
+faq:
+  title: 'Perguntas Frequentes'
+  questions:
+    - id: 1
+      question: 'O que torna a TideLine diferente de outros fabricantes de roupas de banho?'
+      answer: 'Somos especializados em apoiar startups e pequenas empresas com quantidades mínimas de pedido baixas, preços competitivos e suporte abrangente do design à entrega.'
+    - id: 2
+      question: 'Vocês podem ajudar com o design se eu tiver apenas um conceito?'
+      answer: 'Absolutamente! Nossa equipe de design experiente pode ajudar a transformar seus conceitos em designs prontos para produção, fornecendo orientação durante todo o processo de desenvolvimento.'
+    - id: 3
+      question: 'Qual é o cronograma típico de produção?'
+      answer: 'A produção de amostras geralmente leva de 7 a 10 dias, enquanto a produção em massa varia de 15 a 25 dias, dependendo do tamanho do pedido e da complexidade.'
+    - id: 4
+      question: 'Vocês fornecem suporte para desenvolvimento de marca?'
+      answer: 'Sim, oferecemos suporte abrangente de marca, incluindo rotulagem personalizada, design de embalagem e orientação de marketing para ajudar a estabelecer sua marca de roupas de banho.'
+    - id: 5
+      question: 'Quais padrões de qualidade vocês mantêm?'
+      answer: 'Mantemos processos rigorosos de controle de qualidade e trabalhamos com plataformas estabelecidas como Alibaba, SHEIN e TikTok, garantindo produção consistente de alta qualidade.'

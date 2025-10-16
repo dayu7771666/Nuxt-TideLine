@@ -1,0 +1,121 @@
+title: '임부복 수영복 공급업체'
+description: '공급업체 이상 - 귀하의 수영복 브랜드 구축 파트너.'
+
+seo:
+  title: '임부복 수영복 공급업체 | TIDELINE SWIMWEAR'
+  description: '예비 엄마를 위한 편안하고 지지력 있는 디자인을 제공하는 고품질 임부복 수영복 제조업체. 맞춤 임부복 수영복, 도매 가격, 낮은 MOQ.'
+  keywords: '임부복 수영복 제조업체, 임신 수영복 공급업체, 수유 수영복, 임부복 탱키니, 임부복 수영복 도매, 임부복 수영복 공장'
+  ogTitle: '임부복 수영복 공급업체 | TIDELINE SWIMWEAR'
+  ogDescription: '편안한 임부복 수영복 제조업체. 예비 엄마를 위한 지지력 있는 디자인. 맞춤 옵션, 도매 가격.'
+  ogType: 'website'
+  ogImage: '/catalog/maternity-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '임부복 수영복 공급업체 | TIDELINE SWIMWEAR'
+  twitterDescription: '임부복 수영복 제조. 임신을 위한 편안하고 지지력 있는 디자인. 맞춤 옵션 제공.'
+
+# Hero section
+hero:
+  cta_text: '상담'
+  cta_href: '/contact'
+  image_src: '/catalog/maternity-swimwear-bg.webp'
+  image_alt: '임부복 수영복 제조'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: '우리의 미션'
+  paragraph1: 'TideLine Swimwear에서는 임부복 수영복이 예비 엄마를 위한 편안함과 지지력의 완벽한 균형을 필요로 한다는 것을 알고 있습니다. 매 시즌마다 우리의 공장 팀은 부드럽고 유연한 원단과 세심한 핏으로 디자인된 컬렉션을 개발하여, 도매업체와 브랜드 소유자에게 여성이 임신의 모든 단계에서 자신감 있고 편안하게 느낄 수 있도록 돕는 시장 준비 옵션을 제공합니다.'
+  whatsapp_link_text: 'WhatsApp으로 문의하기'
+
+# Statistics
+stats:
+  - label: '수영복 업계 경험'
+    value: '10년 이상'
+  - label: '완료된 주문'
+    value: '1,000,000개 이상'
+
+# Product categories
+categories:
+  - name: '임부복 원피스'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/one-piece-1.webp'
+    imageAlt: '임부복 원피스 수영복 컬렉션'
+  - name: '임부복 탱키니'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/tankini-1.webp'
+    imageAlt: '임부복 탱키니 컬렉션'
+  - name: '수유 수영복'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/nursing-1.webp'
+    imageAlt: '수유 수영복 컬렉션'
+  - name: '임부복 커버업'
+    href: '/category?type=maternity'
+    imageSrc: '/maternity-swimwear/cover-up-1.webp'
+    imageAlt: '임부복 커버업 컬렉션'
+
+# Customization capabilities
+customization:
+  title: '맞춤화 기능'
+  description: '완전히 맞춤 가능한 수영복 - TideLine은 귀하의 브랜드 비전을 실현하기 위해 모든 맞춤 디자인, 원단, 하드웨어, 로고 및 포장을 수용합니다.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: '제조 시설'
+  hero_image_width: '1000'
+  features:
+    - name: '스타일 맞춤화'
+      description: '모든 수영복 디자인을 실현하세요 - 완벽한 스타일을 선택하고 우리가 귀하의 브랜드를 위해 제작합니다.'
+      link: '/contact'
+      cta_text: '상담'
+    - name: '원단 맞춤화'
+      description: '다양한 원단 중에서 선택하여 착용감이 편안하고 아름다운 수영복을 만드세요.'
+      link: '/fabric'
+      cta_text: '원단'
+    - name: '하드웨어 맞춤화'
+      description: '모든 세부 사항을 맞춤화하세요 - 버클과 링부터 지퍼까지 - 우리의 하드웨어 옵션이 귀하의 디자인을 향상시킵니다.'
+      link: '/hardware'
+      cta_text: '하드웨어'
+    - name: '로고 맞춤화'
+      description: '진정으로 귀하만의 것으로 만드세요 - 전문적인 브랜드 룩을 위해 각 제품에 로고를 추가하세요.'
+    - name: '포장 맞춤화'
+      description: '귀하의 스타일과 비전에 맞춘 포장으로 브랜드 경험을 완성하세요.'
+    - name: '문의하기'
+      description: '준비되셨나요? 귀하의 수영복 아이디어를 현실로 만들어 봅시다.'
+      link: '/contact'
+      cta_text: '문의하기'
+
+# Getting Started section
+getting_started:
+  title: '귀하의 수영복 여정이 여기서 시작됩니다'
+  description: '첫 컬렉션을 출시하든 브랜드를 확장하든, TideLine은 귀하의 요구를 충족시키는 맞춤형 수영복 솔루션을 제공합니다. 경로를 선택하고 시작하세요.'
+  beginner_text: '초보자로 시작하기'
+  beginner_href: '/startup'
+  pro_text: '경험 많은 구매자'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: '제조 프로세스'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: '자주 묻는 질문'
+  questions:
+    - id: 1
+      question: '임부복 수영복의 특별한 디자인 요구 사항은 무엇인가요?'
+      answer: '임부복 수영복의 디자인 요구 사항은 주로 편안함, 지지력 및 적응성에 중점을 둡니다. 일반적으로 임신 중 여성의 변화하는 신체 형태에 맞출 수 있는 고탄성 원단을 사용합니다. 디자인은 또한 복부를 위한 지지력, 압력이 없는 어깨끈, 편안한 가랑이 디자인을 제공하여 임산부가 물속에서 움직일 때 편안함을 보장해야 합니다.'
+    - id: 2
+      question: '임부복 수영복에는 어떤 재료가 사용되나요?'
+      answer: '임부복 수영복은 일반적으로 라이크라, 나일론, 스판덱스와 같은 고탄성, 통기성 원단으로 만들어집니다. 이러한 원단은 우수한 신축성을 가지고 있어 임신 중 신체 변화에 적응하면서 편안함과 지지력을 보장합니다. 또한 사용된 재료가 무독성이며 민감한 피부에 안전한지 확인합니다.'
+    - id: 3
+      question: '임부복 수영복은 자외선 차단 기능을 제공해야 하나요?'
+      answer: '네, 임부복 수영복이 UV 보호(UPF)를 갖추는 것이 가장 좋습니다, 특히 야외 수영장이나 해변에서 사용할 때. 우리의 임부복 수영복 디자인은 자외선 차단 기능이 있는 원단을 사용하여 예비 엄마의 피부를 유해한 UV 광선으로부터 보호하는 것을 고려합니다.'
+    - id: 4
+      question: '임부복 수영복의 안전성과 편안함은 어떻게 보장되나요?'
+      answer: '임부복 수영복은 안전성과 편안함에 강한 초점을 맞춰 디자인됩니다. 무독성, 친환경 원단을 사용하고 특히 복부와 가슴 부위 주변에서 재단과 디자인이 압력을 가하지 않도록 합니다. 지지 디자인은 임신 중 발생하는 변화도 고려하여 완전한 지지력을 제공합니다.'
+    - id: 5
+      question: '임부복 수영복은 산후 사용에 적합한가요?'
+      answer: '네, 많은 임부복 수영복 디자인은 산후 사용에도 적합합니다. 고탄성 원단을 사용하기 때문에 회복 기간에 적응할 수 있으며 편안한 핏을 제공합니다. 모유 수유가 필요한 엄마들을 위해 모유 수유를 쉽게 하는 특별히 디자인된 수유 스타일도 제공합니다.'
+    - id: 6
+      question: '임부복 수영복을 맞춤 제작할 수 있나요?'
+      answer: '네, 맞춤 서비스를 제공하며 귀하의 브랜드 요구 사항과 디자인 아이디어에 따라 임부복 수영복을 제조할 수 있습니다. 스타일, 색상, 원단을 선택할 수 있으며 수영복에 로고나 디자인을 인쇄하여 제품이 독특하고 시장 수요를 충족하도록 할 수 있습니다.'
+    - id: 7
+      question: '임부복 수영복의 최소 주문 수량은 얼마인가요?'
+      answer: '임부복 수영복의 최소 주문 수량(MOQ)은 디자인과 사용된 재료에 따라 다릅니다. 일반적으로 소량 주문 또는 창업 단계에 있는 고객을 위해 유연한 생산 옵션을 제공합니다. MOQ는 일반적으로 100~500개 범위이지만 정확한 수량은 귀하의 요구에 따라 조정될 수 있습니다.'

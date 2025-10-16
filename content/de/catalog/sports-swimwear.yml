@@ -1,0 +1,121 @@
+title: 'Sportbademode Hersteller'
+description: 'Mehr als ein Lieferant — Ihr Partner beim Aufbau Ihrer Bademode-Marke.'
+
+seo:
+  title: 'Sportbademode Hersteller | TIDELINE SWIMWEAR'
+  description: 'Hochleistungs-Sportbademode Hersteller für Wettkampf und Training. Rennanzüge, Trainingsbademode, Wasserball-Anzüge. Individuelle Designs, Großhandelspreise.'
+  keywords: 'Sportbademode Hersteller, Rennanzug Lieferant, Wettkampfbademode, Trainingsbademode Großhandel, Leistungsbademode Fabrik, Sportbademode Hersteller'
+  ogTitle: 'Sportbademode Hersteller | TIDELINE SWIMWEAR'
+  ogDescription: 'Professioneller Sportbademode Hersteller. Rennanzüge, Trainingsausrüstung, Wettkampfbademode. Hochleistungsdesigns.'
+  ogType: 'website'
+  ogImage: '/catalog/sports-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Sportbademode Hersteller | TIDELINE SWIMWEAR'
+  twitterDescription: 'Hochleistungs-Sportbademode. Wettkampf- und Trainingsausrüstung. Individuelle Designs für Athleten.'
+
+# Hero section
+hero:
+  cta_text: 'Beratung'
+  cta_href: '/contact'
+  image_src: '/catalog/sports-swimwear-bg.webp'
+  image_alt: 'Sportbademode Herstellung'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Unsere Mission'
+  paragraph1: 'Bei TideLine Swimwear wissen wir, dass Sport- und Leistungsbademode eine wesentliche Kategorie für wettkampforientierte und aktive Verbraucher ist. Jede Saison entwickelt unser Designteam Kollektionen, die funktionale Leistung, strapazierfähige Stoffe und bequeme Passformen kombinieren—von stromlinienförmigen Einteiler bis zu Leistungs-Schwimmslips—und bietet Großhändlern und Markeninhabern vielseitige Optionen, um den Anforderungen von Athleten und aktiven Schwimmern gerecht zu werden.'
+  whatsapp_link_text: 'Kontaktieren Sie uns auf WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Erfahrung in der Bademode-Industrie'
+    value: '10 Jahre +'
+  - label: 'Erfüllte Bestellungen'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Rennanzüge'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/racing-1.webp'
+    imageAlt: 'Rennanzüge Kollektion'
+  - name: 'Trainingsbademode'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/training-1.webp'
+    imageAlt: 'Trainingsbademode Kollektion'
+  - name: 'Wasserball-Anzüge'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/water-polo-1.webp'
+    imageAlt: 'Wasserball-Anzüge Kollektion'
+  - name: 'Triathlon-Anzüge'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/triathlon-1.webp'
+    imageAlt: 'Triathlon-Anzüge Kollektion'
+
+# Customization capabilities
+customization:
+  title: 'Anpassungsmöglichkeiten'
+  description: 'Vollständig anpassbare Bademode—TideLine akzeptiert alle individuellen Designs, Stoffe, Hardware, Logos und Verpackungen, um Ihre Markenvision zum Leben zu erwecken.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Produktionsanlage'
+  hero_image_width: '1000'
+  features:
+    - name: 'Stil-Anpassung'
+      description: 'Erwecken Sie jedes Bademode-Design zum Leben—wählen Sie Ihren perfekten Stil und lassen Sie uns ihn für Ihre Marke fertigen.'
+      link: '/contact'
+      cta_text: 'Beratung'
+    - name: 'Stoff-Anpassung'
+      description: 'Wählen Sie aus einer breiten Palette von Stoffen, um Bademode zu schaffen, die bequem zu tragen und schön anzusehen ist.'
+      link: '/fabric'
+      cta_text: 'Stoff'
+    - name: 'Hardware-Anpassung'
+      description: 'Passen Sie jedes Detail an—von Schnallen und Ringen bis zu Reißverschlüssen—unsere Hardware-Optionen werten Ihr Design auf.'
+      link: '/hardware'
+      cta_text: 'Hardware'
+    - name: 'Logo-Anpassung'
+      description: 'Machen Sie es wirklich zu Ihrem—fügen Sie Ihr Logo zu jedem Stück für einen professionellen Marken-Look hinzu.'
+    - name: 'Verpackungs-Anpassung'
+      description: 'Vervollständigen Sie Ihr Markenerlebnis mit Verpackungen, die auf Ihren Stil und Ihre Vision zugeschnitten sind.'
+    - name: 'Kontaktieren Sie uns'
+      description: 'Bereit? Lassen Sie uns Ihre Bademode-Ideen in die Realität umsetzen.'
+      link: '/contact'
+      cta_text: 'Kontaktieren Sie uns'
+
+# Getting Started section
+getting_started:
+  title: 'Ihre Bademode-Reise beginnt hier'
+  description: 'Ob Sie Ihre erste Kollektion starten oder Ihre Marke skalieren, TideLine bietet maßgeschneiderte Bademode-Lösungen für Ihre Bedürfnisse. Wählen Sie Ihren Weg und legen Sie los.'
+  beginner_text: 'Als Anfänger starten'
+  beginner_href: '/startup'
+  pro_text: 'Erfahrener Käufer'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Herstellungsprozess'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Häufig gestellte Fragen'
+  questions:
+    - id: 1
+      question: 'Was ist der Unterschied zwischen Sportbademode und normaler Bademode?'
+      answer: 'Sportbademode ist speziell für hochintensive Aktivitäten entwickelt und bietet größere Elastizität, Unterstützung und Haltbarkeit. Sie verwenden typischerweise kompressivere Stoffe, um den Wasserwiderstand zu reduzieren und Athleten dabei zu helfen, Geschwindigkeit und Leistung zu steigern. Im Vergleich zu normaler Bademode konzentriert sich Sportbademode mehr auf Komfort und Passform und gewährleistet, dass Athleten bessere Bewegungsfreiheit und Unterstützung beim Schwimmen haben.'
+    - id: 2
+      question: 'Welcher Stoff ist am besten für Wettkampfschwimmen geeignet?'
+      answer: 'Wettkampfbademode wird typischerweise aus Hochleistungsmaterialien wie Polyester, Spandex (Elastan), Nylon und elastischen Fasern hergestellt. Diese Materialien bieten ausgezeichnete Elastizität, Stärke und Wasserbeständigkeit und reduzieren effektiv Reibung und Wasserwiderstand, wodurch die Schwimmeffizienz verbessert wird. Kürzlich sind umweltfreundliche Bademoden aus recycelten Plastikfasern (RPET) entstanden, die gute Leistung und Nachhaltigkeit bieten.'
+    - id: 3
+      question: 'Wie wählt man die richtige Größe für Sportbademode?'
+      answer: 'Bei der Auswahl von Sportbademode ist die richtige Größe sehr wichtig, da die Bademode eng anliegen muss, um ausreichende Unterstützung und eine stromlinienförmige Form zu bieten. Es wird empfohlen, Bademode zu wählen, die gut passt, aber nicht zu locker ist, um Komfort zu gewährleisten, ohne die Bewegung einzuschränken. Viele Marken bieten Größentabellen, die Ihnen helfen können, die richtige Größe basierend auf Ihrem Körpertyp zu wählen, oder Sie können die Marke für spezifische Größenempfehlungen konsultieren.'
+    - id: 4
+      question: 'Wie chlorbeständig ist Sportbademode?'
+      answer: 'Sportbademode wird oft aus chlorbeständigen Materialien wie Polyesterfasern und PBT (Polybutylen-Terephthalat) hergestellt, die bessere Chlorbeständigkeit als traditionelle Lycra-Stoffe bieten. Diese Materialien helfen dabei, Bademode vor den schädlichen Auswirkungen von Chlor in Schwimmbädern zu schützen und verlängern die Lebensdauer des Anzugs. Es ist wichtig, Bademode mit starker Chlorbeständigkeit zu wählen, um Langlebigkeit zu gewährleisten.'
+    - id: 5
+      question: 'Wie wird der Komfort von Sportbademode gewährleistet?'
+      answer: 'Der Komfort von Sportbademode wird hauptsächlich durch wissenschaftliches Design und Hochleistungsstoffe gewährleistet. Sportbademode verwendet oft nahtlose Designs oder präzise Schnittechniken, um die Reibung zwischen Körper und Bademode zu reduzieren und Unbehagen während des Trainings zu verhindern. Zusätzlich werden atmungsaktive Materialien verwendet, um Athleten während intensiven Trainings trocken und komfortabel zu halten.'
+    - id: 6
+      question: 'Wie wäscht und pflegt man Sportbademode?'
+      answer: 'Um die Lebensdauer von Sportbademode zu verlängern, wird empfohlen, sie von Hand oder maschinell in kaltem Wasser zu waschen und Waschmittel mit Bleichmitteln zu vermeiden. Nach dem Waschen sollte die Bademode flach zum Trocknen gelegt werden, wobei direkte Sonneneinstrahlung oder Trockner vermieden werden sollten. Die Bademode sauber und trocken zu halten hilft dabei, Stoffschäden zu verhindern und ihre Leistung und Elastizität zu bewahren.'
+    - id: 7
+      question: 'Gibt es Sportbademode aus umweltfreundlichen Materialien?'
+      answer: 'Ja, immer mehr Sportbademode-Marken verwenden umweltfreundliche Materialien wie recycelte Plastikfasern (RPET) und Naturfasern. Diese Materialien bieten nicht nur großartige Leistung, sondern erfüllen auch Nachhaltigkeits- und Umweltschutzstandards. Wenn Ihre Marke umweltbewusst ist, können wir Ihnen maßgeschneiderte Sportbademode anbieten, die umweltfreundliche Standards erfüllt und Ihr Markenimage verbessert.'

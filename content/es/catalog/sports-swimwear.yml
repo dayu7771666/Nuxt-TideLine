@@ -1,0 +1,121 @@
+title: 'Fabricante de Trajes de Baño Deportivos'
+description: 'Más que un proveedor — tu socio en la construcción de marca de trajes de baño.'
+
+seo:
+  title: 'Fabricante de Trajes de Baño Deportivos | TIDELINE SWIMWEAR'
+  description: 'Fabricante de trajes de baño deportivos de alto rendimiento para competición y entrenamiento. Trajes de carrera, ropa de baño de entrenamiento, trajes de waterpolo. Diseños personalizados, precios mayoristas.'
+  keywords: 'fabricante trajes de baño deportivos, proveedor trajes de carrera, trajes de baño competitivos, ropa de baño entrenamiento mayorista, fábrica trajes de baño rendimiento, fabricante ropa de baño atlética'
+  ogTitle: 'Fabricante de Trajes de Baño Deportivos | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricante profesional de trajes de baño deportivos. Trajes de carrera, equipo de entrenamiento, ropa de baño competitiva. Diseños de alto rendimiento.'
+  ogType: 'website'
+  ogImage: '/catalog/sports-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Fabricante de Trajes de Baño Deportivos | TIDELINE SWIMWEAR'
+  twitterDescription: 'Trajes de baño deportivos de alto rendimiento. Equipo de competición y entrenamiento. Diseños personalizados para atletas.'
+
+# Hero section
+hero:
+  cta_text: 'Consulta'
+  cta_href: '/contact'
+  image_src: '/catalog/sports-swimwear-bg.webp'
+  image_alt: 'Fabricación de Trajes de Baño Deportivos'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Nuestra Misión'
+  paragraph1: 'En TideLine Swimwear, sabemos que los trajes de baño deportivos y de alto rendimiento son una categoría esencial para consumidores competitivos y activos. Cada temporada, nuestro equipo de diseño desarrolla colecciones que combinan rendimiento funcional, telas duraderas y ajustes cómodos—desde piezas únicas aerodinámicas hasta calzoncillos de natación de rendimiento—dando a mayoristas y propietarios de marcas opciones versátiles para satisfacer las demandas de atletas y nadadores activos.'
+  whatsapp_link_text: 'Contáctanos en WhatsApp'
+
+# Statistics
+stats:
+  - label: 'Experiencia en la Industria de Trajes de Baño'
+    value: '10 años +'
+  - label: 'Pedidos Cumplidos'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Trajes de Carrera'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/racing-1.webp'
+    imageAlt: 'Colección de Trajes de Carrera'
+  - name: 'Ropa de Baño de Entrenamiento'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/training-1.webp'
+    imageAlt: 'Colección de Ropa de Baño de Entrenamiento'
+  - name: 'Trajes de Waterpolo'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/water-polo-1.webp'
+    imageAlt: 'Colección de Trajes de Waterpolo'
+  - name: 'Trajes de Triatlón'
+    href: '/category?type=sports'
+    imageSrc: '/sports-swimwear/triathlon-1.webp'
+    imageAlt: 'Colección de Trajes de Triatlón'
+
+# Customization capabilities
+customization:
+  title: 'Capacidades de Personalización'
+  description: 'Trajes de baño completamente personalizables—TideLine acepta todos los diseños personalizados, telas, herrajes, logos y empaques para dar vida a tu visión de marca.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Instalación de Fabricación'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personalización de Estilo'
+      description: 'Da vida a cualquier diseño de traje de baño—elige tu estilo perfecto y déjanos crearlo para tu marca.'
+      link: '/contact'
+      cta_text: 'Consulta'
+    - name: 'Personalización de Tela'
+      description: 'Elige de una amplia gama de telas para crear trajes de baño cómodos de usar y hermosos de ver.'
+      link: '/fabric'
+      cta_text: 'Tela'
+    - name: 'Personalización de Herrajes'
+      description: 'Personaliza cada detalle—desde hebillas y anillos hasta cremalleras—nuestras opciones de herrajes elevan tu diseño.'
+      link: '/hardware'
+      cta_text: 'Herrajes'
+    - name: 'Personalización de Logo'
+      description: 'Hazlo verdaderamente tuyo—agrega tu logo a cada pieza para un look de marca profesional.'
+    - name: 'Personalización de Empaque'
+      description: 'Completa tu experiencia de marca con empaque adaptado a tu estilo y visión.'
+    - name: 'Contáctanos'
+      description: '¿Listo? Convirtamos tus ideas de trajes de baño en realidad.'
+      link: '/contact'
+      cta_text: 'Contáctanos'
+
+# Getting Started section
+getting_started:
+  title: 'Tu viaje en trajes de baño comienza aquí'
+  description: 'Ya sea que estés lanzando tu primera colección o escalando tu marca, TideLine proporciona soluciones de trajes de baño personalizadas para satisfacer tus necesidades. Elige tu camino y comienza.'
+  beginner_text: 'Comenzar como Principiante'
+  beginner_href: '/startup'
+  pro_text: 'Comprador Experimentado'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Proceso de Fabricación'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Preguntas Frecuentes'
+  questions:
+    - id: 1
+      question: '¿Cuál es la diferencia entre trajes de baño deportivos y trajes de baño regulares?'
+      answer: 'Los trajes de baño deportivos están especialmente diseñados para actividades de alta intensidad, ofreciendo mayor elasticidad, soporte y durabilidad. Típicamente usan telas más compresivas para reducir la resistencia al agua, ayudando a los atletas a aumentar velocidad y rendimiento. Comparados con trajes de baño regulares, los trajes de baño deportivos se enfocan más en comodidad y ajuste, asegurando que los atletas tengan mejor libertad de movimiento y soporte durante la natación.'
+    - id: 2
+      question: '¿Qué tela es mejor para natación competitiva?'
+      answer: 'Los trajes de baño competitivos están típicamente hechos de materiales de alto rendimiento como poliéster, spandex (elastano), nylon y fibras elásticas. Estos materiales ofrecen excelente elasticidad, fuerza y resistencia al agua, reduciendo efectivamente la fricción y resistencia al agua, mejorando así la eficiencia de natación. Recientemente, han surgido trajes de baño eco-amigables hechos de fibras de plástico reciclado (RPET), ofreciendo buen rendimiento y sostenibilidad.'
+    - id: 3
+      question: '¿Cómo elegir la talla correcta para trajes de baño deportivos?'
+      answer: 'Al seleccionar trajes de baño deportivos, la talla correcta es muy importante porque el traje de baño necesita ajustarse ceñidamente para proporcionar soporte adecuado y una forma aerodinámica. Se recomienda elegir trajes de baño que ajusten bien pero no sean demasiado sueltos, asegurando comodidad sin restringir el movimiento. Muchas marcas proporcionan tablas de tallas que pueden ayudarte a seleccionar la talla correcta basada en tu tipo de cuerpo, o puedes consultar con la marca para recomendaciones específicas de tallas.'
+    - id: 4
+      question: '¿Qué tan resistentes son los trajes de baño deportivos al cloro?'
+      answer: 'Los trajes de baño deportivos están a menudo hechos de materiales resistentes al cloro como fibras de poliéster y PBT (politereftalato de polibutileno), que ofrecen mejor resistencia al cloro que las telas tradicionales de Lycra. Estos materiales ayudan a proteger los trajes de baño de los efectos dañinos del cloro en las piscinas, extendiendo la vida útil del traje. Es importante elegir trajes de baño con fuerte resistencia al cloro para asegurar longevidad.'
+    - id: 5
+      question: '¿Cómo se asegura la comodidad de los trajes de baño deportivos?'
+      answer: 'La comodidad de los trajes de baño deportivos se asegura principalmente a través de diseño científico y telas de alto rendimiento. Los trajes de baño deportivos a menudo usan diseños sin costuras o técnicas de corte precisas para reducir la fricción entre el cuerpo y el traje de baño, previniendo incomodidad durante el ejercicio. Adicionalmente, se usan materiales transpirables para mantener a los atletas secos y cómodos durante entrenamientos intensos.'
+    - id: 6
+      question: '¿Cómo lavar y cuidar los trajes de baño deportivos?'
+      answer: 'Para prolongar la vida útil de los trajes de baño deportivos, se recomienda lavarlos a mano o a máquina en agua fría y evitar detergentes que contengan blanqueador. Después del lavado, el traje de baño debe ponerse plano para secar, evitando luz solar directa o secado en secadora. Mantener el traje de baño limpio y seco ayuda a prevenir daño en la tela y preserva su rendimiento y elasticidad.'
+    - id: 7
+      question: '¿Hay trajes de baño deportivos hechos de materiales eco-amigables?'
+      answer: 'Sí, más y más marcas de trajes de baño deportivos están usando materiales eco-amigables como fibras de plástico reciclado (RPET) y fibras naturales. Estos materiales no solo ofrecen gran rendimiento sino que también cumplen con estándares de sostenibilidad y protección ambiental. Si tu marca es ambientalmente consciente, podemos proporcionarte trajes de baño deportivos personalizados que cumplan con estándares eco-amigables y mejoren tu imagen de marca.'

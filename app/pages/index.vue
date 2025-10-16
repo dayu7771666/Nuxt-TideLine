@@ -232,39 +232,3 @@
     });
   });
 </script>
-
-<style scoped>
-  /* 弹窗动画过渡效果 */
-  .modal-enter-active,
-  .modal-leave-active {
-    transition: all 0.3s ease;
-  }
-
-  .modal-enter-from,
-  .modal-leave-to {
-    opacity: 0;
-  }
-
-  .modal-enter-to,
-  .modal-leave-from {
-    opacity: 1;
-  }
-
-  /* 弹窗内容动画 */
-  .modal-enter-active .bg-white,
-  .modal-leave-active .bg-white {
-    transition: all 0.3s ease;
-  }
-
-  .modal-enter-from .bg-white,
-  .modal-leave-to .bg-white {
-    transform: scale(0.9) translateY(-20px);
-    opacity: 0;
-  }
-
-  .modal-enter-to .bg-white,
-  .modal-leave-from .bg-white {
-    transform: scale(1) translateY(0);
-    opacity: 1;
-  }
-</style>

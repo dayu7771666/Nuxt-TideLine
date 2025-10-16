@@ -1,0 +1,144 @@
+title: "Services d'Usine de Maillots de Bain pour Startups et Magasins Physiques"
+description: "Nous sommes une usine chinoise de maillots de bain avec une chaîne d'approvisionnement complète, dédiée à fournir des services premium pour les startups et les magasins physiques. Notre quantité minimale de commande est de seulement 30 pièces, ce qui nous rend idéaux pour les clients ayant des besoins d'achat en petits lots."
+
+seo:
+  title: "Services d'Usine de Maillots de Bain pour Startups et Magasins Physiques | TIDELINE SWIMWEAR"
+  description: "Nous sommes une usine chinoise de maillots de bain avec une chaîne d'approvisionnement complète, dédiée à fournir des services premium pour les startups et les magasins physiques. Notre quantité minimale de commande est de seulement 30 pièces."
+  keywords: 'usine de maillots de bain, fabricant de maillots de bain, maillots de bain pour startups, maillots de bain en petits lots, maillots de bain MOQ bas, usine de maillots, production de maillots de bain personnalisés, fournisseur de maillots de bain'
+  ogTitle: "Services d'Usine de Maillots de Bain pour Startups | TIDELINE SWIMWEAR"
+  ogDescription: "Usine chinoise de maillots de bain avec chaîne d'approvisionnement complète. MOQ bas de 30 pièces, parfait pour les startups et les magasins physiques. Plus de 8 ans d'expérience dans l'industrie."
+  ogType: 'website'
+  ogImage: '/manufacturer.jpg'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Usine de Maillots de Bain pour Startups | TIDELINE SWIMWEAR'
+  twitterDescription: "Fabrication de maillots de bain à MOQ bas pour startups. Minimum 30 pièces, chaîne d'approvisionnement complète, plus de 8 ans d'expérience."
+
+# Hero section
+hero:
+  badge: 'Présentation'
+
+# Company information
+company:
+  introduction: "Avec 8 ans d'expérience dans l'industrie des maillots de bain, nous sommes des fournisseurs à long terme pour des plateformes renommées comme Alibaba, SHEIN et TikTok, garantissant la qualité des produits et un approvisionnement stable."
+  benefits: "En nous choisissant, vous bénéficierez du soutien d'une équipe professionnelle, de processus de production efficaces et de services de personnalisation flexibles en petits lots, vous aidant à lancer ou à développer rapidement votre entreprise de maillots de bain."
+
+# Features list
+features:
+  - id: 1
+    title: 'Quantité minimale de commande de seulement 30 pièces'
+    description: 'Parfait pour les startups et les petits magasins physiques pour tester le marché à faible coût.'
+  - id: 2
+    title: 'Prix Compétitifs'
+    description: 'Par rapport aux fournisseurs internationaux, nos prix sont plus bas tout en maintenant des normes de qualité élevées.'
+  - id: 3
+    title: "8 Ans d'Expérience dans l'Industrie des Maillots de Bain"
+    description: 'Nous comprenons les demandes du marché et pouvons aider les clients à créer des maillots de bain best-sellers.'
+
+# Success section
+success:
+  title: 'Partir de Zéro, Vous Aider à Réussir'
+  description: "Que vous soyez une startup qui débute ou un magasin physique à la recherche d'un fournisseur fiable, nous offrons des solutions sur mesure pour répondre à vos besoins."
+
+# Quote section
+quote:
+  text: 'Nous nous engageons à être le fournisseur de maillots de bain préféré des startups et des magasins physiques, aidant les clients à entrer facilement sur le marché et à croître rapidement.'
+  company: 'TideLine'
+  role: "Experts de l'Industrie des Maillots de Bain"
+  avatar: '/tidelinelogo-600.png'
+
+# Call to action
+cta:
+  text: 'Contactez-nous'
+  description: 'En savoir plus sur nos services.'
+
+# Image section
+image:
+  src: '/manufacturer.jpg'
+  alt: "Soutien d'usine de maillots de bain pour startups"
+  caption: 'Soutien Solide pour les Startups et les Magasins Physiques'
+
+# Services section
+services:
+  title: 'Services Complets pour Répondre à Vos Besoins'
+  description: "De la conception à la production, nous avons une chaîne d'approvisionnement complète, offrant aux clients une expérience de service efficace et fiable."
+  cta: 'Contactez-nous et commençons un nouveau chapitre dans votre entreprise de maillots de bain !'
+
+# Contact form section
+contact:
+  title: 'Rejoignez-nous'
+  form:
+    firstName: 'Prénom'
+    email: 'E-mail'
+    message: 'Message'
+    submit: 'Soumettre'
+    terms:
+      text: "En soumettant ce formulaire, j'accepte les"
+      link: 'Conditions Générales'
+
+# Testimonial section
+testimonial:
+  quote: "L'avenir de l'industrie des maillots de bain est une question d'innovation audacieuse et de rester en avance sur les tendances - rejoignez-nous pour façonner la prochaine grande chose et créons ensemble quelque chose d'inoubliable !"
+  name: 'ChangShun'
+  title: 'PDG de TideLine Swimwear'
+  avatar: '/img/contactus.png'
+
+# Statistics
+stats:
+  - label: "Expérience dans l'Industrie des Maillots de Bain"
+    value: '8 ans +'
+  - label: 'Commandes Réalisées'
+    value: '100 000+'
+
+# Additional sections for potential expansion
+advantages:
+  title: 'Pourquoi Choisir TideLine pour Votre Startup'
+  items:
+    - title: 'Entrée à Faible Risque'
+      description: 'Commencez avec seulement 30 pièces de quantité minimale de commande'
+      icon: 'shield-check'
+    - title: "Chaîne d'Approvisionnement Complète"
+      description: 'De la conception à la livraison, nous gérons tout'
+      icon: 'cog-6-tooth'
+    - title: "Expérience de l'Industrie"
+      description: 'Plus de 8 ans au service de marques et plateformes mondiales'
+      icon: 'star'
+    - title: 'Personnalisation Flexible'
+      description: 'Adaptez les designs aux exigences de votre marque'
+      icon: 'adjustments-horizontal'
+
+# Process steps
+process:
+  title: 'Comment Nous Soutenons Votre Parcours de Startup'
+  steps:
+    - step: 1
+      title: 'Consultation Initiale'
+      description: 'Partagez votre vision et vos exigences avec notre équipe'
+    - step: 2
+      title: 'Conception et Échantillonnage'
+      description: 'Nous créons des échantillons basés sur vos spécifications'
+    - step: 3
+      title: 'Production en Petits Lots'
+      description: 'Commencez avec un minimum de 30 pièces pour tester votre marché'
+    - step: 4
+      title: 'Évoluer et Croître'
+      description: 'Développez la production à mesure que votre entreprise se développe'
+
+# FAQ section
+faq:
+  title: 'Questions Fréquemment Posées'
+  questions:
+    - id: 1
+      question: "Qu'est-ce qui distingue TideLine des autres fabricants de maillots de bain ?"
+      answer: 'Nous nous spécialisons dans le soutien aux startups et aux petites entreprises avec des quantités minimales de commande faibles, des prix compétitifs et un soutien complet de la conception à la livraison.'
+    - id: 2
+      question: "Pouvez-vous aider avec la conception si je n'ai qu'un concept ?"
+      answer: 'Absolument ! Notre équipe de conception expérimentée peut aider à transformer vos concepts en designs prêts pour la production, en fournissant des conseils tout au long du processus de développement.'
+    - id: 3
+      question: 'Quel est votre calendrier de production typique ?'
+      answer: "La production d'échantillons prend généralement 7 à 10 jours, tandis que la production en gros varie de 15 à 25 jours selon la taille de la commande et la complexité."
+    - id: 4
+      question: 'Fournissez-vous un soutien pour le développement de marque ?'
+      answer: "Oui, nous offrons un soutien complet de marque incluant l'étiquetage personnalisé, la conception d'emballage et des conseils marketing pour aider à établir votre marque de maillots de bain."
+    - id: 5
+      question: 'Quelles normes de qualité maintenez-vous ?'
+      answer: 'Nous maintenons des processus de contrôle qualité stricts et travaillons avec des plateformes établies comme Alibaba, SHEIN et TikTok, garantissant une production constante de haute qualité.'

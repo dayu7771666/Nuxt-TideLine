@@ -1,0 +1,193 @@
+title: 'Individuelle Markenetiketten & Verpackung'
+description: 'Heben Sie Ihre Bademodenmarke mit Premium-Individueletiketten und umweltfreundlichen Verpackungslösungen hervor. Von gestickter Eleganz bis zu nachhaltigen Materialien bringen wir Ihre Markenvision zum Leben.'
+
+seo:
+  title: 'Individuelle Markenetiketten & Verpackung | Tideline Swimwear'
+  description: 'Premium-Individueletiketten und umweltfreundliche Verpackungslösungen für Bademodenmarken. Wählen Sie aus bestickten, bedruckten, gewebten, PVC-, Lederetiketten und mehr. Nachhaltige Verpackungsoptionen verfügbar.'
+  keywords: 'individuelle Etiketten, Bademode-Branding, bestickte Etiketten, umweltfreundliche Verpackung, nachhaltige Verpackung, Markenidentität, gewebte Etiketten, PVC-Etiketten, Lederetiketten'
+  ogTitle: 'Individuelle Markenetiketten & Verpackung | Tideline Swimwear'
+  ogDescription: 'Heben Sie Ihre Bademodenmarke mit Premium-Individueletiketten und nachhaltigen Verpackungslösungen hervor.'
+  ogType: 'website'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Individuelle Markenetiketten & Verpackung | Tideline Swimwear'
+  twitterDescription: 'Premium-Individueletiketten und umweltfreundliche Verpackung für Bademodenmarken.'
+
+hero:
+  image: '/sampling.webp'
+  alt: 'Individuelle Markenetiketten und Verpackung'
+
+introduction:
+  title: 'Warum individuelles Branding wichtig ist'
+  description: 'Ihr Etikett und Ihre Verpackung sind die ersten Berührungspunkte mit Ihren Kunden. Machen Sie sie zählen mit unseren umfassenden Branding-Lösungen, die Qualität, Nachhaltigkeit und Stil kombinieren.'
+  features:
+    - title: 'Markenidentität'
+      description: 'Schaffen Sie einen bleibenden Eindruck mit individuellen Etiketten, die Ihre einzigartige Markenpersönlichkeit widerspiegeln'
+      icon: 'sparkles'
+      gradient: 'blue'
+    - title: 'Premium-Qualität'
+      description: 'Langlebige, dauerhafte Etiketten, die ihr Aussehen auch nach mehreren Wäschen beibehalten'
+      icon: 'shield'
+      gradient: 'green'
+    - title: 'Umweltfreundlich'
+      description: 'Nachhaltige Materialien und Prozesse, die modernen Umweltwerten entsprechen'
+      icon: 'globe'
+      gradient: 'purple'
+
+labels:
+  title: '10 Premium-Etikettenoptionen'
+  description: 'Wählen Sie aus unserer vielfältigen Palette von Etikettierlösungen, die jeweils für spezifische Markenanforderungen und Marktsegmente konzipiert sind'
+  types:
+    - id: 1
+      name: 'Bestickte Etiketten'
+      icon: 'scissors'
+      gradient: 'purple'
+      technology: 'Maschinen- oder Handstickerei-Technik zum Sticken von Markennamen oder Logos auf Stoff.'
+      advantages: 'Hohe Haltbarkeit, Premium-Textur, perfekt für High-End-Bademodenmarken.'
+      bestFor: 'Luxus- und Premiummarken, die Qualität betonen.'
+
+    - id: 2
+      name: 'Gedruckte Etiketten'
+      icon: 'printer'
+      gradient: 'blue'
+      technology: 'Siebdruck-, Heißtransfer- oder UV-Druckverfahren.'
+      advantages: 'Kosteneffektiv, unterstützt komplexe Designs, ideal für Massenproduktion.'
+      bestFor: 'Mittelklasse- oder Massenmarkt-Bademodenmarken.'
+
+    - id: 3
+      name: 'Heißtransfer-Etiketten'
+      icon: 'fire'
+      gradient: 'orange'
+      technology: 'Heißpresstechnologie überträgt Designs auf Etiketten, üblicherweise auf Polyester oder Nylon.'
+      advantages: 'Verblassungsresistent, weich und angenehm.'
+      bestFor: 'Athletische und leichte funktionale Bademode.'
+
+    - id: 4
+      name: 'Gewebte Etiketten'
+      icon: 'swatch'
+      gradient: 'indigo'
+      technology: 'Webmaschine integriert Markenlogos direkt in Etikettfasern unter Verwendung von Nylon oder Polyester.'
+      advantages: 'Hohe Qualität, langlebig, Premium-Gefühl.'
+      bestFor: 'High-End-Marken oder Langzeit-Bademode.'
+
+    - id: 5
+      name: 'PVC-Etiketten'
+      icon: 'cube'
+      gradient: 'cyan'
+      technology: 'Geformte PVC-Kunststoffetiketten mit gesprühter oder bedruckter Oberfläche.'
+      advantages: 'Wasserdicht, feuchtigkeitsbeständig, modern und modisch im Aussehen.'
+      bestFor: 'Junge, trendige Marken, besonders Outdoor- oder Sport-Bademode.'
+
+    - id: 6
+      name: 'Lederetiketten'
+      icon: 'star'
+      gradient: 'amber'
+      technology: 'Echtes oder synthetisches Leder mit geprägten oder gebrandeten Logos.'
+      advantages: 'Luxuriöses, hochwertiges Gefühl mit starker visueller Wirkung.'
+      bestFor: 'Luxusmarken, die Markenprestige erhöhen möchten.'
+
+    - id: 7
+      name: 'Papier-Tags'
+      icon: 'document'
+      gradient: 'green'
+      technology: 'Umweltfreundliches Papier oder Karton mit Drucktechniken (Folienprägung, Siebdruck).'
+      advantages: 'Geringe Kosten, einfache Massenproduktion, umweltfreundlich.'
+      bestFor: 'Budgetbewusste oder umweltorientierte Bademodenmarken.'
+
+    - id: 8
+      name: 'Etikettenfreies Design'
+      icon: 'heart'
+      gradient: 'pink'
+      technology: 'Heißtransfer oder Stickerei druckt Markeninformationen direkt ins Kleidungsstück, kein physisches Etikett.'
+      advantages: 'Verbesserter Komfort, keine Hautreizung, ideal für empfindliche Haut.'
+      bestFor: 'Athletische Marken und komfortfokussierte Bademode.'
+
+    - id: 9
+      name: 'Lasergeschnittene Etiketten'
+      icon: 'bolt'
+      gradient: 'violet'
+      technology: 'Laserschneiden erstellt komplizierte Muster auf Leder, Stoff oder synthetischen Materialien.'
+      advantages: 'Präzise, effizient, fähig zu komplexen Designs.'
+      bestFor: 'Moderne Marken mit Liebe zum Detail, High-End-Bademode.'
+
+    - id: 10
+      name: 'Reflektierende Etiketten'
+      icon: 'lightbulb'
+      gradient: 'yellow'
+      technology: 'Reflektierende Materialien verbessern Markensichtbarkeit und Sicherheit.'
+      advantages: 'Verbessert Nachtsicherheit, fügt modische Note hinzu.'
+      bestFor: 'Athletische und Outdoor-Bademodenmarken, die Funktionalität priorisieren.'
+
+packaging:
+  badge: 'Nachhaltige Wahl'
+  title: 'Umweltfreundliche Verpackungslösungen'
+  description: 'Schützen Sie Ihre Produkte und den Planeten mit unseren nachhaltigen Verpackungsoptionen. Hergestellt aus recycelten und biologisch abbaubaren Materialien, die das Umweltengagement Ihrer Marke widerspiegeln.'
+
+  features:
+    - title: '100% recycelte Materialien'
+      description: 'Unsere Verpackungsbeutel bestehen aus Post-Consumer-Recyclingkunststoffen und reduzieren Abfall und Umweltbelastung.'
+      icon: 'arrowPath'
+      gradient: 'green'
+
+    - title: 'Biologisch abbaubare Optionen'
+      description: 'Wählen Sie aus kompostierbaren Materialien, die sich natürlich abbauen, ohne die Umwelt zu schädigen.'
+      icon: 'checkCircle'
+      gradient: 'emerald'
+
+    - title: 'CO2-neutraler Versand'
+      description: 'Unsere Verpackung ist so konzipiert, dass Versandgewicht und -volumen minimiert werden, wodurch CO2-Emissionen reduziert werden.'
+      icon: 'globe'
+      gradient: 'teal'
+
+    - title: 'FSC-zertifiziertes Papier'
+      description: 'Alle Papiermaterialien stammen aus verantwortungsvoll bewirtschafteten Wäldern mit FSC-Zertifizierung.'
+      icon: 'shield'
+      gradient: 'green'
+
+    - title: 'Individuelles Branding'
+      description: 'Vollständig anpassbar mit Ihrem Logo und Markenfarben unter Verwendung umweltfreundlicher Tinten und Druckverfahren.'
+      icon: 'sparkles'
+      gradient: 'emerald'
+
+    - title: 'Premium-Qualität'
+      description: 'Umweltfreundlich bedeutet nicht, Qualität zu kompromittieren. Unsere Beutel sind langlebig, wasserdicht und schützen Ihre Produkte.'
+      icon: 'checkBadge'
+      gradient: 'teal'
+
+  types:
+    - title: 'Recycelte Poly-Versandtaschen'
+      description: 'Wasserabweisende, reißfeste Beutel aus 100% recyceltem Kunststoff. In mehreren Größen mit individuellem Druck erhältlich.'
+      icon: 'archive'
+      gradient: 'green'
+
+    - title: 'Kraftpapiertüten'
+      description: 'Biologisch abbaubare Papiertüten mit verstärkten Griffen. Perfekt für Einzelhandels- und Ladenverpackungen.'
+      icon: 'document'
+      gradient: 'emerald'
+
+    - title: 'Kompostierbare Versandtaschen'
+      description: 'Pflanzenbasierte Verpackung, die sich in industriellen Kompostieranlagen innerhalb von 180 Tagen vollständig abbaut.'
+      icon: 'sparkles'
+      gradient: 'teal'
+
+    - title: 'Wiederverwendbare Stoffbeutel'
+      description: 'Premium-Baumwoll- oder recycelte Stoffbeutel, die Kunden wiederverwenden können und Ihre Markenreichweite erweitern.'
+      icon: 'arrowPath'
+      gradient: 'cyan'
+
+  impact:
+    title: 'Positive Wirkung erzielen'
+    description: 'Durch die Wahl unserer umweltfreundlichen Verpackung schützen Sie nicht nur Ihre Produkte - Sie schützen den Planeten und zeigen Ihren Kunden, dass Nachhaltigkeit wichtig ist.'
+    stats:
+      - value: '100%'
+        label: 'Recycelbar oder kompostierbar'
+      - value: '-60%'
+        label: 'CO2-Emissionen'
+      - value: '0'
+        label: 'Verwendete Neukunststoffe'
+
+cta:
+  title: 'Bereit, Ihre Marke zu erhöhen?'
+  description: 'Kontaktieren Sie uns noch heute, um Ihre individuellen Etiketten- und Verpackungsanforderungen zu besprechen. Unser Team hilft Ihnen, die perfekte Branding-Lösung zu schaffen, die Ihre einzigartige Identität widerspiegelt.'
+  button: 'Jetzt starten'
+  link: '/contact'
+  variant: 'blue'

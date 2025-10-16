@@ -132,15 +132,3 @@
     emit('details', item);
   };
 </script>
-
-<style scoped>
-  /* 隐藏滚动条但保持滚动功能 */
-  .scrollbar-hide {
-    -ms-overflow-style: none; /* IE and Edge */
-    scrollbar-width: none; /* Firefox */
-  }
-
-  .scrollbar-hide::-webkit-scrollbar {
-    display: none; /* Chrome, Safari and Opera */
-  }
-</style>

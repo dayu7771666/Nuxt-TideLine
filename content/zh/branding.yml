@@ -1,0 +1,193 @@
+title: '定制品牌标签和包装'
+description: '用高端定制标签和环保包装解决方案提升您的泳装品牌。从刺绣的优雅到可持续材料，我们将您的品牌愿景变为现实。'
+
+seo:
+  title: '定制品牌标签和包装 | Tideline Swimwear'
+  description: '为泳装品牌提供高端定制标签和环保包装解决方案。从刺绣、印刷、编织、PVC、皮革标签等中选择。提供可持续包装选项。'
+  keywords: '定制标签, 泳装品牌, 刺绣标签, 环保包装, 可持续包装, 品牌标识, 编织标签, PVC标签, 皮革标签'
+  ogTitle: '定制品牌标签和包装 | Tideline Swimwear'
+  ogDescription: '用高端定制标签和可持续包装解决方案提升您的泳装品牌。'
+  ogType: 'website'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '定制品牌标签和包装 | Tideline Swimwear'
+  twitterDescription: '为泳装品牌提供高端定制标签和环保包装。'
+
+hero:
+  image: '/sampling.webp'
+  alt: '定制品牌标签和包装'
+
+introduction:
+  title: '为什么定制品牌很重要'
+  description: '您的标签和包装是与客户的第一接触点。用我们结合品质、可持续性和风格的全面品牌解决方案让它们发挥作用。'
+  features:
+    - title: '品牌标识'
+      description: '用反映您独特品牌个性的定制标签创造持久印象'
+      icon: 'sparkles'
+      gradient: 'blue'
+    - title: '优质品质'
+      description: '耐用、持久的标签，即使经过多次洗涤也能保持外观'
+      icon: 'shield'
+      gradient: 'green'
+    - title: '环保'
+      description: '符合现代环境价值观的可持续材料和工艺'
+      icon: 'globe'
+      gradient: 'purple'
+
+labels:
+  title: '10种高端标签选项'
+  description: '从我们多样化的标签解决方案系列中选择，每种都为特定品牌需求和市场细分而设计'
+  types:
+    - id: 1
+      name: '刺绣标签'
+      icon: 'scissors'
+      gradient: 'purple'
+      technology: '机器或手工刺绣技术，在织物上缝制品牌名称或logo。'
+      advantages: '高耐用性，高级质感，非常适合高端泳装品牌。'
+      bestFor: '强调品质的奢华和高端品牌。'
+
+    - id: 2
+      name: '印刷标签'
+      icon: 'printer'
+      gradient: 'blue'
+      technology: '丝网印刷、热转印或UV印刷方法。'
+      advantages: '成本效益高，支持复杂设计，适合大批量生产。'
+      bestFor: '中端或大众市场泳装品牌。'
+
+    - id: 3
+      name: '热转印标签'
+      icon: 'fire'
+      gradient: 'orange'
+      technology: '热压技术将设计转移到标签上，通常用于聚酯或尼龙。'
+      advantages: '抗褪色，柔软舒适的触感。'
+      bestFor: '运动型和轻质功能性泳装。'
+
+    - id: 4
+      name: '编织标签'
+      icon: 'swatch'
+      gradient: 'indigo'
+      technology: '编织机使用尼龙或聚酯将品牌logo直接整合到标签纤维中。'
+      advantages: '高品质，耐用，高级质感。'
+      bestFor: '高端品牌或长期使用的泳装。'
+
+    - id: 5
+      name: 'PVC标签'
+      icon: 'cube'
+      gradient: 'cyan'
+      technology: '模压PVC塑料标签，带喷涂或印刷表面。'
+      advantages: '防水，防潮，现代时尚的外观。'
+      bestFor: '年轻、时尚的品牌，特别是户外或运动泳装。'
+
+    - id: 6
+      name: '皮革标签'
+      icon: 'star'
+      gradient: 'amber'
+      technology: '带压花或品牌logo的真皮或合成皮革。'
+      advantages: '奢华、高端的感觉，具有强烈的视觉冲击力。'
+      bestFor: '寻求提升品牌威望的奢侈品牌。'
+
+    - id: 7
+      name: '纸质吊牌'
+      icon: 'document'
+      gradient: 'green'
+      technology: '采用印刷技术（烫金、丝网印刷）的环保纸或卡纸。'
+      advantages: '成本低，易于大批量生产，环保。'
+      bestFor: '注重预算或注重环保的泳装品牌。'
+
+    - id: 8
+      name: '无标签设计'
+      icon: 'heart'
+      gradient: 'pink'
+      technology: '热转印或刺绣将品牌信息直接印在服装内部，无实体标签。'
+      advantages: '增强舒适度，无皮肤刺激，适合敏感肌肤。'
+      bestFor: '运动品牌和注重舒适的泳装。'
+
+    - id: 9
+      name: '激光切割标签'
+      icon: 'bolt'
+      gradient: 'violet'
+      technology: '激光切割在皮革、织物或合成材料上创建复杂图案。'
+      advantages: '精确、高效，能够实现复杂设计。'
+      bestFor: '注重细节的现代品牌，高端泳装。'
+
+    - id: 10
+      name: '反光标签'
+      icon: 'lightbulb'
+      gradient: 'yellow'
+      technology: '反光材料提高品牌可见性和安全性。'
+      advantages: '提高夜间安全性，增添时尚感。'
+      bestFor: '优先考虑功能性的运动和户外泳装品牌。'
+
+packaging:
+  badge: '可持续选择'
+  title: '环保包装解决方案'
+  description: '用我们的可持续包装选项保护您的产品和地球。采用可回收和可生物降解材料制成，反映您的品牌环保承诺。'
+
+  features:
+    - title: '100%回收材料'
+      description: '我们的包装袋由消费后回收塑料制成，减少废物和环境影响。'
+      icon: 'arrowPath'
+      gradient: 'green'
+
+    - title: '可生物降解选项'
+      description: '选择可堆肥材料，自然分解而不损害环境。'
+      icon: 'checkCircle'
+      gradient: 'emerald'
+
+    - title: '碳中和运输'
+      description: '我们的包装旨在最小化运输重量和体积，减少碳排放。'
+      icon: 'globe'
+      gradient: 'teal'
+
+    - title: 'FSC认证纸张'
+      description: '所有纸质材料均来自FSC认证的负责任管理的森林。'
+      icon: 'shield'
+      gradient: 'green'
+
+    - title: '定制品牌'
+      description: '使用环保油墨和印刷方法，完全可定制您的logo和品牌颜色。'
+      icon: 'sparkles'
+      gradient: 'emerald'
+
+    - title: '优质品质'
+      description: '环保不意味着妥协品质。我们的袋子耐用、防水，并保护您的产品。'
+      icon: 'checkBadge'
+      gradient: 'teal'
+
+  types:
+    - title: '回收聚袋'
+      description: '由100%回收塑料制成的防水、防撕裂袋。提供多种尺寸和定制印刷。'
+      icon: 'archive'
+      gradient: 'green'
+
+    - title: '牛皮纸袋'
+      description: '带加固手柄的可生物降解纸袋。非常适合零售和店内包装。'
+      icon: 'document'
+      gradient: 'emerald'
+
+    - title: '可堆肥邮袋'
+      description: '植物基包装，在180天内在工业堆肥设施中完全分解。'
+      icon: 'sparkles'
+      gradient: 'teal'
+
+    - title: '可重复使用布袋'
+      description: '高端棉或回收织物袋，客户可以重复使用，扩大您的品牌影响力。'
+      icon: 'arrowPath'
+      gradient: 'cyan'
+
+  impact:
+    title: '创造积极影响'
+    description: '选择我们的环保包装，您不仅仅是在保护产品——您在保护地球，并向客户展示可持续性的重要性。'
+    stats:
+      - value: '100%'
+        label: '可回收或可堆肥'
+      - value: '-60%'
+        label: '碳排放'
+      - value: '0'
+        label: '使用的原生塑料'
+
+cta:
+  title: '准备提升您的品牌了吗？'
+  description: '立即联系我们讨论您的定制标签和包装需求。我们的团队将帮助您创建反映您独特身份的完美品牌解决方案。'
+  button: '开始'
+  link: '/contact'
+  variant: 'blue'

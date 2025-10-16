@@ -1,0 +1,121 @@
+title: 'Usine de Maillots de Bain Grande Taille en Gros'
+description: "Plus qu'un fournisseur — votre partenaire dans la construction de marque de maillots de bain."
+
+seo:
+  title: 'Usine de Maillots de Bain Grande Taille en Gros | TIDELINE SWIMWEAR'
+  description: 'Fabricant premium de maillots de bain grande taille offrant des designs personnalisés, un confort exceptionnel et un ajustement parfait pour tous les types de corps. Prix de gros, tailles XL-6XL, MOQ faible.'
+  keywords: 'fabricant maillots de bain grande taille, bikini grande taille gros, fournisseur maillots de bain curvy, usine maillots de bain grande taille, maillots de bain tailles étendues, maillots de bain grande taille gros'
+  ogTitle: 'Usine de Maillots de Bain Grande Taille en Gros | TIDELINE SWIMWEAR'
+  ogDescription: 'Fabricant de maillots de bain grande taille. Designs personnalisés, tailles XL-6XL, confort et ajustement exceptionnels. Prix de gros disponibles.'
+  ogType: 'website'
+  ogImage: '/catalog/plus-swimwear-bg.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Usine de Maillots de Bain Grande Taille en Gros | TIDELINE SWIMWEAR'
+  twitterDescription: 'Fabrication de maillots de bain grande taille. Tailles XL-6XL, designs personnalisés, ajustement parfait pour tous les types de corps.'
+
+# Hero section
+hero:
+  cta_text: 'Consultation'
+  cta_href: '/contact'
+  image_src: '/catalog/plus-swimwear-bg.webp'
+  image_alt: 'Fabrication de Maillots de Bain Grande Taille'
+  image_width: '900'
+
+# Mission section
+mission:
+  title: 'Notre Mission'
+  paragraph1: "Chez TideLine Swimwear, nous savons que les maillots de bain grande taille sont une catégorie essentielle pour le marché de la mode d'aujourd'hui. Chaque saison, notre équipe de design crée des collections spécifiquement adaptées aux types de corps plus voluptueux—avec des coupes de soutien, des silhouettes flatteuses et des tissus durables—pour que chaque client puisse profiter à la fois du confort et de la confiance au bord de la piscine ou à la plage."
+  whatsapp_link_text: 'Contactez-nous sur WhatsApp'
+
+# Statistics
+stats:
+  - label: "Expérience dans l'Industrie des Maillots de Bain"
+    value: '10 ans +'
+  - label: 'Commandes Réalisées'
+    value: '1,000,000+'
+
+# Product categories
+categories:
+  - name: 'Bikinis'
+    href: '/category?type=plus-size&subtype=bikini'
+    imageSrc: '/plus-swimwear/bikinis/bikini-1.webp'
+    imageAlt: 'Collection de Bikinis Grande Taille'
+  - name: 'Maillots Une Pièce'
+    href: '/category?type=plus-size&subtype=one-piece'
+    imageSrc: '/plus-swimwear/one-piece/one-piece-1.webp'
+    imageAlt: 'Collection Une Pièce Grande Taille'
+  - name: 'Tankinis'
+    href: '/category?type=plus-size&subtype=tankini'
+    imageSrc: '/plus-swimwear/tankini/tankini-1.webp'
+    imageAlt: 'Collection de Tankinis Grande Taille'
+  - name: 'Paréos de Plage'
+    href: '/category?type=plus-size&subtype=cover-up'
+    imageSrc: '/plus-swimwear/beach/beach-2.webp'
+    imageAlt: 'Collection de Paréos de Plage Grande Taille'
+
+# Customization capabilities
+customization:
+  title: 'Capacités de Personnalisation'
+  description: 'Maillots de bain entièrement personnalisables—TideLine accepte tous les designs personnalisés, tissus, accessoires, logos et emballages pour donner vie à votre vision de marque.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: 'Installation de Fabrication'
+  hero_image_width: '1000'
+  features:
+    - name: 'Personnalisation de Style'
+      description: "Donnez vie à n'importe quel design de maillot de bain—choisissez votre style parfait et laissez-nous le créer pour votre marque."
+      link: '/contact'
+      cta_text: 'Consultation'
+    - name: 'Personnalisation de Tissu'
+      description: 'Choisissez parmi une large gamme de tissus pour créer des maillots de bain confortables à porter et beaux à voir.'
+      link: '/fabric'
+      cta_text: 'Tissu'
+    - name: "Personnalisation d'Accessoires"
+      description: "Personnalisez chaque détail—des boucles et anneaux aux fermetures éclair—nos options d'accessoires élèvent votre design."
+      link: '/hardware'
+      cta_text: 'Accessoires'
+    - name: 'Personnalisation de Logo'
+      description: 'Rendez-le vraiment vôtre—ajoutez votre logo à chaque pièce pour un look de marque professionnel.'
+    - name: "Personnalisation d'Emballage"
+      description: 'Complétez votre expérience de marque avec un emballage adapté à votre style et vision.'
+    - name: 'Contactez-nous'
+      description: 'Prêt ? Transformons vos idées de maillots de bain en réalité.'
+      link: '/contact'
+      cta_text: 'Contactez-nous'
+
+# Getting Started section
+getting_started:
+  title: 'Votre voyage dans les maillots de bain commence ici'
+  description: 'Que vous lanciez votre première collection ou que vous développiez votre marque, TideLine fournit des solutions de maillots de bain sur mesure pour répondre à vos besoins. Choisissez votre chemin et commencez.'
+  beginner_text: 'Commencer en tant que Débutant'
+  beginner_href: '/startup'
+  pro_text: 'Acheteur Expérimenté'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: 'Processus de Fabrication'
+  image_width: '1000'
+
+# FAQ section
+faq:
+  title: 'Questions Fréquemment Posées'
+  questions:
+    - id: 1
+      question: 'Proposez-vous des styles de maillots de bain grande taille en gros ?'
+      answer: "Oui, nous proposons une large gamme d'options de maillots de bain grande taille, incluant des styles tendance et classiques, disponibles pour les commandes en gros à des prix compétitifs."
+    - id: 2
+      question: 'Quelle est la quantité minimale de commande pour les maillots de bain grande taille ?'
+      answer: 'Notre quantité minimale de commande (MOQ) pour les maillots de bain grande taille est de 30 pièces par style, avec un minimum de 10 pièces par taille. Nous visons à rendre les commandes en gros faciles et flexibles pour votre entreprise.'
+    - id: 3
+      question: 'Puis-je personnaliser les designs pour les maillots de bain grande taille ?'
+      answer: "Absolument ! Nous fournissons des options de personnalisation complètes pour les maillots de bain grande taille, incluant l'impression de logos, les choix de tissus, les couleurs et même l'emballage pour correspondre à l'identité de votre marque."
+    - id: 4
+      question: 'Quelles tailles sont disponibles dans votre collection de maillots de bain grande taille ?'
+      answer: 'Nous proposons une large gamme de tailles, du XL au 6XL, garantissant que vous pouvez répondre aux besoins de votre clientèle diversifiée. Nos tableaux de tailles sont disponibles pour des mesures précises.'
+    - id: 5
+      question: 'Quels matériaux sont utilisés dans vos maillots de bain grande taille ?'
+      answer: 'Nos maillots de bain grande taille sont fabriqués à partir de tissus de haute qualité et extensibles comme le spandex et le nylon, garantissant confort, durabilité et une coupe flatteuse pour tous les types de corps.'
+    - id: 6
+      question: 'Combien de temps faudra-t-il pour réaliser une commande de maillots de bain grande taille ?'
+      answer: "Typiquement, notre temps de production pour les maillots de bain grande taille est de 7-15 jours selon la taille de la commande et les exigences de personnalisation. Les délais d'expédition peuvent varier selon votre localisation."
+    - id: 7
+      question: 'Proposez-vous des services de dropshipping pour les maillots de bain grande taille ?'
+      answer: 'Oui, nous supportons le dropshipping pour les maillots de bain grande taille. Cela signifie que nous pouvons expédier directement à vos clients, incluant un emballage personnalisé avec votre marque, sans que vous ayez à détenir des stocks.'

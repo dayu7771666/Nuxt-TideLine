@@ -1,0 +1,154 @@
+title: 'Hardware e Acabamentos Premium para Roupas de Banho'
+description: 'Eleve seus designs de roupas de banho com nossa seleção curada de hardware e acabamentos de alta qualidade. De elásticos resistentes ao cloro a acessórios metálicos duráveis, cada detalhe importa na criação de roupas de banho duradouras.'
+
+seo:
+  title: 'Hardware e Acabamentos para Roupas de Banho | Acessórios de Qualidade Premium | Tideline Swim'
+  description: 'Eleve seus designs de roupas de banho com hardware e acabamentos premium. Elásticos resistentes ao cloro, acessórios metálicos à prova de ferrugem, copas de busto e opções de marca personalizadas. Componentes de roupas de banho certificados em qualidade.'
+  keywords: 'hardware para roupas de banho, acessórios de maiô, elástico resistente ao cloro, fivelas metálicas, copas de busto, acabamentos para roupas de banho, gancho e ilhó, alças ajustáveis, etiquetas de roupas de banho, hardware personalizado'
+  ogTitle: 'Hardware e Acabamentos Premium para Roupas de Banho | Tideline Swim'
+  ogDescription: 'Eleve seus designs de roupas de banho com hardware e acabamentos premium. Elásticos resistentes ao cloro, acessórios metálicos à prova de ferrugem e opções de marca personalizadas.'
+  ogType: 'website'
+  ogImage: '/hardware/hardware-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Hardware e Acabamentos Premium para Roupas de Banho | Tideline Swim'
+  twitterDescription: 'Hardware e acabamentos para roupas de banho certificados em qualidade. Componentes resistentes ao cloro, duráveis e personalizáveis para seus designs.'
+
+hero:
+  ctaButton: 'Explore Nosso Catálogo de Hardware'
+
+gallery:
+  title: 'Nossa Coleção de Hardware'
+  description: 'Navegue por nossa ampla gama de hardware e acabamentos específicos para roupas de banho, cuidadosamente selecionados por durabilidade, funcionalidade e apelo estético.'
+  categories:
+    - name: 'Hardware Metálico'
+      description: 'Fivelas, anéis, deslizadores e elementos decorativos resistentes à ferrugem'
+      image: '/hardware/metal-hardware.webp'
+      items:
+        - 'Anéis D & Anéis O'
+        - 'Deslizadores Ajustáveis'
+        - 'Fivelas Decorativas'
+        - 'Ilhoses Metálicos'
+    - name: 'Elásticos e Alças'
+      description: 'Elásticos e alças ajustáveis resistentes ao cloro'
+      image: '/hardware/elastic-straps.webp'
+      items:
+        - 'Faixas Elásticas para Roupas de Banho'
+        - 'Alças de Sutiã Ajustáveis'
+        - 'Cordões Trançados Decorativos'
+        - 'Malha Power'
+    - name: 'Fechos e Prendedores'
+      description: 'Sistemas de fecho seguros e confortáveis'
+      image: '/hardware/closures-fasteners.webp'
+      items:
+        - 'Conjuntos de Gancho e Ilhó'
+        - 'Botões de Pressão'
+        - 'Fivelas de Plástico'
+        - 'Fechos Magnéticos'
+    - name: 'Suporte de Busto'
+      description: 'Copas profissionais e estruturas de suporte'
+      image: '/hardware/bust-support.webp'
+      items:
+        - 'Copas Moldadas (A-DD)'
+        - 'Enchimento de Espuma'
+        - 'Canais de Arame'
+        - 'Bolsos de Copa Removíveis'
+    - name: 'Etiquetas e Tags'
+      description: 'Etiquetas de marca e cuidado personalizadas'
+      image: '/hardware/labels-tags.webp'
+      items:
+        - 'Etiquetas Tecidas'
+        - 'Etiquetas de Cuidado Impressas'
+        - 'Tags Penduradas'
+        - 'Etiquetas de Tamanho'
+    - name: 'Acabamentos Decorativos'
+      description: 'Adicione toques únicos aos seus designs'
+      image: '/hardware/decorative.webp'
+      items:
+        - 'Correntes com Contas'
+        - 'Apliques de Lantejoulas'
+        - 'Patches Bordados'
+        - 'Detalhes de Strass'
+
+features:
+  title: 'Por que escolher nosso hardware?'
+  description: 'Fornecemos apenas hardware de mais alta qualidade específico para roupas de banho que atende aos padrões internacionais de durabilidade e segurança.'
+  items:
+    - title: 'Resistente ao Cloro'
+      description: 'Todo o nosso hardware é testado para resistência ao cloro, água salgada e exposição UV para garantir desempenho duradouro.'
+      icon: 'ShieldCheckIcon'
+    - title: 'Opções Sem Níquel'
+      description: 'Oferecemos opções de hardware metálico hipoalergênico sem níquel para pele sensível, atendendo aos padrões da UE.'
+      icon: 'HeartIcon'
+    - title: 'Correspondência de Cores'
+      description: 'Ampla gama de cores para combinar perfeitamente com suas escolhas de tecido, com correspondência de cores personalizada disponível.'
+      icon: 'SwatchIcon'
+    - title: 'Qualidade Certificada'
+      description: 'Todo o hardware atende aos padrões OEKO-TEX® e internacionais de segurança de roupas de banho.'
+      icon: 'CheckBadgeIcon'
+
+process:
+  title: 'Como Encomendar Hardware'
+  description: 'Nosso processo simplificado facilita a obtenção do hardware exato de que você precisa para sua produção de roupas de banho.'
+  steps:
+    - number: 1
+      title: 'Navegar e Selecionar'
+      description: 'Revise nosso catálogo de hardware e selecione os itens de que precisa. Solicite amostras físicas se necessário para garantir combinação perfeita com seus designs.'
+    - number: 2
+      title: 'Confirmar Especificações'
+      description: 'Forneça detalhes sobre quantidades, cores e requisitos de personalização. Nossa equipe confirmará disponibilidade e prazos de entrega.'
+    - number: 3
+      title: 'Receber Amostras'
+      description: 'Para pedidos grandes, podemos enviar conjuntos de amostras para sua aprovação antes da produção em massa para garantir qualidade e ajuste.'
+    - number: 4
+      title: 'Fazer Pedido'
+      description: 'Uma vez aprovado, faça seu pedido com MOQ claro e cronograma de entrega. Cuidamos do fornecimento e inspeção de qualidade.'
+    - number: 5
+      title: 'Controle de Qualidade e Entrega'
+      description: 'Todo o hardware passa por controle de qualidade rigoroso antes do envio. Coordenamos a entrega com seu cronograma de produção.'
+
+specifications:
+  title: 'Especificações Técnicas'
+  description: 'Compreender as especificações do hardware garante integração perfeita com seus designs de roupas de banho.'
+  items:
+    - category: 'Hardware Metálico'
+      specs:
+        - 'Material: Aço inoxidável, latão ou liga de zinco'
+        - 'Acabamento: Polido, escovado ou revestido a pó'
+        - 'Resistência à corrosão: Teste de névoa salina 48+ horas'
+        - 'Tamanhos disponíveis: 10mm a 50mm'
+    - category: 'Elásticos e Alças'
+      specs:
+        - 'Material: Mistura de nylon/spandex ou poliéster'
+        - 'Recuperação de estiramento: 95%+ após 100 ciclos'
+        - 'Resistência ao cloro: 200+ horas de exposição'
+        - 'Faixa de largura: 3mm a 25mm'
+    - category: 'Fechos'
+      specs:
+        - 'Força do gancho: 3-5 kg de força de tração'
+        - 'Durabilidade do botão de pressão: 1000+ ciclos de abertura/fechamento'
+        - 'Resistência à temperatura: -20°C a 60°C'
+        - 'Opções sem níquel disponíveis'
+
+faq:
+  title: 'FAQ de Hardware'
+  items:
+    - question: 'Qual é a quantidade mínima de pedido (MOQ) para hardware?'
+      answer: 'As MOQs variam por tipo de item. Itens de hardware padrão geralmente têm MOQs de 100-500 peças por cor/tamanho. Para hardware personalizado ou acabamentos especiais, as MOQs podem ser maiores (1000+ peças). Entre em contato conosco para MOQs específicas de itens.'
+    - question: 'Posso encomendar amostras de hardware antes da compra em massa?'
+      answer: 'Sim! Oferecemos conjuntos de amostras para a maioria dos itens de hardware. Os custos de amostras são tipicamente de $20-50 por conjunto e podem ser creditados em seu pedido em massa. Isso permite que você teste qualidade, correspondência de cores e ajuste antes de se comprometer com grandes quantidades.'
+    - question: 'Vocês oferecem hardware personalizado com meu logotipo de marca?'
+      answer: 'Absolutamente. Podemos personalizar hardware metálico (fivelas, deslizadores, pingentes) com seu logotipo de marca através de gravação ou relevo. Etiquetas e tags personalizados também estão disponíveis. As MOQs para itens personalizados geralmente começam em 1000 peças.'
+    - question: 'Como me certifico de que as cores do hardware correspondem ao meu tecido?'
+      answer: 'Recomendamos encomendar amostras de tecido e amostras de hardware juntas para comparação física. Também podemos fornecer referências de cores Pantone para a maioria dos itens de hardware e oferecer serviços de correspondência de cores personalizada para pedidos maiores.'
+    - question: 'Qual é o prazo de entrega para pedidos de hardware?'
+      answer: 'Hardware padrão em estoque: 3-7 dias. Cores ou acabamentos personalizados: 2-3 semanas. Hardware de marca personalizado: 4-6 semanas. Sempre confirmamos cronogramas exatos quando você faz seu pedido e podemos acelerar para projetos urgentes.'
+    - question: 'Seus itens de hardware são testados para uso em roupas de banho?'
+      answer: 'Sim, todo o nosso hardware é especificamente selecionado para aplicações de roupas de banho. Realizamos testes de resistência ao cloro, testes de névoa salina e testes de exposição UV para garantir durabilidade. Relatórios de teste estão disponíveis mediante solicitação.'
+    - question: 'Vocês podem me ajudar a escolher o hardware certo para meu design?'
+      answer: 'Claro! Nossa equipe tem vasta experiência em seleção de hardware para roupas de banho. Compartilhe seus esboços de design ou pacotes técnicos, e podemos recomendar as opções de hardware mais adequadas com base em funcionalidade, estética e orçamento.'
+
+cta:
+  title: 'Pronto para Fornecer seu Hardware?'
+  description: 'Entre em contato com nossos especialistas em hardware para discutir suas necessidades. Podemos fornecer amostras, especificações técnicas e preços para sua próxima coleção de roupas de banho.'
+  button: 'Solicitar Catálogo de Hardware'
+  link: '/contact'

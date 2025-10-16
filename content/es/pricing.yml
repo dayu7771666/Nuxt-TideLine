@@ -1,0 +1,202 @@
+title: 'Guía de Precios de Fabricación B2B'
+description: 'Precios transparentes y flexibles para marcas emergentes de trajes de baño. Lanza tu colección con tan solo 60 piezas.'
+
+seo:
+  title: 'Precios de Fabricación de Trajes de Baño B2B - Transparente y Flexible | Tideline'
+  description: 'Precios transparentes de fabricación de trajes de baño B2B. Comienza con solo 60 piezas. Obtén cotizaciones personalizadas para tu marca de trajes de baño con opciones de pedido flexibles.'
+  keywords: 'precios de fabricación de trajes de baño, costos B2B de trajes de baño, MOQ de trajes de baño, precios personalizados de trajes de baño, costos de producción de trajes de baño, precios mayoristas de trajes de baño, costos de muestreo de trajes de baño'
+  ogTitle: 'Precios de Fabricación de Trajes de Baño B2B - Transparente y Flexible | Tideline'
+  ogDescription: 'Precios transparentes de fabricación de trajes de baño B2B. Comienza con solo 60 piezas. Obtén cotizaciones personalizadas para tu marca.'
+  ogType: 'website'
+  ogImage: '/img/pricing-hero.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Precios de Fabricación de Trajes de Baño B2B | Tideline'
+  twitterDescription: 'Precios transparentes para marcas de trajes de baño. Comienza con solo 60 piezas. Opciones de pedido flexibles disponibles.'
+
+hero:
+  image: '/img/pricing-hero.webp'
+
+initialCosts:
+  title: 'Costos Iniciales Únicos'
+  description: 'Inversión inicial para desarrollo de producto y muestreo'
+  cards:
+    - id: 1
+      icon: '/pricing/sampling.avif'
+      title: 'Desarrollo y Muestreo'
+      items:
+        - name: 'Servicio de Desarrollo de Diseño'
+          cost: '$69 / estilo'
+        - name: 'Set de Muestras Completo'
+          cost: '$50 - $200 / estilo'
+      note: 'El 50% de la tarifa de muestra se acredita cuando el pedido a granel cumple con el MOQ'
+    - id: 2
+      icon: '/pricing/tooling.avif'
+      title: 'Tarifas de Herramientas y Moldes'
+      items:
+        - name: 'Kit de Decoración Estándar'
+          cost: '$50 / elemento'
+        - name: 'Molde de Forro Higiénico'
+          cost: '$30 / estilo'
+        - name: 'Molde de Etiqueta de Cuidado'
+          cost: '$30 - $50 / estilo'
+    - id: 3
+      icon: '/pricing/fabric.avif'
+      title: 'Tela y Muestras'
+      items:
+        - name: 'Tarjetas de Color / Muestras Pequeñas'
+          cost: 'GRATIS'
+        - name: 'Muestra de Impresión Digital A4'
+          cost: 'GRATIS'
+        - name: 'Muestra de Tela de 1+ Metro'
+          cost: '$10 / metro'
+      note: 'Envío no incluido para muestras de tela'
+
+process:
+  title: 'Nuestro Proceso de Fabricación'
+  description: 'Proceso simple de 5 pasos desde el concepto hasta la entrega'
+  steps:
+    - id: 1
+      title: 'Consulta y Diseño'
+      description: 'Discutimos tu visión y proporcionamos orientación de diseño'
+    - id: 2
+      title: 'Desarrollo de Muestras'
+      description: 'Creamos muestras físicas para tu aprobación'
+    - id: 3
+      title: 'Revisiones y Finalización'
+      description: 'Refinamos las muestras según tus comentarios'
+    - id: 4
+      title: 'Producción a Granel'
+      description: 'Fabricamos tu pedido completo'
+    - id: 5
+      title: 'Control de Calidad y Envío'
+      description: 'Inspeccionamos cada pieza y organizamos la entrega'
+
+productionCosts:
+  title: 'Costos de Producción por Unidad'
+  description: 'Costos aplicados a cada pieza en tu pedido a granel'
+  cards:
+    - id: 1
+      icon: '/pricing/base.webp'
+      title: 'Costo Base del Producto'
+      items:
+        - name: 'Complejidad del Diseño'
+          cost: 'Varía según el estilo'
+        - name: 'Selección de Tela'
+          cost: 'Premium vs. estándar'
+        - name: 'Cantidad del Pedido'
+          cost: 'Se aplican descuentos por volumen'
+        - name: 'Personalizado vs. Catálogo'
+          cost: 'Premium de diseño personalizado'
+      note: 'Contáctanos para precios detallados según tus requisitos específicos'
+    - id: 2
+      icon: '/pricing/brand.webp'
+      title: 'Branding y Empaquetado'
+      items:
+        - name: 'Etiqueta de Cuidado'
+          cost: '~ $0.15 / unidad'
+        - name: 'Forro Higiénico'
+          cost: '~ $0.15 / unidad'
+        - name: 'Etiqueta Colgante'
+          cost: '~ $0.15 / unidad'
+        - name: 'Caja de Regalo / Empaquetado'
+          cost: '~ $1.00 / unidad'
+        - name: 'Adornos y Accesorios Especiales'
+          cost: '~ $0.10 - $0.70 / unidad'
+      note: 'Los costos de herramientas se absorben en los precios por unidad'
+
+flexibility:
+  title: 'Opciones de Pedido Flexibles'
+  description: 'Nos adaptamos a las necesidades de tu negocio con múltiples opciones flexibles'
+  items:
+    - id: 1
+      icon: 'heroicons:cube'
+      title: 'Pedido Mínimo Mixto'
+      description: 'Comienza con solo 60 piezas totales entre estilos, colores y tallas. No necesitas pedir grandes cantidades de un solo artículo.'
+    - id: 2
+      icon: 'heroicons:currency-dollar'
+      title: 'Crédito de Tarifa de Muestra'
+      description: 'Recupera el 50% de tus costos de muestra cuando hagas un pedido a granel. Invertimos en tu éxito.'
+    - id: 3
+      icon: 'heroicons:wrench-screwdriver'
+      title: 'Sin Tarifas de Herramientas Ocultas'
+      description: 'Absorbemos los costos de moldes en precios por unidad para simplicidad y transparencia.'
+    - id: 4
+      icon: 'heroicons:chart-bar-square'
+      title: 'Producción Escalable'
+      description: 'Aumenta fácilmente las cantidades a medida que crece tu negocio. Acomodamos pedidos de 60 a 60,000 piezas.'
+    - id: 5
+      icon: 'heroicons:swatch'
+      title: 'Coincidencia de Color Personalizada'
+      description: 'Coincidencia de color precisa sin mínimos. Crea los colores únicos de tu marca sin grandes compromisos.'
+    - id: 6
+      icon: 'heroicons:truck'
+      title: 'Envío Flexible'
+      description: 'Elige tu método de envío y cronograma preferido. Trabajamos con transportistas principales en todo el mundo.'
+
+budgetExample:
+  title: 'Ejemplo de Presupuesto'
+  description: 'Lanzamiento de una colección de 2 estilos con 100 piezas totales'
+  chartData:
+    - name: 'Desarrollo Inicial'
+      amount: 388
+      percentage: 17
+      color: 'bg-gradient-to-r from-blue-600 to-blue-400'
+    - name: 'Producción a Granel'
+      amount: 1800
+      percentage: 81
+      color: 'bg-gradient-to-r from-orange-500 to-orange-400'
+    - name: 'Branding'
+      amount: 30
+      percentage: 2
+      color: 'bg-gradient-to-r from-green-500 to-green-400'
+  tableData:
+    - stage: 'Desarrollo Inicial'
+      item: 'Desarrollo de Diseño ($69 × 2 estilos)'
+      cost: '$138'
+      rowspan: 3
+    - item: 'Sets de Muestras ($125 × 2 estilos)'
+      cost: '$250'
+    - item: 'Subtotal'
+      cost: '$388'
+      isSubtotal: true
+    - stage: 'Producción a Granel'
+      item: 'Costo Base del Producto ($18 × 100 unidades)'
+      cost: '$1,800'
+      rowspan: 3
+    - item: 'Branding (Etiquetas Colgantes + Etiquetas de Cuidado)'
+      cost: '$30'
+    - item: 'Subtotal'
+      cost: '$1,830'
+      isSubtotal: true
+    - stage: ''
+      item: 'Inversión Total Estimada'
+      cost: '$2,218'
+      isSubtotal: true
+  note: 'Nota: Los pedidos subsiguientes serán significativamente más bajos ya que las tarifas de desarrollo y muestras son costos únicos.'
+
+cta:
+  title: '¿Listo para Lanzar tu Línea de Trajes de Baño?'
+  description: 'Nuestro equipo está listo para ayudarte a dar vida a tus diseños con precios transparentes y opciones flexibles adaptadas a tu marca.'
+  buttons:
+    - text: 'Solicitar Cotización Personalizada'
+      primary: true
+
+contact:
+  title: 'Obtén tu Cotización Personalizada'
+  subtitle: 'Cuéntanos sobre tu proyecto y te proporcionaremos precios detallados'
+  formLabels:
+    nameLabel: 'Nombre Completo'
+    namePlaceholder: 'Ingresa tu nombre completo'
+    emailLabel: 'Dirección de Correo Electrónico'
+    emailPlaceholder: 'Ingresa tu dirección de correo electrónico'
+    messageLabel: 'Detalles del Proyecto'
+    messagePlaceholder: 'Cuéntanos sobre tu proyecto de línea de trajes de baño, cantidades, cronograma y cualquier requisito específico...'
+    submitButton: 'Solicitar Cotización'
+    successMessage: '¡Gracias! Te enviaremos una cotización detallada dentro de 24 horas.'
+  guideTitle: 'Qué Incluir en tu Mensaje:'
+  guideItems:
+    - 'Número de estilos que estás planeando'
+    - 'Cantidades estimadas por estilo'
+    - 'Tu cronograma de lanzamiento objetivo'
+    - 'Cualquier requisito de diseño específico'
+    - 'Tu rango de presupuesto (si te sientes cómodo compartiéndolo)'

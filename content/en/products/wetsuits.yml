@@ -1,0 +1,70 @@
+hero:
+  title: 'Wetsuits & Water Sports Suits Collection'
+  description: 'Comprehensive collection of wetsuits, rash guards, and water sports suits. From thermal full-body suits to UV protection shorties, designed for diving, surfing, swimming, and all water activities.'
+
+seo:
+  title: 'Wetsuits & Water Sports Suits Collection | TIDELINE SWIMWEAR'
+  description: 'Wholesale wetsuits & water sports suits - thermal wetsuits, rash guards, shorties, tankinis. UV protection, thermal insulation. Men, women, kids sizes.'
+  keywords: 'wetsuits, rash guards, shorty wetsuits, thermal suits, UV protection swimwear, diving suits, surfing wetsuits, wholesale water sports suits, kids wetsuits'
+  ogTitle: 'Wetsuits & Water Sports Suits Collection | TIDELINE SWIMWEAR'
+  ogDescription: 'Wholesale wetsuits & water sports suits. Complete protection for all water activities.'
+  ogType: 'website'
+  ogImage: '/products/wetsuits-collection.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: 'Wetsuits & Water Sports Suits Collection | TIDELINE SWIMWEAR'
+  twitterDescription: 'Wetsuits & water sports suits wholesale. Complete water protection solutions.'
+
+products:
+  - id: 1
+    name: "Women's Short-Sleeve Shorty Wetsuit (2mm)"
+    description: 'A black short-sleeve, short-leg springsuit with vibrant magenta contrast panels on the shoulders and dark gray flatlock stitching, suitable for surface watersports and warm water activities.'
+    imageSrc: '/products/wetsuits/V01.png'
+    imageAlt: 'Black shorty wetsuit for women with magenta shoulder panels and high collar, short-sleeve spring style'
+
+  - id: 2
+    name: "Women's Long-Sleeve Rash Guard Swimsuit"
+    description: 'A black long-sleeve, full-leg swimsuit with a prominent hot pink high collar and front zipper, offering excellent sun protection and a form-fitting silhouette for swimming and surfing.'
+    imageSrc: '/products/wetsuits/V02.png'
+    imageAlt: 'Black and hot pink long-sleeve rash guard wetsuit for women, ideal for swimming and surfing'
+
+  - id: 3
+    name: "Women's Print-Trim Tankini Swimsuit Set"
+    description: 'A black V-neck tankini top with a stylish leopard print accent band and tie-side bikini bottoms, offering adjustable fit and a fashionable look for beach and pool activities.'
+    imageSrc: '/products/wetsuits/V03.png'
+    imageAlt: 'Black tankini swimsuit for women with leopard print trim and tie-side bottoms'
+
+  - id: 4
+    name: "Women's Black Swim Dress Tankini Set"
+    description: 'A black tankini top featuring a flattering sweetheart neckline, ruched detailing, and a flared, ruffled peplum hem, paired with classic bikini bottoms for elegant pool and beach wear.'
+    imageSrc: '/products/wetsuits/V04.png'
+    imageAlt: 'Black tiered swim dress tankini for women with subtle ruching and sweetheart neckline'
+
+  - id: 5
+    name: "Women's Full-Body Thermal Wetsuit"
+    description: 'A sleek, full-length black diving suit featuring a high-contrast yellow collar and front zipper, designed for maximum coverage and thermal protection in cooler waters.'
+    imageSrc: '/products/wetsuits/V05.png'
+    imageAlt: 'Full wetsuit for women, black with bright yellow zipper and collar, full-body coverage'
+
+  - id: 6
+    name: "Kids' Thermal Shorty Wetsuit"
+    description: 'A black and royal blue long-sleeve, short-leg wetsuit designed for children, featuring a full front zipper for easy dressing and thermal insulation for safe water play.'
+    imageSrc: '/products/wetsuits/V06.png'
+    imageAlt: "Kids' wetsuit shorty, black and blue long-sleeve with front zip, for swimming and beach play"
+
+  - id: 7
+    name: "Men's Short-Sleeve Shorty Wetsuit"
+    description: 'A black and bright blue short-sleeve, short-leg wetsuit, ideal for temperate waters, featuring a simple crew neck and anatomical fit for comfortable movement during water sports.'
+    imageSrc: '/products/wetsuits/V07.png'
+    imageAlt: 'Shorty wetsuit for men, black and vivid blue with short sleeves and legs, ideal for tropical diving'
+
+  - id: 8
+    name: "Men's Performance Full Wetsuit with Knee Pads"
+    description: 'A full-body black wetsuit featuring striking red and white contoured panels on the chest and arms, and durable, textured knee protection for professional diving and surfing.'
+    imageSrc: '/products/wetsuits/V08.png'
+    imageAlt: 'Full wetsuit for men, black with red and white athletic paneling and durable knee pads'
+
+  - id: 9
+    name: "Women's Shorty Springsuit with UV Protection"
+    description: 'A black short-sleeve, short-leg springsuit/rash guard with technical purple and gray piping details, optimized for warmer water activities like snorkeling, paddleboarding, and beach sports.'
+    imageSrc: '/products/wetsuits/V09.png'
+    imageAlt: 'Shorty wetsuit for women, black short-sleeve with lavender trim and contour lines for UV protection'

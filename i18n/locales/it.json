@@ -1,12 +1,59 @@
 {
-  "hello": "helloEN",
-  "Home": "Casa",
+  "hello": "helloIT",
+  "Home": "Home",
   "Contact": "Contatto",
-  "支付成功": "Pagamento riuscito",
-  "感谢您的购买！": "Grazie per il tuo acquisto!",
-  "返回首页": "Torna alla home",
-  "描述": "Descrizione",
+  "Make it Real": "Rendilo Reale",
+  "Get Custom Pricing": "Ottieni Prezzi Personalizzati",
+  "TideHeader": {
+    "加载导航时出错": "Errore nel caricamento della navigazione",
+    "加载中": "Caricamento"
+  },
+  "LanguageSwitcher": {
+    "关闭语言菜单": "Chiudi menu lingua",
+    "打开语言菜单": "Apri menu lingua"
+  },
+  "ContactForm": {
+    "consentText": "Compilando questo modulo, accetti i",
+    "terms": "Termini di TideLine"
+  },
+  "你离自己的泳装品牌，只差一个决定": "Il tuo marchio di costumi da bagno è a una sola decisione di distanza",
+  "免费获取1对1定制咨询，我们的专业团队将为您提供全方位的品牌创建与生产支持，开启您的泳装品牌之路。": "Ottieni una consulenza personalizzata gratuita uno-a-uno. Il nostro team professionale fornirà supporto completo per la creazione del marchio e la produzione per iniziare il tuo percorso nel marchio di costumi da bagno.",
+  "获取免费咨询": "Ottieni Consulenza Gratuita",
+  "立即咨询": "Consulta Ora",
+  "目录": "Indice",
+  "没有找到目录项": "Nessun indice trovato",
+  "最新文章": "Articoli Recenti",
+  "想创建自己的泳装品牌吗？": "Vuoi creare il tuo marchio di costumi da bagno?",
+  "我们提供一系列的服务，提供最具性价比的泳衣，同时我们也支持定制服务，让您的想法变成现实，为您轻松开启自己的泳装品牌！": "Forniamo una gamma di servizi, offrendo i costumi da bagno più convenienti. Supportiamo anche servizi personalizzati per trasformare le tue idee in realtà e aiutarti a iniziare facilmente il tuo marchio di costumi da bagno!",
+  "了解更多": "Scopri di Più",
+  "about": "riguardo",
+  "WhatsApp": "WhatsApp",
+  "联系我们": "Contattaci",
+  "文章未找到": "Articolo Non Trovato",
+  "successTitle": "Abbonamento Riuscito!",
+  "successMessage": "Grazie per esserti abbonato! Ora puoi godere dei seguenti vantaggi esclusivi:",
+  "benefit1": "Ricevi gli ultimi aggiornamenti sui prodotti e informazioni promozionali.",
+  "benefit2": "Ottieni notifiche anticipate su offerte a tempo limitato.",
+  "benefit3": "Goditi sconti esclusivi per membri.",
+  "backToHome": "Torna alla Home",
+  "联系我们页面内容": "Che tu stia cercando di saperne di più sui nostri servizi di personalizzazione o abbia domande sul processo di produzione, il nostro team è sempre pronto ad aiutarti. Ci impegniamo a fornire servizi di alta qualità e supporto personalizzato per garantire lo sviluppo fluido del tuo marchio. Se hai domande o vuoi saperne di più sui nostri prodotti e servizi, non esitare a contattarci attraverso i seguenti canali. Non vediamo l'ora di lavorare con te e aiutare il tuo marchio a crescere!",
   "地址": "Indirizzo",
+  "Xingcheng, HuludaoCity,Liaoning Province, China": "Xingcheng, Città di Huludao, Provincia di Liaoning, Cina",
+  "加我我们的计划引言": "\"Il futuro dell'industria dei costumi da bagno è tutto incentrato sull'innovazione audace e sul rimanere avanti alle tendenze—unisciti a noi nel plasmare la prossima grande cosa e creiamo insieme qualcosa di indimenticabile!\"",
+  "First name": "Nome",
+  "Email": "Email",
+  "Message": "Messaggio",
+  "发表": "Invia",
+  "By submitting this form, I agree to the": "Inviando questo modulo, accetto i",
+  "条款": "Termini",
+  "请填写您的名字！": "Per favore inserisci il tuo nome!",
+  "邮箱不能为空！": "L'email non può essere vuota!",
+  "处理中...": "Elaborazione...",
+  "提交失败，请稍后重试": "Invio fallito, riprova più tardi",
+  "支付成功": "Pagamento Riuscito",
+  "感谢您的购买！": "Grazie per il tuo acquisto!",
+  "返回首页": "Torna alla Home",
+  "描述": "Descrizione",
   "FirstName": "Nome",
   "LastName": "Cognome",
   "Phone": "Telefono",
@@ -16,19 +63,151 @@
   "State/Province": "Stato/Provincia",
   "Postal code": "Codice postale",
   "Country/Region": "Paese/Regione",
-  "确认订单信息": "Conferma informazioni ordine",
-  "处理中...": "Elaborazione...",
+  "确认订单信息": "Conferma Informazioni Ordine",
   "不能为空": "non può essere vuoto",
   "保存地址失败，请重试": "Salvataggio indirizzo fallito, riprova",
   "Network fluctuation, please contact the administrator.": "Fluttuazione di rete, contatta l'amministratore.",
-  "请输入完整的地址信息": "Inserisci informazioni complete sull'indirizzo",
+  "请输入完整的地址信息": "Per favore inserisci informazioni complete dell'indirizzo",
   "支付系统加载失败，请刷新页面重试": "Caricamento sistema di pagamento fallito, aggiorna la pagina e riprova",
-  "TideHeader": {
-    "加载导航时出错": "Error loading navigation",
-    "加载中": "Loading"
+  "blog": {
+    "categories": "Categorie",
+    "tags": "Tag",
+    "all": "Tutti",
+    "showingPage": "Mostrando pagina",
+    "of": "di",
+    "totalArticles": "articoli totali",
+    "by": "Di",
+    "blogTagsTitle": "Tag del Blog",
+    "blogTags": {
+      "Bikini": "Bikini",
+      "Tankini": "Tankini",
+      "One-Piece": "Intero",
+      "Rash-Guard": "Rashguard",
+      "Trunks": "Boxer",
+      "Boardshorts": "Boardshorts",
+      "OEM": "OEM",
+      "ODM": "ODM",
+      "Private Label": "Marchio Privato",
+      "Factory": "Fabbrica",
+      "Supplier": "Fornitore",
+      "Manufacturing": "Produzione",
+      "Heat Transfer": "Trasferimento Termico",
+      "Logo Printing": "Stampa Logo",
+      "Size Guide": "Guida Taglie",
+      "Quality Control": "Controllo Qualità",
+      "Startup": "Startup",
+      "New Brand": "Nuovo Marchio",
+      "Small Business": "Piccola Impresa",
+      "Sampling": "Campionatura",
+      "MOQ": "MOQ",
+      "Bulk Production": "Produzione di Massa",
+      "AQL": "AQL",
+      "Incoterms": "Incoterms",
+      "Shipping": "Spedizione",
+      "Sustainable Materials": "Materiali Sostenibili",
+      "Eco-friendly": "Eco-compatibile"
+    },
+    "seoblog": {
+      "title": "Blog Industria Costumi da Bagno | Consigli, Tendenze e Approfondimenti Produttivi | Tideline Swim",
+      "description": "Approfondimenti esperti sulla produzione di costumi da bagno, tendenze di design, consigli di produzione e migliori pratiche del settore. Scopri OEM, ODM, campionatura, controllo qualità e produzione sostenibile di costumi da bagno.",
+      "keywords": "blog costumi da bagno, consigli produzione costumi, tendenze industria costumi, approfondimenti OEM ODM, guida produzione costumi, costumi sostenibili, controllo qualità, processo campionatura",
+      "ogImage": "/blog-og-image.jpg",
+      "twitterCard": "summary_large_image"
+    }
   },
-  "LanguageSwitcher": {
-    "关闭语言菜单": "Close language menu",
-    "打开语言菜单": "Open language menu"
+  "Follow Us :": "Seguici :",
+  "Free Quote": "Preventivo Gratuito",
+  "shipping": {
+    "title": "Politica di Spedizione",
+    "subtitle": "Soluzioni di spedizione globale affidabili per le esigenze del tuo business di costumi da bagno",
+    "orderTracking": {
+      "title": "Tracciamento Ordine",
+      "description": "Forniamo tracciamento completo per tutti gli ordini per assicurarti di rimanere informato sullo stato della tua spedizione ad ogni passo.",
+      "feature1": "I numeri di tracciamento vengono inviati via email entro 24 ore dalla spedizione",
+      "feature2": "Tracciamento in tempo reale disponibile sul nostro sito web o sul sito web del corriere",
+      "feature3": "Aggiornamenti regolari dello stato via email per ordini di produzione",
+      "feature4": "Account manager dedicato per ordini superiori a $10.000",
+      "trackTitle": "Traccia il Tuo Ordine: Inserisci il tuo numero di tracciamento qui sotto per controllare lo stato attuale della tua spedizione.",
+      "trackPlaceholder": "Inserisci numero di tracciamento",
+      "trackButton": "Traccia"
+    },
+    "methods": {
+      "title": "Metodi di Spedizione",
+      "description": "Offriamo diverse opzioni di spedizione basate sul tuo tipo di ordine e urgenza per soddisfare i tuoi specifici requisiti aziendali.",
+      "sample": {
+        "title": "Ordini Campione",
+        "description": "Per ordini campione, forniamo opzioni di spedizione accelerata per aiutarti a prendere decisioni rapide:",
+        "express": "Corriere Express",
+        "expressTime": "DHL, FedEx, UPS (3-7 giorni lavorativi)",
+        "standard": "Posta Aerea Standard",
+        "standardTime": "(7-14 giorni lavorativi)",
+        "economy": "Economy",
+        "economyTime": "(14-21 giorni lavorativi)"
+      },
+      "bulk": {
+        "title": "Ordini Produzione di Massa",
+        "description": "Per quantità di produzione, offriamo soluzioni convenienti:",
+        "air": "Trasporto Aereo",
+        "airTime": "(7-15 giorni lavorativi)",
+        "sea": "Trasporto Marittimo",
+        "seaTime": "(30-45 giorni lavorativi)",
+        "expressAir": "Aereo Express",
+        "expressAirTime": "(5-10 giorni lavorativi)"
+      },
+      "important": "Importante",
+      "importantNote": "I tempi di produzione sono aggiuntivi ai tempi di spedizione. Contattaci per tempistiche di produzione esatte basate sulla quantità e complessità del tuo ordine."
+    },
+    "coverage": {
+      "title": "Copertura Spedizione",
+      "description": "Forniamo servizi di spedizione in oltre 150 paesi in tutto il mondo. La nostra rete di partner offre consegna rapida in tutto il globo.",
+      "mapTitle": "TIDELINE SWIMWEAR È DOVE SONO I TUOI CLIENTI",
+      "mapSubtitle": "La nostra rete di partner offre consegna rapida in tutto il globo.",
+      "regions": {
+        "northAmerica": "Nord America",
+        "europe": "Unione Europea",
+        "asia": "Asia",
+        "africa": "Africa",
+        "southAmerica": "Sud America",
+        "australia": "Australia e NZ"
+      },
+      "legend": {
+        "available": "Disponibile per Spedizione",
+        "limited": "Servizio Limitato/Non Disponibile"
+      },
+      "note": "Nota",
+      "noteText": "Attualmente abbiamo disponibilità di spedizione limitata verso alcune regioni dell'Africa e dell'Asia centrale a causa di vincoli logistici. Stiamo lavorando attivamente per espandere le nostre aree di servizio. Per disponibilità di paesi specifici e eventuali restrizioni, contatta il nostro dipartimento spedizioni."
+    },
+    "sidebar": {
+      "overview": {
+        "title": "Panoramica Spedizione",
+        "description1": "In TIDELINE SWIMWEAR, comprendiamo che la consegna tempestiva è cruciale per il tuo business. Le nostre soluzioni di spedizione complete sono progettate per soddisfare le diverse esigenze dei nostri clienti B2B in tutto il mondo.",
+        "description2": "Collaboriamo con fornitori di logistica globale leader per assicurare che i tuoi ordini di costumi da bagno ti raggiungano in sicurezza e in tempo.",
+        "keyFeatures": "Caratteristiche Chiave",
+        "features": "Copertura globale, opzioni di spedizione flessibili, tracciamento in tempo reale e assistenza doganale."
+      },
+      "contact": {
+        "title": "Hai Bisogno di Aiuto con la Spedizione?",
+        "email": "Email",
+        "hours": "Orari di Lavoro",
+        "hoursTime": "Lun-Ven: 9:00-18:00 (EST)",
+        "emergency": "Linea di Emergenza"
+      },
+      "quickLinks": {
+        "title": "Link Rapidi",
+        "calculator": "Calcolatore Costo Spedizione",
+        "customs": "Guida Dogane e Tasse",
+        "documentation": "Documentazione Doganale",
+        "processing": "Info Tempo di Elaborazione",
+        "packaging": "Dettagli Imballaggio",
+        "returns": "Resi e Cambi",
+        "insurance": "Assicurazione Spedizione",
+        "faq": "FAQ Spedizione",
+        "policy": "Politica di Reso"
+      },
+      "partners": {
+        "title": "I Nostri Partner di Spedizione",
+        "description": "Lavoriamo con fornitori di logistica globale affidabili:"
+      }
+    }
   }
 }

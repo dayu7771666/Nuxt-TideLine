@@ -1,0 +1,116 @@
+title: '여성 수영복 제조업체'
+description: '단순한 공급업체 이상 — 당신의 수영복 브랜드 구축 파트너.'
+
+seo:
+  title: '여성 수영복 제조업체 | TIDELINE SWIMWEAR'
+  description: '맞춤 비키니, 원피스 수영복, 탱키니를 제공하는 전문 여성 수영복 제조업체. 낮은 MOQ, 고품질, 브랜드와 소매업체를 위한 도매 가격.'
+  keywords: '여성 수영복 제조업체, 비키니 제조업체, 원피스 수영복 도매, 맞춤 수영복, 여성 수영복 공급업체, 수영복 공장'
+  ogTitle: '여성 수영복 제조업체 | TIDELINE SWIMWEAR'
+  ogDescription: '전문 여성 수영복 제조업체. 맞춤 디자인, 낮은 MOQ, 비키니, 원피스 수영복, 탱키니의 도매 가격.'
+  ogType: 'website'
+  ogImage: '/catalog/women-swimwear.webp'
+  twitterCard: 'summary_large_image'
+  twitterTitle: '여성 수영복 제조업체 | TIDELINE SWIMWEAR'
+  twitterDescription: '맞춤 여성 수영복 제조. 비키니, 원피스 수트, 탱키니. 낮은 MOQ, 도매 가격.'
+
+# Hero section
+hero:
+  cta_text: '상담'
+  cta_href: '/contact'
+  image_src: '/catalog/women-swimwear.webp'
+  image_alt: ''
+  image_width: '900px'
+
+# Mission section
+mission:
+  title: '우리의 미션'
+  paragraph1: 'TideLine Swimwear에서는 여성 수영복이 패션에서 가장 역동적인 카테고리 중 하나라는 것을 알고 있습니다. 매년 우리의 디자인 팀은 최신 글로벌 스타일을 반영하는 신선하고 트렌드 중심의 컬렉션을 개발합니다—세련된 원피스 수영복, 시크한 비키니, 또는 다용도 탱키니 등.'
+  paragraph2_with_link: '주문을 시작하거나 전체 카탈로그를 탐색할 준비가 되셨나요? 오늘 {0}하시면 저희 팀이 개인화된 추천, 가격, 샘플을 빠르고 번거로움 없이 제공해드립니다.'
+  whatsapp_link_text: 'WhatsApp으로 문의하기'
+
+# Statistics
+stats:
+  - label: '수영복 업계 경험'
+    value: '10년 이상'
+  - label: '완료된 주문'
+    value: '1,000,000+'
+
+# Product categories
+product_range:
+  title: '여성 수영복 컬렉션'
+  description: '신중하게 선별된 수영복 컬렉션을 탐색하세요'
+  more_text: '모든 제품 둘러보기'
+  categories:
+    - name: '비키니'
+      href: '/category?type=women&subtype=bikini'
+      image_src: '/women-swimwear/bikinis/bikinis-1.webp'
+    - name: '원피스 수영복'
+      href: '/category?type=women&subtype=one-piece'
+      image_src: '/women-swimwear/one-piece/one-piece-1.webp'
+    - name: '탱키니'
+      href: '/category?type=women&subtype=tankini'
+      image_src: '/women-swimwear/tankini/tankini-10.webp'
+    - name: '비치 커버업'
+      href: '/category?type=women&subtype=cover-up'
+      image_src: '/women-swimwear/beach/beach-2.webp'
+
+# Customization capabilities
+customization:
+  title: '맞춤화 기능'
+  description: '완전 맞춤형 수영복—TideLine은 모든 맞춤 디자인, 원단, 하드웨어, 로고, 포장을 받아들여 당신의 브랜드 비전을 실현합니다.'
+  hero_image_src: '/manufacturer.jpg'
+  hero_image_alt: ''
+  hero_image_width: '1000px'
+  features:
+    - name: '스타일 맞춤화'
+      description: '어떤 수영복 디자인이든 실현—완벽한 스타일을 선택하고 당신의 브랜드를 위해 제작하게 하세요.'
+      link: '/contact'
+      cta_text: '상담'
+    - name: '원단 맞춤화'
+      description: '다양한 원단 중에서 선택하여 착용하기 편안하고 아름다운 수영복을 만드세요.'
+      link: '/fabric'
+      cta_text: '원단'
+    - name: '하드웨어 맞춤화'
+      description: '버클과 링부터 지퍼까지 모든 세부사항을 맞춤화—우리의 하드웨어 옵션이 당신의 디자인을 향상시킵니다.'
+      link: '/hardware'
+      cta_text: '하드웨어'
+    - name: '로고 맞춤화'
+      description: '진정으로 당신만의 것으로—전문적인 브랜드 룩을 위해 각 제품에 로고를 추가하세요.'
+    - name: '포장 맞춤화'
+      description: '당신의 스타일과 비전에 맞춘 포장으로 브랜드 경험을 완성하세요.'
+    - name: '문의하기'
+      description: '준비되셨나요? 당신의 수영복 아이디어를 현실로 만들어보세요.'
+      link: '/contact'
+      cta_text: '문의하기'
+
+# Getting started section
+getting_started:
+  title: '당신의 수영복 여정이 여기서 시작됩니다'
+  description: '첫 번째 컬렉션을 출시하든 브랜드를 확장하든, TideLine은 당신의 필요에 맞는 맞춤형 수영복 솔루션을 제공합니다. 당신의 길을 선택하고 시작하세요.'
+  beginner_text: '초보자로 시작하기'
+  beginner_href: '/startup'
+  pro_text: '경험있는 구매자'
+  pro_href: '/forbrand'
+  image_src: '/manufacturer.jpg'
+  image_alt: ''
+  image_width: '1000px'
+
+# FAQ section
+faq:
+  title: '자주 묻는 질문'
+  questions:
+    - id: 1
+      question: '여성 수영복 도매의 최소 주문 수량은 얼마인가요?'
+      answer: '우리의 최소 주문 수량(MOQ)은 스타일과 사이즈당 30개부터 시작하여 중소 수영복 브랜드에게 유연성을 제공합니다.'
+    - id: 2
+      question: '수영복 디자인과 원단을 맞춤화할 수 있나요?'
+      answer: '네! 디자인, 원단, 로고, 포장을 포함한 완전히 맞춤화 가능한 수영복을 제공하여 당신의 브랜드가 시장에서 돋보이도록 도와드립니다.'
+    - id: 3
+      question: '대량 수영복 주문 생산에는 얼마나 걸리나요?'
+      answer: '일반적으로 샘플은 10일 내에 준비되고, 대량 주문은 수량과 맞춤화 요구사항에 따라 30일 내에 배송됩니다.'
+    - id: 4
+      question: '친환경 또는 지속가능한 수영복 옵션을 제공하나요?'
+      answer: '물론입니다. 환경 책임을 우선시하는 브랜드를 위해 다양한 친환경 원단과 지속가능한 생산 방법을 제공합니다.'
+    - id: 5
+      question: '도매 주문에 대한 자세한 견적을 어떻게 받을 수 있나요?'
+      answer: 'WhatsApp이나 이메일을 통해 저희 팀에 연락하여 원하는 스타일, 사이즈, 원단을 알려주시면 완전한 견적서, 원단 카탈로그, 전문적인 안내를 보내드립니다.'
